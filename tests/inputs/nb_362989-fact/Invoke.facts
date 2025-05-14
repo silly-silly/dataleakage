@@ -1,0 +1,60 @@
+$invo0	setattr	set_field_wrapper
+$invo1	setattr	set_index_wrapper
+$invo2	get_ipython	
+$invo3	Unknown.run_line_magic	
+$invo4	pandas.set_option	
+$invo5	pandas.read_csv	
+$invo6	pandas.read_csv	
+$invo7	pandas.DataFrame.drop	
+$invo8	pandas.merge	
+$invo9	sklearn.preprocessing.LabelEncoder	
+$invo10	LabelEncoder.fit_transform	
+$invo11	sklearn.preprocessing.LabelEncoder	
+$invo12	LabelEncoder.fit_transform	
+$invo13	sklearn.preprocessing.LabelEncoder	
+$invo14	LabelEncoder.fit_transform	
+$invo15	Unknown.mean	_func0
+$invo16	Unknown.apply	
+$invo17	pandas.DataFrame.filter	
+$invo18	Unknown.mean	_func1
+$invo19	pandas.DataFrame.apply	
+$invo20	_func1	
+$invo21	pandas.DataFrame.filter	
+$invo22	Unknown.mean	_func2
+$invo23	pandas.DataFrame.apply	
+$invo24	_func2	
+$invo25	pandas.DataFrame.filter	
+$invo26	Unknown.mean	_func3
+$invo27	pandas.DataFrame.apply	
+$invo28	_func3	
+$invo29	Unknown.dropna	
+$invo30	sklearn.preprocessing.MinMaxScaler	f
+$invo31	MinMaxScaler.fit_transform	f
+$invo32	Unknown.apply	
+$invo33	Unknown.drop	
+$invo34	numpy.array	
+$invo35	numpy.array	
+$invo36	Unknown.train_test_split	
+$invo37	SGDClassifier	
+$invo38	SGDClassifier	
+$invo39	SGDClassifier	
+$invo40	SGDClassifier	
+$invo41	SGDClassifier	
+$invo42	SGDClassifier	
+$invo43	SGDClassifier.fit	
+$invo44	Unknown.predict	
+$invo45	confusion_matrix	
+$invo46	print	
+$invo47	print	
+$invo48	print	
+$invo49	print	
+$invo50	print	
+$invo51	GaussianNB	
+$invo52	GaussianNB.fit	
+$invo53	GaussianNB.predict	
+$invo54	confusion_matrix	
+$invo55	print	
+$invo56	print	
+$invo57	print	
+$invo58	print	
+$invo59	print	

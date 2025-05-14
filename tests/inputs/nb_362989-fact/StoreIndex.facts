@@ -1,0 +1,14 @@
+_var64	0	_var62
+_var64	1	_var63
+_var101	0	estimator_log
+_var101	1	estimator_linear
+_var101	2	estimator_h
+_var101	3	estimator_hu
+_var101	4	estimator_mh
+_var101	5	estimator_per
+_var165	0	_var136
+_var165	1	_var150
+_var165	2	_var164
+_var230	0	_var201
+_var230	1	_var215
+_var230	2	_var229

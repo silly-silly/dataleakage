@@ -1,0 +1,2 @@
+model_6	X_train	$invo65	Unknown.fit	[, ]	model_6	X_test	$invo66	Unknown.evaluate	[, ]	sc	X
+model_6	X_train	$invo65	Unknown.fit	[, ]	model_6	X_test	$invo66	Unknown.evaluate	[, ]	Xsc	X

@@ -1,0 +1,17 @@
+0	__phi__	phi_0
+0	__phi__	phi_1
+0	set_field_wrapper	base
+0	set_index_wrapper	base
+0	global_wrapper	x
+0	points_plot	ax
+1	points_plot	xx
+2	points_plot	yy
+0	points_plot_prob	ax_1
+0	cv_score	_var142
+0	cv_optimize	best
+0	do_classify	clf_17
+1	do_classify	Xtrain_0
+2	do_classify	ytrain_0
+3	do_classify	Xtest
+4	do_classify	ytest
+0	_func0	_var204

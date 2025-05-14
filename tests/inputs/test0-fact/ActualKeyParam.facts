@@ -1,0 +1,7 @@
+axis	$invo4	_var3
+inplace	$invo6	_var10
+test_size	$invo7	_var16
+random_state	$invo7	_var17
+penalty	$invo8	_var18
+solver	$invo8	_var19
+random_state	$invo8	_var20

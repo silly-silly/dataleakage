@@ -1,0 +1,4 @@
+count_vector	[, ]	documents_0	[, ]	$invo22	CountVectorizer.fit	rowset
+count_vector_0	[, ]	documents_0	[, ]	$invo22	CountVectorizer.fit	rowset
+count_vector_1	[, ]	X_train	[, ]	$invo36	CountVectorizer.fit_transform	rowset
+training_data	[, ]	X_train	[, ]	$invo36	CountVectorizer.fit_transform	rowset

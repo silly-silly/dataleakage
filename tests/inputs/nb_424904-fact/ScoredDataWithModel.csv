@@ -1,0 +1,2 @@
+lr_0	X_train_std	$invo23	LogisticRegression.score	[, ]
+lr_0	X_test_std	$invo24	LogisticRegression.score	[, ]

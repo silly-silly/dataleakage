@@ -1,0 +1,42 @@
+_var1	matplotlib
+_var2	inline
+_var3	student-data.csv
+_var4	Student data read successfully!
+_var13	yes
+_var15	no
+_var21	Total number of students: {}
+_var23	Number of features: {}
+_var25	Number of students who passed: {}
+_var27	Number of students who failed: {}
+_var29	Graduation rate of the class: {:.2f}%
+_var36	Feature columns:\n{}
+_var38	\nTarget column: {}
+_var40	\nFeature values:
+_var57	Processed feature columns ({} total features):\n{}
+_var71	ro
+_var72	media
+_var73	Media das variaveis preditivas nao padronizadas
+_var74	ro
+_var75	desvios padrao
+_var76	Desvio padrao das variaveis preditivas nao padronizadas
+_var84	ro
+_var85	media
+_var86	Media das variaveis preditivas padronizadas
+_var87	ro
+_var88	desvios padrao
+_var89	Desvio padrao das variaveis preditivas padronizadas
+_var96	Training set has {} samples.
+_var101	Testing set has {} samples.
+_var106	Taxa de graduados no conjunto de treinamento: {:.2f}%
+_var108	yes
+_var113	Taxa de graduados no conjunto de teste: {:.2f}%
+_var115	yes
+_var125	yes
+_var154	nObs
+_var155	scoreTeste
+_var156	nomeModelo
+_var164	yes
+_var169	Tuned model has a training F1 score of {:.4f}.
+_var171	Tuned model has a testing F1 score of {:.4f}.
+_var177	Tuned model has a training F1 score of {:.4f}.
+_var179	Tuned model has a testing F1 score of {:.4f}.

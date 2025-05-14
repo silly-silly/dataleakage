@@ -1,0 +1,179 @@
+_var0	$heap0	
+cachedStopWords	$heap1	
+algorithm	$heap2	
+_var1	$heap3	splitIntoTokens
+message_1	$heap4	splitIntoLemmas
+_var3	$heap5	splitIntoLemmas
+$list0	$heap6	splitIntoLemmas
+_var5	$heap7	hasUrl
+r	$heap8	hasUrl
+match	$heap9	hasUrl
+_var6	$heap10	hasUrl
+_var8	$heap11	hasUrl
+_var9	$heap12	hasUrl
+_var10	$heap13	splitIntoWords
+_var11	$heap14	splitIntoWords
+textNoHtml	$heap15	splitIntoWords
+_var12	$heap16	splitIntoWords
+_var13	$heap17	splitIntoWords
+lettersOnly	$heap18	splitIntoWords
+_var14	$heap19	splitIntoWords
+words_0	$heap20	splitIntoWords
+stops	$heap21	splitIntoWords
+$list1	$heap22	splitIntoWords
+_var16	$heap23	splitIntoWords
+_var17	$heap24	splitIntoWords
+baseForm	$heap25	splitIntoWords
+_var18	$heap26	splitIntoWords
+_var19	$heap27	splitIntoWords
+_var20	$heap28	searchBestModelParameters
+$list2	$heap29	searchBestModelParameters
+$list3	$heap30	searchBestModelParameters
+paramDistribution	$heap31	searchBestModelParameters
+model	$heap32	searchBestModelParameters
+$list4	$heap33	searchBestModelParameters
+_var22	$heap34	searchBestModelParameters
+_var23	$heap35	searchBestModelParameters
+_var24	$heap36	searchBestModelParameters
+_var25	$heap37	searchBestModelParameters
+_var26	$heap38	searchBestModelParameters
+rand	$heap39	searchBestModelParameters
+_var27	$heap40	searchBestModelParameters
+rand_0	$heap41	searchBestModelParameters
+_var30	$heap42	searchBestModelParameters
+_var31	$heap43	searchBestModelParameters
+$dict5	$heap44	searchBestModelParameters
+_var34	$heap45	searchBestModelParameters._func0
+_var36	$heap46	searchBestModelParameters
+_var37	$heap47	searchBestModelParameters._func1
+_var39	$heap48	searchBestModelParameters
+_var40	$heap49	predictAndReport
+_var42	$heap50	predictAndReport
+_var43	$heap51	predictAndReport
+predictor	$heap52	predictAndReport
+_var44	$heap53	predictAndReport
+predictor_0	$heap54	predictAndReport
+predicted	$heap55	predictAndReport
+$list6	$heap56	predictAndReport
+dfWithClass	$heap57	predictAndReport
+$list7	$heap58	predictAndReport
+_var48	$heap59	predictAndReport
+final	$heap60	predictAndReport
+_var51	$heap61	predictAndReport
+_var52	$heap62	predictAndReport
+_var54	$heap63	predictAndReport
+_var57	$heap64	predictAndReport
+_var59	$heap65	predictAndReport
+_var60	$heap66	predictAndReport
+_var62	$heap67	predictAndReport
+_var65	$heap68	predictAndReport
+_var67	$heap69	predictAndReport
+_var68	$heap70	predictAndReport
+$tuple8	$heap71	predictAndReport
+_var70	$heap72	predictAndReport
+_var71	$heap73	predictAndReport
+_var75	$heap74	predictAndReport
+_var76	$heap75	predictAndReport
+_var77	$heap76	predictAndReport
+_var78	$heap77	predictAndReport
+_var79	$heap78	predictAndReport
+_var80	$heap79	predictAndReport
+_var81	$heap80	predictAndReport
+_var83	$heap81	predictAndReport
+_var86	$heap82	predictAndReport
+_var88	$heap83	predictAndReport
+_var89	$heap84	predictAndReport
+_var91	$heap85	predictAndReport
+_var93	$heap86	predictAndReport
+_var94	$heap87	predictAndReport
+_var95	$heap88	predictAndReport
+_var96	$heap89	predictAndReport
+_var97	$heap90	
+_var98	$heap91	
+_var99	$heap92	
+rawJournals	$heap93	
+_var100	$heap94	
+_var102	$heap95	
+$list9	$heap96	
+journals	$heap97	
+_var104	$heap98	
+_var105	$heap99	
+_var107	$heap100	
+_var108	$heap101	
+_var110	$heap102	
+_var111	$heap103	
+_var112	$heap104	
+_var113	$heap105	
+_var115	$heap106	
+$list10	$heap107	
+_var117	$heap108	
+_var118	$heap109	
+_var119	$heap110	
+_var120	$heap111	
+_var121	$heap112	
+_var122	$heap113	
+rawSite	$heap114	
+_var123	$heap115	
+_var125	$heap116	
+$list11	$heap117	
+siteIds	$heap118	
+_var127	$heap119	
+_var128	$heap120	
+_var131	$heap121	
+_var132	$heap122	
+$dict12	$heap123	
+_var134	$heap124	
+_var135	$heap125	
+$list13	$heap126	
+octSiteProfileSpam	$heap127	
+$dict14	$heap128	
+_var138	$heap129	
+_var139	$heap130	
+$list15	$heap131	
+_var141	$heap132	
+_var142	$heap133	
+_var143	$heap134	
+$list16	$heap135	
+_var145	$heap136	
+journalsFinal	$heap137	
+_var146	$heap138	
+_var147	$heap139	
+_var149	$heap140	
+_var151	$heap141	
+_var152	$heap142	
+_var153	$heap143	
+_var155	$heap144	
+$list17	$heap145	
+_var157	$heap146	
+_var158	$heap147	
+_var159	$heap148	
+_var161	$heap149	
+_var162	$heap150	
+_var163	$heap151	
+_var164	$heap152	
+_var166	$heap153	
+_var167	$heap154	
+_var168	$heap155	
+_var170	$heap156	_func2
+_var171	$heap157	
+_var172	$heap158	
+_var173	$heap159	
+wordsVectorizer	$heap160	
+_var175	$heap161	
+wordsVector	$heap162	
+_var177	$heap163	
+inverseFreqTransformer	$heap164	
+invFreqOfWords	$heap165	
+_var178	$heap166	
+weightedFreqOfWords	$heap167	
+_var179	$heap168	
+_var180	$heap169	
+_var182	$heap170	
+_var183	$heap171	
+_var185	$heap172	
+_var190	$heap173	
+_var192	$heap174	
+_var186	$heap175	
+_var187	$heap176	
+_var188	$heap177	
+_var189	$heap178	

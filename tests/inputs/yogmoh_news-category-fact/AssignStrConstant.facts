@@ -1,0 +1,18 @@
+_var0	/kaggle/input
+_var12	pip install -U texthero
+_var14	figure.dpi
+_var16	/kaggle/input/new-category/Data_Train.xlsx
+_var17	/kaggle/input/new-category/Data_Test.xlsx
+_var26	SECTION
+_var31	STORY
+_var34	BLACK
+_var35	cleaned_text
+_var36	STORY
+_var64	 
+_var65	lemmatized_text
+_var71	lemmatized_text
+_var75	 
+_var76	lemmatized_text
+_var80	lemmatized_text
+_var94	GPU
+_var96	./sub8.csv

@@ -1,0 +1,338 @@
+_var0	ignore
+_var2	str_placeholder
+_var4	str_placeholder
+_var6	str_placeholder
+_var8	str_placeholder
+_var10	str_placeholder
+_var12	str_placeholder
+_var14	matplotlib
+_var15	inline
+_var16	darkgrid
+_var17	colorblind
+_var18	../input/creditcardfraud/creditcard.csv
+_var19	latin_1
+_var30	class
+_var33	\n
+_var34	class
+_var38	class
+_var41	pie
+_var46	%1.1f%%
+_var48	Fraudulent and Non-Fraudulent Distribution
+_var58	Distribution of Transaction Amount
+_var60	amount
+_var69	class
+_var74	amount
+_var81	Distribution of Fraud Transactions
+_var82	class
+_var87	amount
+_var94	Distribution of Genuine Transactions
+_var95	Fraud Transaction distribution : \n
+_var96	class
+_var101	amount
+_var106	\n
+_var107	Maximum amount of fraud transaction - 
+_var108	class
+_var113	amount
+_var117	Minimum amount of fraud transaction - 
+_var118	class
+_var123	amount
+_var127	Genuine Transaction distribution : \n
+_var128	class
+_var133	amount
+_var138	\n
+_var139	Maximum amount of Genuine transaction - 
+_var140	class
+_var145	amount
+_var149	Minimum amount of Genuine transaction - 
+_var150	class
+_var155	amount
+_var162	class
+_var163	amount
+_var164	Amount Distribution for Fraud and Genuine transactions
+_var168	Distribution of Transaction Time
+_var170	time
+_var179	class
+_var184	time
+_var187	red
+_var192	Distribution of Fraud Transactions
+_var193	class
+_var198	time
+_var201	green
+_var206	Distribution of Genuine Transactions
+_var210	class
+_var211	time
+_var215	#90EE90
+_var219	#FA8072
+_var220	Time Distribution for Fraud and Genuine transactions
+_var228	time
+_var229	amount
+_var230	class
+_var239	Distribution of Fraud Transactions
+_var240	time
+_var241	amount
+_var242	class
+_var251	Distribution of Genue Transactions
+_var254	time
+_var255	amount
+_var256	class
+_var257	violin
+_var258	box
+_var259	ols
+_var260	simple_white
+_var264	class
+_var269	Pearson Correlation Matrix
+_var276	winter
+_var277	w
+_var279	class
+_var282	time
+_var283	time
+_var288	hour
+_var289	time
+_var293	hour
+_var294	hour
+_var298	day
+_var299	time
+_var303	day
+_var304	day
+_var313	class
+_var318	day
+_var320	class
+_var325	day
+_var327	day
+_var329	No of transaction Day wise:
+_var330	\n
+_var331	No of fraud transaction Day wise:
+_var332	\n
+_var333	No of genuine transactions Day wise:
+_var334	\n
+_var335	Percentage of fraud transactions Day wise:
+_var345	day
+_var351	Distribution of Total Transactions
+_var352	class
+_var357	day
+_var363	Distribution of Fraud Transactions
+_var364	class
+_var369	day
+_var375	Distribution of Genuine Transactions
+_var383	class
+_var388	time
+_var391	green
+_var396	Genuine Transactions
+_var397	class
+_var402	time
+_var405	red
+_var410	Fraud Transactions
+_var411	Comparison between Transaction Frequencies vs Time for Fraud and Genuine Transactions
+_var415	class
+_var420	hour
+_var422	green
+_var423	class
+_var428	hour
+_var430	red
+_var431	Fraud vs Genuine Transactions by Hours
+_var439	hour
+_var442	class
+_var449	amount_log
+_var454	amount_scaled
+_var455	amount
+_var462	amount_minmax
+_var463	amount
+_var477	class
+_var478	amount
+_var483	Class vs Amount
+_var484	class
+_var485	amount_log
+_var490	Class vs Log Amount
+_var491	class
+_var492	amount_scaled
+_var497	Class vs Scaled Amount
+_var498	class
+_var499	amount_minmax
+_var504	Class vs Min Max Amount
+_var506	CreditCardFraudDataCleaned.pkl
+_var507	wb
+_var508	pickle file is saved at Location:
+_var511	CreditCardFraudDataCleaned.pkl
+_var512	rb
+_var515	class
+_var523	X_train - 
+_var526	y_train - 
+_var529	X_test - 
+_var532	y_test - 
+_var543	Accuracy :{0:0.5f}
+_var546	AUC : {0:0.5f}
+_var549	Precision : {0:0.5f}
+_var552	Recall : {0:0.5f}
+_var555	F1 : {0:0.5f}
+_var558	\n
+_var566	winter
+_var567	g
+_var568	Confusion matrix
+_var571	Actual
+_var573	Predicted
+_var583	AUC - 
+_var584	\n
+_var587	data 1, auc=
+_var593	k--
+_var595	font.size
+_var597	ROC curve for Predicting a credit card fraud detection
+_var598	False Positive Rate (1 - Specificity)
+_var599	True Positive Rate (Sensitivity)
+_var600	Original dataset shape %s
+_var606	Resampled dataset shape %s
+_var616	Accuracy :{0:0.5f}
+_var619	AUC : {0:0.5f}
+_var622	Precision : {0:0.5f}
+_var625	Recall : {0:0.5f}
+_var628	F1 : {0:0.5f}
+_var637	AUC - 
+_var638	\n
+_var641	data 1, auc=
+_var647	k--
+_var649	font.size
+_var651	ROC curve for Predicting a credit card fraud detection
+_var652	False Positive Rate (1 - Specificity)
+_var653	True Positive Rate (Sensitivity)
+_var657	winter
+_var658	g
+_var659	Confusion matrix
+_var662	Predicted
+_var664	Actual
+_var666	Original dataset shape %s
+_var671	Resampled dataset shape %s
+_var681	Accuracy :{0:0.5f}
+_var684	AUC : {0:0.5f}
+_var687	Precision : {0:0.5f}
+_var690	Recall : {0:0.5f}
+_var693	F1 : {0:0.5f}
+_var702	AUC - 
+_var703	\n
+_var706	data 1, auc=
+_var712	k--
+_var714	font.size
+_var716	ROC curve for Predicting a breast cancer classifier
+_var717	False Positive Rate (1 - Specificity)
+_var718	True Positive Rate (Sensitivity)
+_var722	winter
+_var723	g
+_var724	Confusion matrix
+_var727	Predicted
+_var729	Actual
+_var731	Original dataset shape %s
+_var737	Resampled dataset shape %s
+_var748	Accuracy :{0:0.5f}
+_var751	AUC : {0:0.5f}
+_var754	Precision : {0:0.5f}
+_var757	Recall : {0:0.5f}
+_var760	F1 : {0:0.5f}
+_var769	AUC - 
+_var770	\n
+_var773	data 1, auc=
+_var779	k--
+_var781	font.size
+_var783	ROC curve for Predicting a breast cancer classifier
+_var784	False Positive Rate (1 - Specificity)
+_var785	True Positive Rate (Sensitivity)
+_var789	winter
+_var790	g
+_var791	Confusion matrix
+_var794	Predicted
+_var796	Actual
+_var798	Original dataset shape %s
+_var804	Resampled dataset shape %s
+_var814	Accuracy :{0:0.5f}
+_var817	AUC : {0:0.5f}
+_var820	Precision : {0:0.5f}
+_var823	Recall : {0:0.5f}
+_var826	F1 : {0:0.5f}
+_var835	AUC - 
+_var836	\n
+_var839	data 1, auc=
+_var845	k--
+_var847	font.size
+_var849	ROC curve for Predicting a breast cancer classifier
+_var850	False Positive Rate (1 - Specificity)
+_var851	True Positive Rate (Sensitivity)
+_var855	winter
+_var856	g
+_var857	Confusion matrix
+_var860	Predicted
+_var862	Actual
+_var876	No Fraud
+_var877	coolwarm
+_var885	Fraud
+_var886	coolwarm
+_var888	Scatter Plot of Imbalanced Dataset
+_var901	coolwarm
+_var902	No Fraud
+_var910	coolwarm
+_var911	Fraud
+_var913	Scatter Plot of Imbalanced Dataset With Adaptive Synthetic Sampling \\(ADASYN\\)
+_var914	Original dataset shape %s
+_var920	Resampled dataset shape %s
+_var930	Original dataset shape %s
+_var936	Resampled dataset shape %s
+_var946	Original dataset shape %s
+_var952	Resampled dataset shape %s
+_var962	Original dataset shape %s
+_var968	Resampled dataset shape %s
+_var1008	Model Name :
+_var1010	Train Accuracy :{0:0.5f}
+_var1012	Test Accuracy :{0:0.5f}
+_var1014	Train AUC : {0:0.5f}
+_var1016	Test AUC : {0:0.5f}
+_var1018	Train Precision : {0:0.5f}
+_var1020	Test Precision : {0:0.5f}
+_var1022	Train Recall : {0:0.5f}
+_var1024	Test Recall : {0:0.5f}
+_var1026	Train F1 : {0:0.5f}
+_var1028	Test F1 : {0:0.5f}
+_var1030	Confusion Matrix : \n
+_var1032	\n
+_var1037	, auc=
+_var1044	k--
+_var1046	font.size
+_var1048	ROC curve for Predicting a credit card fraud detection
+_var1049	False Positive Rate (1 - Specificity)
+_var1050	True Positive Rate (Sensitivity)
+_var1051	LR imbalance
+_var1052	liblinear
+_var1053	ovr
+_var1056	LR Undersampling
+_var1057	liblinear
+_var1058	ovr
+_var1061	LR Oversampling
+_var1062	liblinear
+_var1063	ovr
+_var1066	LR SMOTE
+_var1067	liblinear
+_var1068	ovr
+_var1071	LR ADASYN
+_var1072	liblinear
+_var1073	ovr
+_var1076	DT imbalance
+_var1078	DT Undersampling
+_var1080	DT Oversampling
+_var1082	DT SMOTE
+_var1084	DT ADASYN
+_var1086	RF imbalance
+_var1089	RF Undersampling
+_var1092	RF Oversampling
+_var1095	RF SMOTE
+_var1098	RF ADASYN
+_var1101	NB imbalance
+_var1104	NB Undersampling
+_var1107	NB Oversampling
+_var1110	NB SMOTE
+_var1113	NB ADASYN
+_var1127	Performance measures of various classifiers: \n
+_var1130	Gol_qOgRqfA
+_var1139	Logistic Regression best estimator : \n
+_var1142	\nLogistic Regression f1 Score : {0:0.5f}
+_var1152	KNN best estimator : \n
+_var1155	\nKNN f1 Score : {0:0.5f}
+_var1161	SVC best estimator : \n
+_var1164	\nSVC f1 Score : {0:0.5f}
+_var1179	accuracy
+_var1183	Decision Tree best estimator : \n
+_var1186	\nf1 Score : {0:0.5f}

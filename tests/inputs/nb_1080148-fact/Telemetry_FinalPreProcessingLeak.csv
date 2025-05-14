@@ -1,0 +1,8 @@
+clf_16	Xtrain_0	$invo107	Unknown.fit	[, $invo118]	clf	Xte	$invo36	Unknown.predict	[, $invo121]	_var184	subdf
+clf_16	Xtrain_0	$invo107	Unknown.fit	[, $invo118]	clf	Xte	$invo36	Unknown.predict	[, $invo121]	_var186	subdf
+clf_16	Xtrain_0	$invo107	Unknown.fit	[, $invo118]	clf	Xte	$invo36	Unknown.predict	[$invo125, $invo45]	_var184	subdf
+clf_16	Xtrain_0	$invo107	Unknown.fit	[, $invo118]	clf	Xte	$invo36	Unknown.predict	[$invo125, $invo45]	_var186	subdf
+clf_16	Xtrain_0	$invo107	Unknown.fit	[, $invo118]	clf_17	Xtest	$invo109	Unknown.score	[, $invo118]	_var184	subdf
+clf_16	Xtrain_0	$invo107	Unknown.fit	[, $invo118]	clf_17	Xtest	$invo109	Unknown.score	[, $invo118]	_var186	subdf
+clf_16	Xtrain_0	$invo107	Unknown.fit	[, $invo118]	clf_l	Xtest_l	$invo122	Unknown.predict_proba	[, ]	_var184	subdf
+clf_16	Xtrain_0	$invo107	Unknown.fit	[, $invo118]	clf_l	Xtest_l	$invo122	Unknown.predict_proba	[, ]	_var186	subdf

@@ -1,0 +1,23 @@
+_var0	../data/ReviewData100k.csv
+_var1	../data/data_stop_word_removed.csv
+_var2	../data/data_POS_tags.csv
+_var18	stars
+_var19	text
+_var21	stars
+_var22	text
+_var24	stars
+_var25	text
+_var40	Baseline model accuracy: 
+_var43	Ridge model accuracy: 
+_var48	Ridge model accuracy: 
+_var51	Lasso model accuracy: 
+_var57	knn model with 5 neighbours accuracy: 
+_var60	knn model with 10 neighbours accuracy: 
+_var63	knn model with 50 neighbours accuracy: 
+_var66	Decision tree accuracy: 
+_var71	sqrt
+_var73	Randomforest with 100 estimators accuracy: 
+_var78	square
+_var79	Adaboost with 100 estimators accuracy: 
+_var85	sqrt
+_var87	GBM with 100 estimators accuracy: 

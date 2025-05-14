@@ -1,0 +1,17 @@
+_var1	digits	images
+_var2	digits	images
+_var8	digits	images
+_var11	plt	cm
+_var12	_var11	Greys
+_var13	digits	data
+_var14	digits	target
+_var19	digits	data
+_var20	digits	target
+y	df	num
+_var54	np	random
+_var57	X_0	shape
+_var104	pl	cm
+cm	_var104	RdBu
+_var138	np	c_
+_var143	np	c_
+_var150	xx	shape

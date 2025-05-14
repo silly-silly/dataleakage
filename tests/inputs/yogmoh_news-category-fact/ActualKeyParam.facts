@@ -1,0 +1,12 @@
+normalize	$invo15	_var25
+axis	$invo16	_var27
+max_words	$invo19	_var33
+background_color	$invo19	_var34
+max_features	$invo43	_var84
+max_features	$invo47	_var85
+test_size	$invo53	_var92
+random_state	$invo53	_var93
+stratify	$invo53	y_new
+task_type	$invo62	_var94
+index	$invo68	_var97
+header	$invo68	_var98

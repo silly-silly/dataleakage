@@ -1,0 +1,9 @@
+_var132	[, ]	X_train_0	[, ]	$invo41	RandomOverSampler.fit_sample	dup
+sc_X	[, ]	X_train	[, ]	$invo39	StandardScaler.fit_transform	rowset
+sc_X	[, ]	X_test_1	[, ]	$invo92	StandardScaler.fit_transform	rowset
+X_train_0	[, ]	X_train	[, ]	$invo39	StandardScaler.fit_transform	rowset
+X_test_2	[, ]	X_test_1	[, ]	$invo92	StandardScaler.fit_transform	rowset
+billMean	[, ]	_var60	[, ]	$invo14	Unknown.mean	rowset
+payMean	[, ]	_var65	[, ]	$invo15	Unknown.mean	rowset
+billMean_0	[, ]	_var233	[, ]	$invo65	Unknown.mean	rowset
+payMean_0	[, ]	_var238	[, ]	$invo66	Unknown.mean	rowset

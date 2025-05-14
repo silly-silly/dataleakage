@@ -1,0 +1,96 @@
+$invo0	setattr	set_field_wrapper
+$invo1	setattr	set_index_wrapper
+$invo2	pandas.read_csv	
+$invo3	Unknown.replace	
+$invo4	Unknown.replace	
+$invo5	Unknown.replace	
+$invo6	Unknown.replace	
+$invo7	pandas.DataFrame.to_csv	
+$invo8	pandas.read_csv	
+$invo9	visualizeCorrelations	
+$invo10	Unknown.fillna	
+$invo11	Unknown.fillna	
+$invo12	Unknown.fillna	
+$invo13	Unknown.replace	
+$invo14	Unknown.mean	
+$invo15	Unknown.mean	
+$invo16	pandas.DataFrame.drop	
+$invo17	Unknown.drop	
+$invo18	isinstance	calculate_age
+$invo19	Type[datetime].strptime	calculate_age
+$invo20	Type[date].today	calculate_age
+$invo21	calculate_age	_func0
+$invo22	Unknown.map	
+$invo23	Imputer	
+$invo24	Unknown.fit_transform	
+$invo25	Unknown.flatten	
+$invo26	LabelEncoder	
+$invo27	LabelEncoder.fit_transform	
+$invo28	Unknown.flatten	
+$invo29	LabelEncoder.fit_transform	
+$invo30	Unknown.flatten	
+$invo31	LabelEncoder.fit_transform	
+$invo32	Unknown.flatten	
+$invo33	OneHotEncoder	
+$invo34	OneHotEncoder.fit_transform	
+$invo35	Unknown.toarray	
+$invo36	numpy.delete	
+$invo37	numpy.delete	
+$invo38	StandardScaler	
+$invo39	StandardScaler.fit_transform	
+$invo40	RandomOverSampler	
+$invo41	RandomOverSampler.fit_sample	
+$invo42	print	
+$invo43	LogisticRegression	
+$invo44	RandomForestClassifier	
+$invo45	GaussianNB	
+$invo46	KNeighborsClassifier	
+$invo47	SVC	
+$invo48	DecisionTreeClassifier	
+$invo49	DecisionTreeClassifier	
+$invo50	AdaBoostClassifier	
+$invo51	MLPClassifier	
+$invo52	XGBClassifier	
+$invo53	ExtraTreesClassifier	
+$invo54	XGBClassifier	
+$invo55	BaggingClassifier	
+$invo56	time.time	
+$invo57	Unknown.fit	
+$invo58	time.time	
+$invo59	print	
+$invo60	pandas.read_csv	
+$invo61	Unknown.fillna	
+$invo62	Unknown.fillna	
+$invo63	Unknown.fillna	
+$invo64	Unknown.replace	
+$invo65	Unknown.mean	
+$invo66	Unknown.mean	
+$invo67	pandas.DataFrame.drop	
+$invo68	Unknown.drop	
+$invo69	isinstance	calculate_age_test
+$invo70	len	calculate_age_test
+$invo71	Type[datetime].strptime	calculate_age_test
+$invo72	Type[datetime].strptime	calculate_age_test
+$invo73	Type[date].today	calculate_age_test
+$invo74	calculate_age_test	_func1
+$invo75	Unknown.map	
+$invo76	Imputer	
+$invo77	Unknown.fit_transform	
+$invo78	Unknown.flatten	
+$invo79	LabelEncoder	
+$invo80	LabelEncoder.fit_transform	
+$invo81	Unknown.flatten	
+$invo82	LabelEncoder.fit_transform	
+$invo83	Unknown.flatten	
+$invo84	LabelEncoder.fit_transform	
+$invo85	Unknown.flatten	
+$invo86	Unknown.drop	
+$invo87	OneHotEncoder	
+$invo88	OneHotEncoder.fit_transform	
+$invo89	Unknown.toarray	
+$invo90	numpy.delete	
+$invo91	numpy.delete	
+$invo92	StandardScaler.fit_transform	
+$invo93	Unknown.predict	
+$invo94	print	
+$invo95	numpy.savetxt	

@@ -1,0 +1,116 @@
+$invo0	setattr	set_field_wrapper
+$invo1	setattr	set_index_wrapper
+$invo2	get_ipython	
+$invo3	Unknown.run_line_magic	
+$invo4	pandas.read_csv	
+$invo5	pandas.read_csv	
+$invo6	pandas.read_csv	
+$invo7	pandas.read_csv	
+$invo8	pandas.read_csv	
+$invo9	pandas.read_csv	
+$invo10	pandas.read_csv	
+$invo11	pandas.read_csv	
+$invo12	pandas.read_csv	
+$invo13	pandas.read_csv	
+$invo14	pandas.read_csv	
+$invo15	pandas.read_csv	
+$invo16	pandas.read_csv	
+$invo17	pandas.read_csv	
+$invo18	pandas.concat	
+$invo19	pandas.DataFrame.info	
+$invo20	pandas.DataFrame.dropna	
+$invo21	pandas.DataFrame.drop_duplicates	
+$invo22	DataFrame | None.info	
+$invo23	DataFrame | None.info	
+$invo24	Unknown.astype	
+$invo25	Unknown.map	
+$invo26	Unknown.lower	title_category
+$invo27	Unknown.lower	title_category
+$invo28	Unknown.lower	title_category
+$invo29	Unknown.lower	title_category
+$invo30	Unknown.lower	title_category
+$invo31	Unknown.lower	title_category
+$invo32	Unknown.lower	title_category
+$invo33	Unknown.lower	title_category
+$invo34	Unknown.lower	title_category
+$invo35	Unknown.lower	title_category
+$invo36	Unknown.lower	title_category
+$invo37	Unknown.lower	title_category
+$invo38	Unknown.lower	title_category
+$invo39	Unknown.lower	title_category
+$invo40	Unknown.lower	title_category
+$invo41	Unknown.lower	title_category
+$invo42	Unknown.lower	title_category
+$invo43	Unknown.lower	title_category
+$invo44	Unknown.lower	title_category
+$invo45	Unknown.lower	title_category
+$invo46	Unknown.lower	title_category
+$invo47	Unknown.lower	title_category
+$invo48	Unknown.lower	title_category
+$invo49	Unknown.lower	title_category
+$invo50	Unknown.lower	title_category
+$invo51	Unknown.lower	title_category
+$invo52	Unknown.lower	title_category
+$invo53	Unknown.lower	title_category
+$invo54	Unknown.lower	title_category
+$invo55	Unknown.lower	title_category
+$invo56	Unknown.lower	title_category
+$invo57	Unknown.lower	title_category
+$invo58	Unknown.lower	title_category
+$invo59	Unknown.lower	title_category
+$invo60	Unknown.lower	title_category
+$invo61	Unknown.lower	title_category
+$invo62	Unknown.lower	title_category
+$invo63	Unknown.lower	title_category
+$invo64	Unknown.lower	title_category
+$invo65	Unknown.lower	title_category
+$invo66	Unknown.lower	title_category
+$invo67	Unknown.lower	title_category
+$invo68	Unknown.lower	title_category
+$invo69	Unknown.lower	title_category
+$invo70	Unknown.lower	title_category
+$invo71	Unknown.lower	title_category
+$invo72	Unknown.map	
+$invo73	Any.value_counts	
+$invo74	Unknown.reset_index	
+$invo75	Unknown.head	
+$invo76	Unknown.mean	_func1
+$invo77	Unknown.apply	
+$invo78	Unknown.head	
+$invo79	Unknown.dmatrix	
+$invo80	train_test_split	
+$invo81	LogisticRegression	
+$invo82	LogisticRegression.fit	
+$invo83	LogisticRegression.predict	
+$invo84	LogisticRegression.decision_function	
+$invo85	confusion_matrix	
+$invo86	numpy.array	
+$invo87	pandas.DataFrame	
+$invo88	print	
+$invo89	classification_report	
+$invo90	print	
+$invo91	roc_auc_score	
+$invo92	dict	
+$invo93	dict	
+$invo94	dict	
+$invo95	roc_curve	
+$invo96	auc	
+$invo97	Unknown.figure	
+$invo98	Unknown.plot	
+$invo99	Unknown.plot	
+$invo100	Unknown.xlim	
+$invo101	Unknown.ylim	
+$invo102	Unknown.xlabel	
+$invo103	Unknown.ylabel	
+$invo104	Unknown.title	
+$invo105	Unknown.legend	
+$invo106	Unknown.show	
+$invo107	GridSearchCV	
+$invo108	GridSearchCV.fit	
+$invo109	LogisticRegression	
+$invo110	LogisticRegression.fit	
+$invo111	LogisticRegression.predict	
+$invo112	confusion_matrix	
+$invo113	pandas.DataFrame	
+$invo114	classification_report	
+$invo115	print	

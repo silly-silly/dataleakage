@@ -1,0 +1,268 @@
+_var0	$heap0	
+_var1	$heap1	
+_var2	$heap2	
+_var3	$heap3	
+San_Fran	$heap4	
+_var4	$heap5	
+Atlanta	$heap6	
+_var5	$heap7	
+Austin	$heap8	
+_var6	$heap9	
+Boston	$heap10	
+_var7	$heap11	
+Chicago	$heap12	
+_var8	$heap13	
+New_York	$heap14	
+_var9	$heap15	
+Seattle	$heap16	
+_var10	$heap17	
+Denver	$heap18	
+_var11	$heap19	
+Houston	$heap20	
+_var12	$heap21	
+Los_Angeles	$heap22	
+_var13	$heap23	
+Portland	$heap24	
+_var14	$heap25	
+Raleigh	$heap26	
+_var15	$heap27	
+Salt_Lake_City	$heap28	
+_var16	$heap29	
+Washington_DC	$heap30	
+$list0	$heap31	
+city_data	$heap32	
+$list1	$heap33	
+df	$heap34	
+$list2	$heap35	
+df_0	$heap36	
+_var20	$heap37	
+$list3	$heap38	
+_var22	$heap39	
+$list4	$heap40	
+_var24	$heap41	
+$list5	$heap42	
+_var26	$heap43	
+$list6	$heap44	
+_var28	$heap45	
+$list7	$heap46	
+_var30	$heap47	
+$list8	$heap48	
+_var32	$heap49	
+$list9	$heap50	
+_var34	$heap51	
+_var35	$heap52	
+_var37	$heap53	
+_var38	$heap54	
+_var39	$heap55	
+_var41	$heap56	
+_var43	$heap57	
+_var44	$heap58	
+_var45	$heap59	
+$dict10	$heap60	
+_var46	$heap61	
+_var47	$heap62	
+_var51	$heap63	
+_var52	$heap64	
+_var53	$heap65	
+_var55	$heap66	
+_var57	$heap67	
+_var58	$heap68	
+$list11	$heap69	
+_var60	$heap70	
+$list12	$heap71	
+_var62	$heap72	
+$list13	$heap73	
+_var64	$heap74	title_category
+_var65	$heap75	title_category
+_var67	$heap76	title_category
+_var68	$heap77	title_category
+_var70	$heap78	title_category
+_var71	$heap79	title_category
+_var74	$heap80	title_category
+_var75	$heap81	title_category
+_var76	$heap82	title_category
+_var78	$heap83	title_category
+_var79	$heap84	title_category
+_var81	$heap85	title_category
+_var82	$heap86	title_category
+_var85	$heap87	title_category
+_var86	$heap88	title_category
+_var87	$heap89	title_category
+_var89	$heap90	title_category
+_var90	$heap91	title_category
+_var93	$heap92	title_category
+_var94	$heap93	title_category
+_var95	$heap94	title_category
+_var97	$heap95	title_category
+_var98	$heap96	title_category
+_var101	$heap97	title_category
+_var102	$heap98	title_category
+_var103	$heap99	title_category
+_var105	$heap100	title_category
+_var106	$heap101	title_category
+_var108	$heap102	title_category
+_var109	$heap103	title_category
+_var112	$heap104	title_category
+_var113	$heap105	title_category
+_var114	$heap106	title_category
+_var116	$heap107	title_category
+_var117	$heap108	title_category
+_var120	$heap109	title_category
+_var121	$heap110	title_category
+_var122	$heap111	title_category
+_var124	$heap112	title_category
+_var125	$heap113	title_category
+_var127	$heap114	title_category
+_var128	$heap115	title_category
+_var131	$heap116	title_category
+_var132	$heap117	title_category
+_var133	$heap118	title_category
+_var135	$heap119	title_category
+_var136	$heap120	title_category
+_var139	$heap121	title_category
+_var140	$heap122	title_category
+_var141	$heap123	title_category
+_var143	$heap124	title_category
+_var144	$heap125	title_category
+_var147	$heap126	title_category
+_var148	$heap127	title_category
+_var149	$heap128	title_category
+_var151	$heap129	title_category
+_var152	$heap130	title_category
+_var155	$heap131	title_category
+_var156	$heap132	title_category
+_var157	$heap133	title_category
+_var159	$heap134	title_category
+_var160	$heap135	title_category
+_var163	$heap136	title_category
+_var164	$heap137	title_category
+_var165	$heap138	title_category
+_var167	$heap139	title_category
+_var168	$heap140	title_category
+_var171	$heap141	title_category
+_var172	$heap142	title_category
+_var173	$heap143	title_category
+_var175	$heap144	title_category
+_var176	$heap145	title_category
+_var179	$heap146	title_category
+_var180	$heap147	title_category
+_var181	$heap148	title_category
+_var183	$heap149	title_category
+_var184	$heap150	title_category
+_var187	$heap151	title_category
+_var188	$heap152	title_category
+_var189	$heap153	title_category
+_var191	$heap154	title_category
+_var192	$heap155	title_category
+_var195	$heap156	title_category
+_var196	$heap157	title_category
+_var197	$heap158	title_category
+_var199	$heap159	title_category
+_var200	$heap160	title_category
+_var202	$heap161	title_category
+_var203	$heap162	title_category
+_var206	$heap163	title_category
+_var207	$heap164	title_category
+_var208	$heap165	title_category
+_var210	$heap166	title_category
+_var211	$heap167	title_category
+_var214	$heap168	title_category
+_var215	$heap169	title_category
+_var216	$heap170	title_category
+_var218	$heap171	title_category
+_var219	$heap172	title_category
+_var222	$heap173	title_category
+_var223	$heap174	title_category
+_var224	$heap175	title_category
+_var226	$heap176	title_category
+_var227	$heap177	title_category
+_var229	$heap178	title_category
+_var230	$heap179	title_category
+_var233	$heap180	title_category
+_var234	$heap181	title_category
+_var235	$heap182	title_category
+_var237	$heap183	title_category
+_var238	$heap184	title_category
+_var241	$heap185	title_category
+_var242	$heap186	title_category
+_var243	$heap187	
+_var244	$heap188	
+_var246	$heap189	
+$list14	$heap190	
+_var249	$heap191	
+_var250	$heap192	
+_var251	$heap193	
+_var252	$heap194	
+_var255	$heap195	_func1
+_var257	$heap196	_func1
+_var259	$heap197	_func1
+_var260	$heap198	_func1
+_var262	$heap199	
+_var263	$heap200	
+X	$heap201	
+_var264	$heap202	
+_var271	$heap203	
+_var272	$heap204	
+_var267	$heap205	
+_var268	$heap206	
+_var269	$heap207	
+_var270	$heap208	
+_var273	$heap209	
+lr	$heap210	
+lr_model	$heap211	
+y_pred	$heap212	
+y_score	$heap213	
+$list15	$heap214	
+_var275	$heap215	
+conmat	$heap216	
+$list16	$heap217	
+$list17	$heap218	
+confusion	$heap219	
+_var278	$heap220	
+FPR	$heap221	
+TPR	$heap222	
+ROC_AUC	$heap223	
+_var279	$heap224	
+_var280	$heap225	
+_var281	$heap226	
+_var282	$heap227	
+_var283	$heap228	
+_var284	$heap229	
+_var285	$heap230	
+_var287	$heap231	
+_var289	$heap232	
+$list18	$heap233	
+_var291	$heap234	
+_var293	$heap235	
+_var295	$heap236	
+_var296	$heap237	
+_var298	$heap238	
+_var299	$heap239	
+$list19	$heap240	
+$list20	$heap241	
+_var302	$heap242	
+_var303	$heap243	
+$list21	$heap244	
+$list22	$heap245	
+_var306	$heap246	
+_var307	$heap247	
+_var308	$heap248	
+_var309	$heap249	
+_var310	$heap250	
+_var311	$heap251	
+_var312	$heap252	
+$list23	$heap253	
+$list24	$heap254	
+$dict25	$heap255	
+_var314	$heap256	
+_var315	$heap257	
+gs	$heap258	
+gs_0	$heap259	
+_var317	$heap260	
+_var320	$heap261	
+logreg	$heap262	
+cv_model	$heap263	
+cv_pred	$heap264	
+cm	$heap265	
+cm_0	$heap266	
+_var326	$heap267	

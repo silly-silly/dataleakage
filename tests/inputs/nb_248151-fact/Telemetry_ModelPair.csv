@@ -1,0 +1,6 @@
+svm_0	X_train_0	$invo13	LinearSVC.fit	[, ]	svm_0	X_train_0	$invo14	LinearSVC.predict	[, ]
+svm_0	X_train_0	$invo13	LinearSVC.fit	[, ]	svm_0	X_train_0	$invo17	LinearSVC.score	[, ]
+svm_0	X_train_0	$invo13	LinearSVC.fit	[, ]	svm_0	X_test_0	$invo18	LinearSVC.score	[, ]
+rf_0	X_train_0	$invo20	RandomForestClassifier.fit	[, ]	rf_0	X_test_0	$invo21	BaseForest.score	[, ]
+clf_0	X_train_1	$invo65	Unknown.fit	[, ]	clf_0	X_test_1	$invo66	Unknown.score	[, ]
+clf_0	X_train_1	$invo65	Unknown.fit	[, ]	clf_0	_var147	$invo73	Unknown.predict_proba	[, ]

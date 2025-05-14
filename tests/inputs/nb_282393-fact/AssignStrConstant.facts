@@ -1,0 +1,369 @@
+_var1	matplotlib
+_var2	inline
+data_path	../2nd/
+_var3	train_blend_RFC_gini_BM_MB_add03052240_2017-03-10-22-02
+_var4	.csv
+_var5	test_blend_RFC_gini_mean_BM_MB_add03052240_2017-03-10-22-02
+_var6	.csv
+_var7	test_blend_RFC_gini_gmean_BM_MB_add03052240_2017-03-10-22-02
+_var8	.csv
+_var20	train_blend_RFC_entropy_BM_MB_add03052240_2017-03-10-21-10
+_var21	.csv
+_var22	test_blend_RFC_entropy_mean_BM_MB_add03052240_2017-03-10-21-10
+_var23	.csv
+_var24	test_blend_RFC_entropy_gmean_BM_MB_add03052240_2017-03-10-21-10
+_var25	.csv
+_var37	train_rfc_gini: {}\t test_rfc_gini_mean:{}\t test_rfc_gini_gmean:{}
+_var42	\ntrain_rfc_entropy: {}\t test_rfc_entropy_mean:{}\t test_rfc_entropy_gmean:{}
+_var47	\ntrain_rfc_gini
+_var52	\ntrain_rfc_entropy
+_var57	train_blend_RFC_gini_BM_0322_2017-03-22-17-12
+_var58	.csv
+_var59	test_blend_RFC_gini_mean_BM_0322_2017-03-22-17-12
+_var60	.csv
+_var61	test_blend_RFC_gini_gmean_BM_0322_2017-03-22-17-12
+_var62	.csv
+_var74	train_blend_RFC_entropy_BM_0322_2017-03-22-16-02
+_var75	.csv
+_var76	test_blend_RFC_entropy_mean_BM_0322_2017-03-22-16-02
+_var77	.csv
+_var78	test_blend_RFC_entropy_gmean_BM_0322_2017-03-22-16-02
+_var79	.csv
+_var91	\ntrain_rfc_entropy: {}\t test_rfc_entropy_mean:{}\t test_rfc_entropy_gmean:{}
+_var96	\ntrain_rfc_entropy: {}\t test_rfc_entropy_mean:{}\t test_rfc_entropy_gmean:{}
+_var101	\ntrain_rfc_gini_0322
+_var106	\ntrain_rfc_entropy_0322
+_var111	train_blend_LR_BM_2017-03-09-02-38
+_var112	.csv
+_var113	test_blend_LR_mean_BM_2017-03-09-02-38
+_var114	.csv
+_var115	test_blend_LR_gmean_BM_2017-03-09-02-38
+_var116	.csv
+_var128	train_LR: {}\t test_LR_mean:{}\t test_LR_gmean:{}
+_var133	\ntrain_LR
+_var138	train_blend_LR_BM_0322_2017-03-22-23-38
+_var139	.csv
+_var140	test_blend_LR_mean_BM_0322_2017-03-22-23-38
+_var141	.csv
+_var142	test_blend_LR_gmean_BM_0322_2017-03-22-23-38
+_var143	.csv
+_var155	train_LR_0322: {}\t test_LR_mean_0322:{}\t test_LR_gmean_0322:{}
+_var160	\ntrain_LR_0322
+_var165	train_blend_ET_gini_BM_2017-03-10-09-42
+_var166	.csv
+_var167	test_blend_ET_gini_mean_BM_2017-03-10-09-42
+_var168	.csv
+_var169	test_blend_ET_gini_gmean_BM_2017-03-10-09-42
+_var170	.csv
+_var182	train_blend_ET_entropy_BM_2017-03-09-20-44
+_var183	.csv
+_var184	test_blend_ET_entropy_mean_BM_2017-03-09-20-44
+_var185	.csv
+_var186	test_blend_ET_entropy_gmean_BM_2017-03-09-20-44
+_var187	.csv
+_var199	train_ET_gini: {}\t test_ET_gini_mean:{}\t test_ET_gini_gmean:{}
+_var204	\ntrain_ET_entropy: {}\t test_ET_entropy_mean:{}\t test_ET_entropy_gmean:{}
+_var209	\ntrain_ET_gini
+_var214	\ntrain_ET_entropy
+_var219	train_blend_ET_gini_BM_0322_2017-03-23-16-04
+_var220	.csv
+_var221	test_blend_ET_gini_mean_BM_0322_2017-03-23-16-04
+_var222	.csv
+_var223	test_blend_ET_gini_gmean_BM_0322_2017-03-23-16-04
+_var224	.csv
+_var236	train_blend_ET_entropy_BM_0322_2017-03-23-13-40
+_var237	.csv
+_var238	test_blend_ET_entropy_mean_BM_0322_2017-03-23-13-40
+_var239	.csv
+_var240	test_blend_ET_entropy_gmean_BM_0322_2017-03-23-13-40
+_var241	.csv
+_var253	train_ET_gini_0322: {}\t test_ET_gini_mean_0322:{}\t test_ET_gini_gmean_0322:{}
+_var258	\ntrain_ET_entropy_0322: {}\t test_ET_entropy_mean_0322:{}\t test_ET_entropy_gmean_0322:{}
+_var263	\ntrain_ET_gini_0322
+_var268	\ntrain_ET_entropy_0322
+_var273	train_blend_KNN_uniform_BM_MB_add03052240_2017-03-11-18-31
+_var274	.csv
+_var275	test_blend_KNN_uniform_mean_BM_MB_add03052240_2017-03-11-18-31
+_var276	.csv
+_var277	test_blend_KNN_uniform_gmean_BM_MB_add03052240_2017-03-11-18-31
+_var278	.csv
+_var290	train_blend_KNN_distance_BM_MB_add_2017-03-11-21-51
+_var291	.csv
+_var292	test_blend_KNN_distance_mean_BM_MB_add_2017-03-11-21-51
+_var293	.csv
+_var294	test_blend_KNN_distance_gmean_BM_MB_add_2017-03-11-21-51
+_var295	.csv
+_var307	train_KNN_uniform: {}\t test_KNN_uniform_mean:{}\t test_KNN_uniform_gmean:{}
+_var312	\ntrain_KNN_distance: {}\t test_KNN_distance_mean:{}\t test_KNN_distance_gmean:{}
+_var317	\ntrain_KNN_uniform
+_var322	\ntrain_KNN_distance
+_var327	train_blend_KNN_uniform_BM_0322_2017-03-24-07-31
+_var328	.csv
+_var329	test_blend_KNN_uniform_mean_BM_0322_2017-03-24-07-31
+_var330	.csv
+_var331	test_blend_KNN_uniform_gmean_BM_0322_2017-03-24-07-31
+_var332	.csv
+_var344	train_blend_KNN_distance_BM_0322_2017-03-25-08-17
+_var345	.csv
+_var346	test_blend_KNN_distance_mean_BM_0322_2017-03-25-08-17
+_var347	.csv
+_var348	test_blend_KNN_distance_gmean_BM_0322_2017-03-25-08-17
+_var349	.csv
+_var361	train_KNN_uniform_0322: {}\t test_KNN_uniform_mean_0322:{}\t test_KNN_uniform_gmean_0322:{}
+_var366	\ntrain_KNN_distance: {}\t test_KNN_distance_mean_0322:{}\t test_KNN_distance_gmean_0322:{}
+_var371	\ntrain_KNN_uniform_0322
+_var376	\ntrain_KNN_distance_0322
+_var381	train_blend_FM_BM_MB_add_desc_2017-03-16-09-52
+_var382	.csv
+_var383	test_blend_FM_mean_BM_MB_add_desc_2017-03-16-09-52
+_var384	.csv
+_var385	test_blend_FM_gmean_BM_MB_add_desc_2017-03-16-09-52
+_var386	.csv
+_var398	train_FM: {}\t test_FM_mean:{}\t test_FM_gmean:{}
+_var403	\ntrain_FM
+_var408	train_blend_FM_BM_0322_2017-03-27-04-35
+_var409	.csv
+_var410	test_blend_FM_mean_BM_0322_2017-03-27-04-35
+_var411	.csv
+_var412	test_blend_FM_gmean_BM_0322_2017-03-27-04-35
+_var413	.csv
+_var425	train_FM_0322: {}\t test_FM_mean_0322:{}\t test_FM_gmean_0322:{}
+_var430	\ntrain_FM_0322
+_var435	train_blend_MNB_BM_MB_add03052240_2017-03-13-20-51
+_var436	.csv
+_var437	test_blend_MNB_mean_BM_MB_add03052240_2017-03-13-20-51
+_var438	.csv
+_var439	test_blend_MNB_gmean_BM_MB_add03052240_2017-03-13-20-51
+_var440	.csv
+_var452	train_MNB: {}\t test_MNB_mean:{}\t test_MNB_gmean:{}
+_var457	\ntrain_MNB
+_var462	X_train_tsne_BM_MB_add_desc_2017-03-18-17-14
+_var463	.csv
+_var464	X_test_tsne_BM_MB_add_desc_2017-03-18-17-14
+_var465	.csv
+_var474	train_tsne: {}\t test_tsne:{}
+_var478	\ntrain_tsne
+_var483	X_train_tsne_BM_0322_2017-03-26-16-33
+_var484	.csv
+_var485	X_test_tsne_BM_0322_2017-03-26-16-33
+_var486	.csv
+_var495	train_tsne_0322: {}\t test_tsne_0322:{}
+_var499	\ntrain_tsne_0322
+_var504	train_blend_xgb_BM_MB_add_desc_2017-03-14-16-54
+_var505	.csv
+_var506	test_blend_xgb_mean_BM_MB_add_desc_2017-03-14-16-54
+_var507	.csv
+_var508	test_blend_xgb_gmean_BM_MB_add_desc_2017-03-14-16-54
+_var509	.csv
+_var521	train_xgb: {}\t test_xgb_mean:{}\t test_xgb_gmean:{}
+_var526	\ntrain_xgb
+_var531	train_blend_xgb_BM_0322_2017-03-25-19-12
+_var532	.csv
+_var533	test_blend_xgb_mean_BM_0322_2017-03-25-19-12
+_var534	.csv
+_var535	test_blend_xgb_gmean_BM_0322_2017-03-25-19-12
+_var536	.csv
+_var548	train_xgb_0322: {}\t test_xgb_mean_0322:{}\t test_xgb_gmean_0322:{}
+_var553	\ntrain_xgb_0322
+_var558	train_blend_xgb_BM_0331_2017-04-02-17-55
+_var559	.csv
+_var560	test_blend_xgb_mean_BM_0331_2017-04-02-17-55
+_var561	.csv
+_var562	test_blend_xgb_gmean_BM_0331_2017-04-02-17-55
+_var563	.csv
+_var575	train_xgb_0331: {}\t test_xgb_mean_0331:{}\t test_xgb_gmean_0331:{}
+_var580	\ntrain_xgb_0331
+_var585	train_blend_xgb_BM_0331_30blend_2017-04-04-09-15
+_var586	.csv
+_var587	test_blend_xgb_mean_BM_0331_30blend_2017-04-04-09-15
+_var588	.csv
+_var589	test_blend_xgb_gmean_BM_0331_30blend_2017-04-04-09-15
+_var590	.csv
+_var602	train_xgb_0331_30fold: {}\t test_xgb_mean_0331_30fold:{}\t test_xgb_gmean_0331_30fold:{}
+_var607	\ntrain_xgb_0331_30fold
+_var612	train_blend_xgb_cv137_BM_2017-04-06-11-44
+_var613	.csv
+_var614	test_blend_xgb_mean_cv137_5blend_BM_2017-04-06-11-44
+_var615	.csv
+_var616	test_blend_xgb_gmean_cv137_5blend_BM_2017-04-06-11-44
+_var617	.csv
+_var629	train_xgb_cv137: {}\t test_xgb_mean_cv137:{}\t test_xgb_gmean_cv137:{}
+_var634	\ntrain_xgb_cv137
+_var639	train_blend_xgb_cv137_BM_2017-04-06-15-28
+_var640	.csv
+_var641	test_blend_xgb_mean_cv137_5blend_BM_2017-04-06-15-28
+_var642	.csv
+_var643	test_blend_xgb_gmean_cv137_5blend_BM_2017-04-06-15-28
+_var644	.csv
+_var656	train_xgb_cv137_1: {}\t test_xgb_mean_cv137_1:{}\t test_xgb_gmean_cv137_1:{}
+_var661	\ntrain_xgb_cv137_1
+_var666	train_blend_xgb_cv_price_BM_2017-04-09-14-06
+_var667	.csv
+_var668	test_blend_xgb_mean_cv_price_BM_2017-04-09-14-06
+_var669	.csv
+_var670	test_blend_xgb_gmean_cv_price_BM_2017-04-09-14-06
+_var671	.csv
+_var683	train_xgb_cv_price: {}\t test_xgb_mean_cv_price:{}\t test_xgb_gmean_cv_price:{}
+_var688	\ntrain_xgb_cv_price
+_var693	train_blend_xgb_CV_MS_BM_2017-04-11-09-18
+_var694	.csv
+_var695	test_blend_xgb_mean_CV_MS_BM_2017-04-11-09-18
+_var696	.csv
+_var697	test_blend_xgb_gmean_CV_MS_BM_2017-04-11-09-18
+_var698	.csv
+_var710	train_xgb_cv_MS_52571: {}\t test_xgb_mean_cv_MS_52571:{}\t test_xgb_gmean_cv_MS_52571:{}
+_var715	\ntrain_xgb_cv_MS_52571
+_var720	train_blend_xgb_CV_MS_30blend_BM_2017-04-12-08-56
+_var721	.csv
+_var722	test_blend_xgb_mean_CV_MS_30blend_BM_2017-04-12-08-56
+_var723	.csv
+_var724	test_blend_xgb_gmean_CV_MS_30blend_BM_2017-04-12-08-56
+_var725	.csv
+_var737	train_xgb_cv_MS_52571_30fold: {}\t test_xgb_mean_cv_MS_52571_30fold:{}\t test_xgb_gmean_cv_MS_52571_30fold:{}
+_var742	\ntrain_xgb_cv_MS_52571_30fold
+_var747	train_blend_xgb_ovr_BM_0322_2017-03-27-19-36
+_var748	.csv
+_var749	test_blend_xgb_ovr_mean_BM_0322_2017-03-27-19-36
+_var750	.csv
+_var751	test_blend_xgb_ovr_gmean_BM_0322_2017-03-27-19-36
+_var752	.csv
+_var764	train_xgb_0322: {}\t test_xgb_mean_0322:{}\t test_xgb_gmean_0322:{}
+_var769	\ntrain_xgb_ovr_0322
+_var774	train_blend_LightGBM_BM_0322_2017-03-27-08-21
+_var775	.csv
+_var776	test_blend_LightGBM_mean_BM_0322_2017-03-27-08-21
+_var777	.csv
+_var778	test_blend_LightGBM_gmean_BM_0322_2017-03-27-08-21
+_var779	.csv
+_var791	train_lgb_0322: {}\t test_lgb_mean_0322:{}\t test_lgb_gmean_0322:{}
+_var796	\ntrain_lgb_0322
+_var801	train_blend_LightGBM_dart_BM_0322_2017-03-31-13-03
+_var802	.csv
+_var803	test_blend_LightGBM_dart_mean_BM_0322_2017-03-31-13-03
+_var804	.csv
+_var805	test_blend_LightGBM_dart_gmean_BM_0322_2017-03-31-13-03
+_var806	.csv
+_var818	train_lgb_dart_0322: {}\t test_lgb_mean_dart_0322:{}\t test_lgb_gmean_dart_0322:{}
+_var823	\ntrain_lgb_dart_0322
+_var828	train_blend_LightGBM_BM_0331_2017-04-01-07-33
+_var829	.csv
+_var830	test_blend_LightGBM_mean_BM_0331_2017-04-01-07-33
+_var831	.csv
+_var832	test_blend_LightGBM_gmean_BM_0331_2017-04-01-07-33
+_var833	.csv
+_var845	train_lgb_0331: {}\t test_lgb_mean_0331:{}\t test_lgb_gmean_0331:{}
+_var850	\ntrain_lgb_0331
+_var855	train_blend_LightGBM_BM_0401_2017-04-02-12-24
+_var856	.csv
+_var857	test_blend_LightGBM_mean_BM_0401_2017-04-02-12-24
+_var858	.csv
+_var859	test_blend_LightGBM_gmean_BM_0401_2017-04-02-12-24
+_var860	.csv
+_var872	train_lgb_0401: {}\t test_lgb_mean_0401:{}\t test_lgb_gmean_0401:{}
+_var877	\ntrain_lgb_0401
+_var882	train_blend_Keras_BM_0331_2017-04-04-15-32
+_var883	.csv
+_var884	test_blend_Keras_BM_0331_2017-04-04-15-32
+_var885	.csv
+_var894	train_nn_0331: {}\t test_nn_mean_0331:{}
+_var898	\ntrain_nn_0331
+_var903	train_blend_Keras_BM_0331_2017-04-04-17-23
+_var904	.csv
+_var905	test_blend_Keras_BM_0331_2017-04-04-17-23
+_var906	.csv
+_var915	train_nn_0331_1: {}\t test_nn_mean_0331_1:{}
+_var919	\ntrain_nn_0331_1
+_var924	train_blend_Keras_ovr_BM_0331_2017-04-05-03-37
+_var925	.csv
+_var926	test_blend_Keras_ovr_BM_0331_2017-04-05-03-37
+_var927	.csv
+_var936	train_nn_ovr_0331: {}\t test_nn_mean_ovr_0331:{}
+_var940	\ntrain_nn_ovr_0331
+_var945	train_blend_Keras_CV_52571_BM_2017-04-13-13-59
+_var946	.csv
+_var947	test_blend_Keras_mean_CV_52571_BM_2017-04-13-13-59
+_var948	.csv
+_var957	train_nn_bagging: {}\t test_nn_mean_bagging:{}
+_var961	\ntrain_nn_bagging
+_var966	train_blend_GP_BM_2017-04-09-19-15
+_var967	.csv
+_var968	test_blend_GP_BM_2017-04-09-19-15
+_var969	.csv
+_var978	train_gp: {}\t test_gp:{}
+_var982	\ntrain_gp
+_var987	train_blend_XGB_BM_3bagging_CV_MS_52571_2017-04-13-09-33
+_var988	.csv
+_var989	test_blend_XGB_BM_3bagging_CV_MS_52571_2017-04-13-09-33
+_var990	.csv
+_var999	train_bagging_0: {}\t test_bagging_0:{}
+_var1003	\ntrain_bagging_0
+_var1008	train_blend_xgb_141bagging_BM_2017-04-13-10-12
+_var1009	.csv
+_var1010	test_blend_xgb_mean_141bagging_BM_2017-04-13-10-12
+_var1011	.csv
+_var1020	train_bagging_1: {}\t test_bagging_1:{}
+_var1024	\ntrain_bagging_1
+_var1035	train_2nd: {}\t test_2nd_mean:{}\t test_2nd_gmean:{}
+data_path_0	../input/
+_var1040	train_BM_0331.csv
+_var1042	test_BM_0331.csv
+_var1044	../input/
+_var1045	labels_BrandenMurray.csv
+_var1051	int32
+_var1058	num_loc_price_diff
+_var1059	num_price
+_var1061	num_loc_median_price
+_var1127	val_loss
+_var1130	weights.hdf5
+_var1131	val_loss
+init	glorot_uniform
+_var1136	sigmoid
+_var1144	sigmoid
+_var1151	softmax
+_var1153	categorical_crossentropy
+_var1154	Adamax
+_var1166	val_loss
+_var1169	weights.hdf5
+_var1170	categorical_crossentropy
+_var1171	adam
+_var1175	../output/sub_Keras_
+_var1176	%Y-%m-%d-%H-%M
+_var1180	.csv
+_var1182	listing_id
+init_0	glorot_uniform
+_var1184	input_size
+_var1186	input_dim
+_var1189	sigmoid
+_var1193	input_drop_out
+_var1196	hidden_size
+_var1199	sigmoid
+_var1203	hidden_drop_out
+_var1207	softmax
+_var1209	categorical_crossentropy
+_var1210	Adamax
+_var1258	weights.hdf5
+_var1259	val_loss
+_var1269	weights.hdf5
+_var1270	categorical_crossentropy
+_var1271	Adamax
+_var1279	weights.hdf5
+_var1280	categorical_crossentropy
+_var1281	Adamax
+_var1317	Score for blended models is %f in %0.3fm
+_var1335	Starting.........
+name_train_blend	../tmp/train.csv
+name_test_blend	../tmp/test.csv
+_var1349	,
+_var1350	,
+_var1351	../output/sub_2ndKeras_100bagging_
+_var1352	%Y-%m-%d-%H-%M
+_var1356	.csv
+_var1358	listing_id
+_var1360	../output/train_blend_2ndKeras_100bagging_
+_var1361	%Y-%m-%d-%H-%M
+_var1365	.csv
+_var1366	../output/test_blend_2ndKeras_100bagging_
+_var1367	%Y-%m-%d-%H-%M
+_var1371	.csv
+_var1376	,
+_var1377	,

@@ -1,0 +1,265 @@
+phi_0	__phi__
+phi_1	__phi__
+base	set_field_wrapper
+attr	set_field_wrapper
+value	set_field_wrapper
+base	set_index_wrapper
+attr	set_index_wrapper
+value	set_index_wrapper
+x	global_wrapper
+_var0	
+cachedStopWords	
+algorithm	
+message	splitIntoTokens
+_var1	splitIntoTokens
+_var2	splitIntoTokens
+message_0	splitIntoLemmas
+message_1	splitIntoLemmas
+_var3	splitIntoLemmas
+words	splitIntoLemmas
+_var4	splitIntoLemmas
+message_2	hasUrl
+_var5	hasUrl
+r	hasUrl
+match	hasUrl
+_var6	hasUrl
+_var7	hasUrl
+_var8	hasUrl
+_var9	hasUrl
+text	splitIntoWords
+_var10	splitIntoWords
+_var11	splitIntoWords
+textNoHtml	splitIntoWords
+_var12	splitIntoWords
+_var13	splitIntoWords
+lettersOnly	splitIntoWords
+_var14	splitIntoWords
+words_0	splitIntoWords
+_var15	splitIntoWords
+stops	splitIntoWords
+woStopWords	splitIntoWords
+_var16	splitIntoWords
+_var17	splitIntoWords
+baseForm	splitIntoWords
+_var18	splitIntoWords
+_var19	splitIntoWords
+algorithm_0	searchBestModelParameters
+trainingData	searchBestModelParameters
+_var20	searchBestModelParameters
+_var21	searchBestModelParameters
+alpha	searchBestModelParameters
+fitPrior	searchBestModelParameters
+paramDistribution	searchBestModelParameters
+model	searchBestModelParameters
+bestRun	searchBestModelParameters
+_var22	searchBestModelParameters
+_var23	searchBestModelParameters
+_	searchBestModelParameters
+_var24	searchBestModelParameters
+_var25	searchBestModelParameters
+_var26	searchBestModelParameters
+rand	searchBestModelParameters
+_var27	searchBestModelParameters
+_var28	searchBestModelParameters
+rand_0	searchBestModelParameters
+_var29	searchBestModelParameters
+_var30	searchBestModelParameters
+_var31	searchBestModelParameters
+_var32	searchBestModelParameters
+_var33	searchBestModelParameters
+x	searchBestModelParameters._func0
+_var34	searchBestModelParameters._func0
+_var35	searchBestModelParameters._func0
+_var36	searchBestModelParameters
+x_0	searchBestModelParameters._func1
+_var37	searchBestModelParameters._func1
+_var38	searchBestModelParameters._func1
+_var39	searchBestModelParameters
+algo	predictAndReport
+train	predictAndReport
+test	predictAndReport
+bestParams	predictAndReport
+_var40	predictAndReport
+_var41	predictAndReport
+_var42	predictAndReport
+_var43	predictAndReport
+predictor	predictAndReport
+_var44	predictAndReport
+_var45	predictAndReport
+predictor_0	predictAndReport
+predicted	predictAndReport
+_var46	predictAndReport
+dfWithClass	predictAndReport
+_var47	predictAndReport
+_var48	predictAndReport
+final	predictAndReport
+_var49	predictAndReport
+_var50	predictAndReport
+_var51	predictAndReport
+_var52	predictAndReport
+_var53	predictAndReport
+_var54	predictAndReport
+_var55	predictAndReport
+_var56	predictAndReport
+_var57	predictAndReport
+_var58	predictAndReport
+_var59	predictAndReport
+_var60	predictAndReport
+_var61	predictAndReport
+_var62	predictAndReport
+_var63	predictAndReport
+_var64	predictAndReport
+_var65	predictAndReport
+_var66	predictAndReport
+_var67	predictAndReport
+_var68	predictAndReport
+_var69	predictAndReport
+_var70	predictAndReport
+_var71	predictAndReport
+_var72	predictAndReport
+_var73	predictAndReport
+_var74	predictAndReport
+_var75	predictAndReport
+_var76	predictAndReport
+_var77	predictAndReport
+_var78	predictAndReport
+_var79	predictAndReport
+_var80	predictAndReport
+_var81	predictAndReport
+_var82	predictAndReport
+_var83	predictAndReport
+_var84	predictAndReport
+_var85	predictAndReport
+_var86	predictAndReport
+_var87	predictAndReport
+_var88	predictAndReport
+_var89	predictAndReport
+_var90	predictAndReport
+_var91	predictAndReport
+_var92	predictAndReport
+_var93	predictAndReport
+_var94	predictAndReport
+_var95	predictAndReport
+_var96	predictAndReport
+_var97	
+_var98	
+_var99	
+rawJournals	
+_var100	
+_var101	
+_var102	
+_var103	
+journals	
+_var104	
+_var105	
+_var106	
+journals_0	
+_var107	
+_var108	
+_var109	
+_var110	
+_var111	
+_var112	
+_var113	
+_var114	
+_var115	
+journals_1	
+_var116	
+_var117	
+_var118	
+_var119	
+_var120	
+_var121	
+_var122	
+rawSite	
+_var123	
+_var124	
+_var125	
+_var126	
+siteIds	
+_var127	
+_var128	
+_var129	
+siteIds_0	
+_var130	
+_var131	
+_var132	
+_var133	
+_var134	
+_var135	
+_var136	
+octSiteProfileSpam	
+_var137	
+_var138	
+_var139	
+_var140	
+_var141	
+_var142	
+_var143	
+_var144	
+_var145	
+journalsFinal	
+_var146	
+_var147	
+_var148	
+_var149	
+_var150	
+_var151	
+_var152	
+_var153	
+_var154	
+_var155	
+journalsFinal_0	
+_var156	
+_var157	
+_var158	
+_var159	
+_var160	
+_var161	
+_var162	
+_var163	
+_var164	
+_var165	
+_var166	
+journalsFinal_1	
+_var167	
+_var168	
+_var169	
+text_0	_func2
+_var170	_func2
+_var171	
+journalsFinal_2	
+_var172	
+_var173	
+_var174	
+wordsVectorizer	
+_var172_0	
+_var175	
+_var176	
+wordsVector	
+_var177	
+inverseFreqTransformer	
+_var177_0	
+invFreqOfWords	
+_var178	
+weightedFreqOfWords	
+_var179	
+_var180	
+_var181	
+weightedFreqOfWords_0	
+_var182	
+_var183	
+_var184	
+_var185	
+weightedFreqOfWords_1	
+_var190	
+_var191	
+_var192	
+_var186	
+_var187	
+_var188	
+_var189	
+train_0	
+test_0	
+spamLabelTrain	
+spamLabelTest	

@@ -1,0 +1,3 @@
+lr_model	X_train	$invo82	LogisticRegression.fit	[, ]
+cv_model	X_train	$invo110	LogisticRegression.fit	[, ]
+gs_0	X	$invo108	GridSearchCV.fit	[, ]

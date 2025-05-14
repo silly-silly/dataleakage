@@ -1,0 +1,10 @@
+data_id	$invo2	_var2
+as_frame	$invo2	_var3
+return_X_y	$invo2	_var4
+include	$invo3	_var5
+sampling_strategy	$invo4	_var8
+random_state	$invo4	_var9
+random_state	$invo5	_var10
+test_size	$invo7	_var17
+random_state	$invo7	_var18
+random_state	$invo8	_var19

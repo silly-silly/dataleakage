@@ -1,0 +1,385 @@
+phi_0	Unknown
+phi_1	Unknown
+base	Unknown
+attr	Unknown
+value	Unknown
+setattr	(__obj: object, __name: str, __value: Any) -> None
+x	Unknown
+_var0	Unknown
+get_ipython	Unknown
+_var1	str
+_var2	str
+_var3	str
+_var4	int
+_var5	str
+_var6	int
+_var7	str
+_var8	bool
+_var9	str
+sns	Unknown
+_var10	str
+_var11	Unknown
+_var12	int
+c0	Unknown
+_var13	Unknown
+_var14	int
+c1	Unknown
+_var15	Unknown
+_var16	int
+c2	Unknown
+_var17	list[str]
+cmap_light	Unknown
+ListedColormap	Unknown
+_var18	list[str]
+cmap_bold	Unknown
+_var19	Unknown
+plt	Unknown
+cm	Unknown
+_var20	list[str]
+cm_bright	Unknown
+ax	Unknown
+Xtr	Unknown
+Xte	Unknown
+ytr	Unknown
+yte	Unknown
+clf	Unknown
+mesh	Unknown
+colorscale	Unknown
+cdiscrete	Unknown
+alpha	Unknown
+psize	Unknown
+zfunc	Unknown
+predicted	Unknown
+h	float
+_var21	tuple[Unknown, Unknown]
+X	NDArray[_SCT@concatenate]
+_var22	int
+_var23	ndarray[Any, dtype[Unknown]]
+_var24	Any
+_var25	float
+_var26	Any
+_var27	int
+_var28	ndarray[Any, dtype[Unknown]]
+_var29	Any
+_var30	float
+_var31	Any
+x_min	Any
+x_max	Any
+_var32	int
+_var33	ndarray[Any, dtype[Unknown]]
+_var34	Any
+_var35	float
+_var36	Any
+_var37	int
+_var38	ndarray[Any, dtype[Unknown]]
+_var39	Any
+_var40	float
+_var41	Any
+y_min	Any
+y_max	Any
+_var44	int
+_var45	NDArray[floating[Any]]
+_var46	int
+_var47	NDArray[floating[Any]]
+_var42	NDArray[Any]
+_var43	NDArray[Any]
+xx	NDArray[Any]
+yy	NDArray[Any]
+_var48	CClass
+_var49	ndarray[Any, dtype[Any]]
+_var50	ndarray[Any, dtype[Any]]
+_var51	tuple[ndarray[Any, dtype[Any]], ndarray[Any, dtype[Any]]]
+_var52	Any
+_var53	Unknown
+_var54	int
+p0	Unknown
+_var55	CClass
+_var56	ndarray[Any, dtype[Any]]
+_var57	ndarray[Any, dtype[Any]]
+_var58	tuple[ndarray[Any, dtype[Any]], ndarray[Any, dtype[Any]]]
+_var59	Any
+_var60	Unknown
+_var61	int
+p1	Unknown
+Z	Unknown
+_var62	CClass
+_var63	ndarray[Any, dtype[Any]]
+_var64	ndarray[Any, dtype[Any]]
+_var65	tuple[ndarray[Any, dtype[Any]], ndarray[Any, dtype[Any]]]
+_var66	Any
+Z_0	Unknown
+Z_1	Unknown
+__phi__	(phi_0: Unknown, phi_1: Unknown) -> Unknown
+_var67	_Shape
+ZZ	Unknown
+_var68	Unknown
+global_wrapper	(x: Unknown) -> Unknown
+showtr	Unknown
+showte	Unknown
+showtr_0	Unknown
+showte_0	Unknown
+showtr_1	Unknown
+showte_1	Unknown
+_var69	int
+_var70	Unknown
+_var71	int
+_var72	Unknown
+_var73	int
+_var74	Unknown
+_var75	Unknown
+_var76	str
+_var77	int
+_var78	Unknown
+_var79	int
+_var80	Unknown
+_var81	int
+_var82	Unknown
+_var83	Unknown
+_var84	str
+_var85	int
+_var86	Unknown
+_var87	Any
+_var88	Any
+_var89	Any
+_var90	Any
+ax_0	Unknown
+Xtr_0	Unknown
+Xte_0	Unknown
+ytr_0	Unknown
+yte_0	Unknown
+clf_0	Unknown
+colorscale_0	Unknown
+cdiscrete_0	Unknown
+ccolor	Unknown
+psize_0	Unknown
+alpha_0	Unknown
+_var94	bool
+_var95	bool
+_var91	Unknown
+_var92	NDArray[Any]
+_var93	NDArray[Any]
+points_plot	(ax: Unknown, Xtr: Unknown, Xte: Unknown, ytr: Unknown, yte: Unknown, clf: Unknown, mesh: Unknown = True, colorscale: Unknown = cmap_light, cdiscrete: Unknown = cmap_bold, alpha: Unknown = 0.1, psize: Unknown = 10, zfunc: Unknown = False, predicted: Unknown = False) -> tuple[Unknown, NDArray[Any], NDArray[Any]]
+ax_1	Unknown
+xx_0	NDArray[Any]
+yy_0	NDArray[Any]
+_var96	CClass
+_var97	ndarray[Any, dtype[Any]]
+_var98	ndarray[Any, dtype[Any]]
+_var99	tuple[ndarray[Any, dtype[Any]], ndarray[Any, dtype[Any]]]
+_var100	Any
+_var101	Unknown
+_var102	int
+Z_2	Unknown
+_var103	_Shape
+Z_3	Unknown
+_var104	float
+_var105	float
+cs2	Unknown
+_var106	str
+_var107	str
+_var108	int
+_var109	str
+dflog	pandas.DataFrame
+_var110	Any
+_var111	str
+_var112	Any
+male	Unknown
+_var113	Any
+_var114	str
+_var115	Any
+female	Unknown
+fig	Unknown
+_var116	int
+ax1	Unknown
+_var117	Unknown
+_var118	Unknown
+_var119	str
+_var120	str
+_var121	Unknown
+_var122	Unknown
+_var123	str
+_var124	str
+_var125	str
+_var126	str
+_var127	str
+_var128	str
+accuracy_score	(y_true: Unknown, y_pred: Unknown, *, normalize: Unknown = True, sample_weight: Unknown = None) -> (floating[Any] | Any | Unknown)
+clf_1	Unknown
+y	Unknown
+score_func	Unknown
+result	int
+nfold	int
+_var129	Unknown
+_var130	Unknown
+KFold	Unknown
+_var131	Unknown
+_var134	int
+train	Unknown
+_var135	int
+test	Unknown
+_var136	Unknown
+_var137	Unknown
+clf_2	Unknown
+_var138	Unknown
+_var139	Unknown
+_var140	Unknown
+_var141	Unknown
+result_0	Unknown
+result_1	Unknown | Literal[0]
+clf_3	Unknown
+_var142	Unknown | float
+_var147	list[str]
+_var148	Unknown
+_var149	Unknown
+_var150	Any
+_var151	str
+_var152	Any
+_var153	Any
+_var154	int
+_var143	Unknown
+_var144	Unknown
+_var145	Unknown
+_var146	Unknown
+train_test_split	Unknown
+Xlr	Unknown
+Xtestlr	Unknown
+ylr	Unknown
+ytestlr	Unknown
+_var155	int
+len	(__obj: Sized) -> int
+_var156	int
+_var157	list[str]
+_var158	Unknown
+_var159	Unknown
+_var160	int
+_var161	Any
+_var162	str
+_var163	Any
+_var164	Any
+_var165	int
+clf_4	LogisticRegression
+LogisticRegression	Type[LogisticRegression]
+clf_5	Self@LogisticRegression
+_var166	Unknown | Any
+_var167	floating[Any] | Any | Unknown
+print	(*values: object, sep: str | None = ..., end: str | None = ..., file: SupportsWrite[str] | None = ..., flush: bool = ...) -> None
+clf_6	LogisticRegression
+score	Unknown | float
+cv_score	(clf_1: Unknown, x: Unknown, y: Unknown, score_func: Unknown = accuracy_score) -> (Unknown | float)
+Cs	list[Unknown]
+scores_per_C	dict[Unknown, Unknown]
+c	Unknown
+clf_7	LogisticRegression
+C	Unknown
+_var168	Unknown | float
+_var169	dict[Unknown, Unknown | float]
+clf_8	LogisticRegression
+_var170	_dict_values[Unknown, Unknown]
+v	list[Unknown]
+_var171	_dict_keys[Unknown, Unknown]
+k	list[Unknown]
+_var172	Unknown
+max	Overload[(__arg1: SupportsLessThanT@max, __arg2: SupportsLessThanT@max, *_args: SupportsLessThanT@max, key: None = ...) -> SupportsLessThanT@max, (__arg1: _T@max, __arg2: _T@max, *_args: _T@max, key: (_T@max) -> SupportsLessThan) -> _T@max, (__iterable: Iterable[SupportsLessThanT@max], *, key: None = ...) -> SupportsLessThanT@max, (__iterable: Iterable[_T@max], *, key: (_T@max) -> SupportsLessThan) -> _T@max, (__iterable: Iterable[SupportsLessThanT@max], *, key: None = ..., default: _T@max) -> (SupportsLessThanT@max | _T@max), (__iterable: Iterable[_T1@max], *, key: (_T1@max) -> SupportsLessThan, default: _T2@max) -> (_T1@max | _T2@max)]
+_var173	int
+clf_9	LogisticRegression
+clf_10	Self@LogisticRegression
+_var174	Unknown | Any
+_var175	floating[Any] | Any | Unknown
+tuned_parameters	dict[str, list[Unknown]]
+_var176	int
+_var177	SVC
+SVC	Type[SVC]
+_var178	int
+clf_11	Unknown
+GridSearchCV	Unknown
+clf_12	Unknown
+_var179	str
+_var180	Unknown
+clf_13	Unknown
+parameters	Unknown
+Xtrain	Unknown
+ytrain	Unknown
+n_folds	Unknown
+gs	Unknown
+gs_0	Unknown
+_var181	str
+_var182	Unknown
+_var183	tuple[str, Unknown]
+best	Unknown
+clf_14	Unknown
+parameters_0	Unknown
+indf	Unknown
+featurenames	Unknown
+targetname	Unknown
+target1val	Unknown
+standardize	Unknown
+train_size	Unknown
+subdf	Unknown
+_var184	Unknown
+_var185	Unknown
+_var186	Unknown
+subdfstd	Unknown
+subdfstd_0	Unknown
+subdfstd_1	Unknown
+X_0	Unknown
+_var187	Unknown
+_var188	Unknown
+_var189	Unknown
+_var190	int
+y_0	Unknown
+_var191	Unknown
+_var192	Unknown
+_var193	Unknown
+_var194	Unknown
+Xtrain_0	Unknown
+Xtest	Unknown
+ytrain_0	Unknown
+ytest	Unknown
+clf_15	Unknown
+cv_optimize	(clf_13: Unknown, parameters: Unknown, Xtrain: Unknown, ytrain: Unknown, n_folds: Unknown = 5) -> Unknown
+clf_16	Unknown
+clf_17	Unknown
+training_accuracy	Unknown
+test_accuracy	Unknown
+_var195	str
+_var196	Unknown
+_var197	str
+_var198	Unknown
+z	Unknown
+_var199	float
+_var200	int
+_var201	Unknown
+_var202	Any
+_var203	Any
+_var204	Any
+h_0	(z: Unknown) -> Any
+_func0	(z: Unknown) -> Any
+_var205	int
+_var206	int
+_var207	float
+zs	NDArray[floating[Any]]
+_var208	Any
+_var209	float
+_var215	LogisticRegression
+_var216	list[Unknown]
+_var217	dict[str, list[Unknown]]
+_var218	list[str]
+_var219	str
+_var220	str
+_var210	Unknown
+_var211	Unknown
+_var212	Unknown
+_var213	Unknown
+_var214	Unknown
+do_classify	(clf_14: Unknown, parameters_0: Unknown, indf: Unknown, featurenames: Unknown, targetname: Unknown, target1val: Unknown, standardize: Unknown = False, train_size: Unknown = 0.8) -> tuple[Unknown, Unknown, Unknown, Unknown, Unknown]
+clf_l	Unknown
+Xtrain_l	Unknown
+ytrain_l	Unknown
+Xtest_l	Unknown
+ytest_l	Unknown
+ax_2	Unknown
+_var221	float
+ax_3	Unknown
+_var222	int
+_var223	float
+points_plot_prob	(ax_0: Unknown, Xtr_0: Unknown, Xte_0: Unknown, ytr_0: Unknown, yte_0: Unknown, clf_0: Unknown, colorscale_0: Unknown = cmap_light, cdiscrete_0: Unknown = cmap_bold, ccolor: Unknown = cm, psize_0: Unknown = 10, alpha_0: Unknown = 0.1) -> Unknown

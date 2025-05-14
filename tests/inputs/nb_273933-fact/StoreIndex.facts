@@ -1,0 +1,16 @@
+_var127	0	_var123
+_var127	1	_var126
+_var143	0	_var133
+_var143	1	_var134
+_var143	2	_var136
+_var143	3	_var138
+_var143	4	_var140
+_var143	5	_var142
+_var145	0	clf_A
+_var145	1	clf_B
+_var145	2	clf_C
+_var153	nomeModelo	nomeModelo
+_var153	scoreTrain	scoreTrain
+_var153	scoreTeste	scoreTeste
+_var153	nObs	nObs
+parameters	n_neighbors	_var157

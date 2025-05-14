@@ -1,0 +1,82 @@
+$invo0	setattr	set_field_wrapper
+$invo1	setattr	set_index_wrapper
+$invo2	str	
+$invo3	StringIO	
+$invo4	pandas.read_csv	
+$invo5	pandas.DataFrame.dropna	
+$invo6	pandas.DataFrame.dropna	
+$invo7	Imputer	
+$invo8	SimpleImputer.fit	
+$invo9	SimpleImputer.transform	
+$invo10	pandas.DataFrame	
+$invo11	Unknown.map	
+$invo12	Unknown.map	
+$invo13	pandas.read_csv	
+$invo14	train_test_split	
+$invo15	MinMaxScaler	
+$invo16	MinMaxScaler.fit_transform	
+$invo17	MinMaxScaler.transform	
+$invo18	StandardScaler	
+$invo19	StandardScaler.fit_transform	
+$invo20	StandardScaler.transform	
+$invo21	LogisticRegression	
+$invo22	LogisticRegression.fit	
+$invo23	LogisticRegression.score	
+$invo24	LogisticRegression.score	
+$invo25	Unknown.figure	
+$invo26	Unknown.subplot	
+$invo27	numpy.arange	
+$invo28	LogisticRegression	
+$invo29	LogisticRegression.fit	
+$invo30	list[Unknown].append	
+$invo31	list[Unknown].append	
+$invo32	numpy.array	
+$invo33	range	
+$invo34	list	
+$invo35	zip	
+$invo36	Unknown.plot	
+$invo37	Unknown.axhline	
+$invo38	Unknown.xlim	
+$invo39	Unknown.ylabel	
+$invo40	Unknown.xlabel	
+$invo41	Unknown.xscale	
+$invo42	Unknown.legend	
+$invo43	Unknown.legend	
+$invo44	Unknown.show	
+$invo45	clone	SBS
+$invo46	train_test_split	SBS.fit
+$invo47	numpy.shape	SBS.fit
+$invo48	range	SBS.fit
+$invo49	tuple	SBS.fit
+$invo50	SBS.calScore	SBS.fit
+$invo51	combinations	SBS.fit
+$invo52	SBS.calScore	SBS.fit
+$invo53	list[Unknown].append	SBS.fit
+$invo54	list[Unknown].append	SBS.fit
+$invo55	numpy.argmax	SBS.fit
+$invo56	Unknown.append	SBS.fit
+$invo57	Unknown.append	SBS.fit
+$invo58	Unknown.fit	SBS.calScore
+$invo59	Unknown.predict	SBS.calScore
+$invo60	SBS.scoring	SBS.calScore
+$invo61	clone	SBS
+$invo62	train_test_split	SBS.fit
+$invo63	range	SBS.fit
+$invo64	tuple	SBS.fit
+$invo65	SBS._calc_score	SBS.fit
+$invo66	combinations	SBS.fit
+$invo67	SBS._calc_score	SBS.fit
+$invo68	list[Unknown].append	SBS.fit
+$invo69	list[Unknown].append	SBS.fit
+$invo70	numpy.argmax	SBS.fit
+$invo71	Unknown.append	SBS.fit
+$invo72	Unknown.append	SBS.fit
+$invo73	Unknown.fit	SBS._calc_score
+$invo74	Unknown.predict	SBS._calc_score
+$invo75	SBS.scoring	SBS._calc_score
+$invo76	KNeighborsClassifier	
+$invo77	SBS	
+$invo78	SBS.fit	
+$invo79	Unknown.figure	
+$invo80	Unknown.plot	
+$invo81	Unknown.show	

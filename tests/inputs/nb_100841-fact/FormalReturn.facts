@@ -1,0 +1,14 @@
+0	__phi__	phi_0
+0	__phi__	phi_1
+0	set_field_wrapper	base
+0	set_index_wrapper	base
+0	global_wrapper	x
+0	splitIntoTokens	_var2
+0	splitIntoLemmas	_var4
+0	hasUrl	_var8
+0	hasUrl	_var9
+0	splitIntoWords	_var19
+0	searchBestModelParameters._func0	_var35
+0	searchBestModelParameters._func1	_var38
+0	searchBestModelParameters	_var39
+0	_func2	_var170

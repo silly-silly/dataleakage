@@ -1,0 +1,4 @@
+_var159	X_train	$invo71	AdaBoostClassifier.fit	[, ]
+clf_1	X_train_reduced	$invo92	Unknown | Any | dict[Unknown | Any, Unknown | dict[Unknown | Any, Unknown] | Any | type] | type.fit	[, ]
+learner_0	train_data	$invo46	Unknown.fit	[, $invo65]
+grid_fit	X_train	$invo70	GridSearchCV.fit	[, ]

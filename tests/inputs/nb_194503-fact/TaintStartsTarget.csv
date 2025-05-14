@@ -1,0 +1,2 @@
+sc	[, ]	X	[, ]	$invo12	StandardScaler.fit_transform	rowset
+Xsc	[, ]	X	[, ]	$invo12	StandardScaler.fit_transform	rowset

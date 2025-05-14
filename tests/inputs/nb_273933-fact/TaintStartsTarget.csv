@@ -1,0 +1,5 @@
+medias0	[, ]	X_all_0	[, ]	$invo46	pandas.DataFrame.mean	rowset
+desvios0	[, ]	X_all_0	[, ]	$invo47	pandas.DataFrame.std	rowset
+X_all_1	[, ]	X_all_0	[, ]	$invo58	sklearn.preprocessing.scale	rowset
+_var110	[, ]	_var109	[, ]	$invo76	Unknown.mean	rowset
+_var117	[, ]	_var116	[, ]	$invo79	Unknown.mean	rowset

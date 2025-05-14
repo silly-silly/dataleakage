@@ -1,0 +1,5 @@
+cnn_0	X_test_images	$invo179	Unknown.evaluate	[, ]
+model_12	X_pre	$invo430	Unknown.predict	[, ]
+lr	X_train_3	$invo436	LogisticRegressionCV.score	[, ]
+lr	X_test_3	$invo438	LogisticRegressionCV.score	[, ]
+lr	X_test_3	$invo440	LogisticRegressionCV.predict	[, ]

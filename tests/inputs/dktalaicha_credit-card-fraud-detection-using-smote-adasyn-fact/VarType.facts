@@ -1,0 +1,1468 @@
+phi_0	Unknown
+phi_1	Unknown
+base	Unknown
+attr	Unknown
+value	Unknown
+setattr	(__obj: object, __name: str, __value: Any) -> None
+x	Unknown
+_var0	str
+_var1	str
+_var2	str
+print	(*values: object, sep: str | None = ..., end: str | None = ..., file: SupportsWrite[str] | None = ..., flush: bool = ...) -> None
+_var3	Any
+_var4	str
+_var5	Unknown
+matplotlib	Unknown
+_var6	str
+_var7	Unknown
+sns	Unknown
+_var8	str
+_var9	str
+_var10	str
+_var11	Unknown
+plotly	Unknown
+_var12	str
+_var13	Unknown
+get_ipython	Unknown
+_var14	str
+_var15	str
+_var16	str
+_var17	str
+_var18	str
+_var19	str
+df	pandas.DataFrame
+encoding	str | None
+_var20	Index
+_var21	Unknown
+_var22	Unknown
+df_0	pandas.DataFrame
+set_field_wrapper	(base: Unknown, attr: Unknown, value: Unknown) -> Unknown
+_var23	DictWrapper
+_var24	DictWrapper | Any
+_var25	int
+_var24_0	DictWrapper | Any
+_var26	DictWrapper
+_var27	DictWrapper | Any
+_var28	int
+_var27_0	DictWrapper | Any
+_var29	int
+_var30	str
+_var31	Unknown
+_var32	Unknown
+_var33	str
+_var34	str
+_var35	Unknown
+_var36	bool
+_var37	Unknown
+_var38	str
+_var39	Unknown
+_var40	Unknown
+_var41	str
+_var42	list[Unknown]
+_var43	int
+_var44	int
+_var45	tuple[int, int]
+_var46	str
+_var47	bool
+_var48	str
+_var49	int
+plt	Unknown
+_var50	list[str]
+_var51	list[str]
+_var52	Unknown
+_var53	pandas.DataFrame
+_var54	Any
+_var55	int
+_var56	int
+_var57	tuple[int, int]
+_var58	str
+_var59	int
+_var60	str
+_var61	Unknown
+_var62	int
+_var65	int
+_var66	int
+_var67	int
+_var68	tuple[int, int]
+_var63	Unknown
+_var64	Unknown
+fig	Unknown
+axs	Unknown
+_var69	str
+_var70	Unknown
+_var71	int
+_var72	Unknown
+_var73	Unknown
+_var74	str
+_var75	Unknown
+_var76	int
+_var77	int
+_var78	Unknown
+_var79	int
+_var80	Unknown
+_var81	str
+_var82	str
+_var83	Unknown
+_var84	int
+_var85	Unknown
+_var86	Unknown
+_var87	str
+_var88	Unknown
+_var89	int
+_var90	int
+_var91	Unknown
+_var92	int
+_var93	Unknown
+_var94	str
+_var95	str
+_var96	str
+_var97	Unknown
+_var98	int
+_var99	Unknown
+_var100	Unknown
+_var101	str
+_var102	Unknown
+_var103	Unknown
+_var104	Unknown
+_var105	tuple[str, Unknown]
+_var106	str
+_var107	str
+_var108	str
+_var109	Unknown
+_var110	int
+_var111	Unknown
+_var112	Unknown
+_var113	str
+_var114	Unknown
+_var115	Unknown
+_var116	tuple[str, Unknown]
+_var117	str
+_var118	str
+_var119	Unknown
+_var120	int
+_var121	Unknown
+_var122	Unknown
+_var123	str
+_var124	Unknown
+_var125	Unknown
+_var126	tuple[str, Unknown]
+_var127	str
+_var128	str
+_var129	Unknown
+_var130	int
+_var131	Unknown
+_var132	Unknown
+_var133	str
+_var134	Unknown
+_var135	Unknown
+_var136	Unknown
+_var137	tuple[str, Unknown]
+_var138	str
+_var139	str
+_var140	str
+_var141	Unknown
+_var142	int
+_var143	Unknown
+_var144	Unknown
+_var145	str
+_var146	Unknown
+_var147	Unknown
+_var148	tuple[str, Unknown]
+_var149	str
+_var150	str
+_var151	Unknown
+_var152	int
+_var153	Unknown
+_var154	Unknown
+_var155	str
+_var156	Unknown
+_var157	Unknown
+_var158	tuple[str, Unknown]
+_var159	int
+_var160	int
+_var161	tuple[int, int]
+_var162	str
+_var163	str
+_var164	str
+_var165	int
+_var166	int
+_var167	tuple[int, int]
+_var168	str
+_var169	int
+_var170	str
+_var171	Unknown
+_var172	int
+_var175	int
+_var176	int
+_var177	int
+_var178	tuple[int, int]
+_var173	Unknown
+_var174	Unknown
+fig_0	Unknown
+axs_0	Unknown
+_var179	str
+_var180	Unknown
+_var181	int
+_var182	Unknown
+_var183	Unknown
+_var184	str
+_var185	Unknown
+_var186	int
+_var187	str
+_var188	int
+_var189	Unknown
+_var190	int
+_var191	Unknown
+_var192	str
+_var193	str
+_var194	Unknown
+_var195	int
+_var196	Unknown
+_var197	Unknown
+_var198	str
+_var199	Unknown
+_var200	int
+_var201	str
+_var202	int
+_var203	Unknown
+_var204	int
+_var205	Unknown
+_var206	str
+_var207	int
+_var208	int
+_var209	tuple[int, int]
+_var210	str
+_var211	str
+ax	Unknown
+_var212	Unknown
+_var213	int
+_var214	Unknown
+_var215	str
+_var216	Unknown
+_var217	int
+_var218	Unknown
+_var219	str
+_var220	str
+_var223	int
+_var224	bool
+_var225	int
+_var226	int
+_var227	tuple[int, int]
+_var221	Unknown
+_var222	Unknown
+fig_1	Unknown
+axs_1	Unknown
+_var228	str
+_var229	str
+_var230	str
+_var231	Unknown
+_var232	int
+_var233	Unknown
+_var234	Unknown
+_var235	int
+_var236	Unknown
+_var237	int
+_var238	Unknown
+_var239	str
+_var240	str
+_var241	str
+_var242	str
+_var243	Unknown
+_var244	int
+_var245	Unknown
+_var246	Unknown
+_var247	int
+_var248	Unknown
+_var249	int
+_var250	Unknown
+_var251	str
+_var252	list[str]
+_var253	Unknown
+_var254	str
+_var255	str
+_var256	str
+_var257	str
+_var258	str
+_var259	str
+_var260	str
+fig_2	Unknown
+px	Unknown
+_var261	list[str]
+_var262	Unknown
+_var263	Unknown
+_var264	str
+_var265	Unknown
+_var266	bool
+_var267	Unknown
+_var268	int
+_var269	str
+_var270	list[str]
+_var271	Unknown
+_var272	Unknown
+_var273	float
+_var274	float
+_var275	bool
+_var276	str
+_var277	str
+_var278	bool
+_var279	str
+_var280	Unknown
+_var281	bool
+_var282	str
+_var283	str
+_var284	Unknown
+sec	Unknown
+_var285	int
+_var286	Unknown
+_var287	Unknown
+_func0	(sec: Unknown) -> Unknown
+df_1	pandas.DataFrame
+set_index_wrapper	(base: Unknown, attr: Unknown, value: Unknown) -> Unknown
+_var288	str
+_var289	str
+_var290	Unknown
+_var291	int
+_var292	Unknown
+df_2	pandas.DataFrame
+_var293	str
+_var294	str
+_var295	Unknown
+_var296	int
+_var297	Unknown
+_func1	(x: Unknown) -> int
+df_3	pandas.DataFrame
+_var298	str
+_var299	str
+_var300	Unknown
+_var301	int
+_var302	Unknown
+df_4	pandas.DataFrame
+_var303	str
+_var304	str
+_var305	Unknown
+x_0	Unknown
+_var306	int
+_var307	Unknown
+_var308	int
+_var309	int
+_var310	int
+_var311	Unknown
+_func2	(x_0: Unknown) -> int
+df_5	pandas.DataFrame
+_var312	list[str]
+_var313	str
+_var314	Unknown
+_var315	int
+_var316	Unknown
+_var317	Unknown
+_var318	str
+_var319	Unknown
+dayFrdTran	Unknown
+_var320	str
+_var321	Unknown
+_var322	int
+_var323	Unknown
+_var324	Unknown
+_var325	str
+_var326	Unknown
+dayGenuTran	Unknown
+_var327	str
+_var328	Unknown
+dayTran	Unknown
+_var329	str
+_var330	str
+_var331	str
+_var332	str
+_var333	str
+_var334	str
+_var335	str
+_var336	Unknown
+_var337	int
+_var338	Unknown
+_var341	int
+_var342	int
+_var343	int
+_var344	tuple[int, int]
+_var339	Unknown
+_var340	Unknown
+fig_3	Unknown
+axs_2	Unknown
+_var345	str
+_var346	Unknown
+_var347	int
+_var348	Unknown
+_var349	int
+_var350	Unknown
+_var351	str
+_var352	str
+_var353	Unknown
+_var354	int
+_var355	Unknown
+_var356	Unknown
+_var357	str
+_var358	Unknown
+_var359	int
+_var360	Unknown
+_var361	int
+_var362	Unknown
+_var363	str
+_var364	str
+_var365	Unknown
+_var366	int
+_var367	Unknown
+_var368	Unknown
+_var369	str
+_var370	Unknown
+_var371	int
+_var372	Unknown
+_var373	int
+_var374	Unknown
+_var375	str
+_var378	int
+_var379	int
+_var380	int
+_var381	int
+_var382	tuple[int, int]
+_var376	Unknown
+_var377	Unknown
+fig_4	Unknown
+axs_3	Unknown
+_var383	str
+_var384	Unknown
+_var385	int
+_var386	Unknown
+_var387	Unknown
+_var388	str
+_var389	Unknown
+_var390	Unknown
+_var391	str
+_var392	int
+_var393	Unknown
+_var394	int
+_var395	Unknown
+_var396	str
+_var397	str
+_var398	Unknown
+_var399	int
+_var400	Unknown
+_var401	Unknown
+_var402	str
+_var403	Unknown
+_var404	Unknown
+_var405	str
+_var406	int
+_var407	Unknown
+_var408	int
+_var409	Unknown
+_var410	str
+_var411	str
+_var412	int
+_var413	int
+_var414	tuple[int, int]
+_var415	str
+_var416	Unknown
+_var417	int
+_var418	Unknown
+_var419	Unknown
+_var420	str
+_var421	Unknown
+_var422	str
+_var423	str
+_var424	Unknown
+_var425	int
+_var426	Unknown
+_var427	Unknown
+_var428	str
+_var429	Unknown
+_var430	str
+_var431	str
+_var432	int
+_var433	list[int]
+_var434	int
+_var435	int
+_var436	tuple[int, int]
+_var437	list[str]
+_var438	Unknown
+_var439	str
+_var440	Unknown
+_var441	Unknown
+_var442	str
+_var443	Unknown
+_var444	int
+_var445	int
+_var446	tuple[int, int]
+figsize	tuple[int, int] | None
+_var447	bool
+_var448	bool
+inplace	bool
+drop	bool
+_var449	str
+_var450	Any
+_var451	float
+_var452	Any
+_var453	Any
+df_6	pandas.DataFrame
+ss	StandardScaler
+StandardScaler	Type[StandardScaler]
+_var454	str
+_var455	str
+_var456	Unknown
+_var457	Unknown
+_var458	int
+_var459	int
+_var460	Unknown
+_var461	Unknown
+df_7	pandas.DataFrame
+mm	MinMaxScaler
+MinMaxScaler	Type[MinMaxScaler]
+_var462	str
+_var463	str
+_var464	Unknown
+_var465	Unknown
+_var466	int
+_var467	int
+_var468	Unknown
+_var469	Unknown
+df_8	pandas.DataFrame
+_var472	int
+_var473	int
+_var474	int
+_var475	int
+_var476	tuple[int, int]
+_var470	Unknown
+_var471	Unknown
+fig_5	Unknown
+axs_4	Unknown
+_var477	str
+_var478	str
+_var479	int
+_var480	Unknown
+_var481	int
+_var482	Unknown
+_var483	str
+_var484	str
+_var485	str
+_var486	int
+_var487	Unknown
+_var488	int
+_var489	Unknown
+_var490	str
+_var491	str
+_var492	str
+_var493	int
+_var494	Unknown
+_var495	int
+_var496	Unknown
+_var497	str
+_var498	str
+_var499	str
+_var500	int
+_var501	Unknown
+_var502	int
+_var503	Unknown
+_var504	str
+_var505	list[str]
+CreditCardFraudDataCleaned	pandas.DataFrame
+_var506	str
+_var507	str
+fileWriteStream	BufferedWriter
+open	Overload[(file: _OpenFile, mode: OpenTextMode = ..., buffering: int = ..., encoding: str | None = ..., errors: str | None = ..., newline: str | None = ..., closefd: bool = ..., opener: _Opener | None = ...) -> TextIOWrapper, (file: _OpenFile, mode: OpenBinaryMode, buffering: int, encoding: None = ..., errors: None = ..., newline: None = ..., closefd: bool = ..., opener: _Opener | None = ...) -> FileIO, (file: _OpenFile, mode: OpenBinaryModeUpdating, buffering: Literal[-1, 1] = ..., encoding: None = ..., errors: None = ..., newline: None = ..., closefd: bool = ..., opener: _Opener | None = ...) -> BufferedRandom, (file: _OpenFile, mode: OpenBinaryModeWriting, buffering: Literal[-1, 1] = ..., encoding: None = ..., errors: None = ..., newline: None = ..., closefd: bool = ..., opener: _Opener | None = ...) -> BufferedWriter, (file: _OpenFile, mode: OpenBinaryModeReading, buffering: Literal[-1, 1] = ..., encoding: None = ..., errors: None = ..., newline: None = ..., closefd: bool = ..., opener: _Opener | None = ...) -> BufferedReader, (file: _OpenFile, mode: OpenBinaryMode, buffering: int, encoding: None = ..., errors: None = ..., newline: None = ..., closefd: bool = ..., opener: _Opener | None = ...) -> BinaryIO, (file: _OpenFile, mode: str, buffering: int = ..., encoding: str | None = ..., errors: str | None = ..., newline: str | None = ..., closefd: bool = ..., opener: _Opener | None = ...) -> IO[Any]]
+_var508	str
+_var509	str
+_var510	tuple[str, str]
+_var511	str
+_var512	str
+fileReadStream	BufferedReader
+CreditCardFraudDataFromPickle	Any
+df_9	Any
+_var513	list[str]
+_var514	int
+X	Any
+_var515	str
+y	Any
+_var520	float
+_var521	bool
+_var522	int
+_var516	Any
+_var517	Any
+_var518	Any
+_var519	Any
+train_test_split	(*arrays: Unknown, test_size: Unknown = None, train_size: Unknown = None, random_state: Unknown = None, shuffle: Unknown = True, stratify: Unknown = None) -> list[Unknown | NDArray[_SCT@array] | list[Unknown]]
+test_size	float
+shuffle	bool
+random_state	int
+X_train	Any
+X_test	Any
+y_train	Any
+y_test	Any
+_var523	str
+_var524	Any
+_var525	tuple[str, Any]
+_var526	str
+_var527	Any
+_var528	tuple[str, Any]
+_var529	str
+_var530	Any
+_var531	tuple[str, Any]
+_var532	str
+_var533	Any
+_var534	tuple[str, Any]
+_var539	float
+_var540	bool
+_var541	int
+_var535	Any
+_var536	Any
+_var537	Any
+_var538	Any
+X_train_0	Any
+X_test_0	Any
+y_train_0	Any
+y_test_0	Any
+logreg	LogisticRegression
+LogisticRegression	Type[LogisticRegression]
+logreg_0	Self@LogisticRegression
+y_pred	Unknown | Any
+_var542	dict[Unknown, Unknown] | str
+_var543	str
+_var544	floating[Any] | Any | Unknown
+_var545	str
+_var546	str
+_var547	floating[Any] | Unknown | Any | NDArray[float64] | Literal[0]
+_var548	str
+_var549	str
+_var550	Unknown
+_var551	str
+_var552	str
+_var553	Unknown
+_var554	str
+_var555	str
+_var556	Unknown
+_var557	str
+_var558	str
+_var559	pandas.Series
+_var560	pandas.Series
+_var561	int
+_var562	int
+cnf_matrix	NDArray[Any] | NDArray[_SCT@nan_to_num]
+_var563	pandas.DataFrame
+_var564	bool
+_var565	dict[str, int]
+_var566	str
+_var567	str
+p	Unknown
+_var568	str
+_var569	float
+_var570	int
+_var571	str
+_var572	int
+_var573	str
+_var574	int
+_var575	int
+_var576	int
+y_pred_proba	NDArray[_SCT@vstack] | Any | Unknown
+_var577	int
+_var578	int
+_var579	tuple[int, int]
+_var580	NDArray[Any] | Any
+_var581	NDArray[Any] | Any
+_var582	Any
+fpr	NDArray[Any] | Any
+tpr	NDArray[Any] | Any
+thresholds	Any
+auc	floating[Any] | Unknown | Any | NDArray[float64] | Literal[0]
+_var583	str
+_var584	str
+_var585	tuple[str, floating[Any] | Unknown | Any | NDArray[float64] | Literal[0], str]
+_var586	int
+_var587	str
+_var588	str
+_var589	str
+_var590	int
+_var591	list[int]
+_var592	list[int]
+_var593	str
+_var594	Unknown
+_var595	str
+_var596	int
+_var594_0	Unknown
+_var597	str
+_var598	str
+_var599	str
+_var600	str
+_var601	Counter[Unknown]
+Counter	Type[Counter[_T@Counter]]
+_var602	str
+_var603	int
+rus	RandomUnderSampler
+RandomUnderSampler	Type[RandomUnderSampler]
+_var604	Unknown | DataFrame | Series
+_var605	Unknown | DataFrame | Series
+X_res	Unknown | DataFrame | Series
+y_res	Unknown | DataFrame | Series
+_var606	str
+_var607	Counter[Unknown]
+_var608	str
+_var613	float
+_var614	bool
+_var615	int
+_var609	Unknown | DataFrame | Series
+_var610	Unknown | DataFrame | Series
+_var611	Unknown | DataFrame | Series
+_var612	Unknown | DataFrame | Series
+X_train_1	Unknown | DataFrame | Series
+X_test_1	Unknown | DataFrame | Series
+y_train_1	Unknown | DataFrame | Series
+y_test_1	Unknown | DataFrame | Series
+logreg_1	LogisticRegression
+logreg_2	Self@LogisticRegression
+y_pred_0	Unknown | Any
+_var616	str
+_var617	floating[Any] | Any | Unknown
+_var618	str
+_var619	str
+_var620	floating[Any] | Unknown | Any | NDArray[float64] | Literal[0]
+_var621	str
+_var622	str
+_var623	Unknown
+_var624	str
+_var625	str
+_var626	Unknown
+_var627	str
+_var628	str
+_var629	Unknown
+_var630	str
+_var631	int
+_var632	int
+_var633	tuple[int, int]
+_var634	NDArray[Any] | Any
+_var635	NDArray[Any] | Any
+_var636	Any
+fpr_0	NDArray[Any] | Any
+tpr_0	NDArray[Any] | Any
+thresholds_0	Any
+auc_0	floating[Any] | Unknown | Any | NDArray[float64] | Literal[0]
+_var637	str
+_var638	str
+_var639	tuple[str, floating[Any] | Unknown | Any | NDArray[float64] | Literal[0], str]
+_var640	int
+_var641	str
+_var642	str
+_var643	str
+_var644	int
+_var645	list[int]
+_var646	list[int]
+_var647	str
+_var648	Unknown
+_var649	str
+_var650	int
+_var648_0	Unknown
+_var651	str
+_var652	str
+_var653	str
+cnf_matrix_0	NDArray[Any] | NDArray[_SCT@nan_to_num]
+_var654	pandas.DataFrame
+_var655	bool
+_var656	dict[str, int]
+_var657	str
+_var658	str
+_var659	str
+_var660	float
+_var661	int
+_var662	str
+_var663	int
+_var664	str
+_var665	int
+_var666	str
+_var667	Counter[Unknown]
+_var668	str
+ros	RandomOverSampler
+RandomOverSampler	Type[RandomOverSampler]
+_var669	Unknown | DataFrame | Series
+_var670	Unknown | DataFrame | Series
+X_res_0	Unknown | DataFrame | Series
+y_res_0	Unknown | DataFrame | Series
+_var671	str
+_var672	Counter[Unknown]
+_var673	str
+_var678	float
+_var679	bool
+_var680	int
+_var674	Unknown | DataFrame | Series
+_var675	Unknown | DataFrame | Series
+_var676	Unknown | DataFrame | Series
+_var677	Unknown | DataFrame | Series
+X_train_2	Unknown | DataFrame | Series
+X_test_2	Unknown | DataFrame | Series
+y_train_2	Unknown | DataFrame | Series
+y_test_2	Unknown | DataFrame | Series
+logreg_3	LogisticRegression
+logreg_4	Self@LogisticRegression
+y_pred_1	Unknown | Any
+_var681	str
+_var682	floating[Any] | Any | Unknown
+_var683	str
+_var684	str
+_var685	floating[Any] | Unknown | Any | NDArray[float64] | Literal[0]
+_var686	str
+_var687	str
+_var688	Unknown
+_var689	str
+_var690	str
+_var691	Unknown
+_var692	str
+_var693	str
+_var694	Unknown
+_var695	str
+_var696	int
+_var697	int
+_var698	tuple[int, int]
+_var699	NDArray[Any] | Any
+_var700	NDArray[Any] | Any
+_var701	Any
+fpr_1	NDArray[Any] | Any
+tpr_1	NDArray[Any] | Any
+thresholds_1	Any
+auc_1	floating[Any] | Unknown | Any | NDArray[float64] | Literal[0]
+_var702	str
+_var703	str
+_var704	tuple[str, floating[Any] | Unknown | Any | NDArray[float64] | Literal[0], str]
+_var705	int
+_var706	str
+_var707	str
+_var708	str
+_var709	int
+_var710	list[int]
+_var711	list[int]
+_var712	str
+_var713	Unknown
+_var714	str
+_var715	int
+_var713_0	Unknown
+_var716	str
+_var717	str
+_var718	str
+cnf_matrix_1	NDArray[Any] | NDArray[_SCT@nan_to_num]
+_var719	pandas.DataFrame
+_var720	bool
+_var721	dict[str, int]
+_var722	str
+_var723	str
+_var724	str
+_var725	float
+_var726	int
+_var727	str
+_var728	int
+_var729	str
+_var730	int
+_var731	str
+_var732	Counter[Unknown]
+_var733	str
+_var734	int
+smote	SMOTE
+SMOTE	Type[SMOTE]
+_var735	Unknown | DataFrame | Series
+_var736	Unknown | DataFrame | Series
+X_res_1	Unknown | DataFrame | Series
+y_res_1	Unknown | DataFrame | Series
+_var737	str
+_var738	Counter[Unknown]
+_var739	str
+_var744	float
+_var745	bool
+_var746	int
+_var740	Unknown | DataFrame | Series
+_var741	Unknown | DataFrame | Series
+_var742	Unknown | DataFrame | Series
+_var743	Unknown | DataFrame | Series
+X_train_3	Unknown | DataFrame | Series
+X_test_3	Unknown | DataFrame | Series
+y_train_3	Unknown | DataFrame | Series
+y_test_3	Unknown | DataFrame | Series
+_var747	int
+logreg_5	LogisticRegression
+max_iter	int
+logreg_6	Self@LogisticRegression
+y_pred_2	Unknown | Any
+_var748	str
+_var749	floating[Any] | Any | Unknown
+_var750	str
+_var751	str
+_var752	floating[Any] | Unknown | Any | NDArray[float64] | Literal[0]
+_var753	str
+_var754	str
+_var755	Unknown
+_var756	str
+_var757	str
+_var758	Unknown
+_var759	str
+_var760	str
+_var761	Unknown
+_var762	str
+_var763	int
+_var764	int
+_var765	tuple[int, int]
+_var766	NDArray[Any] | Any
+_var767	NDArray[Any] | Any
+_var768	Any
+fpr_2	NDArray[Any] | Any
+tpr_2	NDArray[Any] | Any
+thresholds_2	Any
+auc_2	floating[Any] | Unknown | Any | NDArray[float64] | Literal[0]
+_var769	str
+_var770	str
+_var771	tuple[str, floating[Any] | Unknown | Any | NDArray[float64] | Literal[0], str]
+_var772	int
+_var773	str
+_var774	str
+_var775	str
+_var776	int
+_var777	list[int]
+_var778	list[int]
+_var779	str
+_var780	Unknown
+_var781	str
+_var782	int
+_var780_0	Unknown
+_var783	str
+_var784	str
+_var785	str
+cnf_matrix_2	NDArray[Any] | NDArray[_SCT@nan_to_num]
+_var786	pandas.DataFrame
+_var787	bool
+_var788	dict[str, int]
+_var789	str
+_var790	str
+_var791	str
+_var792	float
+_var793	int
+_var794	str
+_var795	int
+_var796	str
+_var797	int
+_var798	str
+_var799	Counter[Unknown]
+_var800	str
+_var801	int
+adasyn	ADASYN
+ADASYN	Type[ADASYN]
+_var802	Unknown | DataFrame | Series
+_var803	Unknown | DataFrame | Series
+X_res_2	Unknown | DataFrame | Series
+y_res_2	Unknown | DataFrame | Series
+_var804	str
+_var805	Counter[Unknown]
+_var806	str
+_var811	float
+_var812	bool
+_var813	int
+_var807	Unknown | DataFrame | Series
+_var808	Unknown | DataFrame | Series
+_var809	Unknown | DataFrame | Series
+_var810	Unknown | DataFrame | Series
+X_train_4	Unknown | DataFrame | Series
+X_test_4	Unknown | DataFrame | Series
+y_train_4	Unknown | DataFrame | Series
+y_test_4	Unknown | DataFrame | Series
+logreg_7	LogisticRegression
+logreg_8	Self@LogisticRegression
+y_pred_3	Unknown | Any
+_var814	str
+_var815	floating[Any] | Any | Unknown
+_var816	str
+_var817	str
+_var818	floating[Any] | Unknown | Any | NDArray[float64] | Literal[0]
+_var819	str
+_var820	str
+_var821	Unknown
+_var822	str
+_var823	str
+_var824	Unknown
+_var825	str
+_var826	str
+_var827	Unknown
+_var828	str
+_var829	int
+_var830	int
+_var831	tuple[int, int]
+_var832	NDArray[Any] | Any
+_var833	NDArray[Any] | Any
+_var834	Any
+fpr_3	NDArray[Any] | Any
+tpr_3	NDArray[Any] | Any
+thresholds_3	Any
+auc_3	floating[Any] | Unknown | Any | NDArray[float64] | Literal[0]
+_var835	str
+_var836	str
+_var837	tuple[str, floating[Any] | Unknown | Any | NDArray[float64] | Literal[0], str]
+_var838	int
+_var839	str
+_var840	str
+_var841	str
+_var842	int
+_var843	list[int]
+_var844	list[int]
+_var845	str
+_var846	Unknown
+_var847	str
+_var848	int
+_var846_0	Unknown
+_var849	str
+_var850	str
+_var851	str
+cnf_matrix_3	NDArray[Any] | NDArray[_SCT@nan_to_num]
+_var852	pandas.DataFrame
+_var853	bool
+_var854	dict[str, int]
+_var855	str
+_var856	str
+_var857	str
+_var858	float
+_var859	int
+_var860	str
+_var861	int
+_var862	str
+_var863	int
+_var864	int
+_var865	int
+_var866	PCA
+PCA	Type[PCA]
+n_components	int | None
+X_reduced_pca_im	Unknown
+_var867	int
+_var868	int
+_var869	tuple[int, int]
+_var870	int
+_var871	Unknown
+_var872	int
+_var873	Unknown
+_var874	int
+_var875	Any
+_var876	str
+_var877	str
+_var878	int
+_var879	int
+_var880	Unknown
+_var881	int
+_var882	Unknown
+_var883	int
+_var884	Any
+_var885	str
+_var886	str
+_var887	int
+_var888	str
+_var889	int
+_var890	int
+_var891	PCA
+X_reduced_pca	Unknown
+_var892	int
+_var893	int
+_var894	tuple[int, int]
+_var895	int
+_var896	Unknown
+_var897	int
+_var898	Unknown
+_var899	int
+_var900	Unknown | _NotImplementedType
+_var901	str
+_var902	str
+_var903	int
+_var904	int
+_var905	Unknown
+_var906	int
+_var907	Unknown
+_var908	int
+_var909	Unknown | _NotImplementedType
+_var910	str
+_var911	str
+_var912	int
+_var913	str
+_var914	str
+_var915	Counter[Unknown]
+_var916	str
+_var917	int
+rus_0	RandomUnderSampler
+_var918	Unknown | DataFrame | Series
+_var919	Unknown | DataFrame | Series
+X_under	Unknown | DataFrame | Series
+y_under	Unknown | DataFrame | Series
+_var920	str
+_var921	Counter[Unknown]
+_var922	str
+_var927	bool
+_var928	float
+_var929	int
+_var923	Unknown | DataFrame | Series
+_var924	Unknown | DataFrame | Series
+_var925	Unknown | DataFrame | Series
+_var926	Unknown | DataFrame | Series
+X_train_under	Unknown | DataFrame | Series
+X_test_under	Unknown | DataFrame | Series
+y_train_under	Unknown | DataFrame | Series
+y_test_under	Unknown | DataFrame | Series
+_var930	str
+_var931	Counter[Unknown]
+_var932	str
+_var933	int
+ros_0	RandomOverSampler
+_var934	Unknown | DataFrame | Series
+_var935	Unknown | DataFrame | Series
+X_over	Unknown | DataFrame | Series
+y_over	Unknown | DataFrame | Series
+_var936	str
+_var937	Counter[Unknown]
+_var938	str
+_var943	float
+_var944	bool
+_var945	int
+_var939	Unknown | DataFrame | Series
+_var940	Unknown | DataFrame | Series
+_var941	Unknown | DataFrame | Series
+_var942	Unknown | DataFrame | Series
+X_train_over	Unknown | DataFrame | Series
+X_test_over	Unknown | DataFrame | Series
+y_train_over	Unknown | DataFrame | Series
+y_test_over	Unknown | DataFrame | Series
+_var946	str
+_var947	Counter[Unknown]
+_var948	str
+_var949	int
+smote_0	SMOTE
+_var950	Unknown | DataFrame | Series
+_var951	Unknown | DataFrame | Series
+X_smote	Unknown | DataFrame | Series
+y_smote	Unknown | DataFrame | Series
+_var952	str
+_var953	Counter[Unknown]
+_var954	str
+_var959	float
+_var960	bool
+_var961	int
+_var955	Unknown | DataFrame | Series
+_var956	Unknown | DataFrame | Series
+_var957	Unknown | DataFrame | Series
+_var958	Unknown | DataFrame | Series
+X_train_smote	Unknown | DataFrame | Series
+X_test_smote	Unknown | DataFrame | Series
+y_train_smote	Unknown | DataFrame | Series
+y_test_smote	Unknown | DataFrame | Series
+_var962	str
+_var963	Counter[Unknown]
+_var964	str
+_var965	int
+adasyn_0	ADASYN
+_var966	Unknown | DataFrame | Series
+_var967	Unknown | DataFrame | Series
+X_adasyn	Unknown | DataFrame | Series
+y_adasyn	Unknown | DataFrame | Series
+_var968	str
+_var969	Counter[Unknown]
+_var970	str
+_var975	float
+_var976	bool
+_var977	int
+_var971	Unknown | DataFrame | Series
+_var972	Unknown | DataFrame | Series
+_var973	Unknown | DataFrame | Series
+_var974	Unknown | DataFrame | Series
+X_train_adasyn	Unknown | DataFrame | Series
+X_test_adasyn	Unknown | DataFrame | Series
+y_train_adasyn	Unknown | DataFrame | Series
+y_test_adasyn	Unknown | DataFrame | Series
+names_lst	list[Unknown]
+aucs_train_lst	list[Unknown]
+accuracy_train_lst	list[Unknown]
+precision_train_lst	list[Unknown]
+recall_train_lst	list[Unknown]
+f1_train_lst	list[Unknown]
+aucs_test_lst	list[Unknown]
+accuracy_test_lst	list[Unknown]
+precision_test_lst	list[Unknown]
+recall_test_lst	list[Unknown]
+f1_test_lst	list[Unknown]
+models	Unknown
+_var978	int
+_var979	int
+_var980	tuple[int, int]
+_var981	Unknown
+_var986	int
+name	Unknown
+_var987	int
+model	Unknown
+_var988	int
+Xdata	Unknown
+_var989	int
+ydata	Unknown
+_var990	list[Unknown]
+global_wrapper	(x: Unknown) -> Unknown
+_var995	float
+_var996	bool
+_var997	int
+_var991	Unknown
+_var992	Unknown
+_var993	Unknown
+_var994	Unknown
+X_train_5	Unknown
+X_test_5	Unknown
+y_train_5	Unknown
+y_test_5	Unknown
+model_0	Unknown
+y_train_pred	Unknown
+y_test_pred	Unknown
+Accuracy_train	floating[Any] | Any | Unknown
+_var998	list[Unknown]
+Accuracy_test	floating[Any] | Any | Unknown
+_var999	list[Unknown]
+Aucs_train	floating[Any] | Unknown | Any | NDArray[float64] | Literal[0]
+_var1000	list[Unknown]
+Aucs_test	floating[Any] | Unknown | Any | NDArray[float64] | Literal[0]
+_var1001	list[Unknown]
+PrecisionScore_train	Unknown
+_var1002	list[Unknown]
+PrecisionScore_test	Unknown
+_var1003	list[Unknown]
+RecallScore_train	Unknown
+_var1004	list[Unknown]
+RecallScore_test	Unknown
+_var1005	list[Unknown]
+F1Score_train	Unknown
+_var1006	list[Unknown]
+F1Score_test	Unknown
+_var1007	list[Unknown]
+cnf_matrix_4	NDArray[Any] | NDArray[_SCT@nan_to_num]
+_var1008	str
+_var1009	tuple[str, Unknown]
+_var1010	str
+_var1011	str
+_var1012	str
+_var1013	str
+_var1014	str
+_var1015	str
+_var1016	str
+_var1017	str
+_var1018	str
+_var1019	str
+_var1020	str
+_var1021	str
+_var1022	str
+_var1023	str
+_var1024	str
+_var1025	str
+_var1026	str
+_var1027	str
+_var1028	str
+_var1029	str
+_var1030	str
+_var1031	tuple[str, NDArray[Any] | NDArray[_SCT@nan_to_num]]
+_var1032	str
+_var1033	NDArray[Any] | Any
+_var1034	NDArray[Any] | Any
+_var1035	Any
+fpr_4	NDArray[Any] | Any
+tpr_4	NDArray[Any] | Any
+thresholds_4	Any
+auc_4	floating[Any] | Unknown | Any | NDArray[float64] | Literal[0]
+_var1036	int
+_var1037	str
+_var1038	Unknown
+_var1039	str
+_var1040	Unknown
+thresholds_5	Any
+__phi__	(phi_0: Unknown, phi_1: Unknown) -> Unknown
+cnf_matrix_5	NDArray[Any] | NDArray[_SCT@nan_to_num]
+y_train_6	Unknown | DataFrame | Series
+y_test_6	Unknown | DataFrame | Series
+fpr_5	NDArray[Any] | Any
+auc_5	floating[Any] | Unknown | Any | NDArray[float64] | Literal[0]
+X_train_6	Unknown | DataFrame | Series
+tpr_5	NDArray[Any] | Any
+X_test_6	Unknown | DataFrame | Series
+_var1041	int
+_var1042	list[int]
+_var1043	list[int]
+_var1044	str
+_var1045	Unknown
+_var1046	str
+_var1047	int
+_var1045_0	Unknown
+_var1048	str
+_var1049	str
+_var1050	str
+LRmodels	list[Unknown]
+_var1051	str
+_var1052	str
+_var1053	str
+_var1054	LogisticRegression
+solver	str
+multi_class	str
+_var1055	tuple[str, LogisticRegression, Any, Any]
+_var1056	str
+_var1057	str
+_var1058	str
+_var1059	LogisticRegression
+_var1060	tuple[str, LogisticRegression, Unknown | DataFrame | Series, Unknown | DataFrame | Series]
+_var1061	str
+_var1062	str
+_var1063	str
+_var1064	LogisticRegression
+_var1065	tuple[str, LogisticRegression, Unknown | DataFrame | Series, Unknown | DataFrame | Series]
+_var1066	str
+_var1067	str
+_var1068	str
+_var1069	LogisticRegression
+_var1070	tuple[str, LogisticRegression, Unknown | DataFrame | Series, Unknown | DataFrame | Series]
+_var1071	str
+_var1072	str
+_var1073	str
+_var1074	LogisticRegression
+_var1075	tuple[str, LogisticRegression, Unknown | DataFrame | Series, Unknown | DataFrame | Series]
+build_measure_model	(models: Unknown) -> None
+DTmodels	list[Unknown]
+dt	DecisionTreeClassifier
+DecisionTreeClassifier	Type[DecisionTreeClassifier]
+_var1076	str
+_var1077	tuple[str, DecisionTreeClassifier, Any, Any]
+_var1078	str
+_var1079	tuple[str, DecisionTreeClassifier, Unknown | DataFrame | Series, Unknown | DataFrame | Series]
+_var1080	str
+_var1081	tuple[str, DecisionTreeClassifier, Unknown | DataFrame | Series, Unknown | DataFrame | Series]
+_var1082	str
+_var1083	tuple[str, DecisionTreeClassifier, Unknown | DataFrame | Series, Unknown | DataFrame | Series]
+_var1084	str
+_var1085	tuple[str, DecisionTreeClassifier, Unknown | DataFrame | Series, Unknown | DataFrame | Series]
+RFmodels	list[Unknown]
+_var1086	str
+_var1087	RandomForestClassifier
+RandomForestClassifier	Type[RandomForestClassifier]
+_var1088	tuple[str, RandomForestClassifier, Any, Any]
+_var1089	str
+_var1090	RandomForestClassifier
+_var1091	tuple[str, RandomForestClassifier, Unknown | DataFrame | Series, Unknown | DataFrame | Series]
+_var1092	str
+_var1093	RandomForestClassifier
+_var1094	tuple[str, RandomForestClassifier, Unknown | DataFrame | Series, Unknown | DataFrame | Series]
+_var1095	str
+_var1096	RandomForestClassifier
+_var1097	tuple[str, RandomForestClassifier, Unknown | DataFrame | Series, Unknown | DataFrame | Series]
+_var1098	str
+_var1099	RandomForestClassifier
+_var1100	tuple[str, RandomForestClassifier, Unknown | DataFrame | Series, Unknown | DataFrame | Series]
+NBmodels	list[Unknown]
+_var1101	str
+_var1102	GaussianNB
+GaussianNB	Type[GaussianNB]
+_var1103	tuple[str, GaussianNB, Any, Any]
+_var1104	str
+_var1105	GaussianNB
+_var1106	tuple[str, GaussianNB, Unknown | DataFrame | Series, Unknown | DataFrame | Series]
+_var1107	str
+_var1108	GaussianNB
+_var1109	tuple[str, GaussianNB, Unknown | DataFrame | Series, Unknown | DataFrame | Series]
+_var1110	str
+_var1111	GaussianNB
+_var1112	tuple[str, GaussianNB, Unknown | DataFrame | Series, Unknown | DataFrame | Series]
+_var1113	str
+_var1114	GaussianNB
+_var1115	tuple[str, GaussianNB, Unknown | DataFrame | Series, Unknown | DataFrame | Series]
+_var1116	list[Unknown]
+_var1117	list[Unknown]
+_var1118	list[Unknown]
+_var1119	list[Unknown]
+_var1120	list[Unknown]
+_var1121	list[Unknown]
+_var1122	list[Unknown]
+_var1123	list[Unknown]
+_var1124	list[Unknown]
+_var1125	list[Unknown]
+_var1126	list[Unknown]
+data	dict[str, list[Unknown]]
+_var1127	str
+performance_df	pandas.DataFrame
+_var1128	list[str]
+_var1129	bool
+ascending	bool
+_var1130	str
+_var1131	int
+_var1132	int
+YouTubeVideo	Unknown
+_var1133	list[str]
+_var1134	list[str]
+_var1135	list[Unknown]
+_var1136	list[int]
+_var1137	dict[str, Unknown]
+log_reg_params	tuple[dict[str, Unknown]]
+_var1138	LogisticRegression
+grid_log_reg	GridSearchCV
+GridSearchCV	Type[GridSearchCV]
+grid_log_reg_0	Self@BaseSearchCV
+_var1139	str
+_var1140	Unknown | Any
+_var1141	tuple[str, Unknown | Any]
+y_pred_lr	Any | Unknown
+_var1142	str
+_var1143	Unknown
+_var1144	str
+_var1145	int
+_var1146	int
+_var1147	int
+_var1148	range
+range	Type[range]
+_var1149	list[int]
+_var1150	list[str]
+knears_params	dict[str, Unknown]
+_var1151	KNeighborsClassifier
+KNeighborsClassifier	Type[KNeighborsClassifier]
+grid_knears	GridSearchCV
+grid_knears_0	Self@BaseSearchCV
+_var1152	str
+_var1153	Unknown | Any
+_var1154	tuple[str, Unknown | Any]
+y_pred_knn	Any | Unknown
+_var1155	str
+_var1156	Unknown
+_var1157	str
+_var1158	list[Unknown]
+_var1159	list[str]
+svc_params	dict[str, Unknown]
+_var1160	SVC
+SVC	Type[SVC]
+grid_svc	GridSearchCV
+grid_svc_0	Self@BaseSearchCV
+_var1161	str
+_var1162	Unknown | Any
+_var1163	tuple[str, Unknown | Any]
+y_pred_svc	Any | Unknown
+_var1164	str
+_var1165	Unknown
+_var1166	str
+_var1167	list[str]
+_var1168	int
+_var1169	int
+_var1170	int
+_var1171	range
+_var1172	list[int]
+_var1173	int
+_var1174	int
+_var1175	int
+_var1176	range
+_var1177	list[int]
+tree_params	dict[str, Unknown]
+_var1178	DecisionTreeClassifier
+_var1179	str
+_var1180	int
+_var1181	int
+_var1182	int
+grid_tree	GridSearchCV
+estimator	DecisionTreeClassifier
+param_grid	dict[str, Unknown]
+scoring	str | None
+cv	int | None
+verbose	int
+n_jobs	int | None
+grid_tree_0	Self@BaseSearchCV
+_var1183	str
+_var1184	Unknown | Any
+_var1185	tuple[str, Unknown | Any]
+y_pred_dt	Any | Unknown
+_var1186	str
+_var1187	Unknown
+_var1188	str

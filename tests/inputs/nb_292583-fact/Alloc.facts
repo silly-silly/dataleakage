@@ -1,0 +1,204 @@
+_var0	$heap0	
+_var1	$heap1	
+_var2	$heap2	
+_var3	$heap3	
+data	$heap4	
+_var4	$heap5	
+_var5	$heap6	
+_var7	$heap7	
+_var8	$heap8	
+_var10	$heap9	
+_var14	$heap10	
+_var15	$heap11	
+_var17	$heap12	
+_var21	$heap13	
+_var22	$heap14	
+_var23	$heap15	
+greater_percent	$heap16	
+_var24	$heap17	
+_var25	$heap18	
+_var26	$heap19	
+_var27	$heap20	
+_var28	$heap21	
+_var29	$heap22	
+_var30	$heap23	
+_var31	$heap24	
+_var32	$heap25	
+_var33	$heap26	
+_var34	$heap27	
+features_raw	$heap28	
+$list0	$heap29	
+_var36	$heap30	_func0
+_var37	$heap31	_func0
+_var38	$heap32	_func0
+_var39	$heap33	
+_var40	$heap34	
+scaler	$heap35	
+$list1	$heap36	
+_var42	$heap37	
+_var43	$heap38	
+_var44	$heap39	
+features	$heap40	
+_var45	$heap41	
+_var47	$heap42	
+income	$heap43	
+encoded	$heap44	
+_var49	$heap45	
+_var50	$heap46	
+_var51	$heap47	
+_var56	$heap48	
+_var57	$heap49	
+_var52	$heap50	
+_var53	$heap51	
+_var54	$heap52	
+_var55	$heap53	
+_var58	$heap54	
+_var60	$heap55	
+_var62	$heap56	
+_var63	$heap57	
+_var65	$heap58	
+_var67	$heap59	
+_var69	$heap60	
+pred	$heap61	
+pred_0	$heap62	
+_var72	$heap63	
+_var73	$heap64	
+accuracy	$heap65	
+sumTP	$heap66	
+_var74	$heap67	
+_var75	$heap68	
+_var77	$heap69	
+_var82	$heap70	
+sumTP_0	$heap71	
+_var83	$heap72	
+_var85	$heap73	
+precision	$heap74	
+_var86	$heap75	
+_var88	$heap76	
+recall	$heap77	
+_var89	$heap78	
+_var90	$heap79	
+_var91	$heap80	
+_var92	$heap81	
+_var93	$heap82	
+_var94	$heap83	
+_var95	$heap84	
+_var96	$heap85	
+_var97	$heap86	
+_var98	$heap87	
+_var99	$heap88	
+_var100	$heap89	
+fscore	$heap90	
+_var101	$heap91	
+_var102	$heap92	
+$dict2	$heap93	train_predict
+train_data	$heap94	train_predict
+train_label	$heap95	train_predict
+start	$heap96	train_predict
+learner_0	$heap97	train_predict
+end	$heap98	train_predict
+_var103	$heap99	train_predict
+_var104	$heap100	train_predict
+start_0	$heap101	train_predict
+predictions_test	$heap102	train_predict
+_var105	$heap103	train_predict
+_var106	$heap104	train_predict
+predictions_train	$heap105	train_predict
+end_0	$heap106	train_predict
+_var107	$heap107	train_predict
+_var108	$heap108	train_predict
+_var109	$heap109	train_predict
+_var110	$heap110	train_predict
+_var111	$heap111	train_predict
+_var112	$heap112	train_predict
+_var113	$heap113	train_predict
+_var114	$heap114	train_predict
+_var115	$heap115	train_predict
+_var116	$heap116	train_predict
+_var117	$heap117	train_predict
+_var118	$heap118	train_predict
+_var119	$heap119	train_predict
+_var120	$heap120	train_predict
+_var121	$heap121	train_predict
+_var122	$heap122	train_predict
+_var123	$heap123	train_predict
+_var126	$heap124	train_predict
+_var127	$heap125	
+clf_A	$heap126	
+_var128	$heap127	
+clf_B	$heap128	
+_var129	$heap129	
+clf_C	$heap130	
+_var131	$heap131	
+_var133	$heap132	
+_var134	$heap133	
+samples_1	$heap134	
+_var136	$heap135	
+_var138	$heap136	
+_var139	$heap137	
+samples_10	$heap138	
+_var141	$heap139	
+samples_100	$heap140	
+$dict3	$heap141	
+$list4	$heap142	
+$dict5	$heap143	
+$list6	$heap144	
+_var147	$heap145	
+_var151	$heap146	
+_var152	$heap147	
+_var154	$heap148	
+_var155	$heap149	
+clf_0	$heap150	
+$list7	$heap151	
+$list8	$heap152	
+$dict9	$heap153	
+_var158	$heap154	
+scorer	$heap155	
+grid_obj	$heap156	
+grid_fit	$heap157	
+_var159	$heap158	
+predictions	$heap159	
+best_predictions	$heap160	
+_var160	$heap161	
+_var161	$heap162	
+_var162	$heap163	
+_var163	$heap164	
+_var164	$heap165	
+_var165	$heap166	
+_var166	$heap167	
+_var167	$heap168	
+_var168	$heap169	
+_var169	$heap170	
+_var170	$heap171	
+_var171	$heap172	
+_var172	$heap173	
+_var173	$heap174	
+_var174	$heap175	
+_var175	$heap176	
+_var178	$heap177	
+_var180	$heap178	
+_var181	$heap179	
+_var182	$heap180	
+_var186	$heap181	
+_var188	$heap182	
+_var189	$heap183	
+_var190	$heap184	
+_var192	$heap185	
+clf_1	$heap186	
+reduced_predictions	$heap187	
+_var193	$heap188	
+_var194	$heap189	
+_var195	$heap190	
+_var196	$heap191	
+_var197	$heap192	
+_var198	$heap193	
+_var199	$heap194	
+_var200	$heap195	
+_var201	$heap196	
+_var202	$heap197	
+_var203	$heap198	
+_var204	$heap199	
+_var205	$heap200	
+_var206	$heap201	
+_var207	$heap202	
+_var208	$heap203	

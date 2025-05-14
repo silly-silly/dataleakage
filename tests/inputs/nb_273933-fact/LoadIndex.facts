@@ -1,0 +1,16 @@
+n_students	_var5	_var6
+n_passed	_var12	_var13
+target_col	_var34	_var35
+X_all	student_data	feature_cols
+y_all	student_data	target_col
+_var46	_var45	index_placeholder
+col	_var46	_var49
+col_data	_var46	_var50
+_var99	_var97	_var98
+_var104	_var102	_var103
+modelo	_var145	index_placeholder
+n	_var146	index_placeholder
+_var148	temp	_var147
+_var150	temp	_var149
+_var152	temp	_var151
+_var160	_var158	_var159

@@ -1,0 +1,74 @@
+_var0	Project Train Dataset.csv
+_var3	"
+_var4	
+_var7	,
+_var8	;
+_var16	"
+_var17	
+_var20	,
+_var21	;
+_var23	train.csv
+_var25	train.csv
+_var26	;
+_var27	SEX
+_var28	SEX
+_var30	F
+_var33	EDUCATION
+_var34	EDUCATION
+_var36	university
+_var39	MARRIAGE
+_var40	MARRIAGE
+_var42	single
+_var46	PAY_DEC
+_var47	PAY_JUL
+_var49	PAY_DEC
+_var50	PAY_JUL
+_var58	BILL_AMT_DEC
+_var59	BILL_AMT_JUL
+_var63	PAY_AMT_DEC
+_var64	PAY_AMT_JUL
+_var67	BILL_AMT_DEC
+_var68	PAY_AMT_DEC
+_var74	%d/%m/%Y
+_var86	BIRTH_DATE
+_var87	BIRTH_DATE
+_var92	median
+_var134	Oversampling completed, new shape of data: 
+_var139	l2
+_var142	entropy
+_var148	minkowski
+_var151	rbf
+_var158	gini
+_var162	lbfgs
+_var193	BaggingClassifier
+_var194	Fit completed in %s seconds
+_var198	Project Test Dataset.csv
+_var199	;
+_var200	SEX
+_var201	SEX
+_var203	F
+_var206	EDUCATION
+_var207	EDUCATION
+_var209	university
+_var212	MARRIAGE
+_var213	MARRIAGE
+_var215	single
+_var219	PAY_DEC
+_var220	PAY_JUL
+_var222	PAY_DEC
+_var223	PAY_JUL
+_var231	BILL_AMT_DEC
+_var232	BILL_AMT_JUL
+_var236	PAY_AMT_DEC
+_var237	PAY_AMT_JUL
+_var240	BILL_AMT_DEC
+_var241	PAY_AMT_DEC
+_var250	%d/%m/%Y
+_var253	%Y-%m-%d
+_var265	BIRTH_DATE
+_var266	BIRTH_DATE
+_var271	median
+_var310	Prediction completed
+_var311	test.csv
+_var312	%d
+_var313	DEFAULT PAYMENT JAN

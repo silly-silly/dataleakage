@@ -1,0 +1,12 @@
+$invo0	setattr	set_field_wrapper
+$invo1	setattr	set_index_wrapper
+$invo2	pandas.read_csv	
+$invo3	pandas.DataFrame.drop	
+$invo4	train_test_split	
+$invo5	SelectPercentile	
+$invo6	SelectPercentile.fit	
+$invo7	Unknown.transform	
+$invo8	Unknown.transform	
+$invo9	LinearRegression	
+$invo10	Unknown.fit	
+$invo11	Unknown.score	

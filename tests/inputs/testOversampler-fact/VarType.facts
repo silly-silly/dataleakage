@@ -1,0 +1,52 @@
+phi_0	Unknown
+phi_1	Unknown
+base	Unknown
+attr	Unknown
+value	Unknown
+setattr	(__obj: object, __name: str, __value: Any) -> None
+x	Unknown
+_var2	int
+_var3	bool
+_var4	bool
+_var0	Unknown
+_var1	Unknown
+fetch_openml	(name: str | None = None, *, version: str | int = "active", data_id: int | None = None, data_home: str | PathLike[Unknown] | None = None, target_column: str | List[Unknown] | None = "default-target", cache: bool = True, return_X_y: bool = False, as_frame: str | bool = "auto", n_retries: int = 3, delay: float = 1, parser: str = "warn", read_csv_kwargs: Dict[Unknown, Unknown] | None = None) -> (tuple[Unknown, Unknown] | Bunch)
+data_id	int | None
+as_frame	str | bool
+return_X_y	bool
+X	Unknown
+y	Unknown
+_var5	str
+X_0	Unknown
+_var8	dict[str, int]
+_var9	int
+_var6	Unknown | DataFrame | Series
+_var7	Unknown | DataFrame | Series
+make_imbalance	(X: Unknown, y: Unknown, *, sampling_strategy: Unknown = None, random_state: Unknown = None, verbose: Unknown = False, **kwargs: Unknown) -> tuple[Unknown | DataFrame | Series, Unknown | DataFrame | Series]
+sampling_strategy	dict[str, int]
+random_state	int
+X_1	Unknown | DataFrame | Series
+y_0	Unknown | DataFrame | Series
+_var10	int
+sampler	RandomOverSampler
+RandomOverSampler	Type[RandomOverSampler]
+_var11	Unknown | DataFrame | Series
+_var12	Unknown | DataFrame | Series
+X_resampled	Unknown | DataFrame | Series
+y_resampled	Unknown | DataFrame | Series
+_var17	float
+_var18	int
+_var13	Unknown | DataFrame | Series
+_var14	Unknown | DataFrame | Series
+_var15	Unknown | DataFrame | Series
+_var16	Unknown | DataFrame | Series
+train_test_split	(*arrays: Unknown, test_size: Unknown = None, train_size: Unknown = None, random_state: Unknown = None, shuffle: Unknown = True, stratify: Unknown = None) -> list[Unknown | NDArray[_SCT@array] | list[Unknown]]
+test_size	float
+X_train	Unknown | DataFrame | Series
+X_test	Unknown | DataFrame | Series
+y_train	Unknown | DataFrame | Series
+y_test	Unknown | DataFrame | Series
+_var19	int
+model	HistGradientBoostingClassifier
+HistGradientBoostingClassifier	Type[HistGradientBoostingClassifier]
+model_0	Self@BaseHistGradientBoosting

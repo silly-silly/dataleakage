@@ -1,0 +1,653 @@
+phi_0	Unknown
+phi_1	Unknown
+base	Unknown
+attr	Unknown
+value	Unknown
+setattr	(__obj: object, __name: str, __value: Any) -> None
+x	Unknown
+_var0	str
+_var1	int
+df	pandas.DataFrame
+na_values	int
+_var2	Any
+no_rent	Any
+_var3	Any
+df_rent	Unknown
+rent	Unknown
+_var4	str
+_var5	int
+data	Unknown
+_var6	str
+_var7	int
+data_0	Unknown
+_var8	Unknown
+get_ipython	Unknown
+_var9	str
+_var10	str
+_var11	int
+_var12	int
+_var13	Unknown
+_var14	int
+non_const_columns	Unknown
+_var15	int
+_var16	Unknown
+_var17	Unknown
+_var18	Unknown
+data_	Unknown
+_var19	str
+_var20	Unknown
+Imputer	Unknown
+_var21	Unknown
+X	Unknown
+_var22	Unknown
+_var25	Unknown
+_var23	Unknown
+_var24	Unknown
+f_regression	(X: Unknown, y: Unknown, *, center: Unknown = True, force_finite: Unknown = True) -> tuple[Unknown, Unknown]
+F	Unknown
+p	Unknown
+_var26	int
+_var27	int
+_var28	tuple[int, int]
+plt	Unknown
+_var29	int
+len	(__obj: Sized) -> int
+_var30	NDArray[signedinteger[Any]]
+_var31	int
+_var32	Unknown
+_var33	Any
+_var34	int
+_var35	NDArray[signedinteger[Any]]
+_var36	Unknown
+_var37	str
+_var38	int
+raw_variables	pandas.DataFrame
+skiprows	Sequence[int] | int | (int) -> object | None
+_var39	str
+_var40	Unknown
+_var41	str
+_var42	Unknown
+raw_variables_0	Unknown
+_var43	list[str]
+variables	Unknown
+_var44	Unknown
+_var45	Unknown
+_var48	int
+i	Unknown
+_var49	int
+row	Unknown
+_var50	int
+_var51	Unknown
+_var52	Unknown
+_var53	bool
+_var54	Unknown
+_var55	int
+_var56	Unknown
+row_above	Unknown
+_var57	str
+_var58	Unknown
+_var59	str
+_var60	Unknown
+_var61	Unknown
+_var62	Unknown
+_var63	str
+_var64	Unknown
+_var65	int
+_var66	Unknown
+_var67	Unknown
+_var68	str
+_var69	Unknown
+_var62_0	Unknown
+set_index_wrapper	(base: Unknown, attr: Unknown, value: Unknown) -> Unknown
+_var70	str
+_var71	Unknown
+mask	Unknown
+variables_0	Unknown
+_var72	str
+_var73	Unknown
+_var74	str
+_var75	Unknown
+_var76	Unknown
+_var73_0	Unknown
+_var77	str
+_var78	str
+_var79	Unknown
+_var80	Unknown
+_var81	str
+_var82	Unknown
+_var83	str
+_var84	str
+_var85	Unknown
+variables_1	Unknown
+_var86	str
+_var87	Unknown
+_var88	Unknown
+_var89	Unknown
+variables_2	Unknown
+_var90	Unknown
+_var91	str
+_var92	Unknown
+_var93	str
+_var94	Unknown
+_var95	str
+_var96	Unknown
+_var97	str
+_var98	Unknown
+_var92_0	Unknown
+_var99	str
+item_name	Unknown
+_var100	list[str]
+_var101	Unknown
+source_codes	Unknown
+_var102	str
+_var103	str
+_var104	Unknown
+_var105	str
+_var106	Unknown
+_var107	Unknown
+_var108	str
+_var109	Unknown
+source_codes_0	Unknown
+_var110	list[str]
+source_codes_1	Unknown
+_var111	str
+_var112	str
+_var113	Unknown
+_var114	Unknown
+sc_reindex	Unknown
+_var115	str
+source_code_series	Unknown
+feature_mapping	dict[Unknown, Unknown]
+_var116	Unknown
+c	Unknown
+_var117	Unknown
+_var118	bool
+_var119	Unknown
+_var120	Unknown
+feature_mapping_0	dict[Unknown, Unknown]
+_var121	Unknown
+_var122	bool
+_var123	Unknown
+_var124	Unknown
+feature_mapping_1	dict[Unknown, Unknown]
+print	(*values: object, sep: str | None = ..., end: str | None = ..., file: SupportsWrite[str] | None = ..., flush: bool = ...) -> None
+feature_mapping_2	dict[Unknown, Unknown]
+__phi__	(phi_0: Unknown, phi_1: Unknown) -> Unknown
+feature_mapping_3	dict[Unknown, Unknown]
+feature_mapping_4	dict[Unknown, Unknown]
+_var125	str
+_var126	str
+feature_mapping_5	dict[Unknown, Unknown]
+_var127	int
+data_desc	Unknown
+_var128	int
+data_desc_0	Unknown
+_var129	int
+_var130	int
+_var131	tuple[int, int]
+_var132	int
+_var133	NDArray[signedinteger[Any]]
+_var134	int
+_var135	Unknown
+_var136	Any
+_var137	int
+_var138	NDArray[signedinteger[Any]]
+_var139	Unknown
+_var140	Unknown
+mi	NDArray[Any]
+mutual_info_regression	(X: Unknown, y: Unknown, *, discrete_features: Unknown = "auto", n_neighbors: Unknown = 3, copy: Unknown = True, random_state: Unknown = None) -> NDArray[Any]
+inds	NDArray[intp]
+_var141	int
+_var142	int
+_var143	tuple[int, int]
+_var144	int
+_var145	NDArray[signedinteger[Any]]
+_var146	ndarray[Any, dtype[Any]]
+_var147	int
+_var148	NDArray[bool_]
+_var149	NDArray[Any]
+_var150	int
+_var151	NDArray[signedinteger[Any]]
+_var152	list[Unknown]
+_var153	Unknown
+_var154	str
+_var155	Unknown
+_var156	Unknown
+_var157	int
+_var158	int
+_var159	int
+non_renter_columns	Unknown
+non_renter_columns_0	list[Unknown]
+_var160	list[str]
+non_renter_columns_1	list[Unknown]
+data_nr	Unknown
+_var161	str
+_var162	Unknown
+_var163	Unknown
+X_0	Unknown
+_var166	Unknown
+_var164	Unknown
+_var165	Unknown
+F_0	Unknown
+p_0	Unknown
+_var167	int
+_var168	int
+_var169	tuple[int, int]
+_var170	int
+_var171	NDArray[signedinteger[Any]]
+_var172	int
+_var173	Unknown
+_var174	Any
+_var175	int
+_var176	NDArray[signedinteger[Any]]
+_var177	list[Unknown]
+_var178	Unknown
+mi_0	NDArray[Any]
+_var179	int
+_var180	int
+_var181	tuple[int, int]
+_var182	int
+_var183	NDArray[signedinteger[Any]]
+_var184	int
+_var185	NDArray[signedinteger[Any]]
+_var186	list[Unknown]
+_var187	int
+select	SelectPercentile
+SelectPercentile	Type[SelectPercentile]
+percentile	int
+_var188	Unknown
+select_0	SelectPercentile
+feature_names	list[Unknown]
+X_selected	Unknown | ndarray[Any, dtype[float64]] | list[Unknown]
+y	Unknown
+_var191	int
+_var192	int
+_var193	int
+_var194	int
+_var195	tuple[int, int]
+_var189	Unknown
+_var190	Unknown
+fig	Unknown
+axes	Unknown
+_var196	Unknown
+_var197	zip[tuple[Unknown, Unknown]]
+zip	Type[zip[_T_co@zip]]
+_var198	enumerate[tuple[Unknown, Unknown]]
+enumerate	Type[enumerate[_T@enumerate]]
+_var199	tuple[int, tuple[Unknown, Unknown]]
+_var202	int
+i_0	int
+_var205	int
+_var206	tuple[Unknown, Unknown]
+_var207	int
+name	Unknown
+_var208	int
+ax	Unknown
+_var209	Unknown
+global_wrapper	(x: Unknown) -> Unknown
+_var210	Unknown | ndarray[Any, dtype[float64]]
+_var211	float
+_var212	Unknown
+_var213	str
+_var214	str
+i_1	int | Unknown
+_var219	int
+_var215	Unknown | ndarray[Any, dtype[float64]] | list[Unknown]
+_var216	Unknown | ndarray[Any, dtype[float64]] | list[Unknown]
+_var217	Unknown
+_var218	Unknown
+train_test_split	(*arrays: Unknown, test_size: Unknown = None, train_size: Unknown = None, random_state: Unknown = None, shuffle: Unknown = True, stratify: Unknown = None) -> list[Unknown | NDArray[_SCT@array] | list[Unknown]]
+random_state	int
+X_trainval	Unknown | ndarray[Any, dtype[float64]] | list[Unknown]
+X_test	Unknown | ndarray[Any, dtype[float64]] | list[Unknown]
+y_trainval	Unknown
+y_test	Unknown
+_var224	int
+_var220	Unknown | ndarray[Any, dtype[float64]] | list[Unknown]
+_var221	Unknown | ndarray[Any, dtype[float64]] | list[Unknown]
+_var222	Unknown
+_var223	Unknown
+X_train	Unknown | ndarray[Any, dtype[float64]] | list[Unknown]
+X_val	Unknown | ndarray[Any, dtype[float64]] | list[Unknown]
+y_train	Unknown
+y_val	Unknown
+_var225	int
+_var226	RandomForestRegressor
+RandomForestRegressor	Type[RandomForestRegressor]
+n_estimators	int
+rf	Self@BaseForest
+_var226_0	Self@BaseForest
+_var227	Unknown | _Shape
+_var228	int
+_var229	Unknown | int
+_var230	range
+range	Type[range]
+_var231	list[int]
+_var232	NDArray[_SCT@zeros] | Any
+_var233	Unknown | _Shape
+_var234	int
+_var235	Unknown | int
+_var236	range
+_var237	list[int]
+_var238	LinearRegression
+LinearRegression	Type[LinearRegression]
+_var239	Self@LinearRegression
+_var240	LinearRegression
+lr	Self@LinearRegression
+_var240_0	Self@LinearRegression
+_var241	Unknown | Any | NDArray[bool_] | NDArray[floating[Any]]
+_var242	float
+_var243	OneHotEncoder
+OneHotEncoder	Type[OneHotEncoder]
+ohe	OneHotEncoder
+_var243_0	OneHotEncoder
+_var244	OneHotEncoder
+_var245	LinearRegression
+ohe_pipe	Pipeline
+make_pipeline	(*steps: Unknown, memory: Unknown = None, verbose: Unknown = False) -> Pipeline
+_var246	Pipeline
+_var247	bool
+_var248	OneHotEncoder
+sparse	bool
+_var249	bool
+_var250	PolynomialFeatures
+PolynomialFeatures	Type[PolynomialFeatures]
+interaction_only	bool
+_var251	VarianceThreshold
+VarianceThreshold	Type[VarianceThreshold]
+_var252	RidgeCV
+RidgeCV	Type[RidgeCV]
+ohe_interactions_pipe	Pipeline
+_var253	Pipeline
+_var254	Any | Unknown
+_var255	float
+_var256	Unknown
+_var257	str
+_var258	list[int]
+_var259	list[int]
+_var260	str
+_var261	Any | Unknown
+_var262	Unknown
+_var263	int
+_var264	bool
+_var265	OneHotEncoder
+_var266	bool
+_var267	bool
+_var268	PolynomialFeatures
+include_bias	bool
+_var269	VarianceThreshold
+ohe_interactions_trans	Pipeline
+X_expanded	Any | Unknown
+_var270	int
+_var271	Unknown
+_var272	Unknown
+_var273	Unknown
+_var274	int
+_var275	int
+_var276	Unknown
+_var277	int
+_var278	Unknown
+X_selected_	Unknown | ndarray[Any, dtype[float64]]
+_var279	int
+_var280	Unknown
+y_	Unknown
+_var285	int
+_var281	Unknown | ndarray[Any, dtype[float64]]
+_var282	Unknown | ndarray[Any, dtype[float64]]
+_var283	Unknown
+_var284	Unknown
+X_trainval_0	Unknown | ndarray[Any, dtype[float64]]
+X_test_0	Unknown | ndarray[Any, dtype[float64]]
+y_trainval_0	Unknown
+y_test_0	Unknown
+_var290	int
+_var286	Unknown | ndarray[Any, dtype[float64]]
+_var287	Unknown | ndarray[Any, dtype[float64]]
+_var288	Unknown
+_var289	Unknown
+X_train_0	Unknown | ndarray[Any, dtype[float64]]
+X_val_0	Unknown | ndarray[Any, dtype[float64]]
+y_train_0	Unknown
+y_val_0	Unknown
+_var291	int
+_var292	bool
+_var293	OneHotEncoder
+_var294	bool
+_var295	PolynomialFeatures
+_var296	VarianceThreshold
+_var297	RidgeCV
+ohe_interactions_pipe_0	Pipeline
+_var298	Pipeline
+_var299	int
+_var300	int
+_var301	tuple[int, int]
+_var302	Any | Unknown
+_var303	float
+_var304	Unknown
+_var305	str
+_var306	Unknown
+_var307	list[Unknown]
+_var308	Unknown
+_var309	list[Unknown]
+_var310	str
+_var311	Any | Unknown
+_var312	Any
+boxcox	(x: Unknown, lmbda: Unknown = None, alpha: Unknown = None, optimizer: Unknown = None) -> (Any | NDArray[_SCT@asarray] | tuple[Unknown, Any] | tuple[Unknown, Any, tuple[tuple[Unknown, RootResults] | Unknown, tuple[Unknown, RootResults] | Unknown]])
+y_train_bc	Any | Unknown
+l	Any
+_var313	int
+_var314	int
+_var315	float
+_var316	Unknown
+_var317	int
+_var318	bool
+_var319	OneHotEncoder
+_var320	bool
+_var321	PolynomialFeatures
+_var322	VarianceThreshold
+_var323	RidgeCV
+ohe_interactions_pipe_1	Pipeline
+_var324	float
+_var325	Unknown
+_var326	Pipeline
+_var327	float
+_var328	Unknown
+_var329	Any | Unknown
+_var330	int
+_var331	float
+_var332	float
+_var333	Any | Unknown
+r2_score	(y_true: Unknown, y_pred: Unknown, *, sample_weight: Unknown = None, multioutput: Unknown = "uniform_average", force_finite: Unknown = True) -> (float | Any | Unknown | NDArray[float64] | floating[Any])
+_var334	int
+_var335	int
+_var336	tuple[int, int]
+_var337	Any | Unknown
+_var338	int
+_var339	float
+_var340	float
+_var341	Any | Unknown
+_var342	float
+_var343	Unknown
+_var344	str
+_var345	Unknown
+_var346	list[Unknown]
+_var347	Unknown
+_var348	list[Unknown]
+_var349	str
+_var350	Unknown
+_var351	Unknown | NDArray[_ScalarType@astype]
+_var352	Unknown
+_var353	NDArray[intp] | None
+_var354	Unknown
+grr	pandas.DataFrame
+columns	Axes | None
+_var355	Index
+_var356	str
+df_dummies	pandas.DataFrame
+prefix_sep	str | Iterable[str] | dict[str, str]
+X_dummies_	ndarray[Unknown, Unknown]
+_var361	int
+_var357	ndarray[Unknown, Unknown]
+_var358	ndarray[Unknown, Unknown]
+_var359	Unknown
+_var360	Unknown
+X_trainval_1	ndarray[Unknown, Unknown]
+X_test_1	ndarray[Unknown, Unknown]
+y_trainval_1	Unknown
+y_test_1	Unknown
+_var366	int
+_var362	ndarray[Unknown, Unknown]
+_var363	ndarray[Unknown, Unknown]
+_var364	Unknown
+_var365	Unknown
+X_train_1	ndarray[Unknown, Unknown]
+X_val_1	ndarray[Unknown, Unknown]
+y_train_1	Unknown
+y_val_1	Unknown
+_var367	int
+_var368	int
+_var369	int
+alphas	NDArray[floating[Any]]
+_var370	bool
+_var371	RidgeCV
+store_cv_values	bool
+ridge	RidgeCV
+_var371_0	RidgeCV
+_var372	NDArray[_SCT@empty]
+_var373	int
+_var374	Any
+axis	_ShapeLike | None
+_var375	int
+_var376	int
+_var377	tuple[int, int]
+_var378	Any | Unknown
+inds_0	NDArray[intp]
+_var379	int
+_var380	range
+_var381	list[int]
+_var382	Any | Unknown
+_var383	Any | Unknown
+_var384	int
+_var385	range
+_var386	list[int]
+_var387	list[Unknown]
+_var388	RidgeCV
+_var389	Unknown
+ridge_0	RidgeCV
+_var388_0	RidgeCV
+_var390	Unknown | Any | NDArray[bool_] | NDArray[floating[Any]]
+_var391	int
+_var392	Any
+_var393	Unknown | Any
+_var394	int
+_var395	int
+_var396	tuple[int, int]
+_var397	Unknown | Any | NDArray[bool_] | NDArray[floating[Any]]
+_var398	int
+_var399	Any
+_var400	Unknown | Any
+_var401	float
+_var402	Unknown
+_var403	str
+_var404	Unknown
+_var405	list[Unknown]
+_var406	Unknown
+_var407	list[Unknown]
+_var408	str
+_var409	RidgeCV
+ridge_1	RidgeCV
+_var409_0	RidgeCV
+_var410	int
+_var411	int
+_var412	tuple[int, int]
+_var413	Unknown | Any | NDArray[bool_] | NDArray[floating[Any]]
+_var414	float
+_var415	Unknown
+_var416	str
+_var417	Unknown
+_var418	list[Unknown]
+_var419	Unknown
+_var420	list[Unknown]
+_var421	str
+_var422	str
+_var423	Unknown
+_var424	str
+_var425	Unknown
+_var426	int
+_var427	Unknown
+_var428	Unknown
+_var429	str
+_var430	Unknown
+_var431	int
+_var432	Unknown
+_var433	Unknown
+X_dummies__0	Unknown
+_var438	str
+_var439	Unknown
+_var440	int
+_var441	Unknown
+_var442	Unknown
+_var443	Unknown
+_var444	int
+_var434	Unknown
+_var435	Unknown
+_var436	Unknown
+_var437	Unknown
+X_trainval_2	Unknown
+X_test_2	Unknown
+y_trainval_2	Unknown
+y_test_2	Unknown
+_var449	int
+_var445	Unknown
+_var446	Unknown
+_var447	Unknown
+_var448	Unknown
+X_train_2	Unknown
+X_val_2	Unknown
+y_train_2	Unknown
+y_val_2	Unknown
+_var450	RidgeCV
+ridge_2	RidgeCV
+_var450_0	RidgeCV
+_var451	int
+_var452	int
+_var453	tuple[int, int]
+_var454	Unknown | Any | NDArray[bool_] | NDArray[floating[Any]]
+_var455	float
+_var456	Unknown
+_var457	str
+_var458	Unknown
+_var459	list[Unknown]
+_var460	Unknown
+_var461	list[Unknown]
+_var462	str
+_var463	Unknown
+make	Unknown
+asdf	Unknown
+_var464	bool
+_var465	PolynomialFeatures
+_var466	VarianceThreshold
+_var467	int
+_var468	int
+_var469	int
+_var470	NDArray[floating[Any]]
+_var471	RidgeCV
+asdf_0	Pipeline
+asdf_1	Pipeline
+_var472	Bunch
+_var473	str
+_var474	Unknown
+_var475	int
+_var476	int
+_var477	tuple[int, int]
+_var478	Any | Unknown
+inds_1	NDArray[intp]
+_var479	int
+_var480	range
+_var481	list[int]
+_var482	Any | Unknown
+_var483	Any | Unknown
+_var484	int
+_var485	range
+_var486	list[int]
+_var487	list[Unknown]

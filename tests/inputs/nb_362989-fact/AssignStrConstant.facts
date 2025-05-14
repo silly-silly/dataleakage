@@ -1,0 +1,45 @@
+_var1	matplotlib
+_var2	inline
+_var3	display.max_columns
+_var5	/Users/Felipe/PycharmProjects/FracasoEscolarChile/DatasetsProcesados/SIMCE/ALU/SIMCE_GEO_2013-2014.csv
+_var6	|
+_var7	.
+_var8	/Users/Felipe/PycharmProjects/FracasoEscolarChile/DatasetsProcesados/RBD_GEO_2013_MUESTRA.csv
+_var9	,
+_var10	.
+_var23	inner
+_var34	IVE_POND
+_var40	CONVIVENCIA_POND
+_var41	CONVIVENCIA
+_var46	AUTOESTIMA_MOTIVACION_POND
+_var47	AUTOESTIMA_MOTIVACION
+_var52	PARTICIPACION_POND
+_var53	PARTICIPACION
+_var60	ABANDONA_ALU
+_var70	ABANDONA_ALU
+_var77	log
+_var78	l2
+_var80	auto
+_var81	hinge
+_var82	l2
+_var84	auto
+_var85	perceptron
+_var86	l2
+_var88	auto
+_var89	modified_huber
+_var90	l2
+_var92	auto
+_var93	squared_hinge
+_var94	l2
+_var96	auto
+_var97	huber
+_var98	l2
+_var100	auto
+_var102	\n
+_var103	Modelo : 
+_var106	Matriz de Confusion : 
+_var107	Precision Total de %f, un %f en la retencion(Clase 0) y %f en la desercion(Clase 1).
+_var169	\n
+_var170	Modelo : Naive-Bayes
+_var171	Matriz de Confusion : 
+_var172	Precision Total de %f, un %f en la retencion(Clase 0) y %f en la desercion(Clase 1).

@@ -1,0 +1,11 @@
+p_diabetes	0.01
+p_no_diabetes	0.99
+p_pos_diabetes	0.9
+p_neg_no_diabetes	0.9
+p_pos_no_diabetes	0.1
+p_j	0.5
+p_j_f	0.1
+p_j_i	0.1
+p_g	0.5
+p_g_f	0.7
+p_g_i	0.2

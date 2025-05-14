@@ -1,0 +1,17 @@
+_var8	train	loc
+_var12	test	loc
+_var17	matplotlib	rcParams
+_var32	all_data	dtypes
+_var33	all_data	dtypes
+numeric_feats	_var36	index
+skewed_feats_1	skewed_feats_0	index
+_var45	train_0	shape
+_var48	train_0	shape
+y	train_0	SalePrice
+_var61	model_lasso	coef_
+_var62	X_train	columns
+_var85	matplotlib	rcParams
+_var92	matplotlib	rcParams
+_var110	model_0	loc
+_var127	test	Id
+_var138	X_train_1	shape

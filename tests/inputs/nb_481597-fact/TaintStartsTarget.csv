@@ -1,0 +1,6 @@
+_var80	[, $invo42]	_var76	[, $invo42]	$invo33	Any.groupby	rowset
+_var86	[, $invo42]	_var82	[, $invo42]	$invo35	Any.groupby	rowset
+_var134	[, $invo51]	_var133	[, $invo51]	$invo48	Unknown.mean	rowset
+avgf	[, $invo42]	_var80	[, $invo42]	$invo34	Any.mean	rowset
+avgt	[, $invo42]	_var86	[, $invo42]	$invo36	Any.mean	rowset
+corr	[, $invo60]	dsmall	[, $invo60]	$invo54	Unknown.corr	rowset

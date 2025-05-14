@@ -1,0 +1,4 @@
+svm_0	X_train_0	$invo17	LinearSVC.score	[, ]
+svm_0	X_test_0	$invo18	LinearSVC.score	[, ]
+rf_0	X_test_0	$invo21	BaseForest.score	[, ]
+clf_0	X_test_1	$invo66	Unknown.score	[, ]

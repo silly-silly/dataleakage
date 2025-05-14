@@ -1,0 +1,122 @@
+$invo0	setattr	set_field_wrapper
+$invo1	setattr	set_index_wrapper
+$invo2	get_ipython	
+$invo3	Unknown.run_line_magic	
+$invo4	urlopen	
+$invo5	pandas.read_csv	
+$invo6	print	
+$invo7	pandas.DataFrame.head	
+$invo8	Unknown.figure	
+$invo9	Unknown.add_subplot	
+$invo10	Unknown.add_subplot	
+$invo11	Unknown.hist	
+$invo12	Unknown.set_ylabel	
+$invo13	Unknown.set_xlabel	
+$invo14	Unknown.set_xlim	
+$invo15	Unknown.boxplot	
+$invo16	Unknown.set_yscale	
+$invo17	Unknown.set_ylabel	
+$invo18	Unknown.get_xaxis	
+$invo19	Unknown.set_ticks	
+$invo20	Unknown.annotate	
+$invo21	Unknown.tight_layout	
+$invo22	pandas.to_datetime	
+$invo23	pandas.DataFrame.set_index	
+$invo24	pandas.to_datetime	
+$invo25	pandas.DataFrame.set_index	
+$invo26	pandas.DataFrame.pivot_table	
+$invo27	pandas.DataFrame.round	
+$invo28	pandas.DataFrame.plot	plot_pickup
+$invo29	Unknown.set_ylabel	plot_pickup
+$invo30	Unknown.set_xlabel	plot_pickup
+$invo31	Unknown.set_title	plot_pickup
+$invo32	plot_pickup	
+$invo33	Any.groupby	twoAirports
+$invo34	Any.mean	twoAirports
+$invo35	Any.groupby	twoAirports
+$invo36	Any.mean	twoAirports
+$invo37	numpy.round	twoAirports
+$invo38	numpy.round	twoAirports
+$invo39	pandas.DataFrame	twoAirports
+$invo40	print	twoAirports
+$invo41	Unknown.barh	twoAirports
+$invo42	twoAirports	
+$invo43	Unknown.drop	preproc
+$invo44	Unknown.fillna	preproc
+$invo45	Unknown.astype	preproc
+$invo46	Unknown.astype	preproc
+$invo47	Unknown.abs	preproc
+$invo48	Unknown.mean	preproc
+$invo49	Unknown.fillna	preproc
+$invo50	Unknown.drop	preproc
+$invo51	preproc	
+$invo52	Unknown.hist	
+$invo53	Unknown.sample	find_corr_features
+$invo54	Unknown.corr	find_corr_features
+$invo55	Unknown.set_style	find_corr_features
+$invo56	numpy.zeros_like	find_corr_features
+$invo57	Unknown.diverging_palette	find_corr_features
+$invo58	Unknown.heatmap	find_corr_features
+$invo59	set	find_corr_features
+$invo60	find_corr_features	
+$invo61	Unknown.to_dict	redundant_features
+$invo62	isnan	redundant_features
+$invo63	list[Unknown].append	redundant_features
+$invo64	print	redundant_features
+$invo65	list[Unknown].append	redundant_features
+$invo66	Unknown.drop	redundant_features
+$invo67	redundant_features	
+$invo68	train_test_split	rfm
+$invo69	RandomForestRegressor	rfm
+$invo70	RandomForestRegressor.fit	rfm
+$invo71	print	rfm
+$invo72	BaseForest.predict	rfm
+$invo73	BaseForest.predict	rfm
+$invo74	mean_absolute_error	rfm
+$invo75	r2_score	rfm
+$invo76	format	rfm
+$invo77	print	rfm
+$invo78	rfm	
+$invo79	Unknown.figure	plot_rf
+$invo80	Unknown.add_subplot	plot_rf
+$invo81	Unknown.add_subplot	plot_rf
+$invo82	Unknown.scatter	plot_rf
+$invo83	Unknown.set_xlabel	plot_rf
+$invo84	Unknown.set_ylabel	plot_rf
+$invo85	zip	plot_rf
+$invo86	sorted	plot_rf
+$invo87	zip	plot_rf
+$invo88	list	plot_rf
+$invo89	len	plot_rf
+$invo90	range	plot_rf
+$invo91	list	plot_rf
+$invo92	Unknown.barh	plot_rf
+$invo93	Unknown.set_yticks	plot_rf
+$invo94	Unknown.set_yticklabels	plot_rf
+$invo95	Unknown.set_title	plot_rf
+$invo96	Unknown.tight_layout	plot_rf
+$invo97	plot_rf	
+$invo98	pandas.to_datetime	get_speed_week
+$invo99	pandas.to_datetime	get_speed_week
+$invo100	Timedelta.astype	get_speed_week
+$invo101	pandas.to_datetime	get_speed_week
+$invo102	Unknown.set_index	get_speed_week
+$invo103	get_speed_week	
+$invo104	Unknown.replace	
+$invo105	Unknown.dropna	
+$invo106	Unknown.boxplot	
+$invo107	Unknown.astype	
+$invo108	ols	
+$invo109	Unknown.fit	
+$invo110	Unknown.anova_lm	
+$invo111	print	
+$invo112	Unknown.pivot_table	
+$invo113	Unknown.plot	
+$invo114	Unknown.title	
+$invo115	Unknown.xlabel	
+$invo116	Unknown.ylabel	
+$invo117	Unknown.astype	
+$invo118	ols	
+$invo119	Unknown.fit	
+$invo120	Unknown.anova_lm	
+$invo121	print	

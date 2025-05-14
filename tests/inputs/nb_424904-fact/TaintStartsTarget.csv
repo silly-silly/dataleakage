@@ -1,0 +1,6 @@
+imr	[, ]	df	[, ]	$invo8	SimpleImputer.fit	rowset
+mms	[, ]	X_train	[, ]	$invo16	MinMaxScaler.fit_transform	rowset
+std	[, ]	X_train	[, ]	$invo19	StandardScaler.fit_transform	rowset
+X_train_std	[, ]	X_train	[, ]	$invo19	StandardScaler.fit_transform	rowset
+imr_0	[, ]	df	[, ]	$invo8	SimpleImputer.fit	rowset
+X_train_norm	[, ]	X_train	[, ]	$invo16	MinMaxScaler.fit_transform	rowset

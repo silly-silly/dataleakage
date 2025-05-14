@@ -1,0 +1,9 @@
+1	__phi__	phi_0
+2	__phi__	phi_1
+1	set_field_wrapper	base
+2	set_field_wrapper	attr
+3	set_field_wrapper	value
+1	set_index_wrapper	base
+2	set_index_wrapper	attr
+3	set_index_wrapper	value
+1	global_wrapper	x

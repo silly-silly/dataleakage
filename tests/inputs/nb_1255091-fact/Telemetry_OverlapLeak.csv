@@ -1,0 +1,4 @@
+decision_tree_0	x_train	$invo167	DecisionTreeClassifier.fit	[, ]	decision_tree_0	x_train	$invo169	DecisionTreeClassifier.score	[, ]
+knn_0	x_train	$invo172	KNeighborsClassifier.fit	[, ]	knn_0	x_train	$invo174	Unknown.score	[, ]
+RF_fit	x_train	$invo177	RandomForestClassifier.fit	[, ]	random_forest_0	x_train	$invo179	BaseForest.score	[, ]
+RF_fit	x_train	$invo177	RandomForestClassifier.fit	[, ]	random_forest_0	x_train	$invo180	BaseForest.score	[, ]

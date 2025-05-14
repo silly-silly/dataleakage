@@ -1,0 +1,39 @@
+_var1	config
+_var2	InlineBackend.figure_format = 'png' #set 'png' here when working on notebook
+_var4	matplotlib
+_var5	inline
+_var6	~/Learning/Data/kaggle/house_prices/train.csv
+_var7	~/Learning/Data/kaggle/house_prices/test.csv
+_var9	MSSubClass
+_var10	SaleCondition
+_var13	MSSubClass
+_var14	SaleCondition
+_var18	figure.figsize
+_var22	SalePrice
+_var24	SalePrice
+_var28	SalePrice
+_var29	SalePrice
+_var34	object
+_var51	neg_mean_squared_error
+_var55	Validation - Just Do It
+_var56	alpha
+_var57	rmse
+_var63	Lasso picked 
+_var69	 variables and eliminated the other 
+_var76	 variables
+_var86	figure.figsize
+_var90	barh
+_var91	Coefficients in the Lasso Model
+_var93	figure.figsize
+_var99	residuals
+_var100	true
+_var102	preds
+_var105	preds
+_var106	residuals
+_var107	scatter
+_var120	xgb
+_var121	lasso
+_var122	scatter
+_var129	ridge_sol.csv
+_var144	mse
+_var145	adam

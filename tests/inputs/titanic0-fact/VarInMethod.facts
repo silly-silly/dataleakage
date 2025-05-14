@@ -1,0 +1,77 @@
+phi_0	__phi__
+phi_1	__phi__
+base	set_field_wrapper
+attr	set_field_wrapper
+value	set_field_wrapper
+base	set_index_wrapper
+attr	set_index_wrapper
+value	set_index_wrapper
+x	global_wrapper
+_var0	
+train	
+_var1	
+test	
+_var2	
+_var3	
+data	
+_var4	
+_var5	
+_var6	
+_var7	
+_var8	
+_var9	
+_var10	
+_var11	
+_var12	
+_var13	
+_var14	
+_var15	
+_var16	
+_var17	
+_var18	
+_var19	
+_var20	
+_var21	
+_var22	
+_var23	
+data_0	
+_var24	
+_var25	
+_var26	
+_var27	
+_var28	
+_var29	
+_var30	
+_var31	
+age_avg	
+_var32	
+_var33	
+age_std	
+_var34	
+_var35	
+_var36	
+_var37	
+_var38	
+_var39	
+_var40	
+delete_columns	
+_var41	
+_var42	
+_var43	
+train_0	
+_var44	
+test_0	
+_var45	
+y_train	
+_var46	
+_var47	
+X_train	
+_var48	
+_var49	
+X_test	
+_var50	
+_var51	
+_var52	
+clf	
+clf_0	
+y_pred	

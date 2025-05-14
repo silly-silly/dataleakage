@@ -1,0 +1,6 @@
+_var83	[, ]	_var82	[, ]	$invo41	pandas.DataFrame.sum	rowset
+_var126	[, $invo69]	_var125	[, $invo69]	$invo61	numpy.nanmean	rowset
+_var154	[, ]	_var153	[, ]	$invo74	pandas.DataFrame.sum	rowset
+_var158	[, ]	_var157	[, ]	$invo79	pandas.DataFrame.sum	rowset
+mean_0	[, ]	inde_variables_0	[, ]	$invo81	numpy.mean	rowset
+std	[, ]	inde_variables_0	[, ]	$invo82	numpy.std	rowset

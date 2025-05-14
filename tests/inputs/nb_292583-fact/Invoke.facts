@@ -1,0 +1,108 @@
+$invo0	setattr	set_field_wrapper
+$invo1	setattr	set_index_wrapper
+$invo2	get_ipython	
+$invo3	Unknown.run_line_magic	
+$invo4	pandas.read_csv	
+$invo5	pandas.DataFrame.head	
+$invo6	display	
+$invo7	str.format	
+$invo8	print	
+$invo9	str.format	
+$invo10	print	
+$invo11	str.format	
+$invo12	print	
+$invo13	str.format	
+$invo14	print	
+$invo15	pandas.DataFrame.drop	
+$invo16	Unknown.distribution	
+$invo17	numpy.log	_func0
+$invo18	Unknown.apply	
+$invo19	Unknown.distribution	
+$invo20	MinMaxScaler	
+$invo21	MinMaxScaler.fit_transform	
+$invo22	pandas.DataFrame.head	
+$invo23	display	
+$invo24	pandas.get_dummies	
+$invo25	Unknown.astype	
+$invo26	list	
+$invo27	len	
+$invo28	str.format	
+$invo29	print	
+$invo30	train_test_split	
+$invo31	str.format	
+$invo32	print	
+$invo33	str.format	
+$invo34	print	
+$invo35	numpy.ones	
+$invo36	pandas.Series	
+$invo37	Unknown.sum	
+$invo38	len	
+$invo39	len	
+$invo40	range	
+$invo41	_NotImplementedType.sum	
+$invo42	Unknown.sum	
+$invo43	str.format	
+$invo44	print	
+$invo45	time	train_predict
+$invo46	Unknown.fit	train_predict
+$invo47	time	train_predict
+$invo48	time	train_predict
+$invo49	Unknown.predict	train_predict
+$invo50	Unknown.predict	train_predict
+$invo51	time	train_predict
+$invo52	accuracy_score	train_predict
+$invo53	accuracy_score	train_predict
+$invo54	fbeta_score	train_predict
+$invo55	fbeta_score	train_predict
+$invo56	str.format	train_predict
+$invo57	print	train_predict
+$invo58	AdaBoostClassifier	
+$invo59	.svm.SVC	
+$invo60	.linear_model.LogisticRegression	
+$invo61	int	
+$invo62	int	
+$invo63	int	
+$invo64	enumerate	
+$invo65	train_predict	
+$invo66	Unknown.evaluate	
+$invo67	AdaBoostClassifier	
+$invo68	make_scorer	
+$invo69	GridSearchCV	
+$invo70	GridSearchCV.fit	
+$invo71	AdaBoostClassifier.fit	
+$invo72	AdaBoostClassifier.predict	
+$invo73	Unknown | Any.predict	
+$invo74	print	
+$invo75	accuracy_score	
+$invo76	str.format	
+$invo77	print	
+$invo78	fbeta_score	
+$invo79	str.format	
+$invo80	print	
+$invo81	print	
+$invo82	accuracy_score	
+$invo83	str.format	
+$invo84	print	
+$invo85	fbeta_score	
+$invo86	str.format	
+$invo87	print	
+$invo88	Unknown.feature_plot	
+$invo89	numpy.argsort	
+$invo90	numpy.argsort	
+$invo91	clone	
+$invo92	Unknown | Any | dict[Unknown | Any, Unknown | dict[Unknown | Any, Unknown] | Any | type] | type.fit	
+$invo93	Unknown | Any.predict	
+$invo94	print	
+$invo95	accuracy_score	
+$invo96	str.format	
+$invo97	print	
+$invo98	fbeta_score	
+$invo99	str.format	
+$invo100	print	
+$invo101	print	
+$invo102	accuracy_score	
+$invo103	str.format	
+$invo104	print	
+$invo105	fbeta_score	
+$invo106	str.format	
+$invo107	print	

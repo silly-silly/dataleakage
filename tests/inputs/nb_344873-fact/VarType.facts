@@ -1,0 +1,234 @@
+phi_0	Unknown
+phi_1	Unknown
+base	Unknown
+attr	Unknown
+value	Unknown
+setattr	(__obj: object, __name: str, __value: Any) -> None
+x	Unknown
+_var0	Unknown
+get_ipython	Unknown
+_var1	str
+_var2	str
+_var3	Unknown
+_var4	str
+_var5	str
+_var6	str
+train	pandas.DataFrame
+_var7	str
+test	pandas.DataFrame
+_var8	_LocIndexer
+_var9	str
+_var10	str
+_var11	Unknown
+_var12	_LocIndexer
+_var13	str
+_var14	str
+_var15	Unknown
+_var16	tuple[Unknown, Unknown]
+all_data	pandas.DataFrame
+_var17	Unknown
+matplotlib	Unknown
+_var18	str
+_var19	float
+_var20	float
+_var21	tuple[float, float]
+_var17_0	Unknown
+set_index_wrapper	(base: Unknown, attr: Unknown, value: Unknown) -> Unknown
+_var22	str
+_var23	Unknown
+_var24	str
+_var25	Unknown
+_var26	Any
+_var27	dict[str, Unknown]
+prices	pandas.DataFrame
+_var28	str
+_var29	str
+_var30	Unknown
+_var31	Any
+train_0	pandas.DataFrame
+_var32	Any
+_var33	Any
+_var34	str
+_var35	Any
+_var36	Any
+numeric_feats	Any
+_var37	Unknown
+_var38	Unknown
+_var39	Unknown | Any | NDArray[Any]
+skew	(a: Unknown, axis: Unknown = 0, bias: Unknown = True, nan_policy: Unknown = 'propagate') -> (Unknown | Any | NDArray[Any])
+skewed_feats	Unknown
+_func0	(x: Unknown) -> (Unknown | Any | NDArray[Any])
+_var40	float
+_var41	Unknown
+skewed_feats_0	Unknown
+skewed_feats_1	Unknown
+_var42	Unknown
+_var43	Any
+all_data_0	pandas.DataFrame
+all_data_1	pandas.DataFrame
+_var44	Series | float
+all_data_2	pandas.DataFrame
+_var45	tuple[int, int]
+_var46	int
+_var47	int
+X_train	Unknown
+_var48	tuple[int, int]
+_var49	int
+_var50	int
+X_test	Unknown
+y	Any
+model	Unknown
+X_train_0	Unknown
+y_0	Unknown
+_var51	str
+_var52	int
+_var53	Unknown
+cross_val_score	(estimator: Unknown, X: Unknown, y: Unknown = None, *, groups: Unknown = None, scoring: Unknown = None, cv: Unknown = None, n_jobs: Unknown = None, verbose: Unknown = 0, fit_params: Unknown = None, pre_dispatch: Unknown = "2*n_jobs", error_score: Unknown = np.nan) -> Unknown
+scoring	str
+cv	int
+_var54	Unknown
+rmse	Any
+model_ridge	Ridge
+Ridge	Type[Ridge]
+alphas	list[Unknown]
+cv_ridge	list[Any]
+rmse_cv	(model: Unknown, X_train_0: Unknown, y_0: Unknown) -> Any
+alpha	Unknown
+cv_ridge_0	pandas.Series
+index	list[Unknown]
+_var55	str
+_var56	str
+plt	Unknown
+_var57	str
+_var58	list[Unknown]
+_var59	LassoCV
+LassoCV	Type[LassoCV]
+model_lasso	Self@LinearModelCV
+_var59_0	Self@LinearModelCV
+_var60	Any
+_var61	Unknown
+_var62	Unknown
+coef	pandas.Series
+_var63	str
+_var64	int
+_var65	_NotImplementedType
+_var66	int
+sum	Overload[(__iterable: Iterable[_T@sum]) -> (_T@sum | int), (__iterable: Iterable[_T@sum], start: _S@sum) -> (_T@sum | _S@sum)]
+_var67	str
+_var68	str
+_var69	str
+_var70	str
+_var71	int
+_var72	_NotImplementedType
+_var73	int
+_var74	str
+_var75	str
+_var76	str
+_var77	str
+print	(*values: object, sep: str | None = ..., end: str | None = ..., file: SupportsWrite[str] | None = ..., flush: bool = ...) -> None
+_var78	pandas.Series
+_var79	int
+_var80	pandas.Series
+_var81	pandas.Series
+_var82	int
+_var83	pandas.Series
+_var84	list[Series]
+imp_coef	pandas.Series
+_var85	Unknown
+_var86	str
+_var87	float
+_var88	float
+_var89	tuple[float, float]
+_var85_0	Unknown
+_var90	str
+_var91	str
+_var92	Unknown
+_var93	str
+_var94	float
+_var95	float
+_var96	tuple[float, float]
+_var92_0	Unknown
+_var97	Unknown | Any | NDArray[bool_] | NDArray[floating[Any]]
+_var98	dict[str, Unknown]
+preds	pandas.DataFrame
+_var99	str
+_var100	str
+_var101	Unknown
+_var102	str
+_var103	Unknown
+_var104	Unknown
+preds_0	pandas.DataFrame
+_var105	str
+_var106	str
+_var107	str
+dtrain	Unknown
+xgb	Unknown
+dtest	Unknown
+params	dict[str, Unknown]
+_var108	int
+_var109	int
+model_0	Unknown
+_var110	Unknown
+_var111	int
+_var112	list[str]
+_var113	Unknown
+_var114	int
+_var115	int
+_var116	float
+model_xgb	Unknown
+model_xgb_0	Unknown
+_var117	Unknown
+xgb_preds	Any
+_var118	Unknown | Any | NDArray[bool_] | NDArray[floating[Any]]
+lasso_preds	NDArray[Any]
+_var119	dict[str, Unknown]
+predictions	pandas.DataFrame
+_var120	str
+_var121	str
+_var122	str
+_var123	float
+_var124	NDArray[bool_]
+_var125	float
+_var126	Any
+preds_1	Any
+_var127	Any
+_var128	dict[str, Any]
+solution	pandas.DataFrame
+_var129	str
+_var130	bool
+_var131	StandardScaler
+StandardScaler	Type[StandardScaler]
+X_train_1	Unknown
+_var136	int
+_var132	Unknown
+_var133	Unknown
+_var134	Any
+_var135	Any
+train_test_split	(*arrays: Unknown, test_size: Unknown = None, train_size: Unknown = None, random_state: Unknown = None, shuffle: Unknown = True, stratify: Unknown = None) -> list[Unknown | NDArray[_SCT@array] | list[Unknown]]
+random_state	int
+X_tr	Unknown
+X_val	Unknown
+y_tr	Any
+y_val	Any
+model_1	Unknown
+Sequential	Unknown
+_var137	int
+_var138	Unknown
+_var139	int
+_var140	Unknown
+_var141	float
+_var142	Unknown
+l1	Unknown
+_var143	Unknown
+Dense	Unknown
+_var144	str
+_var145	str
+_var146	tuple[Unknown, Any]
+hist	Unknown
+model_2	Unknown
+_var147	Unknown
+_var148	int
+_var149	Unknown
+_var150	pandas.Series
+_var151	Unknown
+_var152	int

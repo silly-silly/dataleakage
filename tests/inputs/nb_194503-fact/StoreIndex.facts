@@ -1,0 +1,15 @@
+_var10	0	_var9
+_var28	0	_var27
+_var57	0	inp
+_var58	0	out
+_var59	0	Xsc
+_var67	0	_var66
+_var87	0	inputs
+_var88	0	second_to_last
+_var89	0	Xsc
+_var113	0	_var112
+_var132	0	X_test
+_var132	1	y_test
+_var133	0	checkpointer
+_var133	1	earlystopper
+_var133	2	tensorboard

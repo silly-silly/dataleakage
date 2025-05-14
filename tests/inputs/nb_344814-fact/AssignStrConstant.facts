@@ -1,0 +1,119 @@
+_var1	matplotlib
+_var2	inline
+_var3	/Users/timothyernst/Documents/General Assembly/rewebscraping/scrapeSan Francisco_1000.csv
+_var4	/Users/timothyernst/Documents/General Assembly/rewebscraping/scrapeAtlanta_1000.csv
+_var5	/Users/timothyernst/Documents/General Assembly/rewebscraping/scrapeAustin_1000.csv
+_var6	/Users/timothyernst/Documents/General Assembly/rewebscraping/scrapeBoston_1000.csv
+_var7	/Users/timothyernst/Documents/General Assembly/rewebscraping/scrapeChicago_1000.csv
+_var8	/Users/timothyernst/Documents/General Assembly/rewebscraping/scrapeNew York_1000.csv
+_var9	/Users/timothyernst/Documents/General Assembly/rewebscraping/scrapeSeattle_1000.csv
+_var10	/Users/timothyernst/Documents/General Assembly/newcities/scrapeDenver_1000.csv
+_var11	/Users/timothyernst/Documents/General Assembly/newcities/scrapeHouston_1000.csv
+_var12	/Users/timothyernst/Documents/General Assembly/newcities/scrapeLos_Angeles_1000.csv
+_var13	/Users/timothyernst/Documents/General Assembly/newcities/scrapePortland_OR_1000.csv
+_var14	/Users/timothyernst/Documents/General Assembly/newcities/scrapeRaleigh_1000.csv
+_var15	/Users/timothyernst/Documents/General Assembly/newcities/scrapeSalt_Lake_City_1000.csv
+_var16	/Users/timothyernst/Documents/General Assembly/newcities/scrapeWashington_DC_1000.csv
+_var20	min_sal
+_var22	max_sal
+_var24	unit
+_var26	min_sal
+_var28	max_sal
+_var30	min_sal
+_var32	max_sal
+_var34	max_sal
+_var35	max_sal
+_var38	avg_sal
+_var39	min_sal
+_var41	max_sal
+_var46	m
+_var47	unit
+_var52	ann_sal
+_var53	avg_sal
+_var55	m
+_var58	state
+_var60	city
+_var62	state
+_var64	scientist
+_var67	data
+_var70	senior
+_var74	senior data scientist
+_var75	science
+_var78	director
+_var81	data
+_var85	senior data scientist
+_var86	scientist
+_var89	lead
+_var93	senior data scientist
+_var94	scientist
+_var97	sr
+_var101	senior data scientist
+_var102	science
+_var105	manager
+_var108	data
+_var112	senior data scientist
+_var113	scientist
+_var116	data
+_var120	data scientist
+_var121	learning
+_var124	machine
+_var127	scientist
+_var131	data scientist
+_var132	analyst
+_var135	data
+_var139	data analyst
+_var140	analyst
+_var143	quantitative
+_var147	data analyst
+_var148	analytics
+_var151	manager
+_var155	data analyst
+_var156	analyst
+_var159	research
+_var163	data analyst
+_var164	research
+_var167	associate
+_var171	data analyst
+_var172	scientist
+_var175	research
+_var179	data analyst
+_var180	statistical
+_var183	analyst
+_var187	data analyst
+_var188	engineer
+_var191	data
+_var195	data engineer
+_var196	engineer
+_var199	learning
+_var202	machine
+_var206	data engineer
+_var207	statistical
+_var210	programmer
+_var214	data engineer
+_var215	statistical
+_var218	statistician
+_var222	statistician
+_var223	python
+_var226	data
+_var229	SQL
+_var233	data other
+_var234	scientist
+_var237	science
+_var241	scientist
+_var242	misc
+_var243	Title_New
+_var244	title
+_var251	high_sal
+_var252	ann_sal
+_var255	ann_sal
+_var263	~ C(city) + C(state) + C(company)+ C(Title_New)
+_var264	high_sal
+_var273	liblinear
+_var295	ROC curve (area = %0.2f)
+_var302	k--
+_var306	False Positive Rate
+_var308	True Positive Rate
+_var310	Receiver operating characteristic for high/low income
+_var312	lower right
+_var317	C
+_var320	penalty

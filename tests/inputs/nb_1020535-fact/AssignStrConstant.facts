@@ -1,0 +1,21 @@
+_var0	smsspamcollection/SMSSpamCollection
+_var1	\t
+_var4	label
+_var10	
+_var11	
+_var15	 
+_var23	sms_message
+_var25	label
+_var28	Number of rows in the total set: {}
+_var33	Number of rows in the training set: {}
+_var38	Number of rows in the test set: {}
+_var47	The probability of getting a positive test result P(Pos) is: {}
+_var51	Probability of an individual having diabetes, given that that individual got a positive test result is:
+_var55	Probability of an individual not having diabetes, given that that individual got a positive test result is:
+_var59	Probability of words freedom and immigration being said are: 
+_var62	The probability of Jill Stein saying the words Freedom and Immigration: 
+_var65	The probability of Gary Johnson saying the words Freedom and Immigration: 
+_var68	Accuracy score: 
+_var72	Precision score: 
+_var76	Recall score: 
+_var80	F1 score: 

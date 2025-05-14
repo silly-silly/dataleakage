@@ -1,0 +1,3 @@
+_var44	[, ]	all_data_1	[, ]	$invo18	pandas.DataFrame.mean	rowset
+_var131	[, ]	X_train	[, ]	$invo63	StandardScaler.fit_transform	rowset
+X_train_1	[, ]	X_train	[, ]	$invo63	StandardScaler.fit_transform	rowset

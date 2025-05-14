@@ -1,0 +1,11 @@
+0	__phi__	phi_0
+0	__phi__	phi_1
+0	set_field_wrapper	base
+0	set_index_wrapper	base
+0	global_wrapper	x
+0	calculate_age	born
+0	calculate_age	_var85
+0	_func0	_var89
+0	calculate_age_test	born_1
+0	calculate_age_test	_var264
+0	_func1	_var268

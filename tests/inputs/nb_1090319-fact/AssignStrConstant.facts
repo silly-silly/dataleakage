@@ -1,0 +1,37 @@
+_var1	fivethirtyeight
+_var3	matplotlib
+_var4	inline
+_var6	load_ext
+_var7	sql
+_var8	postgresql://dsi_student:gastudents@dsi.c20gkj5cvu3l.us-east-1.rds.amazonaws.com/titanic
+_var9	SELECT * FROM train
+_var20	AgeRounded
+_var22	AgeRounded
+_var33	AgeRounded
+_var34	Survived
+_var35	female
+_var38	agebin
+_var39	Age
+_var43	Fare
+_var45	~ C(agebin) + C(Sex) + C(Pclass)+ C(Parch)
+_var46	Survived
+_var54	liblinear
+_var65	f1_weighted
+_var88	ROC curve (area = %0.2f)
+_var95	k--
+_var99	False Positive Rate
+_var101	True Positive Rate
+_var103	Receiver operating characteristic for high/low income
+_var105	lower right
+_var112	penalty
+_var114	C
+_var120	C
+_var123	penalty
+_var144	ROC curve (area = %0.2f)
+_var153	ROC curve (area = %0.2f)
+_var160	k--
+_var164	False Positive Rate
+_var166	True Positive Rate
+_var168	Receiver operating characteristic for high/low income
+_var170	lower right
+_var176	accuracy

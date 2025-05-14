@@ -1,0 +1,20 @@
+_var16	0	_var11
+_var16	1	_var15
+_var21	0	_var19
+_var21	1	_var20
+_var27	price	_var23
+_var27	log(price + 1)	_var26
+_var84	0	_var80
+_var84	1	_var83
+_var89	0	_var87
+_var89	1	_var88
+_var96	0	_var94
+_var96	1	_var95
+_var98	preds	_var97
+_var98	true	y
+_var119	xgb	xgb_preds
+_var119	lasso	lasso_preds
+_var128	id	_var127
+_var128	SalePrice	preds_1
+_var146	0	X_val
+_var146	1	y_val

@@ -1,0 +1,155 @@
+csv_data	$heap0	
+csv_data_0	$heap1	
+_var0	$heap2	
+df	$heap3	
+_var1	$heap4	
+_var2	$heap5	
+_var3	$heap6	
+_var4	$heap7	
+imr	$heap8	
+imr_0	$heap9	
+imputed_data	$heap10	
+$list0	$heap11	
+$list1	$heap12	
+$list2	$heap13	
+$list3	$heap14	
+df_0	$heap15	
+$list4	$heap16	
+$dict5	$heap17	
+_var11	$heap18	
+_var12	$heap19	
+_var14	$heap20	
+$dict6	$heap21	
+_var15	$heap22	
+_var16	$heap23	
+_var18	$heap24	
+_var19	$heap25	
+_var20	$heap26	
+df_wine	$heap27	
+$list7	$heap28	
+_var23	$heap29	
+_var24	$heap30	
+_var27	$heap31	
+_var28	$heap32	
+_var34	$heap33	
+_var35	$heap34	
+_var30	$heap35	
+_var31	$heap36	
+_var32	$heap37	
+_var33	$heap38	
+mms	$heap39	
+X_train_norm	$heap40	
+X_test_norm	$heap41	
+std	$heap42	
+X_train_std	$heap43	
+X_test_std	$heap44	
+_var36	$heap45	
+_var37	$heap46	
+lr	$heap47	
+lr_0	$heap48	
+Training_accuracy	$heap49	
+Testing_accuracy	$heap50	
+fig	$heap51	
+_var38	$heap52	
+ax	$heap53	
+$list8	$heap54	
+$list9	$heap55	
+$list10	$heap56	
+_var42	$heap57	
+_var43	$heap58	
+_var44	$heap59	
+_var45	$heap60	
+_var46	$heap61	
+_var47	$heap62	
+lr_1	$heap63	
+lr_2	$heap64	
+_var49	$heap65	
+_var51	$heap66	
+_var52	$heap67	
+weights_0	$heap68	
+_var54	$heap69	
+_var56	$heap70	
+_var57	$heap71	
+_var58	$heap72	
+_var62	$heap73	
+_var63	$heap74	
+_var64	$heap75	
+_var66	$heap76	
+_var67	$heap77	
+_var69	$heap78	
+_var70	$heap79	
+_var71	$heap80	
+_var72	$heap81	
+_var73	$heap82	
+_var75	$heap83	
+_var76	$heap84	
+_var77	$heap85	
+_var78	$heap86	
+$list11	$heap87	
+_var80	$heap88	
+_var81	$heap89	
+_var82	$heap90	
+_var83	$heap91	
+_var84	$heap92	
+_var85	$heap93	
+_var86	$heap94	
+$tuple12	$heap95	
+_var88	$heap96	
+_var89	$heap97	
+_var90	$heap98	SBS
+self	$heap99	SBS
+_var91	$heap100	SBS.fit
+_var92	$heap101	SBS.fit
+_var93	$heap102	SBS.fit
+_var94	$heap103	SBS.fit
+_var97	$heap104	SBS.fit
+_var98	$heap105	SBS.fit
+_var99	$heap106	SBS.fit
+_var100	$heap107	SBS.fit
+$list13	$heap108	SBS.fit
+score	$heap109	SBS.fit
+$list14	$heap110	SBS.fit
+$list15	$heap111	SBS.fit
+$list16	$heap112	SBS.fit
+_var109	$heap113	SBS.fit
+_var110	$heap114	SBS.fit
+_var111	$heap115	SBS.fit
+score_0	$heap116	SBS.fit
+best	$heap117	SBS.fit
+_var116	$heap118	SBS.fit
+dim_0	$heap119	SBS.fit
+_var122_0	$heap120	SBS.calScore
+y_pred	$heap121	SBS.calScore
+score_3	$heap122	SBS.calScore
+_var124	$heap123	SBS
+self_13	$heap124	SBS
+_var125	$heap125	SBS.fit
+_var126	$heap126	SBS.fit
+_var127	$heap127	SBS.fit
+_var128	$heap128	SBS.fit
+_var132	$heap129	SBS.fit
+_var133	$heap130	SBS.fit
+_var134	$heap131	SBS.fit
+$list17	$heap132	SBS.fit
+score_4	$heap133	SBS.fit
+$list18	$heap134	SBS.fit
+$list19	$heap135	SBS.fit
+$list20	$heap136	SBS.fit
+_var142	$heap137	SBS.fit
+_var143	$heap138	SBS.fit
+_var144	$heap139	SBS.fit
+score_5	$heap140	SBS.fit
+best_0	$heap141	SBS.fit
+_var148	$heap142	SBS.fit
+dim_3	$heap143	SBS.fit
+_var154_0	$heap144	SBS._calc_score
+y_pred_0	$heap145	SBS._calc_score
+score_8	$heap146	SBS._calc_score
+_var156	$heap147	
+knn	$heap148	
+_var157	$heap149	
+sbs	$heap150	
+sbs_0	$heap151	
+fig_0	$heap152	
+$list21	$heap153	
+_var159	$heap154	

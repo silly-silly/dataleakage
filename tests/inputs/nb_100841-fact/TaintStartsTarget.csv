@@ -1,0 +1,4 @@
+_var172	[, ]	_var174	[, ]	$invo68	CountVectorizer.fit	rowset
+wordsVectorizer	[, ]	_var174	[, ]	$invo68	CountVectorizer.fit	rowset
+_var177	[, ]	wordsVector	[, ]	$invo71	TfidfTransformer.fit	rowset
+inverseFreqTransformer	[, ]	wordsVector	[, ]	$invo71	TfidfTransformer.fit	rowset

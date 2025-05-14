@@ -1,0 +1,30 @@
+_var1	matplotlib
+_var2	inline
+_var3	display.width
+_var5	display.max_columns
+_var7	display.notebook_repr_html
+_var9	whitegrid
+_var10	poster
+_var76	k
+_var84	s
+_var106	%2.1f
+_var107	k
+_var109	data/01_heights_weights_genders.csv
+_var111	Male
+_var114	Female
+_var119	b
+_var120	Male
+_var123	r
+_var124	Female
+_var125	upper left
+_var126	Male & Female: Weight vs Height
+_var127	Weight
+_var128	Height
+_var151	Male
+_var162	Male
+_var179	Best parameters set found on development set:
+_var181	BEST PARAMS
+_var195	Accuracy on training data: %0.2f
+_var197	Accuracy on test data:     %0.2f
+_var219	Gender
+_var220	Male

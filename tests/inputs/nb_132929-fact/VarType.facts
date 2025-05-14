@@ -1,0 +1,204 @@
+phi_0	Unknown
+phi_1	Unknown
+base	Unknown
+attr	Unknown
+value	Unknown
+setattr	(__obj: object, __name: str, __value: Any) -> None
+x	Unknown
+_var0	str
+_var1	None
+_var2	str
+_var3	int
+_var4	str
+_var5	str
+r	pandas.DataFrame
+header	int | Sequence[int] | Literal['infer'] | None
+sep	str | Literal[_NoDefault.no_default] | None
+decimal	str
+cols	list[str]
+_var6	int
+data	Unknown
+_var7	Unknown
+_var8	list[int]
+_var9	Unknown
+_var10	int
+data_0	Unknown
+nocat	list[str]
+_var11	list[str]
+output_data	Unknown
+_var12	list[str]
+_var13	int
+data_1	Unknown
+_var14	Unknown
+_var15	Unknown
+_var16	Unknown
+float	Type[float]
+float_data	Unknown
+_var17	Unknown
+_var18	Unknown
+_var19	Unknown
+object	Type[object]
+object_data	Unknown
+_var20	Unknown
+_var21	Unknown
+_var22	Unknown
+int	Type[int]
+_var23	Unknown
+_var24	int
+categorical_data	Unknown
+_var25	list[str]
+categorical_data_0	Unknown
+_var26	Unknown
+_var27	Unknown
+_var28	Unknown
+_var29	Unknown
+integer_data	Unknown
+_var30	Unknown
+_var31	Unknown
+_var32	float
+_var33	Unknown
+_var34	int
+_var35	int
+_var36	tuple[int, int]
+_var37	MinMaxScaler
+_var38	list[Unknown]
+_var39	tuple[Unknown, list[Unknown]]
+_var40	list[tuple[Unknown, list[Unknown]]]
+float_data_mapper	Unknown
+DataFrameMapper	Unknown
+_var41	Unknown
+_var42	Unknown
+_var43	float
+_var44	Unknown
+_var45	int
+_var46	int
+_var47	tuple[int, int]
+_var48	MinMaxScaler
+_var49	list[Unknown]
+_var50	tuple[Unknown, list[Unknown]]
+_var51	list[tuple[Unknown, list[Unknown]]]
+integer_data_mapper	Unknown
+_var52	Unknown
+_var53	Unknown
+_var54	int
+_var55	Unknown
+_var56	tuple[Unknown, Unknown]
+_var57	list[tuple[Unknown, Unknown]]
+categorical_data_mapper	Unknown
+_var58	str
+print	(*values: object, sep: str | None = ..., end: str | None = ..., file: SupportsWrite[str] | None = ..., flush: bool = ...) -> None
+float_data_arr	Unknown
+_var59	Unknown
+float_data_0	pandas.DataFrame
+columns	Axes | None
+_var60	str
+integer_data_arr	Unknown
+_var61	Unknown
+integer_data_0	pandas.DataFrame
+_var62	str
+_var63	str
+categorical_data_arr	Unknown
+_var64	Unknown
+categorical_data_1	pandas.DataFrame
+_var65	bool
+object_data_vectorizer	DictVectorizer
+sparse	bool
+_var66	Unknown
+_var67	Unknown
+_var68	Unknown
+_var69	list[Unknown]
+object_data_prep	Unknown | csr_matrix | NDArray[float64]
+_var70	Unknown
+object_data_prep_df	pandas.DataFrame
+_var71	str
+_var72	bool
+categorical_data_vectorizer	DictVectorizer
+_var73	pandas.DataFrame
+_var74	pandas.DataFrame
+_var75	dict[Unknown, Unknown]
+_var76	_dict_values[Unknown, Unknown]
+_var77	list[Unknown]
+categorical_data_prep	Unknown | csr_matrix | NDArray[float64]
+_var78	Unknown
+categorical_data_prep_df	pandas.DataFrame
+_var79	str
+_var80	list[DataFrame]
+_var81	int
+_var82	str
+input_data	pandas.DataFrame
+axis	Literal[1, 'columns']
+join	str
+X	NDArray[_SCT@array]
+_var83	str
+_var84	Unknown
+y	NDArray[_SCT@array]
+t_names	list[str]
+_var89	float
+_var90	int
+_var85	Unknown
+_var86	Unknown
+_var87	Unknown
+_var88	Unknown
+cross_validation	Unknown
+X_train	Unknown
+X_test	Unknown
+y_train	Unknown
+y_test	Unknown
+_var91	str
+_var92	str
+_var93	int
+_var94	str
+estimator_log	SGDClassifier
+SGDClassifier	Type[SGDClassifier]
+loss	str
+penalty	str
+n_jobs	int | None
+class_weight	str | None
+_var95	str
+_var96	str
+_var97	int
+_var98	str
+estimator_linear	SGDClassifier
+_var99	str
+_var100	str
+_var101	int
+_var102	str
+estimator_per	SGDClassifier
+_var103	str
+_var104	str
+_var105	int
+_var106	str
+estimator_mh	SGDClassifier
+_var107	str
+_var108	str
+_var109	int
+_var110	str
+estimator_h	SGDClassifier
+_var111	str
+_var112	str
+_var113	int
+_var114	str
+estimator_hu	SGDClassifier
+_var115	list[SGDClassifier]
+estimator	SGDClassifier
+estimator_0	Unknown
+y_pred	Unknown
+m	NDArray[Any] | NDArray[_SCT@nan_to_num]
+confusion_matrix	(y_true: Unknown, y_pred: Unknown, *, labels: Unknown = None, sample_weight: Unknown = None, normalize: Unknown = None) -> Unknown
+_var116	str
+_var117	Unknown
+_var118	Unknown
+_var119	dict[Unknown, Unknown] | str
+classification_report	(y_true: Unknown, y_pred: Unknown, *, labels: Unknown = None, target_names: Unknown = None, sample_weight: Unknown = None, digits: Unknown = 2, output_dict: Unknown = False, zero_division: Unknown = "warn") -> Unknown
+target_names	list[str]
+_var120	str
+estimator_1	Unknown
+__phi__	(phi_0: Unknown, phi_1: Unknown) -> Unknown
+gnb	GaussianNB
+GaussianNB	Type[GaussianNB]
+gnb_0	GaussianNB
+y_pred_0	Unknown
+m_0	NDArray[Any] | NDArray[_SCT@nan_to_num]
+_var121	str
+_var122	dict[Unknown, Unknown] | str
+_var123	str

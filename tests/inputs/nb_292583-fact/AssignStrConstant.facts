@@ -1,0 +1,38 @@
+_var1	matplotlib
+_var2	inline
+_var3	census.csv
+_var8	income
+_var10	>50K
+_var15	income
+_var17	<=50K
+_var24	Total number of records: {}
+_var26	Individuals making more than $50,000: {}
+_var28	Individuals making at most $50,000: {}
+_var30	Percentage of individuals making more than $50,000: {:.2f}%
+_var32	income
+_var33	income
+_var45	>50K
+_var47	int
+_var49	{} total features after one-hot encoding.
+_var58	Training set has {} samples.
+_var63	Testing set has {} samples.
+_var101	Naive Predictor: [Accuracy score: {:.4f}, F-score: {:.4f}]
+_var103	train_time
+_var107	pred_time
+_var109	acc_train
+_var113	acc_test
+_var115	f_train
+_var120	f_test
+_var123	{} trained on {} samples.
+_var160	Unoptimized model\n------
+_var161	Accuracy score on testing data: {:.4f}
+_var164	F-score on testing data: {:.4f}
+_var168	\nOptimized Model\n------
+_var169	Final accuracy score on the testing data: {:.4f}
+_var172	Final F-score on the testing data: {:.4f}
+_var193	Final Model trained on full data\n------
+_var194	Accuracy on testing data: {:.4f}
+_var197	F-score on testing data: {:.4f}
+_var201	\nFinal Model trained on reduced data\n------
+_var202	Accuracy on testing data: {:.4f}
+_var205	F-score on testing data: {:.4f}

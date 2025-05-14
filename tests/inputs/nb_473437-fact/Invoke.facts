@@ -1,0 +1,157 @@
+$invo0	setattr	set_field_wrapper
+$invo1	setattr	set_index_wrapper
+$invo2	get_ipython	
+$invo3	Unknown.run_line_magic	
+$invo4	open	
+$invo5	open	
+$invo6	pickle.load	
+$invo7	pandas.read_csv	
+$invo8	time.strptime	_func0
+$invo9	time.strptime	_func0
+$invo10	Unknown.map	
+$invo11	Any.map	
+$invo12	Type[datetime].strptime	_func2
+$invo13	datetime.weekday	_func2
+$invo14	Unknown.map	
+$invo15	Type[datetime].strptime	_func3
+$invo16	Unknown.map	
+$invo17	Type[datetime].strptime	_func4
+$invo18	Unknown.map	
+$invo19	pandas.DataFrame.shift	
+$invo20	pandas.concat	
+$invo21	len	
+$invo22	Unknown.apply	
+$invo23	Unknown.apply	
+$invo24	Unknown.unique	
+$invo25	Unknown.isin	
+$invo26	open	
+$invo27	open	
+$invo28	pickle.dump	
+$invo29	open	
+$invo30	open	
+$invo31	pickle.load	
+$invo32	open	
+$invo33	open	
+$invo34	pickle.load	
+$invo35	len	
+$invo36	print	
+$invo37	len	
+$invo38	print	
+$invo39	float	_func7
+$invo40	Any.map	
+$invo41	train_test_split	assign_train_test
+$invo42	StandardScaler	assign_train_test
+$invo43	StandardScaler.fit	assign_train_test
+$invo44	Unknown.transform	assign_train_test
+$invo45	pandas.DataFrame	assign_train_test
+$invo46	Unknown.transform	assign_train_test
+$invo47	pandas.DataFrame	assign_train_test
+$invo48	pandas.get_dummies	assign_train_test
+$invo49	pandas.get_dummies	assign_train_test
+$invo50	pandas.DataFrame.reset_index	assign_train_test
+$invo51	pandas.DataFrame.reset_index	assign_train_test
+$invo52	pandas.concat	assign_train_test
+$invo53	pandas.DataFrame.reset_index	assign_train_test
+$invo54	pandas.DataFrame.reset_index	assign_train_test
+$invo55	pandas.concat	assign_train_test
+$invo56	assign_train_test	
+$invo57	print	conf_matrix
+$invo58	print	conf_matrix
+$invo59	print	conf_matrix
+$invo60	time	conf_matrix
+$invo61	Unknown.fit	conf_matrix
+$invo62	time	conf_matrix
+$invo63	print	conf_matrix
+$invo64	time	conf_matrix
+$invo65	Unknown.predict	conf_matrix
+$invo66	time	conf_matrix
+$invo67	print	conf_matrix
+$invo68	confusion_matrix	conf_matrix
+$invo69	print	benchmark
+$invo70	print	benchmark
+$invo71	print	benchmark
+$invo72	time.time	benchmark
+$invo73	Unknown.fit	benchmark
+$invo74	time.time	benchmark
+$invo75	print	benchmark
+$invo76	time.time	benchmark
+$invo77	Unknown.predict	benchmark
+$invo78	time.time	benchmark
+$invo79	print	benchmark
+$invo80	.metrics.accuracy_score	benchmark
+$invo81	print	benchmark
+$invo82	precision_recall_fscore_support	benchmark
+$invo83	numpy.argsort	benchmark
+$invo84	print	benchmark
+$invo85	len	benchmark
+$invo86	range	benchmark
+$invo87	print	benchmark
+$invo88	str	benchmark
+$invo89	str.split	benchmark
+$invo90	ExtraTreesClassifier	
+$invo91	print	
+$invo92	print	
+$invo93	conf_matrix	
+$invo94	list[Unknown].append	
+$invo95	RandomForestClassifier	
+$invo96	ExtraTreesClassifier	
+$invo97	print	
+$invo98	print	
+$invo99	benchmark	
+$invo100	list[Unknown].append	
+$invo101	zip	
+$invo102	sorted	
+$invo103	DecisionTreeClassifier	
+$invo104	Perceptron	
+$invo105	LogisticRegression	
+$invo106	SGDClassifier	
+$invo107	print	
+$invo108	print	
+$invo109	benchmark	
+$invo110	list[Unknown].append	
+$invo111	print	
+$invo112	print	
+$invo113	LinearSVC	
+$invo114	RandomForestClassifier	
+$invo115	Pipeline	
+$invo116	benchmark	
+$invo117	list[Unknown].append	
+$invo118	DecisionTreeClassifier	
+$invo119	AdaBoostClassifier	
+$invo120	benchmark	
+$invo121	list[Unknown].append	
+$invo122	Unknown.squeeze	plot_confusion_matrix
+$invo123	Unknown.imshow	plot_confusion_matrix
+$invo124	Unknown.title	plot_confusion_matrix
+$invo125	Unknown.colorbar	plot_confusion_matrix
+$invo126	numpy.arange	plot_confusion_matrix
+$invo127	Any.unique	plot_confusion_matrix
+$invo128	sorted	plot_confusion_matrix
+$invo129	Unknown.xticks	plot_confusion_matrix
+$invo130	Any.unique	plot_confusion_matrix
+$invo131	sorted	plot_confusion_matrix
+$invo132	Unknown.yticks	plot_confusion_matrix
+$invo133	Unknown.tight_layout	plot_confusion_matrix
+$invo134	Unknown.ylabel	plot_confusion_matrix
+$invo135	Unknown.xlabel	plot_confusion_matrix
+$invo136	numpy.set_printoptions	
+$invo137	print	
+$invo138	print	
+$invo139	Unknown.figure	
+$invo140	plot_confusion_matrix	
+$invo141	Unknown.astype	
+$invo142	Unknown.sum	
+$invo143	print	
+$invo144	print	
+$invo145	Unknown.figure	
+$invo146	plot_confusion_matrix	
+$invo147	Any.groupby	
+$invo148	Any.value_counts	
+$invo149	pandas.DataFrame	
+$invo150	Any.unique	
+$invo151	dict[Unknown, Unknown].items	
+$invo152	list	
+$invo153	operator.itemgetter	
+$invo154	sorted	
+$invo155	list[Tuple[Unknown, Unknown]].reverse	
+$invo156	pandas.DataFrame	

@@ -1,0 +1,18 @@
+csv_data	A,B,C,D\n1.0,2.0,3.0,4.0\n5.0,6.0,,8.0\n0.0,11.0,12.0,
+_var2	NaN
+_var3	mean
+_var11	size
+_var12	size
+_var15	classlabel
+_var16	classlabel
+_var19	https://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data
+_var36	l1
+_var44	l1
+_var70	black
+_var71	--
+_var80	weight coefficient
+_var81	C
+_var82	log
+_var83	upper left
+_var84	upper center
+_var159	o

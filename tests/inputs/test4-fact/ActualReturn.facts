@@ -1,0 +1,12 @@
+0	$invo2	inputs
+0	$invo3	data0
+0	$invo4	_var3
+1	$invo4	_var4
+2	$invo4	_var5
+3	$invo4	_var6
+0	$invo5	select
+0	$invo6	select_0
+0	$invo7	X_train
+0	$invo8	X_test
+0	$invo9	model
+0	$invo10	model_0

@@ -1,0 +1,433 @@
+phi_0	Unknown
+phi_1	Unknown
+base	Unknown
+attr	Unknown
+value	Unknown
+setattr	(__obj: object, __name: str, __value: Any) -> None
+x	Unknown
+_var0	float
+_var1	float
+_var2	float
+_var3	float
+_var4	float
+_var5	float
+_var6	float
+_var7	float
+_var8	float
+_var9	float
+_var10	Unknown
+get_ipython	Unknown
+_var11	str
+_var12	str
+_var13	str
+_var14	int
+_var15	str
+_var16	int
+_var17	str
+critics	pandas.DataFrame
+text	list[str]
+_var18	Unknown
+_var19	str
+_var20	str
+_var21	int
+_var22	int
+_var23	tuple[int, int]
+vectorizer	CountVectorizer
+CountVectorizer	Type[CountVectorizer]
+ngram_range	tuple[int, int]
+vectorizer_0	CountVectorizer
+_var24	Unknown
+print	(*values: object, sep: str | None = ..., end: str | None = ..., file: SupportsWrite[str] | None = ..., flush: bool = ...) -> None
+_var25	str
+_var26	Type[csr_matrix]
+type	Type[type]
+_var27	str
+x_back	Unknown | NDArray[float64]
+_var28	Unknown
+columns	Axes | None
+_var29	Any
+_var30	int
+_var31	Any
+_var32	Any
+rotten_vectorizer	CountVectorizer
+vectorizer_1	CountVectorizer
+_var33	Any
+x_0	Unknown | csr_matrix
+_var34	Any
+_var35	str
+_var36	Any
+_var37	Any
+y	Any
+int	Type[int]
+classifier	Unknown
+x_1	Unknown
+y_0	Unknown
+test_size	Unknown
+_var42	float
+_var43	int
+_var38	Unknown
+_var39	Unknown
+_var40	Unknown
+_var41	Unknown
+cross_validation	Unknown
+xtrain	Unknown
+xtest	Unknown
+ytrain	Unknown
+ytest	Unknown
+clf	Unknown
+classifier_0	Unknown
+training_accuracy	Unknown
+test_accuracy	Unknown
+_var44	str
+_var45	Unknown
+_var46	str
+_var47	Unknown
+_var48	MultinomialNB
+_var49	float
+train_and_measure	(classifier: Unknown, x_1: Unknown, y_0: Unknown, test_size: Unknown) -> None
+_var50	int
+x_ones	Unknown | csr_matrix | Any | NDArray[Any] | _NotImplementedType
+_var51	BernoulliNB
+_var52	float
+_var53	LogisticRegression
+_var54	float
+classifier_1	Unknown
+n	Unknown
+x_2	Unknown
+y_1	Unknown
+return_plot	Unknown
+_var55	Unknown
+_var56	int
+_var57	Unknown
+_var58	int
+kfold	Unknown
+train_acc	list[Unknown]
+test_acc	list[Unknown]
+_var59	Unknown
+_var62	int
+train_index	Unknown
+_var63	int
+test_index	Unknown
+_var64	Unknown
+_var65	Unknown
+clf_0	Unknown
+classifier_2	Unknown
+_var66	Unknown
+_var67	Unknown
+_var68	Unknown
+_var69	Unknown
+_var70	Unknown
+_var71	Unknown
+classifier_3	Unknown
+__phi__	(phi_0: Unknown, phi_1: Unknown) -> Unknown
+plt	Unknown
+_var73	NDArray[Any]
+_var74	Any
+_var75	NDArray[Any]
+_var76	Any
+_var77	int
+_var78	ndarray[Any, dtype[float64]]
+loc	_ArrayLikeFloat_co
+scale	_ArrayLikeFloat_co
+size	_ShapeLike | None
+_var79	bool
+sns	Unknown
+_var80	NDArray[Any]
+_var81	Any
+_var82	NDArray[Any]
+_var83	Any
+_var84	MultinomialNB
+_var85	int
+_var86	bool
+kfold_average_sd	(classifier_1: Unknown, n: Unknown, x_2: Unknown, y_1: Unknown, return_plot: Unknown = False) -> tuple[Any, Any]
+classifier_4	Unknown
+x_3	Unknown
+y_2	Unknown
+max_num_k	Unknown
+k_train_acc	list[Unknown]
+k_test_acc	list[Unknown]
+_var87	int
+_var88	range
+range	Type[range]
+i	int
+_var89	Unknown
+_var90	int
+_var91	Unknown
+_var92	bool
+_var93	int
+kfold_0	Unknown
+_var94	list[Unknown]
+_var95	list[Unknown]
+test_acc_0	list[Unknown]
+train_acc_0	list[Unknown]
+_var96	Unknown
+_var99	int
+train_index_0	Unknown
+_var100	int
+test_index_0	Unknown
+_var101	Unknown
+_var102	Unknown
+clf_1	Unknown
+classifier_5	Unknown
+_var103	Unknown
+_var104	Unknown
+_var105	Unknown
+_var106	Unknown
+_var107	Unknown
+_var108	Unknown
+classifier_6	Unknown
+_var109	NDArray[Any]
+_var110	Any
+_var111	NDArray[Any]
+_var112	Any
+classifier_7	Unknown
+_var113	int
+_var114	range
+_var115	list[int]
+_var116	int
+_var117	range
+_var118	list[int]
+_var119	MultinomialNB
+_var120	int
+clf_2	MultinomialNB
+find_k	(classifier_4: Unknown, x_3: Unknown, y_2: Unknown, max_num_k: Unknown) -> Unknown
+y_true	Any
+y_pred	Unknown
+conf	NDArray[Any] | NDArray[_SCT@nan_to_num]
+confusion_matrix	(y_true: Unknown, y_pred: Unknown, *, labels: Unknown = None, sample_weight: Unknown = None, normalize: Unknown = None) -> Unknown
+_var121	floating[Any] | Any | Unknown
+_var122	int
+_var123	int
+_var124	tuple[int, int]
+_var125	Any
+_var126	int
+_var127	int
+_var128	tuple[int, int]
+_var129	Any
+_var130	int
+_var131	int
+_var132	tuple[int, int]
+_var133	Any
+_var134	Any
+_var135	Any
+_var136	int
+_var137	int
+_var138	tuple[int, int]
+_var139	Any
+_var140	int
+_var141	int
+_var142	tuple[int, int]
+_var143	Any
+_var144	int
+_var145	int
+_var146	tuple[int, int]
+_var147	Any
+_var148	Any
+_var149	Any
+_var150	NDArray[Any]
+_var151	int
+prob	ndarray[Any, dtype[Any]]
+_var152	int
+_var153	Any
+_var154	ndarray[Any, dtype[Any]]
+_var155	NDArray[intp]
+_var156	int
+bad_rotten	ndarray[Any, dtype[intp]]
+_var157	int
+_var158	Any
+_var159	ndarray[Any, dtype[Any]]
+_var160	NDArray[intp]
+_var161	int
+bad_fresh	ndarray[Any, dtype[intp]]
+_var162	str
+_var163	str
+row	Any
+_var164	int
+_var165	Any
+_var166	Unknown
+_var167	Unknown
+_var168	Unknown
+_var169	str
+_var170	str
+row_0	Any
+_var171	int
+_var172	Any
+_var173	Unknown
+_var174	Unknown
+_var175	Unknown
+_var176	Unknown
+_var177	str
+_var178	str
+_var179	tuple[ndarray[Any, dtype[Any]], Any]
+f_classif	(X: Unknown, y: Unknown) -> tuple[ndarray[Any, dtype[Any]], Any]
+_var180	tuple[ndarray[Any, dtype[Any]], Any]
+_var181	int
+len	(__obj: Sized) -> int
+_var182	tuple[ndarray[Any, dtype[Any]], Any]
+_var183	int
+_var184	ndarray[Any, dtype[Any]]
+_var185	int
+_var186	tuple[ndarray[Any, dtype[Any]], Any]
+_var187	int
+_var188	Any
+_var189	int
+_var190	int
+_var191	int
+_var192	tuple[int, int]
+_var193	int
+_var194	tuple[ndarray[Any, dtype[Any]], Any]
+_var195	int
+_var196	ndarray[Any, dtype[Any]]
+_var197	NDArray[_SCT@sort]
+_var198	str
+ax1	Unknown
+_var199	str
+ax2	Unknown
+_var200	tuple[ndarray[Any, dtype[Any]], Any]
+_var201	int
+_var202	Any
+_var203	NDArray[_SCT@sort]
+_var204	str
+_var205	str
+_var206	int
+_var207	int
+_var208	int
+_var209	range
+i_0	int
+_var210	tuple[ndarray[Any, dtype[Any]], Any]
+_var211	int
+_var212	ndarray[Any, dtype[Any]]
+_var213	floating[Any]
+_var214	tuple[ndarray[Any, dtype[Any]], Any]
+_var215	int
+_var216	Any
+_var217	floating[Any]
+_var218	tuple[int, floating[Any], floating[Any]]
+_var219	tuple[ndarray[Any, dtype[Any]], Any]
+_var220	int
+_var221	ndarray[Any, dtype[Any]]
+_var222	tuple[ndarray[Any, dtype[Any]], Any]
+_var223	int
+_var224	ndarray[Any, dtype[Any]]
+_var225	int
+_var226	floating[Any]
+mask	NDArray[bool_]
+new_features	Unknown
+_var227	MultinomialNB
+_var228	float
+classifier_8	Unknown
+x_4	Unknown
+y_3	Unknown
+test_size_0	Unknown
+_var233	float
+_var234	int
+_var229	Unknown
+_var230	Unknown
+_var231	Unknown
+_var232	Unknown
+xtrain_0	Unknown
+xtest_0	Unknown
+ytrain_0	Unknown
+ytest_0	Unknown
+clf_3	Unknown
+classifier_9	Unknown
+training_accuracy_0	Unknown
+test_accuracy_0	Unknown
+percentile	list[Unknown]
+feature_percentage	list[Unknown]
+train_acc_1	list[Unknown]
+test_acc_1	list[Unknown]
+_var235	int
+_var236	int
+_var237	int
+_var238	range
+i_1	int
+_var239	tuple[ndarray[Any, dtype[Any]], Any]
+_var240	int
+_var241	ndarray[Any, dtype[Any]]
+_var242	tuple[ndarray[Any, dtype[Any]], Any]
+_var243	int
+_var244	ndarray[Any, dtype[Any]]
+_var245	int
+_var246	float
+_var247	floating[Any]
+mask_0	NDArray[bool_]
+new_features_0	Unknown
+_var248	_Shape
+_var249	int
+_var250	int
+_var251	_Shape
+_var252	int
+_var253	int
+ratio	float
+_var254	int
+_var255	float
+_var256	MultinomialNB
+_var257	float
+scores	tuple[floating[Any] | Any | Unknown, floating[Any] | Any | Unknown]
+_var258	int
+_var259	floating[Any] | Any | Unknown
+_var260	int
+_var261	floating[Any] | Any | Unknown
+mask_1	NDArray[bool_]
+new_features_1	Unknown
+_var262	NDArray[Any]
+_var263	NDArray[Any]
+_var264	NDArray[Any]
+_var265	NDArray[Any]
+_var266	dict[str, NDArray[Any]]
+df	pandas.DataFrame
+_var267	int
+_var268	int
+_var269	tuple[int, int]
+_var270	int
+_var271	Any
+_var272	Any
+_var273	str
+_var274	Any
+_var275	Any
+_var276	str
+_var277	list[Unknown]
+_var278	str
+_var279	str
+ax1_0	Unknown
+_var280	Any
+_var281	Any
+_var282	float
+_var283	float
+_var284	list[int]
+_var285	str
+text_0	Unknown
+token	Unknown
+nltk	Unknown
+tagger	Unknown
+bag_of_words	list[Unknown]
+j	Unknown
+_var286	str
+_var287	set[Unknown]
+_var288	list[Unknown]
+_var289	str
+_var290	str
+_var291	str
+_var292	str
+_var293	Any
+_var294	Any
+ad_words	(text_0: Unknown) -> str
+critics_0	pandas.DataFrame
+set_index_wrapper	(base: Unknown, attr: Unknown, value: Unknown) -> Unknown
+_var295	str
+_var296	Unknown
+_var297	int
+_var298	int
+_var299	int
+_var300	tuple[int, int]
+vectorizer_2	CountVectorizer
+_var301	Any
+x_5	Unknown | csr_matrix
+_var302	_Shape
+_var303	int
+_var304	MultinomialNB
+_var305	float
+_var306	Any
+_var307	str
+_var308	Any

@@ -1,0 +1,7 @@
+model_3	X_train_2	$invo52	Unknown.fit	[, ]	model_3	X_test_2	$invo53	Unknown.evaluate	[, ]
+history	X_train_2	$invo98	Unknown.fit	[, ]	model_10	X_test_2	$invo99	Unknown.evaluate	[, ]
+history	X_train_2	$invo98	Unknown.fit	[, ]	model_10	X_test_2	$invo121	Unknown.evaluate	[, ]
+history_cnn	X_train_images	$invo177	Unknown.fit	[, ]	cnn_0	X_test_images	$invo179	Unknown.evaluate	[, ]
+lr	X_train_3	$invo435	LogisticRegressionCV.fit	[, ]	lr	X_train_3	$invo436	LogisticRegressionCV.score	[, ]
+lr	X_train_3	$invo435	LogisticRegressionCV.fit	[, ]	lr	X_test_3	$invo438	LogisticRegressionCV.score	[, ]
+lr	X_train_3	$invo435	LogisticRegressionCV.fit	[, ]	lr	X_test_3	$invo440	LogisticRegressionCV.predict	[, ]

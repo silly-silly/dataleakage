@@ -1,0 +1,180 @@
+phi_0	Unknown
+phi_1	Unknown
+base	Unknown
+attr	Unknown
+value	Unknown
+setattr	(__obj: object, __name: str, __value: Any) -> None
+x	Unknown
+_var0	str
+_var1	Iterator[tuple[str, list[str], list[str]]]
+_var2	tuple[str, list[str], list[str]]
+_var6	int
+dirname	str
+_var7	int
+_	list[str]
+_var8	int
+filenames	list[str]
+filename	str
+_var9	path
+_var10	str
+print	(*values: object, sep: str | None = ..., end: str | None = ..., file: SupportsWrite[str] | None = ..., flush: bool = ...) -> None
+_var11	Unknown
+get_ipython	Unknown
+_var12	str
+_var13	Unknown
+mpl	Unknown
+_var14	str
+_var15	int
+_var13_0	Unknown
+set_index_wrapper	(base: Unknown, attr: Unknown, value: Unknown) -> Unknown
+_var16	str
+train	pandas.DataFrame
+_var17	str
+test	pandas.DataFrame
+_var18	int
+_var19	pandas.DataFrame
+display	Unknown
+_var20	None
+_var21	None
+_var22	Any
+_var23	int
+_var24	Any
+_var25	bool
+_var26	str
+_var27	int
+_var28	pandas.DataFrame
+axis	Axis
+_var29	list[DataFrame]
+combined_df	pandas.DataFrame
+_var30	Unknown
+hero	Unknown
+_var31	str
+_var32	Unknown
+_var33	int
+_var34	str
+_var35	str
+_var36	str
+_var37	Unknown
+_var38	Unknown
+_var39	Unknown
+_var40	Unknown
+_var41	Unknown
+_var42	Unknown
+_var43	Unknown
+_var44	Unknown
+_var45	Unknown
+_var46	Unknown
+_var47	Unknown
+_var48	Unknown
+_var49	Unknown
+_var50	Unknown
+_var51	Unknown
+_var52	Unknown
+_var53	Unknown
+_var54	Unknown
+_var55	Unknown
+_var56	Unknown
+_var57	Unknown
+_var58	Unknown
+_var59	Unknown
+_var60	Unknown
+_var61	Unknown
+_var62	Unknown
+_var63	Unknown
+combined_df_0	pandas.DataFrame
+lemm	Unknown
+WordNetLemmatizer	Unknown
+text	Unknown
+words	Unknown
+nltk	Unknown
+lemma	list[Unknown]
+word	Unknown
+_var64	str
+joined_text	str
+_var65	str
+_var66	Any
+_var67	str
+word_lemma	(text: Unknown) -> str
+_var68	Any
+_func0	(x: Unknown) -> str
+combined_df_1	pandas.DataFrame
+text_0	list[Unknown]
+_var69	int
+len	(__obj: Sized) -> int
+_var70	range
+range	Type[range]
+i	int
+_var71	str
+_var72	Unknown
+_var73	Unknown
+_var74	Unknown
+review	Unknown
+_var75	str
+review_0	str
+_var76	str
+_var77	Unknown
+_var78	Unknown
+_var79	int
+X	Unknown
+_var80	str
+_var81	Unknown
+_var82	Unknown
+_var83	int
+test_df	Unknown
+_var84	int
+cv	CountVectorizer
+CountVectorizer	Type[CountVectorizer]
+max_features	int | None
+cv_0	CountVectorizer
+X_0	csr_matrix
+test_df_0	csr_matrix
+y	Any
+_var85	int
+tfid	TfidfVectorizer
+TfidfVectorizer	Type[TfidfVectorizer]
+tfid_0	TfidfVectorizer
+X_1	Unknown | Any | csr_matrix
+test_df_1	Unknown | Any | csr_matrix
+y_0	Any
+smote	SMOTE
+SMOTE	Type[SMOTE]
+_var86	Unknown | DataFrame | Series
+_var87	Unknown | DataFrame | Series
+X_new	Unknown | DataFrame | Series
+y_new	Unknown | DataFrame | Series
+_var92	float
+_var93	int
+_var88	Unknown | DataFrame | Series
+_var89	Unknown | DataFrame | Series
+_var90	Unknown | DataFrame | Series
+_var91	Unknown | DataFrame | Series
+train_test_split	(*arrays: Unknown, test_size: Unknown = None, train_size: Unknown = None, random_state: Unknown = None, shuffle: Unknown = True, stratify: Unknown = None) -> list[Unknown | NDArray[_SCT@array] | list[Unknown]]
+test_size	float
+random_state	int
+stratify	Unknown | DataFrame | Series
+X_train	Unknown | DataFrame | Series
+X_test	Unknown | DataFrame | Series
+y_train	Unknown | DataFrame | Series
+y_test	Unknown | DataFrame | Series
+rf	RandomForestClassifier
+RandomForestClassifier	Type[RandomForestClassifier]
+rf_0	Self@BaseForest
+y_pred	Unknown
+accuracy_score	(y_true: Unknown, y_pred: Unknown, *, normalize: Unknown = True, sample_weight: Unknown = None) -> (floating[Any] | Any | Unknown)
+xg	Unknown
+XGBClassifier	Unknown
+xg_0	Unknown
+y_pred_0	Unknown
+_var94	str
+cat	Unknown
+CatBoostClassifier	Unknown
+cat_0	Unknown
+y_pred_1	Unknown
+predictions	Unknown
+_var95	dict[str, Unknown]
+submissions	pandas.DataFrame
+_var96	str
+_var97	bool
+_var98	bool
+index	bool_t
+header	bool_t | list[str]

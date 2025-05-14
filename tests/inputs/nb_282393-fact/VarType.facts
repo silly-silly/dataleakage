@@ -1,0 +1,1974 @@
+phi_0	Unknown
+phi_1	Unknown
+base	Unknown
+attr	Unknown
+value	Unknown
+setattr	(__obj: object, __name: str, __value: Any) -> None
+x	Unknown
+_var0	Unknown
+get_ipython	Unknown
+_var1	str
+_var2	str
+seed	int
+names	list[str]
+data_path	str
+total_col	int
+_var3	str
+_var4	str
+file_train	str
+_var5	str
+_var6	str
+file_test_mean	str
+_var7	str
+_var8	str
+file_test_gmean	str
+_var9	str
+_var10	None
+train_rfc_gini	pandas.DataFrame
+header	int | Sequence[int] | Literal['infer'] | None
+_var11	str
+_var12	None
+test_rfc_gini_mean	pandas.DataFrame
+_var13	str
+_var14	None
+test_rfc_gini_gmean	pandas.DataFrame
+_var15	tuple[int, int]
+_var16	int
+n_column	int
+total_col_0	int
+_var17	list[str]
+train_rfc_gini_0	pandas.DataFrame
+set_field_wrapper	(base: Unknown, attr: Unknown, value: Unknown) -> Unknown
+_var18	list[str]
+test_rfc_gini_mean_0	pandas.DataFrame
+_var19	list[str]
+test_rfc_gini_gmean_0	pandas.DataFrame
+_var20	str
+_var21	str
+file_train_0	str
+_var22	str
+_var23	str
+file_test_mean_0	str
+_var24	str
+_var25	str
+file_test_gmean_0	str
+_var26	str
+_var27	None
+train_rfc_entropy	pandas.DataFrame
+_var28	str
+_var29	None
+test_rfc_entropy_mean	pandas.DataFrame
+_var30	str
+_var31	None
+test_rfc_entropy_gmean	pandas.DataFrame
+_var32	tuple[int, int]
+_var33	int
+n_column_0	int
+total_col_1	int
+_var34	list[str]
+train_rfc_entropy_0	pandas.DataFrame
+_var35	list[str]
+test_rfc_entropy_mean_0	pandas.DataFrame
+_var36	list[str]
+test_rfc_entropy_gmean_0	pandas.DataFrame
+_var37	str
+_var38	tuple[int, int]
+_var39	tuple[int, int]
+_var40	tuple[int, int]
+_var41	str
+print	(*values: object, sep: str | None = ..., end: str | None = ..., file: SupportsWrite[str] | None = ..., flush: bool = ...) -> None
+_var42	str
+_var43	tuple[int, int]
+_var44	tuple[int, int]
+_var45	tuple[int, int]
+_var46	str
+_var47	str
+_var48	_iLocIndexer
+_var49	int
+_var50	int
+_var51	Unknown
+_var52	str
+_var53	_iLocIndexer
+_var54	int
+_var55	int
+_var56	Unknown
+_var57	str
+_var58	str
+file_train_1	str
+_var59	str
+_var60	str
+file_test_mean_1	str
+_var61	str
+_var62	str
+file_test_gmean_1	str
+_var63	str
+_var64	None
+train_rfc_gini_0322	pandas.DataFrame
+_var65	str
+_var66	None
+test_rfc_gini_mean_0322	pandas.DataFrame
+_var67	str
+_var68	None
+test_rfc_gini_gmean_0322	pandas.DataFrame
+_var69	tuple[int, int]
+_var70	int
+n_column_1	int
+total_col_2	int
+_var71	list[str]
+train_rfc_gini_0322_0	pandas.DataFrame
+_var72	list[str]
+test_rfc_gini_mean_0322_0	pandas.DataFrame
+_var73	list[str]
+test_rfc_gini_gmean_0322_0	pandas.DataFrame
+_var74	str
+_var75	str
+file_train_2	str
+_var76	str
+_var77	str
+file_test_mean_2	str
+_var78	str
+_var79	str
+file_test_gmean_2	str
+_var80	str
+_var81	None
+train_rfc_entropy_0322	pandas.DataFrame
+_var82	str
+_var83	None
+test_rfc_entropy_mean_0322	pandas.DataFrame
+_var84	str
+_var85	None
+test_rfc_entropy_gmean_0322	pandas.DataFrame
+_var86	tuple[int, int]
+_var87	int
+n_column_2	int
+total_col_3	int
+_var88	list[str]
+train_rfc_entropy_0322_0	pandas.DataFrame
+_var89	list[str]
+test_rfc_entropy_mean_0322_0	pandas.DataFrame
+_var90	list[str]
+test_rfc_entropy_gmean_0322_0	pandas.DataFrame
+_var91	str
+_var92	tuple[int, int]
+_var93	tuple[int, int]
+_var94	tuple[int, int]
+_var95	str
+_var96	str
+_var97	tuple[int, int]
+_var98	tuple[int, int]
+_var99	tuple[int, int]
+_var100	str
+_var101	str
+_var102	_iLocIndexer
+_var103	int
+_var104	int
+_var105	Unknown
+_var106	str
+_var107	_iLocIndexer
+_var108	int
+_var109	int
+_var110	Unknown
+_var111	str
+_var112	str
+file_train_3	str
+_var113	str
+_var114	str
+file_test_mean_3	str
+_var115	str
+_var116	str
+file_test_gmean_3	str
+_var117	str
+_var118	None
+train_LR	pandas.DataFrame
+_var119	str
+_var120	None
+test_LR_mean	pandas.DataFrame
+_var121	str
+_var122	None
+test_LR_gmean	pandas.DataFrame
+_var123	tuple[int, int]
+_var124	int
+n_column_3	int
+total_col_4	int
+_var125	list[str]
+train_LR_0	pandas.DataFrame
+_var126	list[str]
+test_LR_mean_0	pandas.DataFrame
+_var127	list[str]
+test_LR_gmean_0	pandas.DataFrame
+_var128	str
+_var129	tuple[int, int]
+_var130	tuple[int, int]
+_var131	tuple[int, int]
+_var132	str
+_var133	str
+_var134	_iLocIndexer
+_var135	int
+_var136	int
+_var137	Unknown
+_var138	str
+_var139	str
+file_train_4	str
+_var140	str
+_var141	str
+file_test_mean_4	str
+_var142	str
+_var143	str
+file_test_gmean_4	str
+_var144	str
+_var145	None
+train_LR_0322	pandas.DataFrame
+_var146	str
+_var147	None
+test_LR_mean_0322	pandas.DataFrame
+_var148	str
+_var149	None
+test_LR_gmean_0322	pandas.DataFrame
+_var150	tuple[int, int]
+_var151	int
+n_column_4	int
+total_col_5	int
+_var152	list[str]
+train_LR_0322_0	pandas.DataFrame
+_var153	list[str]
+test_LR_mean_0322_0	pandas.DataFrame
+_var154	list[str]
+test_LR_gmean_0322_0	pandas.DataFrame
+_var155	str
+_var156	tuple[int, int]
+_var157	tuple[int, int]
+_var158	tuple[int, int]
+_var159	str
+_var160	str
+_var161	_iLocIndexer
+_var162	int
+_var163	int
+_var164	Unknown
+_var165	str
+_var166	str
+file_train_5	str
+_var167	str
+_var168	str
+file_test_mean_5	str
+_var169	str
+_var170	str
+file_test_gmean_5	str
+_var171	str
+_var172	None
+train_ET_gini	pandas.DataFrame
+_var173	str
+_var174	None
+test_ET_gini_mean	pandas.DataFrame
+_var175	str
+_var176	None
+test_ET_gini_gmean	pandas.DataFrame
+_var177	tuple[int, int]
+_var178	int
+n_column_5	int
+total_col_6	int
+_var179	list[str]
+train_ET_gini_0	pandas.DataFrame
+_var180	list[str]
+test_ET_gini_mean_0	pandas.DataFrame
+_var181	list[str]
+test_ET_gini_gmean_0	pandas.DataFrame
+_var182	str
+_var183	str
+file_train_6	str
+_var184	str
+_var185	str
+file_test_mean_6	str
+_var186	str
+_var187	str
+file_test_gmean_6	str
+_var188	str
+_var189	None
+train_ET_entropy	pandas.DataFrame
+_var190	str
+_var191	None
+test_ET_entropy_mean	pandas.DataFrame
+_var192	str
+_var193	None
+test_ET_entropy_gmean	pandas.DataFrame
+_var194	tuple[int, int]
+_var195	int
+n_column_6	int
+total_col_7	int
+_var196	list[str]
+train_ET_entropy_0	pandas.DataFrame
+_var197	list[str]
+test_ET_entropy_mean_0	pandas.DataFrame
+_var198	list[str]
+test_ET_entropy_gmean_0	pandas.DataFrame
+_var199	str
+_var200	tuple[int, int]
+_var201	tuple[int, int]
+_var202	tuple[int, int]
+_var203	str
+_var204	str
+_var205	tuple[int, int]
+_var206	tuple[int, int]
+_var207	tuple[int, int]
+_var208	str
+_var209	str
+_var210	_iLocIndexer
+_var211	int
+_var212	int
+_var213	Unknown
+_var214	str
+_var215	_iLocIndexer
+_var216	int
+_var217	int
+_var218	Unknown
+_var219	str
+_var220	str
+file_train_7	str
+_var221	str
+_var222	str
+file_test_mean_7	str
+_var223	str
+_var224	str
+file_test_gmean_7	str
+_var225	str
+_var226	None
+train_ET_gini_0322	pandas.DataFrame
+_var227	str
+_var228	None
+test_ET_gini_mean_0322	pandas.DataFrame
+_var229	str
+_var230	None
+test_ET_gini_gmean_0322	pandas.DataFrame
+_var231	tuple[int, int]
+_var232	int
+n_column_7	int
+total_col_8	int
+_var233	list[str]
+train_ET_gini_0322_0	pandas.DataFrame
+_var234	list[str]
+test_ET_gini_mean_0322_0	pandas.DataFrame
+_var235	list[str]
+test_ET_gini_gmean_0322_0	pandas.DataFrame
+_var236	str
+_var237	str
+file_train_8	str
+_var238	str
+_var239	str
+file_test_mean_8	str
+_var240	str
+_var241	str
+file_test_gmean_8	str
+_var242	str
+_var243	None
+train_ET_entropy_0322	pandas.DataFrame
+_var244	str
+_var245	None
+test_ET_entropy_mean_0322	pandas.DataFrame
+_var246	str
+_var247	None
+test_ET_entropy_gmean_0322	pandas.DataFrame
+_var248	tuple[int, int]
+_var249	int
+n_column_8	int
+total_col_9	int
+_var250	list[str]
+train_ET_entropy_0322_0	pandas.DataFrame
+_var251	list[str]
+test_ET_entropy_mean_0322_0	pandas.DataFrame
+_var252	list[str]
+test_ET_entropy_gmean_0322_0	pandas.DataFrame
+_var253	str
+_var254	tuple[int, int]
+_var255	tuple[int, int]
+_var256	tuple[int, int]
+_var257	str
+_var258	str
+_var259	tuple[int, int]
+_var260	tuple[int, int]
+_var261	tuple[int, int]
+_var262	str
+_var263	str
+_var264	_iLocIndexer
+_var265	int
+_var266	int
+_var267	Unknown
+_var268	str
+_var269	_iLocIndexer
+_var270	int
+_var271	int
+_var272	Unknown
+_var273	str
+_var274	str
+file_train_9	str
+_var275	str
+_var276	str
+file_test_mean_9	str
+_var277	str
+_var278	str
+file_test_gmean_9	str
+_var279	str
+_var280	None
+train_KNN_uniform	pandas.DataFrame
+_var281	str
+_var282	None
+test_KNN_uniform_mean	pandas.DataFrame
+_var283	str
+_var284	None
+test_KNN_uniform_gmean	pandas.DataFrame
+_var285	tuple[int, int]
+_var286	int
+n_column_9	int
+total_col_10	int
+_var287	list[str]
+train_KNN_uniform_0	pandas.DataFrame
+_var288	list[str]
+test_KNN_uniform_mean_0	pandas.DataFrame
+_var289	list[str]
+test_KNN_uniform_gmean_0	pandas.DataFrame
+_var290	str
+_var291	str
+file_train_10	str
+_var292	str
+_var293	str
+file_test_mean_10	str
+_var294	str
+_var295	str
+file_test_gmean_10	str
+_var296	str
+_var297	None
+train_KNN_distance	pandas.DataFrame
+_var298	str
+_var299	None
+test_KNN_distance_mean	pandas.DataFrame
+_var300	str
+_var301	None
+test_KNN_distance_gmean	pandas.DataFrame
+_var302	tuple[int, int]
+_var303	int
+n_column_10	int
+total_col_11	int
+_var304	list[str]
+train_KNN_distance_0	pandas.DataFrame
+_var305	list[str]
+test_KNN_distance_mean_0	pandas.DataFrame
+_var306	list[str]
+test_KNN_distance_gmean_0	pandas.DataFrame
+_var307	str
+_var308	tuple[int, int]
+_var309	tuple[int, int]
+_var310	tuple[int, int]
+_var311	str
+_var312	str
+_var313	tuple[int, int]
+_var314	tuple[int, int]
+_var315	tuple[int, int]
+_var316	str
+_var317	str
+_var318	_iLocIndexer
+_var319	int
+_var320	int
+_var321	Unknown
+_var322	str
+_var323	_iLocIndexer
+_var324	int
+_var325	int
+_var326	Unknown
+_var327	str
+_var328	str
+file_train_11	str
+_var329	str
+_var330	str
+file_test_mean_11	str
+_var331	str
+_var332	str
+file_test_gmean_11	str
+_var333	str
+_var334	None
+train_KNN_uniform_0322	pandas.DataFrame
+_var335	str
+_var336	None
+test_KNN_uniform_mean_0322	pandas.DataFrame
+_var337	str
+_var338	None
+test_KNN_uniform_gmean_0322	pandas.DataFrame
+_var339	tuple[int, int]
+_var340	int
+n_column_11	int
+total_col_12	int
+_var341	list[str]
+train_KNN_uniform_0322_0	pandas.DataFrame
+_var342	list[str]
+test_KNN_uniform_mean_0322_0	pandas.DataFrame
+_var343	list[str]
+test_KNN_uniform_gmean_0322_0	pandas.DataFrame
+_var344	str
+_var345	str
+file_train_12	str
+_var346	str
+_var347	str
+file_test_mean_12	str
+_var348	str
+_var349	str
+file_test_gmean_12	str
+_var350	str
+_var351	None
+train_KNN_distance_0322	pandas.DataFrame
+_var352	str
+_var353	None
+test_KNN_distance_mean_0322	pandas.DataFrame
+_var354	str
+_var355	None
+test_KNN_distance_gmean_0322	pandas.DataFrame
+_var356	tuple[int, int]
+_var357	int
+n_column_12	int
+total_col_13	int
+_var358	list[str]
+train_KNN_distance_0322_0	pandas.DataFrame
+_var359	list[str]
+test_KNN_distance_mean_0322_0	pandas.DataFrame
+_var360	list[str]
+test_KNN_distance_gmean_0322_0	pandas.DataFrame
+_var361	str
+_var362	tuple[int, int]
+_var363	tuple[int, int]
+_var364	tuple[int, int]
+_var365	str
+_var366	str
+_var367	tuple[int, int]
+_var368	tuple[int, int]
+_var369	tuple[int, int]
+_var370	str
+_var371	str
+_var372	_iLocIndexer
+_var373	int
+_var374	int
+_var375	Unknown
+_var376	str
+_var377	_iLocIndexer
+_var378	int
+_var379	int
+_var380	Unknown
+_var381	str
+_var382	str
+file_train_13	str
+_var383	str
+_var384	str
+file_test_mean_13	str
+_var385	str
+_var386	str
+file_test_gmean_13	str
+_var387	str
+_var388	None
+train_FM	pandas.DataFrame
+_var389	str
+_var390	None
+test_FM_mean	pandas.DataFrame
+_var391	str
+_var392	None
+test_FM_gmean	pandas.DataFrame
+_var393	tuple[int, int]
+_var394	int
+n_column_13	int
+total_col_14	int
+_var395	list[str]
+train_FM_0	pandas.DataFrame
+_var396	list[str]
+test_FM_mean_0	pandas.DataFrame
+_var397	list[str]
+test_FM_gmean_0	pandas.DataFrame
+_var398	str
+_var399	tuple[int, int]
+_var400	tuple[int, int]
+_var401	tuple[int, int]
+_var402	str
+_var403	str
+_var404	_iLocIndexer
+_var405	int
+_var406	int
+_var407	Unknown
+_var408	str
+_var409	str
+file_train_14	str
+_var410	str
+_var411	str
+file_test_mean_14	str
+_var412	str
+_var413	str
+file_test_gmean_14	str
+_var414	str
+_var415	None
+train_FM_0322	pandas.DataFrame
+_var416	str
+_var417	None
+test_FM_mean_0322	pandas.DataFrame
+_var418	str
+_var419	None
+test_FM_gmean_0322	pandas.DataFrame
+_var420	tuple[int, int]
+_var421	int
+n_column_14	int
+total_col_15	int
+_var422	list[str]
+train_FM_0322_0	pandas.DataFrame
+_var423	list[str]
+test_FM_mean_0322_0	pandas.DataFrame
+_var424	list[str]
+test_FM_gmean_0322_0	pandas.DataFrame
+_var425	str
+_var426	tuple[int, int]
+_var427	tuple[int, int]
+_var428	tuple[int, int]
+_var429	str
+_var430	str
+_var431	_iLocIndexer
+_var432	int
+_var433	int
+_var434	Unknown
+_var435	str
+_var436	str
+file_train_15	str
+_var437	str
+_var438	str
+file_test_mean_15	str
+_var439	str
+_var440	str
+file_test_gmean_15	str
+_var441	str
+_var442	None
+train_MNB	pandas.DataFrame
+_var443	str
+_var444	None
+test_MNB_mean	pandas.DataFrame
+_var445	str
+_var446	None
+test_MNB_gmean	pandas.DataFrame
+_var447	tuple[int, int]
+_var448	int
+n_column_15	int
+total_col_16	int
+_var449	list[str]
+train_MNB_0	pandas.DataFrame
+_var450	list[str]
+test_MNB_mean_0	pandas.DataFrame
+_var451	list[str]
+test_MNB_gmean_0	pandas.DataFrame
+_var452	str
+_var453	tuple[int, int]
+_var454	tuple[int, int]
+_var455	tuple[int, int]
+_var456	str
+_var457	str
+_var458	_iLocIndexer
+_var459	int
+_var460	int
+_var461	Unknown
+_var462	str
+_var463	str
+file_train_16	str
+_var464	str
+_var465	str
+file_test	str
+_var466	str
+_var467	None
+train_tsne	pandas.DataFrame
+_var468	str
+_var469	None
+test_tsne	pandas.DataFrame
+_var470	tuple[int, int]
+_var471	int
+n_column_16	int
+total_col_17	int
+_var472	list[str]
+train_tsne_0	pandas.DataFrame
+_var473	list[str]
+test_tsne_0	pandas.DataFrame
+_var474	str
+_var475	tuple[int, int]
+_var476	tuple[int, int]
+_var477	str
+_var478	str
+_var479	_iLocIndexer
+_var480	int
+_var481	int
+_var482	Unknown
+_var483	str
+_var484	str
+file_train_17	str
+_var485	str
+_var486	str
+file_test_0	str
+_var487	str
+_var488	None
+train_tsne_0322	pandas.DataFrame
+_var489	str
+_var490	None
+test_tsne_0322	pandas.DataFrame
+_var491	tuple[int, int]
+_var492	int
+n_column_17	int
+total_col_18	int
+_var493	list[str]
+train_tsne_0322_0	pandas.DataFrame
+_var494	list[str]
+test_tsne_0322_0	pandas.DataFrame
+_var495	str
+_var496	tuple[int, int]
+_var497	tuple[int, int]
+_var498	str
+_var499	str
+_var500	_iLocIndexer
+_var501	int
+_var502	int
+_var503	Unknown
+_var504	str
+_var505	str
+file_train_18	str
+_var506	str
+_var507	str
+file_test_mean_16	str
+_var508	str
+_var509	str
+file_test_gmean_16	str
+_var510	str
+_var511	None
+train_xgb	pandas.DataFrame
+_var512	str
+_var513	None
+test_xgb_mean	pandas.DataFrame
+_var514	str
+_var515	None
+test_xgb_gmean	pandas.DataFrame
+_var516	tuple[int, int]
+_var517	int
+n_column_18	int
+total_col_19	int
+_var518	list[str]
+train_xgb_0	pandas.DataFrame
+_var519	list[str]
+test_xgb_mean_0	pandas.DataFrame
+_var520	list[str]
+test_xgb_gmean_0	pandas.DataFrame
+_var521	str
+_var522	tuple[int, int]
+_var523	tuple[int, int]
+_var524	tuple[int, int]
+_var525	str
+_var526	str
+_var527	_iLocIndexer
+_var528	int
+_var529	int
+_var530	Unknown
+_var531	str
+_var532	str
+file_train_19	str
+_var533	str
+_var534	str
+file_test_mean_17	str
+_var535	str
+_var536	str
+file_test_gmean_17	str
+_var537	str
+_var538	None
+train_xgb_0322	pandas.DataFrame
+_var539	str
+_var540	None
+test_xgb_mean_0322	pandas.DataFrame
+_var541	str
+_var542	None
+test_xgb_gmean_0322	pandas.DataFrame
+_var543	tuple[int, int]
+_var544	int
+n_column_19	int
+total_col_20	int
+_var545	list[str]
+train_xgb_0322_0	pandas.DataFrame
+_var546	list[str]
+test_xgb_mean_0322_0	pandas.DataFrame
+_var547	list[str]
+test_xgb_gmean_0322_0	pandas.DataFrame
+_var548	str
+_var549	tuple[int, int]
+_var550	tuple[int, int]
+_var551	tuple[int, int]
+_var552	str
+_var553	str
+_var554	_iLocIndexer
+_var555	int
+_var556	int
+_var557	Unknown
+_var558	str
+_var559	str
+file_train_20	str
+_var560	str
+_var561	str
+file_test_mean_18	str
+_var562	str
+_var563	str
+file_test_gmean_18	str
+_var564	str
+_var565	None
+train_xgb_0331	pandas.DataFrame
+_var566	str
+_var567	None
+test_xgb_mean_0331	pandas.DataFrame
+_var568	str
+_var569	None
+test_xgb_gmean_0331	pandas.DataFrame
+_var570	tuple[int, int]
+_var571	int
+n_column_20	int
+total_col_21	int
+_var572	list[str]
+train_xgb_0331_0	pandas.DataFrame
+_var573	list[str]
+test_xgb_mean_0331_0	pandas.DataFrame
+_var574	list[str]
+test_xgb_gmean_0331_0	pandas.DataFrame
+_var575	str
+_var576	tuple[int, int]
+_var577	tuple[int, int]
+_var578	tuple[int, int]
+_var579	str
+_var580	str
+_var581	_iLocIndexer
+_var582	int
+_var583	int
+_var584	Unknown
+_var585	str
+_var586	str
+file_train_21	str
+_var587	str
+_var588	str
+file_test_mean_19	str
+_var589	str
+_var590	str
+file_test_gmean_19	str
+_var591	str
+_var592	None
+train_xgb_0331_30fold	pandas.DataFrame
+_var593	str
+_var594	None
+test_xgb_mean_0331_30fold	pandas.DataFrame
+_var595	str
+_var596	None
+test_xgb_gmean_0331_30fold	pandas.DataFrame
+_var597	tuple[int, int]
+_var598	int
+n_column_21	int
+total_col_22	int
+_var599	list[str]
+train_xgb_0331_30fold_0	pandas.DataFrame
+_var600	list[str]
+test_xgb_mean_0331_30fold_0	pandas.DataFrame
+_var601	list[str]
+test_xgb_gmean_0331_30fold_0	pandas.DataFrame
+_var602	str
+_var603	tuple[int, int]
+_var604	tuple[int, int]
+_var605	tuple[int, int]
+_var606	str
+_var607	str
+_var608	_iLocIndexer
+_var609	int
+_var610	int
+_var611	Unknown
+_var612	str
+_var613	str
+file_train_22	str
+_var614	str
+_var615	str
+file_test_mean_20	str
+_var616	str
+_var617	str
+file_test_gmean_20	str
+_var618	str
+_var619	None
+train_xgb_cv137	pandas.DataFrame
+_var620	str
+_var621	None
+test_xgb_mean_cv137	pandas.DataFrame
+_var622	str
+_var623	None
+test_xgb_gmean_cv137	pandas.DataFrame
+_var624	tuple[int, int]
+_var625	int
+n_column_22	int
+total_col_23	int
+_var626	list[str]
+train_xgb_cv137_0	pandas.DataFrame
+_var627	list[str]
+test_xgb_mean_cv137_0	pandas.DataFrame
+_var628	list[str]
+test_xgb_gmean_cv137_0	pandas.DataFrame
+_var629	str
+_var630	tuple[int, int]
+_var631	tuple[int, int]
+_var632	tuple[int, int]
+_var633	str
+_var634	str
+_var635	_iLocIndexer
+_var636	int
+_var637	int
+_var638	Unknown
+_var639	str
+_var640	str
+file_train_23	str
+_var641	str
+_var642	str
+file_test_mean_21	str
+_var643	str
+_var644	str
+file_test_gmean_21	str
+_var645	str
+_var646	None
+train_xgb_cv137_1	pandas.DataFrame
+_var647	str
+_var648	None
+test_xgb_mean_cv137_1	pandas.DataFrame
+_var649	str
+_var650	None
+test_xgb_gmean_cv137_1	pandas.DataFrame
+_var651	tuple[int, int]
+_var652	int
+n_column_23	int
+total_col_24	int
+_var653	list[str]
+train_xgb_cv137_1_0	pandas.DataFrame
+_var654	list[str]
+test_xgb_mean_cv137_1_0	pandas.DataFrame
+_var655	list[str]
+test_xgb_gmean_cv137_1_0	pandas.DataFrame
+_var656	str
+_var657	tuple[int, int]
+_var658	tuple[int, int]
+_var659	tuple[int, int]
+_var660	str
+_var661	str
+_var662	_iLocIndexer
+_var663	int
+_var664	int
+_var665	Unknown
+_var666	str
+_var667	str
+file_train_24	str
+_var668	str
+_var669	str
+file_test_mean_22	str
+_var670	str
+_var671	str
+file_test_gmean_22	str
+_var672	str
+_var673	None
+train_xgb_cv_price	pandas.DataFrame
+_var674	str
+_var675	None
+test_xgb_mean_cv_price	pandas.DataFrame
+_var676	str
+_var677	None
+test_xgb_gmean_cv_price	pandas.DataFrame
+_var678	tuple[int, int]
+_var679	int
+n_column_24	int
+total_col_25	int
+_var680	list[str]
+train_xgb_cv_price_0	pandas.DataFrame
+_var681	list[str]
+test_xgb_mean_cv_price_0	pandas.DataFrame
+_var682	list[str]
+test_xgb_gmean_cv_price_0	pandas.DataFrame
+_var683	str
+_var684	tuple[int, int]
+_var685	tuple[int, int]
+_var686	tuple[int, int]
+_var687	str
+_var688	str
+_var689	_iLocIndexer
+_var690	int
+_var691	int
+_var692	Unknown
+_var693	str
+_var694	str
+file_train_25	str
+_var695	str
+_var696	str
+file_test_mean_23	str
+_var697	str
+_var698	str
+file_test_gmean_23	str
+_var699	str
+_var700	None
+train_xgb_cv_MS_52571	pandas.DataFrame
+_var701	str
+_var702	None
+test_xgb_mean_cv_MS_52571	pandas.DataFrame
+_var703	str
+_var704	None
+test_xgb_gmean_cv_MS_52571	pandas.DataFrame
+_var705	tuple[int, int]
+_var706	int
+n_column_25	int
+total_col_26	int
+_var707	list[str]
+train_xgb_cv_MS_52571_0	pandas.DataFrame
+_var708	list[str]
+test_xgb_mean_cv_MS_52571_0	pandas.DataFrame
+_var709	list[str]
+test_xgb_gmean_cv_MS_52571_0	pandas.DataFrame
+_var710	str
+_var711	tuple[int, int]
+_var712	tuple[int, int]
+_var713	tuple[int, int]
+_var714	str
+_var715	str
+_var716	_iLocIndexer
+_var717	int
+_var718	int
+_var719	Unknown
+_var720	str
+_var721	str
+file_train_26	str
+_var722	str
+_var723	str
+file_test_mean_24	str
+_var724	str
+_var725	str
+file_test_gmean_24	str
+_var726	str
+_var727	None
+train_xgb_cv_MS_52571_30fold	pandas.DataFrame
+_var728	str
+_var729	None
+test_xgb_mean_cv_MS_52571_30fold	pandas.DataFrame
+_var730	str
+_var731	None
+test_xgb_gmean_cv_MS_52571_30fold	pandas.DataFrame
+_var732	tuple[int, int]
+_var733	int
+n_column_26	int
+total_col_27	int
+_var734	list[str]
+train_xgb_cv_MS_52571_30fold_0	pandas.DataFrame
+_var735	list[str]
+test_xgb_mean_cv_MS_52571_30fold_0	pandas.DataFrame
+_var736	list[str]
+test_xgb_gmean_cv_MS_52571_30fold_0	pandas.DataFrame
+_var737	str
+_var738	tuple[int, int]
+_var739	tuple[int, int]
+_var740	tuple[int, int]
+_var741	str
+_var742	str
+_var743	_iLocIndexer
+_var744	int
+_var745	int
+_var746	Unknown
+_var747	str
+_var748	str
+file_train_27	str
+_var749	str
+_var750	str
+file_test_mean_25	str
+_var751	str
+_var752	str
+file_test_gmean_25	str
+_var753	str
+_var754	None
+train_xgb_ovr_0322	pandas.DataFrame
+_var755	str
+_var756	None
+test_xgb_mean_ovr_0322	pandas.DataFrame
+_var757	str
+_var758	None
+test_xgb_gmean_ovr_0322	pandas.DataFrame
+_var759	tuple[int, int]
+_var760	int
+n_column_27	int
+total_col_28	int
+_var761	list[str]
+train_xgb_ovr_0322_0	pandas.DataFrame
+_var762	list[str]
+test_xgb_mean_ovr_0322_0	pandas.DataFrame
+_var763	list[str]
+test_xgb_gmean_ovr_0322_0	pandas.DataFrame
+_var764	str
+_var765	tuple[int, int]
+_var766	tuple[int, int]
+_var767	tuple[int, int]
+_var768	str
+_var769	str
+_var770	_iLocIndexer
+_var771	int
+_var772	int
+_var773	Unknown
+_var774	str
+_var775	str
+file_train_28	str
+_var776	str
+_var777	str
+file_test_mean_26	str
+_var778	str
+_var779	str
+file_test_gmean_26	str
+_var780	str
+_var781	None
+train_lgb_0322	pandas.DataFrame
+_var782	str
+_var783	None
+test_lgb_mean_0322	pandas.DataFrame
+_var784	str
+_var785	None
+test_lgb_gmean_0322	pandas.DataFrame
+_var786	tuple[int, int]
+_var787	int
+n_column_28	int
+total_col_29	int
+_var788	list[str]
+train_lgb_0322_0	pandas.DataFrame
+_var789	list[str]
+test_lgb_mean_0322_0	pandas.DataFrame
+_var790	list[str]
+test_lgb_gmean_0322_0	pandas.DataFrame
+_var791	str
+_var792	tuple[int, int]
+_var793	tuple[int, int]
+_var794	tuple[int, int]
+_var795	str
+_var796	str
+_var797	_iLocIndexer
+_var798	int
+_var799	int
+_var800	Unknown
+_var801	str
+_var802	str
+file_train_29	str
+_var803	str
+_var804	str
+file_test_mean_27	str
+_var805	str
+_var806	str
+file_test_gmean_27	str
+_var807	str
+_var808	None
+train_lgb_dart_0322	pandas.DataFrame
+_var809	str
+_var810	None
+test_lgb_mean_dart_0322	pandas.DataFrame
+_var811	str
+_var812	None
+test_lgb_gmean_dart_0322	pandas.DataFrame
+_var813	tuple[int, int]
+_var814	int
+n_column_29	int
+total_col_30	int
+_var815	list[str]
+train_lgb_dart_0322_0	pandas.DataFrame
+_var816	list[str]
+test_lgb_mean_dart_0322_0	pandas.DataFrame
+_var817	list[str]
+test_lgb_gmean_dart_0322_0	pandas.DataFrame
+_var818	str
+_var819	tuple[int, int]
+_var820	tuple[int, int]
+_var821	tuple[int, int]
+_var822	str
+_var823	str
+_var824	_iLocIndexer
+_var825	int
+_var826	int
+_var827	Unknown
+_var828	str
+_var829	str
+file_train_30	str
+_var830	str
+_var831	str
+file_test_mean_28	str
+_var832	str
+_var833	str
+file_test_gmean_28	str
+_var834	str
+_var835	None
+train_lgb_0331	pandas.DataFrame
+_var836	str
+_var837	None
+test_lgb_mean_0331	pandas.DataFrame
+_var838	str
+_var839	None
+test_lgb_gmean_0331	pandas.DataFrame
+_var840	tuple[int, int]
+_var841	int
+n_column_30	int
+total_col_31	int
+_var842	list[str]
+train_lgb_0331_0	pandas.DataFrame
+_var843	list[str]
+test_lgb_mean_0331_0	pandas.DataFrame
+_var844	list[str]
+test_lgb_gmean_0331_0	pandas.DataFrame
+_var845	str
+_var846	tuple[int, int]
+_var847	tuple[int, int]
+_var848	tuple[int, int]
+_var849	str
+_var850	str
+_var851	_iLocIndexer
+_var852	int
+_var853	int
+_var854	Unknown
+_var855	str
+_var856	str
+file_train_31	str
+_var857	str
+_var858	str
+file_test_mean_29	str
+_var859	str
+_var860	str
+file_test_gmean_29	str
+_var861	str
+_var862	None
+train_lgb_0401	pandas.DataFrame
+_var863	str
+_var864	None
+test_lgb_mean_0401	pandas.DataFrame
+_var865	str
+_var866	None
+test_lgb_gmean_0401	pandas.DataFrame
+_var867	tuple[int, int]
+_var868	int
+n_column_31	int
+total_col_32	int
+_var869	list[str]
+train_lgb_0401_0	pandas.DataFrame
+_var870	list[str]
+test_lgb_mean_0401_0	pandas.DataFrame
+_var871	list[str]
+test_lgb_gmean_0401_0	pandas.DataFrame
+_var872	str
+_var873	tuple[int, int]
+_var874	tuple[int, int]
+_var875	tuple[int, int]
+_var876	str
+_var877	str
+_var878	_iLocIndexer
+_var879	int
+_var880	int
+_var881	Unknown
+_var882	str
+_var883	str
+file_train_32	str
+_var884	str
+_var885	str
+file_test_mean_30	str
+_var886	str
+_var887	None
+train_nn_0331	pandas.DataFrame
+_var888	str
+_var889	None
+test_nn_mean_0331	pandas.DataFrame
+_var890	tuple[int, int]
+_var891	int
+n_column_32	int
+total_col_33	int
+_var892	list[str]
+train_nn_0331_0	pandas.DataFrame
+_var893	list[str]
+test_nn_mean_0331_0	pandas.DataFrame
+_var894	str
+_var895	tuple[int, int]
+_var896	tuple[int, int]
+_var897	str
+_var898	str
+_var899	_iLocIndexer
+_var900	int
+_var901	int
+_var902	Unknown
+_var903	str
+_var904	str
+file_train_33	str
+_var905	str
+_var906	str
+file_test_mean_31	str
+_var907	str
+_var908	None
+train_nn_0331_1	pandas.DataFrame
+_var909	str
+_var910	None
+test_nn_mean_0331_1	pandas.DataFrame
+_var911	tuple[int, int]
+_var912	int
+n_column_33	int
+total_col_34	int
+_var913	list[str]
+train_nn_0331_1_0	pandas.DataFrame
+_var914	list[str]
+test_nn_mean_0331_1_0	pandas.DataFrame
+_var915	str
+_var916	tuple[int, int]
+_var917	tuple[int, int]
+_var918	str
+_var919	str
+_var920	_iLocIndexer
+_var921	int
+_var922	int
+_var923	Unknown
+_var924	str
+_var925	str
+file_train_34	str
+_var926	str
+_var927	str
+file_test_mean_32	str
+_var928	str
+_var929	None
+train_nn_ovr_0331	pandas.DataFrame
+_var930	str
+_var931	None
+test_nn_mean_ovr_0331	pandas.DataFrame
+_var932	tuple[int, int]
+_var933	int
+n_column_34	int
+total_col_35	int
+_var934	list[str]
+train_nn_ovr_0331_0	pandas.DataFrame
+_var935	list[str]
+test_nn_mean_ovr_0331_0	pandas.DataFrame
+_var936	str
+_var937	tuple[int, int]
+_var938	tuple[int, int]
+_var939	str
+_var940	str
+_var941	_iLocIndexer
+_var942	int
+_var943	int
+_var944	Unknown
+_var945	str
+_var946	str
+file_train_35	str
+_var947	str
+_var948	str
+file_test_mean_33	str
+_var949	str
+_var950	None
+train_nn_bagging	pandas.DataFrame
+_var951	str
+_var952	None
+test_nn_mean_bagging	pandas.DataFrame
+_var953	tuple[int, int]
+_var954	int
+n_column_35	int
+total_col_36	int
+_var955	list[str]
+train_nn_bagging_0	pandas.DataFrame
+_var956	list[str]
+test_nn_mean_bagging_0	pandas.DataFrame
+_var957	str
+_var958	tuple[int, int]
+_var959	tuple[int, int]
+_var960	str
+_var961	str
+_var962	_iLocIndexer
+_var963	int
+_var964	int
+_var965	Unknown
+_var966	str
+_var967	str
+file_train_36	str
+_var968	str
+_var969	str
+file_test_mean_34	str
+_var970	str
+_var971	None
+train_gp	pandas.DataFrame
+_var972	str
+_var973	None
+test_gp	pandas.DataFrame
+_var974	tuple[int, int]
+_var975	int
+n_column_36	int
+total_col_37	int
+_var976	list[str]
+train_gp_0	pandas.DataFrame
+_var977	list[str]
+test_gp_0	pandas.DataFrame
+_var978	str
+_var979	tuple[int, int]
+_var980	tuple[int, int]
+_var981	str
+_var982	str
+_var983	_iLocIndexer
+_var984	int
+_var985	int
+_var986	Unknown
+_var987	str
+_var988	str
+file_train_37	str
+_var989	str
+_var990	str
+file_test_mean_35	str
+_var991	str
+_var992	None
+train_bagging_0	pandas.DataFrame
+_var993	str
+_var994	None
+test_bagging_0	pandas.DataFrame
+_var995	tuple[int, int]
+_var996	int
+n_column_37	int
+total_col_38	int
+_var997	list[str]
+train_bagging_0_0	pandas.DataFrame
+_var998	list[str]
+test_bagging_0_0	pandas.DataFrame
+_var999	str
+_var1000	tuple[int, int]
+_var1001	tuple[int, int]
+_var1002	str
+_var1003	str
+_var1004	_iLocIndexer
+_var1005	int
+_var1006	int
+_var1007	Unknown
+_var1008	str
+_var1009	str
+file_train_38	str
+_var1010	str
+_var1011	str
+file_test_mean_36	str
+_var1012	str
+_var1013	None
+train_bagging_1	pandas.DataFrame
+_var1014	str
+_var1015	None
+test_bagging_1	pandas.DataFrame
+_var1016	tuple[int, int]
+_var1017	int
+n_column_38	int
+total_col_39	int
+_var1018	list[str]
+train_bagging_1_0	pandas.DataFrame
+_var1019	list[str]
+test_bagging_1_0	pandas.DataFrame
+_var1020	str
+_var1021	tuple[int, int]
+_var1022	tuple[int, int]
+_var1023	str
+_var1024	str
+_var1025	_iLocIndexer
+_var1026	int
+_var1027	int
+_var1028	Unknown
+_var1029	list[DataFrame]
+_var1030	int
+train_2nd	pandas.DataFrame
+axis	Literal[1, 'columns']
+_var1031	list[DataFrame]
+_var1032	int
+test_2nd_mean	pandas.DataFrame
+_var1033	list[DataFrame]
+_var1034	int
+test_2nd_gmean	pandas.DataFrame
+_var1035	str
+_var1036	tuple[int, int]
+_var1037	tuple[int, int]
+_var1038	tuple[int, int]
+_var1039	str
+data_path_0	str
+_var1040	str
+_var1041	str
+train_X	pandas.DataFrame
+_var1042	str
+_var1043	str
+test_X	pandas.DataFrame
+_var1044	str
+_var1045	str
+_var1046	str
+_var1047	pandas.DataFrame
+train_y	NDArray[_SCT@ravel]
+train_y_0	Unknown
+to_categorical	Unknown
+_var1048	tuple[int, int]
+_var1049	int
+ntrain	int
+_var1050	Any
+_var1051	str
+_var1052	Any
+sub_id	Any
+_var1053	tuple[int, int]
+_var1054	tuple[int, int]
+_var1055	Unknown
+_var1056	tuple[tuple[int, int], tuple[int, int], Unknown]
+_var1057	Any
+null_ind	Any
+_var1058	str
+_var1059	str
+_var1060	Unknown
+_var1061	str
+_var1062	Unknown
+_var1063	Unknown
+test_X_0	pandas.DataFrame
+set_index_wrapper	(base: Unknown, attr: Unknown, value: Unknown) -> Unknown
+_var1064	list[DataFrame]
+_var1065	int
+train_X_0	pandas.DataFrame
+_var1066	list[DataFrame]
+_var1067	int
+test_X_1	pandas.DataFrame
+_var1068	tuple[int, int]
+_var1069	tuple[int, int]
+_var1070	list[DataFrame]
+full_data	pandas.DataFrame
+_var1071	tuple[int, int]
+_var1072	pandas.DataFrame
+_var1073	ndarray[Unknown, Unknown]
+_var1074	Index
+feat_to_use	list[str]
+col	str
+_var1075	_LocIndexer
+_var1076	StandardScaler
+_var1077	Unknown
+_var1078	Unknown
+_var1079	int
+_var1080	int
+_var1081	Unknown
+_var1082	Unknown
+_var1075_0	_LocIndexer
+slice	Type[slice]
+train_df_nn	Unknown
+test_df_nn	Unknown
+train_df_nn_0	csr_matrix
+test_df_nn_0	csr_matrix
+_var1083	Any
+_var1084	Any
+_var1089	float
+_var1090	int
+_var1085	csr_matrix
+_var1086	csr_matrix
+_var1087	Unknown
+_var1088	Unknown
+train_test_split	(*arrays: Unknown, test_size: Unknown = None, train_size: Unknown = None, random_state: Unknown = None, shuffle: Unknown = True, stratify: Unknown = None) -> list[Unknown | NDArray[_SCT@array] | list[Unknown]]
+train_size	float
+random_state	int
+X_train	csr_matrix
+X_val	csr_matrix
+y_train	Unknown
+y_val	Unknown
+X	Unknown
+y	Unknown
+batch_size	Unknown
+shuffle	Unknown
+_var1091	Unknown
+_var1092	int
+_var1093	Unknown
+_var1094	Unknown
+number_of_batches	Any
+counter	int
+_var1095	Unknown
+_var1096	int
+_var1097	Unknown
+sample_index	NDArray[signedinteger[Any]]
+_var1099	bool
+_var1100	Unknown
+_var1101	int
+_var1102	int
+_var1103	Unknown
+batch_index	ndarray[Any, dtype[signedinteger[Any]]]
+_var1104	Unknown
+X_batch	Unknown
+y_batch	Unknown
+_var1105	int
+counter_0	int
+_var1106	Any
+counter_1	int
+counter_2	int
+__phi__	(phi_0: Unknown, phi_1: Unknown) -> Unknown
+counter_3	int
+X_0	Unknown
+batch_size_0	Unknown
+shuffle_0	Unknown
+_var1108	Unknown
+_var1109	int
+_var1110	Unknown
+_var1111	Unknown
+_var1112	int
+_var1113	Unknown
+_var1114	Unknown
+_var1115	Any
+number_of_batches_0	Unknown
+counter_4	int
+_var1116	Unknown
+_var1117	int
+_var1118	Unknown
+sample_index_0	NDArray[signedinteger[Any]]
+_var1119	bool
+_var1120	Unknown
+_var1121	int
+_var1122	int
+_var1123	Unknown
+batch_index_0	ndarray[Any, dtype[signedinteger[Any]]]
+_var1124	Unknown
+X_batch_0	Unknown
+_var1125	int
+counter_5	int
+_var1126	Unknown
+counter_6	int
+counter_7	int
+counter_8	int
+_var1127	str
+_var1128	int
+_var1129	int
+early_stop	Unknown
+EarlyStopping	Unknown
+_var1130	str
+_var1131	str
+_var1132	int
+_var1133	bool
+checkpointer	Unknown
+ModelCheckpoint	Unknown
+input_dim	Unknown
+model	Unknown
+Sequential	Unknown
+init	str
+_var1134	int
+_var1135	Unknown
+Dense	Unknown
+_var1136	str
+_var1137	Unknown
+Activation	Unknown
+_var1138	Unknown
+PReLU	Unknown
+_var1139	Unknown
+BatchNormalization	Unknown
+_var1140	float
+_var1141	Unknown
+Dropout	Unknown
+_var1142	int
+_var1143	Unknown
+_var1144	str
+_var1145	Unknown
+_var1146	Unknown
+_var1147	Unknown
+_var1148	float
+_var1149	Unknown
+_var1150	int
+_var1151	str
+_var1152	Unknown
+_var1153	str
+_var1154	str
+_var1155	Any
+_var1156	int
+_var1157	Any
+model_0	Unknown
+create_model	(input_dim: Unknown) -> Unknown
+_var1158	int
+_var1159	bool
+_var1160	Generator[tuple[Unknown, Unknown], None, None]
+batch_generator	(X: Unknown, y: Unknown, batch_size: Unknown, shuffle: Unknown) -> Generator[tuple[Unknown, Unknown], None, None]
+_var1161	int
+_var1162	NDArray[_SCT@asarray] | matrix[Unknown, Unknown]
+_var1163	tuple[NDArray[_SCT@asarray] | matrix[Unknown, Unknown], Unknown]
+_var1164	list[Unknown]
+fit	Unknown
+model_1	Unknown
+_var1165	Unknown
+_var1166	str
+_var1167	Unknown
+_var1168	Unknown
+min	Overload[(__arg1: SupportsLessThanT@min, __arg2: SupportsLessThanT@min, *_args: SupportsLessThanT@min, key: None = ...) -> SupportsLessThanT@min, (__arg1: _T@min, __arg2: _T@min, *_args: _T@min, key: (_T@min) -> SupportsLessThan) -> _T@min, (__iterable: Iterable[SupportsLessThanT@min], *, key: None = ...) -> SupportsLessThanT@min, (__iterable: Iterable[_T@min], *, key: (_T@min) -> SupportsLessThan) -> _T@min, (__iterable: Iterable[SupportsLessThanT@min], *, key: None = ..., default: _T@min) -> (SupportsLessThanT@min | _T@min), (__iterable: Iterable[_T1@min], *, key: (_T1@min) -> SupportsLessThan, default: _T2@min) -> (_T1@min | _T2@min)]
+_var1169	str
+_var1170	str
+_var1171	str
+_var1172	Unknown | NDArray[float64]
+_var1173	int
+_var1174	int
+pred_y	Unknown
+now	datetime
+datetime	Type[datetime]
+_var1175	str
+_var1176	str
+_var1177	str
+_var1178	str
+_var1179	str
+_var1180	str
+sub_name	str
+out_df	pandas.DataFrame
+_var1181	list[str]
+out_df_0	pandas.DataFrame
+_var1182	str
+out_df_1	pandas.DataFrame
+_var1183	bool
+index	bool_t
+params	Unknown
+model_2	Unknown
+init_0	str
+_var1184	str
+_var1185	Unknown
+_var1186	str
+_var1187	Unknown
+_var1188	Unknown
+_var1189	str
+_var1190	Unknown
+_var1191	Unknown
+_var1192	Unknown
+_var1193	str
+_var1194	Unknown
+_var1195	Unknown
+_var1196	str
+_var1197	Unknown
+_var1198	Unknown
+_var1199	str
+_var1200	Unknown
+_var1201	Unknown
+_var1202	Unknown
+_var1203	str
+_var1204	Unknown
+_var1205	Unknown
+_var1206	int
+_var1207	str
+_var1208	Unknown
+_var1209	str
+_var1210	str
+parameters	Unknown
+train_x	Unknown
+train_y_1	Unknown
+test_x	Unknown
+fold	Unknown
+early_stopping_rounds	Unknown
+batch_size_1	Unknown
+randomseed	Unknown
+N_params	int
+len	(__obj: Sized) -> int
+_var1211	bool
+skf	KFold
+KFold	Type[KFold]
+n_splits	Unknown
+_var1212	Unknown
+_var1213	int
+N_class	Unknown
+_var1214	Unknown
+_var1215	int
+_var1216	Unknown
+_var1217	Unknown
+_var1218	tuple[Unknown, Unknown]
+train_blend_x	NDArray[float64]
+_var1219	Unknown
+_var1220	int
+_var1221	Unknown
+_var1222	Unknown
+_var1223	tuple[Unknown, Unknown]
+test_blend_x	NDArray[float64]
+_var1224	tuple[Unknown, int]
+scores	NDArray[float64]
+_var1225	tuple[Unknown, int]
+best_rounds	NDArray[float64]
+fold_start	float
+_var1226	enumerate[Unknown]
+enumerate	Type[enumerate[_T@enumerate]]
+_var1227	tuple[int, Unknown]
+_var1230	int
+j	int
+_var1231	int
+nn_params	Unknown
+_var1232	Unknown
+_var1233	int
+_var1234	Unknown
+_var1235	Unknown
+_var1236	tuple[Unknown, Unknown]
+test_blend_x_j	NDArray[float64]
+_var1237	Generator[tuple[ndarray[Any, dtype[signedinteger[Any]]], ndarray[Any, dtype[signedinteger[Any]]]], None, None]
+_var1238	enumerate[tuple[ndarray[Any, dtype[signedinteger[Any]]], ndarray[Any, dtype[signedinteger[Any]]]]]
+_var1239	tuple[int, tuple[ndarray[Any, dtype[signedinteger[Any]]], ndarray[Any, dtype[signedinteger[Any]]]]]
+_var1242	int
+i	int
+_var1245	int
+_var1246	tuple[ndarray[Any, dtype[signedinteger[Any]]], ndarray[Any, dtype[signedinteger[Any]]]]
+_var1247	int
+train_index	ndarray[Any, dtype[signedinteger[Any]]]
+_var1248	int
+val_index	ndarray[Any, dtype[signedinteger[Any]]]
+train_x_fold	Unknown
+train_y_fold	Unknown
+val_x_fold	Unknown
+val_y_fold	Unknown
+model_3	Unknown
+nn_model	(params: Unknown) -> Unknown
+_var1249	bool
+_var1250	Generator[tuple[Unknown, Unknown], None, None]
+_var1251	int
+_var1252	Unknown
+_var1253	int
+_var1254	Unknown
+_var1255	Unknown
+_var1256	tuple[Unknown, Unknown]
+_var1257	int
+_var1258	str
+_var1259	str
+_var1260	int
+_var1261	bool
+_var1262	Unknown
+_var1263	list[Unknown]
+fit_0	Unknown
+model_4	Unknown
+_var1264	Unknown
+_var1265	int
+_var1266	Unknown
+_var1267	int
+best_round	Unknown
+_var1268	tuple[int, int]
+best_rounds_0	NDArray[float64]
+_var1269	str
+_var1270	str
+_var1271	str
+_var1272	Unknown
+_var1273	int
+val_y_predict_fold	Unknown
+score	floating[Any] | Any
+log_loss	(y_true: Unknown, y_pred: Unknown, *, eps: Unknown = "auto", normalize: Unknown = True, sample_weight: Unknown = None, labels: Unknown = None) -> (floating[Any] | Any)
+_var1274	tuple[int, int]
+scores_0	NDArray[float64]
+_var1275	Unknown
+_var1276	int
+_var1277	int
+_var1278	Unknown
+train_blend_x_0	NDArray[float64]
+_var1279	str
+_var1280	str
+_var1281	str
+_var1282	Unknown
+_var1283	int
+_var1284	int
+_var1285	Unknown
+_var1286	Unknown
+_var1287	int
+_var1288	Unknown
+test_blend_x_j_0	NDArray[float64]
+test_blend_x_j_1	NDArray[float64]
+best_rounds_1	NDArray[float64]
+fit_1	Unknown
+model_5	Unknown
+scores_1	NDArray[float64]
+train_blend_x_1	NDArray[float64]
+_var1289	Unknown
+_var1290	int
+_var1291	int
+_var1292	Unknown
+_var1293	int
+_var1294	Unknown
+_var1295	range
+range	Type[range]
+_var1296	list[int]
+_var1297	ndarray[Any, dtype[float64]]
+_var1298	int
+_var1299	Any
+_var1300	int
+_var1301	Unknown
+_var1302	range
+_var1303	list[int]
+_var1304	ndarray[Any, dtype[float64]]
+_var1305	int
+_var1306	Any
+_var1307	int
+_var1308	Unknown
+_var1309	range
+_var1310	list[int]
+_var1311	ndarray[Any, dtype[float64]]
+_var1312	int
+_var1313	Any
+_var1314	list[Any]
+_var1315	NDArray[_SCT@stack]
+_var1316	NDArray[_SCT@stack]
+test_blend_x_0	NDArray[float64]
+best_rounds_2	NDArray[float64]
+fit_2	Unknown
+train_blend_x_2	NDArray[float64]
+model_6	Unknown
+scores_2	NDArray[float64]
+test_blend_x_1	NDArray[float64]
+_var1317	str
+_var1318	floating[Any]
+_var1319	float
+_var1320	float
+_var1321	int
+_var1322	float
+_var1323	tuple[floating[Any], float]
+_var1324	str
+_var1325	Any
+_var1326	int
+_var1327	Any
+_var1328	int
+_var1329	tuple[Any, int]
+train_total	NDArray[float64]
+_var1330	Any
+_var1331	int
+_var1332	Any
+_var1333	int
+_var1334	tuple[Any, int]
+test_total	NDArray[float64]
+score_total	int
+count	int
+_var1335	str
+_var1336	range
+n	int
+_var1337	tuple[int, int]
+_var1338	int
+_var1339	int
+_var1340	dict[str, Unknown]
+nn_parameters	list[dict[str, Unknown]]
+_var1345	int
+_var1346	int
+_var1347	int
+_var1341	NDArray[float64]
+_var1342	NDArray[float64]
+_var1343	NDArray[float64]
+_var1344	NDArray[float64]
+nn_blend_data	(parameters: Unknown, train_x: Unknown, train_y_1: Unknown, test_x: Unknown, fold: Unknown, early_stopping_rounds: Unknown = 0, batch_size_1: Unknown = 128, randomseed: Unknown = 1234) -> tuple[NDArray[float64], NDArray[float64], NDArray[float64], NDArray[float64]]
+train_blend_x_3	NDArray[float64]
+test_blend_x_2	NDArray[float64]
+blend_scores	NDArray[float64]
+best_round_0	NDArray[float64]
+train_total_0	NDArray[floating[Any]]
+test_total_0	NDArray[floating[Any]]
+_var1348	floating[Any]
+score_total_0	floating[Any | Unknown]
+name_train_blend	str
+name_test_blend	str
+_var1349	str
+delimiter	str
+_var1350	str
+score_total_1	floating[Any | Unknown] | Literal[0]
+train_total_1	NDArray[floating[Any]] | NDArray[float64]
+test_total_1	NDArray[floating[Any]] | NDArray[float64]
+train_total_2	NDArray[floating[Any]]
+test_total_2	NDArray[floating[Any]]
+score_total_2	floating[Any | Unknown] | float
+now_0	datetime
+_var1351	str
+_var1352	str
+_var1353	str
+_var1354	str
+_var1355	str
+_var1356	str
+sub_name_0	str
+out_df_2	pandas.DataFrame
+_var1357	list[str]
+out_df_3	pandas.DataFrame
+_var1358	str
+out_df_4	pandas.DataFrame
+_var1359	bool
+_var1360	str
+_var1361	str
+_var1362	str
+_var1363	str
+_var1364	str
+_var1365	str
+name_train_blend_0	str
+_var1366	str
+_var1367	str
+_var1368	str
+_var1369	str
+_var1370	str
+_var1371	str
+name_test_blend_0	str
+_var1372	int
+_var1373	Any
+_var1374	int
+_var1375	Any
+_var1376	str
+_var1377	str

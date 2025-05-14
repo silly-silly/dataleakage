@@ -1,0 +1,4 @@
+predictor_0	train	$invo28	MultinomialNB.fit	[, $invo77]	predictor_0	test	$invo29	MultinomialNB.predict	[, $invo77]	_var172	_var174
+predictor_0	train	$invo28	MultinomialNB.fit	[, $invo77]	predictor_0	test	$invo29	MultinomialNB.predict	[, $invo77]	wordsVectorizer	_var174
+predictor_0	train	$invo28	MultinomialNB.fit	[, $invo77]	predictor_0	test	$invo29	MultinomialNB.predict	[, $invo77]	_var177	wordsVector
+predictor_0	train	$invo28	MultinomialNB.fit	[, $invo77]	predictor_0	test	$invo29	MultinomialNB.predict	[, $invo77]	inverseFreqTransformer	wordsVector

@@ -1,0 +1,15 @@
+0	__phi__	phi_0
+0	__phi__	phi_1
+0	set_field_wrapper	base
+0	set_index_wrapper	base
+0	global_wrapper	x
+0	preproc	data_7
+0	find_corr_features	df_2
+0	redundant_features	data_9
+0	rfm	y_pred
+1	rfm	y_test
+2	rfm	X_test
+3	rfm	rf_0
+0	plot_rf._func0	_var216
+0	get_speed_week	speed
+1	get_speed_week	week

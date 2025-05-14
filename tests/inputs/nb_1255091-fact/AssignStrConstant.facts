@@ -1,0 +1,167 @@
+_var1	matplotlib
+_var2	inline
+_var4	matplotlib
+_var5	inline
+_var6	ListofInformalSettlements_29_DEC_2016_All_sites.csv
+_var7	Governorate
+_var9	../../PythonLearningSideProjects/APIs/Sarine_APIs.csv
+_var10	API key
+_var12	Name
+_var19	Governorate
+_var23	
+_var26	 Governorate, Lebanon
+_var27	address=
+_var28	 
+_var29	+
+_var31	https://maps.googleapis.com/maps/api/geocode/json?
+_var33	&key=
+_var37	status
+_var39	OK
+_var41	results
+_var45	geometry
+_var47	location
+_var49	lng
+_var51	geometry
+_var53	location
+_var55	lat
+_var80	merc
+_var91	i
+_var93	ESRI_Imagery_World_2D
+_var96	darkcyan
+_var99	Number of Ind
+_var102	Number of Ind in SSBs
+_var107	Longitude
+_var110	Latitude
+_var135	lightgray
+_var136	*
+_var142	offset points
+_var144	lightgray
+_var146	log
+_var152	Number of  settlements [log10(N)]
+_var153	/Users/Sarine/Documents/Sarine/Other/PythonLearningSideProjects/lebanon-refugee-data/LBN_adm/LBN_adm1
+_var154	areas
+_var161	merc
+_var172	i
+_var174	ESRI_Imagery_World_2D
+_var180	Number of Ind
+_var183	Number of Ind in SSBs
+_var188	Longitude
+_var191	Latitude
+_var208	Mean number of people in settlements
+_var210	merc
+_var221	i
+_var223	ESRI_Imagery_World_2D
+_var229	Water Capacity in L
+_var233	Longitude
+_var236	Latitude
+_var253	Water capacity in L
+_var254	Status
+_var261	Status
+_var268	Status
+_var275	Status
+_var276	Status
+_var281	Status
+_var283	Type of Water Source
+_var286	Waste Disposal
+_var289	Waste Water Disposal
+_var292	Type of Contract
+_var295	Type of Internet Connection
+_var300	all
+_var303	all
+_var306	all
+_var309	all
+_var312	all
+_var314	Status
+_var316	Water Capacity in L
+_var318	Status
+_var320	Number of Latrines
+_var322	Status
+_var324	Number of SSBs
+_var326	Status
+_var328	Number of Ind in SSBs
+_var330	Waste Disposal
+_var331	Waste Disposal
+_var336	Waste Water Disposal
+_var338	Waste Water Disposal
+_var339	Waste Water Disposal
+_var342	Rare
+_var344	Waste Water Disposal
+_var346	Waste Water Disposal
+_var347	Waste Water Disposal
+_var352	Waste Water Disposal
+_var360	Status
+_var362	Governorate
+_var363	Governorate
+_var368	Governorate
+_var376	Status
+_var384	Status
+_var392	Status
+_var394	Type of Water Source
+_var396	Type of Water Source
+_var397	Type of Water Source
+_var400	Rare
+_var408	Status
+_var410	Type of Water Source
+_var411	Type of Water Source
+_var416	Type of Water Source
+_var418	Type of Contract
+_var426	Status
+_var428	Type of Contract
+_var429	Type of Contract
+_var434	Type of Contract
+_var436	Type of Internet Connection
+_var444	Status
+_var446	Type of Internet Connection
+_var447	Type of Internet Connection
+_var452	Type of Internet Connection
+_var460	Status
+_var468	Status
+_var470	LatrinesBand
+_var471	Number of Latrines
+_var481	LatrinesBand
+_var484	Number of Latrines
+_var488	LatrinesBandNum
+_var492	Number of Latrines
+_var496	Number of Latrines
+_var501	LatrinesBandNum
+_var505	Number of Latrines
+_var509	Number of Latrines
+_var514	LatrinesBandNum
+_var518	Number of Latrines
+_var522	LatrinesBandNum
+_var525	LatrinesBandNum
+_var526	LatrinesBandNum
+_var531	WaterBand
+_var532	Water Capacity in L
+_var542	WaterBand
+_var545	Water Capacity in L
+_var549	WaterBandNum
+_var553	Water Capacity in L
+_var557	Water Capacity in L
+_var562	WaterBandNum
+_var566	Water Capacity in L
+_var570	Water Capacity in L
+_var575	WaterBandNum
+_var579	Water Capacity in L
+_var583	WaterBandNum
+_var586	WaterBandNum
+_var587	WaterBandNum
+_var618	Accuracy: %0.2f (+/- %0.2f)
+_var683	ROC fold %d (area = %0.2f)
+_var689	--
+_var690	k
+_var691	Luck
+_var695	g
+_var696	--
+_var697	Mean ROC (area = %0.2f)
+_var703	False Positive Rate
+_var704	True Positive Rate
+_var705	Receiver Operating Characteristic curves
+_var706	lower right
+_var711	Correlation
+_var714	Correlation
+_var721	Feature importances
+_var728	r
+_var730	center
+_var739	vertical
+_var745	Correlation

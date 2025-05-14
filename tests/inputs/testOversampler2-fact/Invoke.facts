@@ -1,0 +1,11 @@
+$invo0	setattr	set_field_wrapper
+$invo1	setattr	set_index_wrapper
+$invo2	fetch_openml	
+$invo3	Unknown.select_dtypes	
+$invo4	make_imbalance	
+$invo5	RandomOverSampler	
+$invo6	train_test_split	
+$invo7	RandomOverSampler.fit_resample	
+$invo8	HistGradientBoostingClassifier	
+$invo9	HistGradientBoostingClassifier.fit	
+$invo10	BaseHistGradientBoosting.predict	

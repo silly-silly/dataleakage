@@ -1,0 +1,8 @@
+$invo4	[, ]	pandas.DataFrame.drop	[, $invo4]
+$invo6	[, ]	train_test_split	[, $invo6]
+$invo7	[, ]	LogisticRegression	[, $invo7]
+$invo2	[, ]	pandas.read_csv	[, $invo2]
+$invo3	[, ]	len	[, $invo3]
+$invo5	[, ]	sklearn.preprocessing.scale	[, $invo5]
+$invo8	[, ]	LogisticRegression.fit	[, $invo8]
+$invo9	[, ]	LogisticRegression.predict	[, $invo9]

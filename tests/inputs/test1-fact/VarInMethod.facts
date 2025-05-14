@@ -1,0 +1,51 @@
+phi_0	__phi__
+phi_1	__phi__
+base	set_field_wrapper
+attr	set_field_wrapper
+value	set_field_wrapper
+base	set_index_wrapper
+attr	set_index_wrapper
+value	set_index_wrapper
+x	global_wrapper
+_var0	
+df	
+l	
+_var1	
+y	
+_var2	
+_var3	
+df_0	
+_var8	
+_var9	
+_var4	
+_var5	
+_var6	
+_var7	
+X_train	
+X_test	
+y_train	
+y_test	
+_var10	
+_var11	
+_var12	
+_var13	
+_var14	
+_var15	
+_var16	
+_var17	
+X_train_0	
+_var18	
+_var19	
+_var20	
+_var21	
+_var22	
+_var23	
+_var24	
+_var25	
+X_test_0	
+_var26	
+_var27	
+_var28	
+clf	
+clf_0	
+y_pred	

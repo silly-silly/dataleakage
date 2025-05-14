@@ -1,0 +1,184 @@
+$invo0	setattr	set_field_wrapper
+$invo1	setattr	set_index_wrapper
+$invo2	get_ipython	
+$invo3	Unknown.run_line_magic	
+$invo4	pandas.set_option	
+$invo5	pandas.set_option	
+$invo6	pandas.read_csv	
+$invo7	get_ipython	
+$invo8	Unknown.run_line_magic	
+$invo9	CountVectorizer	
+$invo10	CountVectorizer.fit	
+$invo11	CountVectorizer.get_feature_names	
+$invo12	print	
+$invo13	CountVectorizer.transform	
+$invo14	print	
+$invo15	print	
+$invo16	type	
+$invo17	print	
+$invo18	print	
+$invo19	print	
+$invo20	Unknown.toarray	
+$invo21	print	
+$invo22	CountVectorizer.get_feature_names	
+$invo23	pandas.DataFrame	
+$invo24	print	
+$invo25	CountVectorizer.fit	
+$invo26	CountVectorizer.fit_transform	
+$invo27	pandas.DataFrame.head	
+$invo28	Any.astype	
+$invo29	Unknown.train_test_split	train_and_measure
+$invo30	Unknown.fit	train_and_measure
+$invo31	Unknown.score	train_and_measure
+$invo32	Unknown.score	train_and_measure
+$invo33	print	train_and_measure
+$invo34	print	train_and_measure
+$invo35	print	train_and_measure
+$invo36	.naive_bayes.MultinomialNB	
+$invo37	train_and_measure	
+$invo38	.naive_bayes.BernoulliNB	
+$invo39	train_and_measure	
+$invo40	.linear_model.LogisticRegression	
+$invo41	train_and_measure	
+$invo42	Unknown.KFold	kfold_average_sd
+$invo43	Unknown.fit	kfold_average_sd
+$invo44	Unknown.score	kfold_average_sd
+$invo45	list[Unknown].append	kfold_average_sd
+$invo46	Unknown.score	kfold_average_sd
+$invo47	list[Unknown].append	kfold_average_sd
+$invo48	Unknown.figure	kfold_average_sd
+$invo49	numpy.array	kfold_average_sd
+$invo50	NDArray[Any].mean	kfold_average_sd
+$invo51	numpy.array	kfold_average_sd
+$invo52	NDArray[Any].std	kfold_average_sd
+$invo53	numpy.random.normal	kfold_average_sd
+$invo54	Unknown.kdeplot	kfold_average_sd
+$invo55	numpy.array	kfold_average_sd
+$invo56	NDArray[Any].mean	kfold_average_sd
+$invo57	numpy.array	kfold_average_sd
+$invo58	NDArray[Any].std	kfold_average_sd
+$invo59	.naive_bayes.MultinomialNB	
+$invo60	kfold_average_sd	
+$invo61	range	find_k
+$invo62	Unknown.KFold	find_k
+$invo63	Unknown.fit	find_k
+$invo64	Unknown.score	find_k
+$invo65	list[Unknown].append	find_k
+$invo66	Unknown.score	find_k
+$invo67	list[Unknown].append	find_k
+$invo68	numpy.array	find_k
+$invo69	NDArray[Any].mean	find_k
+$invo70	list[Unknown].append	find_k
+$invo71	numpy.array	find_k
+$invo72	NDArray[Any].mean	find_k
+$invo73	list[Unknown].append	find_k
+$invo74	Unknown.figure	find_k
+$invo75	range	find_k
+$invo76	list	find_k
+$invo77	Unknown.plot	find_k
+$invo78	range	find_k
+$invo79	list	find_k
+$invo80	Unknown.plot	find_k
+$invo81	.naive_bayes.MultinomialNB	
+$invo82	find_k	
+$invo83	MultinomialNB.predict	
+$invo84	confusion_matrix	
+$invo85	print	
+$invo86	MultinomialNB.score	
+$invo87	print	
+$invo88	print	
+$invo89	print	
+$invo90	MultinomialNB.predict_proba	
+$invo91	numpy.argsort	
+$invo92	numpy.argsort	
+$invo93	print	
+$invo94	print	
+$invo95	Unknown.irow	
+$invo96	print	
+$invo97	print	
+$invo98	print	
+$invo99	print	
+$invo100	Unknown.irow	
+$invo101	print	
+$invo102	print	
+$invo103	get_ipython	
+$invo104	Unknown.run_line_magic	
+$invo105	f_classif	
+$invo106	print	
+$invo107	f_classif	
+$invo108	len	
+$invo109	print	
+$invo110	f_classif	
+$invo111	len	
+$invo112	print	
+$invo113	f_classif	
+$invo114	len	
+$invo115	print	
+$invo116	Unknown.figure	
+$invo117	f_classif	
+$invo118	numpy.sort	
+$invo119	Unknown.plot	
+$invo120	Unknown.ylabel	
+$invo121	Unknown.twinx	
+$invo122	f_classif	
+$invo123	numpy.sort	
+$invo124	Unknown.plot	
+$invo125	Unknown.ylabel	
+$invo126	range	
+$invo127	f_classif	
+$invo128	numpy.percentile	
+$invo129	f_classif	
+$invo130	numpy.percentile	
+$invo131	print	
+$invo132	f_classif	
+$invo133	f_classif	
+$invo134	numpy.percentile	
+$invo135	numpy.shape	
+$invo136	.naive_bayes.MultinomialNB	
+$invo137	train_and_measure	
+$invo138	Unknown.train_test_split	train_and_measure
+$invo139	Unknown.fit	train_and_measure
+$invo140	Unknown.score	train_and_measure
+$invo141	Unknown.score	train_and_measure
+$invo142	range	
+$invo143	f_classif	
+$invo144	f_classif	
+$invo145	numpy.percentile	
+$invo146	numpy.shape	
+$invo147	numpy.shape	
+$invo148	numpy.shape	
+$invo149	list[Unknown].append	
+$invo150	list[Unknown].append	
+$invo151	.naive_bayes.MultinomialNB	
+$invo152	train_and_measure	
+$invo153	list[Unknown].append	
+$invo154	list[Unknown].append	
+$invo155	numpy.array	
+$invo156	numpy.array	
+$invo157	numpy.array	
+$invo158	numpy.array	
+$invo159	pandas.DataFrame	
+$invo160	Unknown.figure	
+$invo161	Unknown.plot	
+$invo162	Unknown.plot	
+$invo163	Unknown.ylim	
+$invo164	Unknown.xlabel	
+$invo165	Unknown.ylabel	
+$invo166	Unknown.legend	
+$invo167	Unknown.twinx	
+$invo168	Unknown.bar	
+$invo169	Unknown.xlim	
+$invo170	Unknown.ylabel	
+$invo171	Unknown.show	
+$invo172	Unknown.word_tokenize	ad_words
+$invo173	Unknown.pos_tag	ad_words
+$invo174	set	ad_words
+$invo175	list	ad_words
+$invo176	str.join	ad_words
+$invo177	Any.apply	
+$invo178	Unknown.head	
+$invo179	CountVectorizer	
+$invo180	CountVectorizer.fit_transform	
+$invo181	numpy.shape	
+$invo182	.naive_bayes.MultinomialNB	
+$invo183	train_and_measure	

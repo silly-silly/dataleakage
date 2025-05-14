@@ -1,0 +1,54 @@
+_var0	english
+algorithm	multinomialnb
+_var5	(http://+)|(www+)
+_var10	html.parser
+_var12	[^a-zA-Z]
+_var13	 
+_var16	 
+_var18	 
+_var20	multinomialnb
+_var25	precision
+_var27	isSpam
+_var34	score
+_var37	score
+_var40	multinomialnb
+_var44	isSpam
+_var52	0s: %d, 1s: %d
+_var71	Accuracy: %.3f
+_var81	Precision: %.3f
+_var97	CB
+_var98	journal
+_var99	localhost
+_var100	body
+_var104	siteId
+_var105	siteId
+_var107	text
+_var108	title
+_var111	 
+_var113	content
+_var119	CB
+_var120	site
+_var121	localhost
+_var123	_id
+_var127	isSpam
+_var128	isSpam
+_var135	/Users/dmurali/Documents/spamlist_round25_from_20150809_to_20151015.csv
+_var139	left
+_var143	left
+_var146	isSpam
+_var147	isOctSpam
+_var149	isSiteSpam
+_var153	isSiteSpam
+_var159	text
+_var161	 
+_var163	text
+_var164	text
+_var167	length
+_var168	text
+_var173	text
+_var175	text
+_var179	isSpam
+_var180	isSpam
+_var182	isSpam
+_var183	isSpam
+_var190	isSpam

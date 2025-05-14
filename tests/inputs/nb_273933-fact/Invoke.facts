@@ -1,0 +1,133 @@
+$invo0	setattr	set_field_wrapper
+$invo1	setattr	set_index_wrapper
+$invo2	get_ipython	
+$invo3	Unknown.run_line_magic	
+$invo4	pandas.read_csv	
+$invo5	print	
+$invo6	print	
+$invo7	len	
+$invo8	print	
+$invo9	Any.value_counts	
+$invo10	sum	
+$invo11	print	
+$invo12	print	
+$invo13	float	
+$invo14	float	
+$invo15	str.format	
+$invo16	print	
+$invo17	str.format	
+$invo18	print	
+$invo19	str.format	
+$invo20	print	
+$invo21	str.format	
+$invo22	print	
+$invo23	str.format	
+$invo24	print	
+$invo25	list	
+$invo26	str.format	
+$invo27	print	
+$invo28	str.format	
+$invo29	print	
+$invo30	print	
+$invo31	Unknown.head	
+$invo32	print	
+$invo33	pandas.DataFrame	preprocess_features
+$invo34	Unknown.items	preprocess_features
+$invo35	list	preprocess_features
+$invo36	Unknown.replace	preprocess_features
+$invo37	pandas.get_dummies	preprocess_features
+$invo38	pandas.DataFrame.join	preprocess_features
+$invo39	preprocess_features	
+$invo40	len	
+$invo41	list	
+$invo42	str.format	
+$invo43	print	
+$invo44	list	
+$invo45	pandas.DataFrame.head	
+$invo46	pandas.DataFrame.mean	
+$invo47	pandas.DataFrame.std	
+$invo48	len	
+$invo49	range	
+$invo50	list	
+$invo51	numpy.array	
+$invo52	Unknown.plot	
+$invo53	Unknown.ylabel	
+$invo54	Unknown.title	
+$invo55	Unknown.plot	
+$invo56	Unknown.ylabel	
+$invo57	Unknown.title	
+$invo58	sklearn.preprocessing.scale	
+$invo59	Unknown | NDArray[_SCT@asarray].mean	
+$invo60	Unknown | NDArray[_SCT@asarray].std	
+$invo61	len	
+$invo62	range	
+$invo63	list	
+$invo64	numpy.array	
+$invo65	Unknown.plot	
+$invo66	Unknown.ylabel	
+$invo67	Unknown.title	
+$invo68	Unknown.plot	
+$invo69	Unknown.ylabel	
+$invo70	Unknown.title	
+$invo71	train_test_split	
+$invo72	str.format	
+$invo73	print	
+$invo74	str.format	
+$invo75	print	
+$invo76	Unknown.mean	
+$invo77	str.format	
+$invo78	print	
+$invo79	Unknown.mean	
+$invo80	str.format	
+$invo81	print	
+$invo82	time	train_classifier
+$invo83	Unknown.fit	train_classifier
+$invo84	time	train_classifier
+$invo85	round	train_classifier
+$invo86	time	predict_labels
+$invo87	Unknown.predict	predict_labels
+$invo88	time	predict_labels
+$invo89	f1_score	predict_labels
+$invo90	train_classifier	train_predict
+$invo91	predict_labels	train_predict
+$invo92	predict_labels	train_predict
+$invo93	len	train_predict
+$invo94	round	train_predict
+$invo95	round	train_predict
+$invo96	round	train_predict
+$invo97	round	train_predict
+$invo98	GaussianNB	
+$invo99	LogisticRegression	
+$invo100	KNeighborsClassifier	
+$invo101	train_predict	
+$invo102	list[Unknown].append	
+$invo103	list[Unknown].append	
+$invo104	list[Unknown].append	
+$invo105	list[Unknown].append	
+$invo106	list[Unknown].append	
+$invo107	print	
+$invo108	pandas.DataFrame	
+$invo109	print	
+$invo110	Unknown.barplot	
+$invo111	ShuffleSplit	
+$invo112	KNeighborsClassifier	
+$invo113	make_scorer	
+$invo114	GridSearchCV	
+$invo115	GridSearchCV.fit	
+$invo116	print	
+$invo117	predict_labels	
+$invo118	predict_labels	
+$invo119	str.format	
+$invo120	print	
+$invo121	str.format	
+$invo122	print	
+$invo123	KNeighborsClassifier	
+$invo124	KNeighborsClassifier.fit	
+$invo125	predict_labels	
+$invo126	predict_labels	
+$invo127	str.format	
+$invo128	print	
+$invo129	str.format	
+$invo130	print	
+$invo131	print	
+$invo132	print	

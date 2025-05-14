@@ -1,0 +1,16 @@
+_var2	_var1	words
+words	_var3	words
+_var29	rand_0	best_score_
+_var32	rand_0	best_params_
+_var49	final	isSpam
+_var50	final	predictedClass
+_var53	final	isSpam
+_var56	final	predictedClass
+_var61	final	isSpam
+_var64	final	predictedClass
+_var72	final	isSpam
+_var73	final	predictedClass
+_var82	final	isSpam
+_var85	final	predictedClass
+_var90	final	isSpam
+_var130	siteIds_0	isSpam

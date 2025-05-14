@@ -1,0 +1,387 @@
+phi_0	Unknown
+phi_1	Unknown
+base	Unknown
+attr	Unknown
+value	Unknown
+setattr	(__obj: object, __name: str, __value: Any) -> None
+x	Unknown
+_var0	Unknown
+get_ipython	Unknown
+_var1	str
+_var2	str
+seed	int
+data_path	str
+_var3	str
+_var4	str
+train_X	pandas.DataFrame
+_var5	str
+_var6	str
+test_X	pandas.DataFrame
+_var7	str
+_var8	str
+_var9	pandas.DataFrame
+train_y	NDArray[_SCT@ravel]
+_var10	tuple[int, int]
+_var11	int
+ntrain	int
+_var12	Any
+_var13	Any
+sub_list	Any
+_var14	tuple[int, int]
+_var15	tuple[int, int]
+_var16	_Shape
+_var17	tuple[tuple[int, int], tuple[int, int], _Shape]
+print	(*values: object, sep: str | None = ..., end: str | None = ..., file: SupportsWrite[str] | None = ..., flush: bool = ...) -> None
+_var18	list[DataFrame]
+full_data	pandas.DataFrame
+_var19	Index
+features_to_use	ArrayLike
+_var20	Unknown
+_var21	Unknown
+_var22	Unknown | Any | NDArray[Any]
+skew	(a: Unknown, axis: Unknown = 0, bias: Unknown = True, nan_policy: Unknown = 'propagate') -> (Unknown | Any | NDArray[Any])
+skewed_cols	Unknown
+_func0	(x: Unknown) -> (Unknown | Any | NDArray[Any])
+SSL	StandardScaler
+_var23	float
+_var24	Unknown
+_var25	Unknown
+_var26	Unknown
+skewed_cols_0	Unknown
+skewed_col	Unknown
+_var29	Unknown
+_var30	Unknown
+_var31	Unknown
+_var32	Unknown
+_var33	int
+_var34	Unknown
+_var27	Any | Unknown
+_var28	Any
+boxcox	(x: Unknown, lmbda: Unknown = None, alpha: Unknown = None, optimizer: Unknown = None) -> (Any | NDArray[_SCT@asarray] | tuple[Unknown, Any] | tuple[Unknown, Any, tuple[tuple[Unknown, RootResults] | Unknown, tuple[Unknown, RootResults] | Unknown]])
+full_data_0	pandas.DataFrame
+set_index_wrapper	(base: Unknown, attr: Unknown, value: Unknown) -> Unknown
+lam	Any
+full_data_1	pandas.DataFrame
+__phi__	(phi_0: Unknown, phi_1: Unknown) -> Unknown
+col	Any
+_var35	Unknown
+_var36	Unknown
+_var37	int
+_var38	int
+_var39	Unknown
+_var40	Unknown
+full_data_2	pandas.DataFrame
+_var41	Unknown
+_var42	Unknown
+_var43	Unknown
+_var44	Unknown
+_var45	int
+_var46	Unknown
+full_data_3	pandas.DataFrame
+_var47	_iLocIndexer
+_var48	Unknown
+_var49	Unknown
+train_X_0	pandas.DataFrame
+_var50	_iLocIndexer
+_var51	Unknown
+_var52	Unknown
+test_X_0	pandas.DataFrame
+full_data_4	pandas.DataFrame
+train_X_1	pandas.DataFrame
+test_X_1	pandas.DataFrame
+_var57	float
+_var53	pandas.DataFrame
+_var54	pandas.DataFrame
+_var55	NDArray[_SCT@ravel]
+_var56	NDArray[_SCT@ravel]
+train_test_split	(*arrays: Unknown, test_size: Unknown = None, train_size: Unknown = None, random_state: Unknown = None, shuffle: Unknown = True, stratify: Unknown = None) -> list[Unknown | NDArray[_SCT@array] | list[Unknown]]
+test_size	float
+random_state	int
+X_train	pandas.DataFrame
+X_val	pandas.DataFrame
+y_train	NDArray[_SCT@ravel]
+y_val	NDArray[_SCT@ravel]
+alpha	Unknown
+scores	list[Unknown]
+est	MultinomialNB
+MultinomialNB	Type[MultinomialNB]
+_var58	pandas.DataFrame
+global_wrapper	(x: Unknown) -> Unknown
+_var59	NDArray[_SCT@ravel]
+est_0	MultinomialNB
+_var60	pandas.DataFrame
+y_val_pred	NDArray[Any]
+_var61	int
+_var62	NDArray[_SCT@ravel]
+_var63	floating[Any] | Any
+log_loss	(y_true: Unknown, y_pred: Unknown, *, eps: Unknown = "auto", normalize: Unknown = True, sample_weight: Unknown = None, labels: Unknown = None) -> (floating[Any] | Any)
+_var64	floating[Any | Unknown] | Any
+cv_score	int
+_var65	int
+_var66	int
+_var67	int
+_var68	range
+range	Type[range]
+x_0	int
+score	floating[Any | Unknown] | Any
+MNB_cv	(alpha: Unknown = 1) -> (floating[Any | Unknown] | Any)
+_var69	bool_ | Any
+alpha_0	int
+cv_score_0	floating[Any | Unknown] | Any
+cv_score_1	floating[Any | Unknown] | Any | Literal[-1]
+_var70	str
+_var71	str
+cv_score_2	floating[Any | Unknown] | Any | Literal[-1]
+est_1	Unknown
+train_x	Unknown
+train_y_0	Unknown
+test_x	Unknown
+fold	Unknown
+N_params	int
+len	(__obj: Sized) -> int
+_var72	str
+_var73	tuple[int, Unknown]
+_var74	str
+_var75	int
+skf	KFold
+KFold	Type[KFold]
+n_splits	Unknown
+_var76	set[Unknown]
+N_class	int
+_var77	Unknown
+_var78	int
+_var79	Unknown
+_var80	int
+_var81	tuple[Unknown, int]
+train_blend_x	NDArray[float64]
+_var82	Unknown
+_var83	int
+_var84	Unknown
+_var85	int
+_var86	tuple[Unknown, int]
+test_blend_x_mean	NDArray[float64]
+_var87	Unknown
+_var88	int
+_var89	Unknown
+_var90	int
+_var91	tuple[Unknown, int]
+test_blend_x_gmean	NDArray[float64]
+_var92	tuple[Unknown, int]
+scores_0	NDArray[float64]
+_var93	tuple[Unknown, int]
+best_rounds	NDArray[float64]
+_var94	enumerate[Unknown]
+enumerate	Type[enumerate[_T@enumerate]]
+_var95	tuple[int, Unknown]
+_var98	int
+j	int
+_var99	int
+ester	Unknown
+_var100	str
+_var101	int
+_var102	int
+_var103	str
+_var104	Unknown
+_var105	int
+_var106	Unknown
+_var107	Unknown
+_var108	tuple[Unknown, Unknown]
+test_blend_x_j	NDArray[float64]
+_var109	Generator[tuple[ndarray[Any, dtype[signedinteger[Any]]], ndarray[Any, dtype[signedinteger[Any]]]], None, None]
+_var110	enumerate[tuple[ndarray[Any, dtype[signedinteger[Any]]], ndarray[Any, dtype[signedinteger[Any]]]]]
+_var111	tuple[int, tuple[ndarray[Any, dtype[signedinteger[Any]]], ndarray[Any, dtype[signedinteger[Any]]]]]
+_var114	int
+i	int
+_var117	int
+_var118	tuple[ndarray[Any, dtype[signedinteger[Any]]], ndarray[Any, dtype[signedinteger[Any]]]]
+_var119	int
+train_index	ndarray[Any, dtype[signedinteger[Any]]]
+_var120	int
+val_index	ndarray[Any, dtype[signedinteger[Any]]]
+_var121	str
+_var122	int
+_var123	int
+_var124	int
+_var125	int
+_var126	tuple[int, int]
+_var127	str
+fold_start	float
+_var128	Unknown
+train_x_fold	Unknown
+train_y_fold	Unknown
+_var129	Unknown
+val_x_fold	Unknown
+val_y_fold	Unknown
+ester_0	Unknown
+val_y_predict_fold	Unknown
+score_0	floating[Any] | Any
+_var130	str
+_var131	tuple[str, floating[Any] | Any]
+_var132	tuple[int, int]
+scores_1	NDArray[float64]
+_var133	int
+_var134	int
+_var135	int
+_var136	int
+train_blend_x_0	NDArray[float64]
+slice	Type[slice]
+_var137	int
+_var138	int
+_var139	int
+_var140	int
+_var141	Unknown
+test_blend_x_j_0	NDArray[float64]
+_var142	str
+_var143	int
+_var144	int
+_var145	int
+_var146	int
+_var147	float
+_var148	float
+_var149	tuple[int, int, float]
+_var150	str
+ester_1	Unknown
+train_blend_x_1	NDArray[float64]
+test_blend_x_j_1	NDArray[float64]
+scores_2	NDArray[float64]
+score_1	floating[Any] | Any | floating[Any | Unknown]
+_var151	int
+_var152	int
+_var153	int
+_var154	int
+_var155	int
+_var156	Unknown
+_var157	range
+_var158	list[int]
+_var159	ndarray[Any, dtype[float64]]
+_var160	int
+_var161	Any
+_var162	int
+_var163	Unknown
+_var164	range
+_var165	list[int]
+_var166	ndarray[Any, dtype[float64]]
+_var167	int
+_var168	Any
+_var169	int
+_var170	Unknown
+_var171	range
+_var172	list[int]
+_var173	ndarray[Any, dtype[float64]]
+_var174	int
+_var175	Any
+_var176	list[Any]
+_var177	NDArray[_SCT@stack]
+_var178	NDArray[_SCT@stack]
+test_blend_x_mean_0	NDArray[float64]
+_var179	int
+_var180	int
+_var181	int
+_var182	int
+_var183	int
+_var184	Unknown
+_var185	range
+_var186	list[int]
+_var187	ndarray[Any, dtype[float64]]
+_var188	int
+_var189	Any
+gmean	(a: Unknown, axis: Unknown = 0, dtype: Unknown = None, weights: Unknown = None) -> Any
+axis	int
+_var190	int
+_var191	Unknown
+_var192	range
+_var193	list[int]
+_var194	ndarray[Any, dtype[float64]]
+_var195	int
+_var196	Any
+_var197	int
+_var198	Unknown
+_var199	range
+_var200	list[int]
+_var201	ndarray[Any, dtype[float64]]
+_var202	int
+_var203	Any
+_var204	list[Any]
+_var205	NDArray[_SCT@stack]
+_var206	NDArray[_SCT@stack]
+test_blend_x_gmean_0	NDArray[float64]
+_var207	str
+_var208	int
+_var209	int
+_var210	ndarray[Any, dtype[float64]]
+_var211	floating[Any]
+_var212	tuple[int, floating[Any]]
+_var213	str
+train_blend_x_2	NDArray[float64]
+test_blend_x_mean_1	NDArray[float64]
+scores_3	NDArray[float64]
+score_2	floating[Any] | Any | floating[Any | Unknown]
+test_blend_x_gmean_1	NDArray[float64]
+_var214	str
+_var215	floating[Any]
+_var216	str
+_var217	int
+_var218	MultinomialNB
+_var219	int
+_var220	MultinomialNB
+_var221	int
+_var222	MultinomialNB
+est_2	list[MultinomialNB]
+_var228	int
+_var223	NDArray[float64]
+_var224	NDArray[float64]
+_var225	NDArray[float64]
+_var226	NDArray[float64]
+_var227	NDArray[float64]
+MNB_blend	(est_1: Unknown, train_x: Unknown, train_y_0: Unknown, test_x: Unknown, fold: Unknown) -> tuple[NDArray[float64], NDArray[float64], NDArray[float64], NDArray[float64], NDArray[float64]]
+train_blend_x_MNB	NDArray[float64]
+test_blend_x_MNB_mean	NDArray[float64]
+test_blend_x_MNB_gmean	NDArray[float64]
+blend_scores_MNB	NDArray[float64]
+best_rounds_MNB	NDArray[float64]
+now	datetime
+datetime	Type[datetime]
+_var229	str
+_var230	str
+_var231	str
+_var232	str
+_var233	str
+_var234	str
+name_train_blend	str
+_var235	str
+_var236	str
+_var237	str
+_var238	str
+_var239	str
+_var240	str
+name_test_blend_mean	str
+_var241	str
+_var242	str
+_var243	str
+_var244	str
+_var245	str
+_var246	str
+name_test_blend_gmean	str
+_var247	int
+_var248	Any
+_var249	str
+delimiter	str
+_var250	str
+_var251	str
+_var252	str
+_var253	str
+_var254	str
+_var255	str
+_var256	str
+_var257	str
+sub_name	str
+_var258	int
+_var259	ndarray[Any, dtype[float64]]
+out_df	pandas.DataFrame
+_var260	list[str]
+out_df_0	pandas.DataFrame
+set_field_wrapper	(base: Unknown, attr: Unknown, value: Unknown) -> Unknown
+_var261	str
+out_df_1	pandas.DataFrame
+_var262	bool
+index	bool_t

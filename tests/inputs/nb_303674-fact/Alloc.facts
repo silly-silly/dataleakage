@@ -1,0 +1,282 @@
+_var0	$heap0	
+_var1	$heap1	
+_var2	$heap2	
+_var3	$heap3	
+_var4	$heap4	
+_var5	$heap5	
+_var6	$heap6	
+_var7	$heap7	
+_var8	$heap8	
+_var9	$heap9	
+_var10	$heap10	
+_var11	$heap11	
+_var12	$heap12	
+_var13	$heap13	
+_var14	$heap14	
+_var15	$heap15	
+_var16	$heap16	
+_var17	$heap17	
+critics	$heap18	
+$list0	$heap19	
+_var18	$heap20	
+_var19	$heap21	
+_var20	$heap22	
+_var21	$heap23	
+_var22	$heap24	
+$tuple1	$heap25	
+vectorizer	$heap26	
+vectorizer_0	$heap27	
+_var24	$heap28	
+x	$heap29	
+_var25	$heap30	
+_var26	$heap31	
+_var27	$heap32	
+x_back	$heap33	
+_var28	$heap34	
+_var30	$heap35	
+rotten_vectorizer	$heap36	
+x_0	$heap37	
+_var35	$heap38	
+y	$heap39	
+_var42	$heap40	train_and_measure
+_var43	$heap41	train_and_measure
+_var38	$heap42	train_and_measure
+_var39	$heap43	train_and_measure
+_var40	$heap44	train_and_measure
+_var41	$heap45	train_and_measure
+clf	$heap46	train_and_measure
+training_accuracy	$heap47	train_and_measure
+test_accuracy	$heap48	train_and_measure
+_var44	$heap49	train_and_measure
+_var45	$heap50	train_and_measure
+_var46	$heap51	train_and_measure
+_var47	$heap52	train_and_measure
+_var48	$heap53	
+_var49	$heap54	
+_var50	$heap55	
+_var51	$heap56	
+_var52	$heap57	
+_var53	$heap58	
+_var54	$heap59	
+_var56	$heap60	kfold_average_sd
+_var58	$heap61	kfold_average_sd
+kfold	$heap62	kfold_average_sd
+$list2	$heap63	kfold_average_sd
+$list3	$heap64	kfold_average_sd
+_var62	$heap65	kfold_average_sd
+_var63	$heap66	kfold_average_sd
+clf_0	$heap67	kfold_average_sd
+_var68	$heap68	kfold_average_sd
+_var71	$heap69	kfold_average_sd
+_var73	$heap70	kfold_average_sd
+_var74	$heap71	kfold_average_sd
+_var75	$heap72	kfold_average_sd
+_var76	$heap73	kfold_average_sd
+_var77	$heap74	kfold_average_sd
+_var78	$heap75	kfold_average_sd
+_var79	$heap76	kfold_average_sd
+_var80	$heap77	kfold_average_sd
+_var81	$heap78	kfold_average_sd
+_var82	$heap79	kfold_average_sd
+_var83	$heap80	kfold_average_sd
+_var84	$heap81	
+_var85	$heap82	
+_var86	$heap83	
+$list4	$heap84	find_k
+$list5	$heap85	find_k
+_var87	$heap86	find_k
+_var88	$heap87	find_k
+_var90	$heap88	find_k
+_var92	$heap89	find_k
+_var93	$heap90	find_k
+kfold_0	$heap91	find_k
+$list6	$heap92	find_k
+$list7	$heap93	find_k
+_var99	$heap94	find_k
+_var100	$heap95	find_k
+clf_1	$heap96	find_k
+_var105	$heap97	find_k
+_var108	$heap98	find_k
+_var109	$heap99	find_k
+_var110	$heap100	find_k
+_var111	$heap101	find_k
+_var112	$heap102	find_k
+_var113	$heap103	find_k
+_var114	$heap104	find_k
+_var115	$heap105	find_k
+_var116	$heap106	find_k
+_var117	$heap107	find_k
+_var118	$heap108	find_k
+_var119	$heap109	
+_var120	$heap110	
+clf_2	$heap111	
+y_pred	$heap112	
+conf	$heap113	
+_var121	$heap114	
+_var122	$heap115	
+_var123	$heap116	
+$tuple8	$heap117	
+_var126	$heap118	
+_var127	$heap119	
+$tuple9	$heap120	
+_var130	$heap121	
+_var131	$heap122	
+$tuple10	$heap123	
+_var134	$heap124	
+_var135	$heap125	
+_var136	$heap126	
+_var137	$heap127	
+$tuple11	$heap128	
+_var140	$heap129	
+_var141	$heap130	
+$tuple12	$heap131	
+_var144	$heap132	
+_var145	$heap133	
+$tuple13	$heap134	
+_var148	$heap135	
+_var149	$heap136	
+_var150	$heap137	
+_var151	$heap138	
+prob	$heap139	
+_var152	$heap140	
+_var155	$heap141	
+_var156	$heap142	
+bad_rotten	$heap143	
+_var157	$heap144	
+_var160	$heap145	
+bad_fresh	$heap146	
+_var162	$heap147	
+_var163	$heap148	
+_var164	$heap149	
+_var168	$heap150	
+_var169	$heap151	
+_var170	$heap152	
+_var171	$heap153	
+_var175	$heap154	
+_var176	$heap155	
+_var177	$heap156	
+_var178	$heap157	
+_var179	$heap158	
+_var180	$heap159	
+_var181	$heap160	
+_var182	$heap161	
+_var183	$heap162	
+_var185	$heap163	
+_var186	$heap164	
+_var187	$heap165	
+_var189	$heap166	
+_var190	$heap167	
+_var191	$heap168	
+$tuple14	$heap169	
+_var193	$heap170	
+_var194	$heap171	
+_var195	$heap172	
+_var197	$heap173	
+_var198	$heap174	
+ax1	$heap175	
+_var199	$heap176	
+ax2	$heap177	
+_var200	$heap178	
+_var201	$heap179	
+_var203	$heap180	
+_var204	$heap181	
+_var205	$heap182	
+_var206	$heap183	
+_var207	$heap184	
+_var208	$heap185	
+_var209	$heap186	
+_var210	$heap187	
+_var211	$heap188	
+_var213	$heap189	
+_var214	$heap190	
+_var215	$heap191	
+_var217	$heap192	
+$tuple15	$heap193	
+_var219	$heap194	
+_var220	$heap195	
+_var222	$heap196	
+_var223	$heap197	
+_var225	$heap198	
+_var226	$heap199	
+new_features	$heap200	
+_var227	$heap201	
+_var228	$heap202	
+_var233	$heap203	train_and_measure
+_var234	$heap204	train_and_measure
+_var229	$heap205	train_and_measure
+_var230	$heap206	train_and_measure
+_var231	$heap207	train_and_measure
+_var232	$heap208	train_and_measure
+clf_3	$heap209	train_and_measure
+training_accuracy_0	$heap210	train_and_measure
+test_accuracy_0	$heap211	train_and_measure
+$list16	$heap212	
+$list17	$heap213	
+$list18	$heap214	
+$list19	$heap215	
+_var235	$heap216	
+_var236	$heap217	
+_var237	$heap218	
+_var238	$heap219	
+_var239	$heap220	
+_var240	$heap221	
+_var242	$heap222	
+_var243	$heap223	
+_var245	$heap224	
+_var246	$heap225	
+_var247	$heap226	
+new_features_0	$heap227	
+_var248	$heap228	
+_var249	$heap229	
+_var251	$heap230	
+_var252	$heap231	
+ratio	$heap232	
+_var254	$heap233	
+_var255	$heap234	
+_var256	$heap235	
+_var257	$heap236	
+scores	$heap237	
+_var258	$heap238	
+_var260	$heap239	
+_var262	$heap240	
+_var263	$heap241	
+_var264	$heap242	
+_var265	$heap243	
+$dict20	$heap244	
+df	$heap245	
+_var267	$heap246	
+_var268	$heap247	
+$tuple21	$heap248	
+_var270	$heap249	
+_var273	$heap250	
+_var276	$heap251	
+$list22	$heap252	
+_var278	$heap253	
+_var279	$heap254	
+ax1_0	$heap255	
+_var282	$heap256	
+_var283	$heap257	
+$list23	$heap258	
+_var285	$heap259	
+token	$heap260	ad_words
+tagger	$heap261	ad_words
+$list24	$heap262	ad_words
+_var286	$heap263	ad_words
+_var287	$heap264	ad_words
+_var288	$heap265	ad_words
+_var289	$heap266	ad_words
+_var290	$heap267	ad_words
+_var292	$heap268	
+_var294	$heap269	
+_var295	$heap270	
+_var297	$heap271	
+_var298	$heap272	
+_var299	$heap273	
+$tuple25	$heap274	
+vectorizer_2	$heap275	
+x_5	$heap276	
+_var302	$heap277	
+_var303	$heap278	
+_var304	$heap279	
+_var305	$heap280	
+_var307	$heap281	

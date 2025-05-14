@@ -1,0 +1,85 @@
+phi_0	Unknown
+phi_1	Unknown
+base	Unknown
+attr	Unknown
+value	Unknown
+setattr	(__obj: object, __name: str, __value: Any) -> None
+x	Unknown
+_var0	str
+train	pandas.DataFrame
+_var1	str
+test	pandas.DataFrame
+_var2	list[DataFrame]
+_var3	bool
+data	pandas.DataFrame
+sort	bool
+_var4	int
+len	(__obj: Sized) -> int
+_var5	int
+_var6	int
+_var7	tuple[int, int, int]
+print	(*values: object, sep: str | None = ..., end: str | None = ..., file: SupportsWrite[str] | None = ..., flush: bool = ...) -> None
+_var8	pandas.DataFrame
+_var9	str
+_var10	Unknown
+_var11	list[str]
+_var12	list[int]
+_var13	bool
+_var14	str
+_var15	Unknown
+_var16	str
+_var17	bool
+_var18	str
+_var19	str
+_var20	Unknown
+_var21	dict[str, int]
+_var22	Unknown
+_var23	Unknown
+int	Type[int]
+data_0	pandas.DataFrame
+set_index_wrapper	(base: Unknown, attr: Unknown, value: Unknown) -> Unknown
+_var24	str
+_var25	Unknown
+_var26	str
+_var27	Unknown
+_var28	floating[Any]
+_var29	bool
+_var30	str
+_var31	Unknown
+age_avg	Unknown
+_var32	str
+_var33	Unknown
+age_std	Unknown
+_var34	str
+_var35	Unknown
+_var37	Unknown
+_var38	Unknown
+_var39	int
+_var40	bool
+delete_columns	list[str]
+_var41	int
+_var42	bool
+axis	Axis
+inplace	bool
+_var43	int
+train_0	Unknown
+_var44	int
+test_0	Unknown
+_var45	str
+y_train	Unknown
+_var46	str
+_var47	int
+X_train	Unknown
+_var48	str
+_var49	int
+X_test	Unknown
+_var50	str
+_var51	str
+_var52	int
+clf	LogisticRegression
+LogisticRegression	Type[LogisticRegression]
+penalty	str
+solver	str
+random_state	int | None
+clf_0	Self@LogisticRegression
+y_pred	Unknown | Any

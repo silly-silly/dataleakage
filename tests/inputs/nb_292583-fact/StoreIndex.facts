@@ -1,0 +1,8 @@
+_var143	0	clf_A
+_var143	1	clf_B
+_var143	2	clf_C
+_var146	0	samples_1
+_var146	1	samples_10
+_var146	2	samples_100
+parameters	n_estimators	_var156
+parameters	learning_rate	_var157

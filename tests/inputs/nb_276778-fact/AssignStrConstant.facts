@@ -1,0 +1,47 @@
+_var1	matplotlib
+_var2	inline
+_var3	display.max_columns
+_var6	figure.figsize
+_var14	Training examples
+_var15	Score
+_var26	r
+_var30	g
+_var31	o-
+_var32	r
+_var33	Training score
+_var34	o-
+_var35	g
+_var36	Cross-validation score
+_var37	best
+_var48	Model with rank: {0}
+_var52	Mean validation score: {0:.3f} (std: {1:.3f})
+_var57	Parameters: {0}
+_var60	
+_var61	/Users/felipelolas/PycharmProjects/FracasoEscolarChile/DatasetsProcesados/SIMCE/ALU/SIMCE_GEO_2013-2014.csv
+_var63	|
+_var64	.
+_var72	IMPARTE
+_var80	binary
+_var82	binary
+_var110	union
+_var111	ordinal
+_var112	selector
+_var114	Imputer
+_var116	mean
+_var122	nominal
+_var123	selector
+_var125	Imputer
+_var127	most_frequent
+_var137	balanced
+_var140	DESERTA_ALU
+_var159	Entrenando Modelo...
+_var160	RandomizedSearchCV took %.2f seconds for %d candidates parameter settings.
+_var166	Realizando Prediccion...
+_var169	--- %s seconds ---
+_var179	Importancia de los Atributos
+_var187	gray
+_var188	center
+_var197	horizontal
+_var204	Atributo
+_var205	Importancia
+_var207	prefit

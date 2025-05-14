@@ -1,0 +1,586 @@
+$invo0	setattr	set_field_wrapper
+$invo1	setattr	set_index_wrapper
+$invo2	warnings.filterwarnings	
+$invo3	print	
+$invo4	print	
+$invo5	print	
+$invo6	print	
+$invo7	print	
+$invo8	print	
+$invo9	get_ipython	
+$invo10	Unknown.run_line_magic	
+$invo11	Unknown.set	
+$invo12	pandas.read_csv	
+$invo13	Unknown.lower	
+$invo14	pandas.DataFrame.head	
+$invo15	pandas.DataFrame.tail	
+$invo16	pandas.DataFrame.head	
+$invo17	pandas.DataFrame.info	
+$invo18	Unknown.value_counts	
+$invo19	print	
+$invo20	print	
+$invo21	Unknown.value_counts	
+$invo22	print	
+$invo23	Unknown.value_counts	
+$invo24	Unknown.plot	
+$invo25	Unknown.title	
+$invo26	Unknown.legend	
+$invo27	Unknown.show	
+$invo28	Unknown.describe	
+$invo29	pandas.DataFrame.isnull	
+$invo30	pandas.DataFrame.sum	
+$invo31	Any.max	
+$invo32	Unknown.figure	
+$invo33	Unknown.title	
+$invo34	Unknown.distplot	
+$invo35	Unknown.show	
+$invo36	Unknown.subplots	
+$invo37	Unknown.distplot	
+$invo38	Unknown.set_title	
+$invo39	Unknown.distplot	
+$invo40	Unknown.set_title	
+$invo41	Unknown.show	
+$invo42	Unknown.value_counts	
+$invo43	Unknown.head	
+$invo44	print	
+$invo45	print	
+$invo46	Unknown.max	
+$invo47	print	
+$invo48	Unknown.min	
+$invo49	print	
+$invo50	Unknown.value_counts	
+$invo51	Unknown.head	
+$invo52	print	
+$invo53	print	
+$invo54	Unknown.max	
+$invo55	print	
+$invo56	Unknown.min	
+$invo57	print	
+$invo58	Unknown.figure	
+$invo59	Unknown.boxplot	
+$invo60	Unknown.title	
+$invo61	Unknown.show	
+$invo62	Unknown.figure	
+$invo63	Unknown.title	
+$invo64	Unknown.distplot	
+$invo65	Unknown.show	
+$invo66	Unknown.subplots	
+$invo67	Unknown.distplot	
+$invo68	Unknown.set_title	
+$invo69	Unknown.distplot	
+$invo70	Unknown.set_title	
+$invo71	Unknown.show	
+$invo72	Unknown.figure	
+$invo73	Unknown.boxplot	
+$invo74	Unknown.set_facecolor	
+$invo75	Unknown.set_facecolor	
+$invo76	Unknown.title	
+$invo77	Unknown.show	
+$invo78	Unknown.subplots	
+$invo79	Unknown.scatterplot	
+$invo80	Unknown.set_title	
+$invo81	Unknown.scatterplot	
+$invo82	Unknown.set_title	
+$invo83	Unknown.show	
+$invo84	Unknown.nunique	
+$invo85	Unknown.scatter	
+$invo86	Unknown.show	
+$invo87	Unknown.corr	
+$invo88	Unknown.sort_values	
+$invo89	Unknown.head	
+$invo90	Unknown.title	
+$invo91	Unknown.corr	
+$invo92	Unknown.heatmap	
+$invo93	Unknown.value_counts	
+$invo94	Unknown.apply	
+$invo95	math.floor	_func1
+$invo96	Unknown.apply	
+$invo97	math.ceil	_func2
+$invo98	Unknown.apply	
+$invo99	Unknown.value_counts	
+$invo100	Unknown.value_counts	
+$invo101	Unknown.value_counts	
+$invo102	print	
+$invo103	print	
+$invo104	print	
+$invo105	print	
+$invo106	print	
+$invo107	print	
+$invo108	print	
+$invo109	print	
+$invo110	print	
+$invo111	print	
+$invo112	print	
+$invo113	Unknown.subplots	
+$invo114	Unknown.countplot	
+$invo115	Unknown.set_title	
+$invo116	Unknown.countplot	
+$invo117	Unknown.set_title	
+$invo118	Unknown.countplot	
+$invo119	Unknown.set_title	
+$invo120	Unknown.show	
+$invo121	Unknown.subplots	
+$invo122	Unknown.distplot	
+$invo123	Unknown.set_title	
+$invo124	Unknown.distplot	
+$invo125	Unknown.set_title	
+$invo126	Unknown.suptitle	
+$invo127	Unknown.show	
+$invo128	Unknown.figure	
+$invo129	Unknown.distplot	
+$invo130	Unknown.distplot	
+$invo131	Unknown.title	
+$invo132	Unknown.xlim	
+$invo133	Unknown.show	
+$invo134	Unknown.figure	
+$invo135	Unknown.groupby	
+$invo136	Unknown.count	
+$invo137	Unknown.plot	
+$invo138	Unknown.show	
+$invo139	pandas.DataFrame.hist	
+$invo140	Unknown.show	
+$invo141	pandas.DataFrame.reset_index	
+$invo142	numpy.log	
+$invo143	StandardScaler	
+$invo144	Unknown.reshape	
+$invo145	StandardScaler.fit_transform	
+$invo146	MinMaxScaler	
+$invo147	Unknown.reshape	
+$invo148	MinMaxScaler.fit_transform	
+$invo149	Unknown.subplots	
+$invo150	Unknown.boxplot	
+$invo151	Unknown.set_title	
+$invo152	Unknown.boxplot	
+$invo153	Unknown.set_title	
+$invo154	Unknown.boxplot	
+$invo155	Unknown.set_title	
+$invo156	Unknown.boxplot	
+$invo157	Unknown.set_title	
+$invo158	Unknown.show	
+$invo159	open	
+$invo160	open	
+$invo161	pickle.dump	
+$invo162	BufferedWriter.close	
+$invo163	os.getcwd	
+$invo164	print	
+$invo165	open	
+$invo166	open	
+$invo167	pickle.load	
+$invo168	BufferedReader.close	
+$invo169	Any.head	
+$invo170	Any.head	
+$invo171	Any.drop	
+$invo172	train_test_split	
+$invo173	print	
+$invo174	print	
+$invo175	print	
+$invo176	print	
+$invo177	train_test_split	
+$invo178	LogisticRegression	
+$invo179	LogisticRegression.fit	
+$invo180	LogisticRegression.predict	
+$invo181	.metrics.classification_report	
+$invo182	print	
+$invo183	.metrics.accuracy_score	
+$invo184	str.format	
+$invo185	print	
+$invo186	.metrics.roc_auc_score	
+$invo187	str.format	
+$invo188	print	
+$invo189	.metrics.precision_score	
+$invo190	str.format	
+$invo191	print	
+$invo192	.metrics.recall_score	
+$invo193	str.format	
+$invo194	print	
+$invo195	.metrics.f1_score	
+$invo196	str.format	
+$invo197	print	
+$invo198	print	
+$invo199	pandas.Series	
+$invo200	pandas.Series.value_counts	
+$invo201	pandas.Series	
+$invo202	pandas.Series.value_counts	
+$invo203	.metrics.confusion_matrix	
+$invo204	pandas.DataFrame	
+$invo205	Unknown.heatmap	
+$invo206	Unknown.title	
+$invo207	Unknown.ylabel	
+$invo208	Unknown.xlabel	
+$invo209	Unknown.show	
+$invo210	.metrics.roc_auc_score	
+$invo211	LogisticRegression.predict_proba	
+$invo212	Unknown.figure	
+$invo213	.metrics.roc_curve	
+$invo214	.metrics.roc_auc_score	
+$invo215	print	
+$invo216	str	
+$invo217	Unknown.plot	
+$invo218	Unknown.legend	
+$invo219	Unknown.plot	
+$invo220	Unknown.title	
+$invo221	Unknown.xlabel	
+$invo222	Unknown.ylabel	
+$invo223	Unknown.show	
+$invo224	Counter	
+$invo225	print	
+$invo226	RandomUnderSampler	
+$invo227	RandomUnderSampler.fit_resample	
+$invo228	Counter	
+$invo229	print	
+$invo230	train_test_split	
+$invo231	LogisticRegression	
+$invo232	LogisticRegression.fit	
+$invo233	LogisticRegression.predict	
+$invo234	.metrics.accuracy_score	
+$invo235	str.format	
+$invo236	print	
+$invo237	.metrics.roc_auc_score	
+$invo238	str.format	
+$invo239	print	
+$invo240	.metrics.precision_score	
+$invo241	str.format	
+$invo242	print	
+$invo243	.metrics.recall_score	
+$invo244	str.format	
+$invo245	print	
+$invo246	.metrics.f1_score	
+$invo247	str.format	
+$invo248	print	
+$invo249	Unknown.figure	
+$invo250	.metrics.roc_curve	
+$invo251	.metrics.roc_auc_score	
+$invo252	print	
+$invo253	str	
+$invo254	Unknown.plot	
+$invo255	Unknown.legend	
+$invo256	Unknown.plot	
+$invo257	Unknown.title	
+$invo258	Unknown.xlabel	
+$invo259	Unknown.ylabel	
+$invo260	Unknown.show	
+$invo261	.metrics.confusion_matrix	
+$invo262	pandas.DataFrame	
+$invo263	Unknown.heatmap	
+$invo264	Unknown.title	
+$invo265	Unknown.xlabel	
+$invo266	Unknown.ylabel	
+$invo267	Unknown.show	
+$invo268	Counter	
+$invo269	print	
+$invo270	RandomOverSampler	
+$invo271	RandomOverSampler.fit_resample	
+$invo272	Counter	
+$invo273	print	
+$invo274	train_test_split	
+$invo275	LogisticRegression	
+$invo276	LogisticRegression.fit	
+$invo277	LogisticRegression.predict	
+$invo278	.metrics.accuracy_score	
+$invo279	str.format	
+$invo280	print	
+$invo281	.metrics.roc_auc_score	
+$invo282	str.format	
+$invo283	print	
+$invo284	.metrics.precision_score	
+$invo285	str.format	
+$invo286	print	
+$invo287	.metrics.recall_score	
+$invo288	str.format	
+$invo289	print	
+$invo290	.metrics.f1_score	
+$invo291	str.format	
+$invo292	print	
+$invo293	Unknown.figure	
+$invo294	.metrics.roc_curve	
+$invo295	.metrics.roc_auc_score	
+$invo296	print	
+$invo297	str	
+$invo298	Unknown.plot	
+$invo299	Unknown.legend	
+$invo300	Unknown.plot	
+$invo301	Unknown.title	
+$invo302	Unknown.xlabel	
+$invo303	Unknown.ylabel	
+$invo304	Unknown.show	
+$invo305	.metrics.confusion_matrix	
+$invo306	pandas.DataFrame	
+$invo307	Unknown.heatmap	
+$invo308	Unknown.title	
+$invo309	Unknown.xlabel	
+$invo310	Unknown.ylabel	
+$invo311	Unknown.show	
+$invo312	Counter	
+$invo313	print	
+$invo314	SMOTE	
+$invo315	SMOTE.fit_resample	
+$invo316	Counter	
+$invo317	print	
+$invo318	train_test_split	
+$invo319	LogisticRegression	
+$invo320	LogisticRegression.fit	
+$invo321	LogisticRegression.predict	
+$invo322	.metrics.accuracy_score	
+$invo323	str.format	
+$invo324	print	
+$invo325	.metrics.roc_auc_score	
+$invo326	str.format	
+$invo327	print	
+$invo328	.metrics.precision_score	
+$invo329	str.format	
+$invo330	print	
+$invo331	.metrics.recall_score	
+$invo332	str.format	
+$invo333	print	
+$invo334	.metrics.f1_score	
+$invo335	str.format	
+$invo336	print	
+$invo337	Unknown.figure	
+$invo338	.metrics.roc_curve	
+$invo339	.metrics.roc_auc_score	
+$invo340	print	
+$invo341	str	
+$invo342	Unknown.plot	
+$invo343	Unknown.legend	
+$invo344	Unknown.plot	
+$invo345	Unknown.title	
+$invo346	Unknown.xlabel	
+$invo347	Unknown.ylabel	
+$invo348	Unknown.show	
+$invo349	.metrics.confusion_matrix	
+$invo350	pandas.DataFrame	
+$invo351	Unknown.heatmap	
+$invo352	Unknown.title	
+$invo353	Unknown.xlabel	
+$invo354	Unknown.ylabel	
+$invo355	Unknown.show	
+$invo356	Counter	
+$invo357	print	
+$invo358	ADASYN	
+$invo359	ADASYN.fit_resample	
+$invo360	Counter	
+$invo361	print	
+$invo362	train_test_split	
+$invo363	LogisticRegression	
+$invo364	LogisticRegression.fit	
+$invo365	LogisticRegression.predict	
+$invo366	.metrics.accuracy_score	
+$invo367	str.format	
+$invo368	print	
+$invo369	.metrics.roc_auc_score	
+$invo370	str.format	
+$invo371	print	
+$invo372	.metrics.precision_score	
+$invo373	str.format	
+$invo374	print	
+$invo375	.metrics.recall_score	
+$invo376	str.format	
+$invo377	print	
+$invo378	.metrics.f1_score	
+$invo379	str.format	
+$invo380	print	
+$invo381	Unknown.figure	
+$invo382	.metrics.roc_curve	
+$invo383	.metrics.roc_auc_score	
+$invo384	print	
+$invo385	str	
+$invo386	Unknown.plot	
+$invo387	Unknown.legend	
+$invo388	Unknown.plot	
+$invo389	Unknown.title	
+$invo390	Unknown.xlabel	
+$invo391	Unknown.ylabel	
+$invo392	Unknown.show	
+$invo393	.metrics.confusion_matrix	
+$invo394	pandas.DataFrame	
+$invo395	Unknown.heatmap	
+$invo396	Unknown.title	
+$invo397	Unknown.xlabel	
+$invo398	Unknown.ylabel	
+$invo399	Unknown.show	
+$invo400	PCA	
+$invo401	PCA.fit_transform	
+$invo402	Unknown.figure	
+$invo403	Unknown.scatter	
+$invo404	Unknown.scatter	
+$invo405	Unknown.title	
+$invo406	Unknown.legend	
+$invo407	Unknown.show	
+$invo408	PCA	
+$invo409	PCA.fit_transform	
+$invo410	Unknown.figure	
+$invo411	Unknown.scatter	
+$invo412	Unknown.scatter	
+$invo413	Unknown.title	
+$invo414	Unknown.legend	
+$invo415	Unknown.show	
+$invo416	Counter	
+$invo417	print	
+$invo418	RandomUnderSampler	
+$invo419	RandomUnderSampler.fit_resample	
+$invo420	Counter	
+$invo421	print	
+$invo422	train_test_split	
+$invo423	Counter	
+$invo424	print	
+$invo425	RandomOverSampler	
+$invo426	RandomOverSampler.fit_resample	
+$invo427	Counter	
+$invo428	print	
+$invo429	train_test_split	
+$invo430	Counter	
+$invo431	print	
+$invo432	SMOTE	
+$invo433	SMOTE.fit_resample	
+$invo434	Counter	
+$invo435	print	
+$invo436	train_test_split	
+$invo437	Counter	
+$invo438	print	
+$invo439	ADASYN	
+$invo440	ADASYN.fit_resample	
+$invo441	Counter	
+$invo442	print	
+$invo443	train_test_split	
+$invo444	Unknown.figure	build_measure_model
+$invo445	list[Unknown].append	build_measure_model
+$invo446	train_test_split	build_measure_model
+$invo447	Unknown.fit	build_measure_model
+$invo448	Unknown.predict	build_measure_model
+$invo449	Unknown.predict	build_measure_model
+$invo450	.metrics.accuracy_score	build_measure_model
+$invo451	list[Unknown].append	build_measure_model
+$invo452	.metrics.accuracy_score	build_measure_model
+$invo453	list[Unknown].append	build_measure_model
+$invo454	.metrics.roc_auc_score	build_measure_model
+$invo455	list[Unknown].append	build_measure_model
+$invo456	.metrics.roc_auc_score	build_measure_model
+$invo457	list[Unknown].append	build_measure_model
+$invo458	.metrics.precision_score	build_measure_model
+$invo459	list[Unknown].append	build_measure_model
+$invo460	.metrics.precision_score	build_measure_model
+$invo461	list[Unknown].append	build_measure_model
+$invo462	.metrics.recall_score	build_measure_model
+$invo463	list[Unknown].append	build_measure_model
+$invo464	.metrics.recall_score	build_measure_model
+$invo465	list[Unknown].append	build_measure_model
+$invo466	.metrics.f1_score	build_measure_model
+$invo467	list[Unknown].append	build_measure_model
+$invo468	.metrics.f1_score	build_measure_model
+$invo469	list[Unknown].append	build_measure_model
+$invo470	.metrics.confusion_matrix	build_measure_model
+$invo471	print	build_measure_model
+$invo472	str.format	build_measure_model
+$invo473	print	build_measure_model
+$invo474	str.format	build_measure_model
+$invo475	print	build_measure_model
+$invo476	str.format	build_measure_model
+$invo477	print	build_measure_model
+$invo478	str.format	build_measure_model
+$invo479	print	build_measure_model
+$invo480	str.format	build_measure_model
+$invo481	print	build_measure_model
+$invo482	str.format	build_measure_model
+$invo483	print	build_measure_model
+$invo484	str.format	build_measure_model
+$invo485	print	build_measure_model
+$invo486	str.format	build_measure_model
+$invo487	print	build_measure_model
+$invo488	str.format	build_measure_model
+$invo489	print	build_measure_model
+$invo490	str.format	build_measure_model
+$invo491	print	build_measure_model
+$invo492	print	build_measure_model
+$invo493	print	build_measure_model
+$invo494	.metrics.roc_curve	build_measure_model
+$invo495	.metrics.roc_auc_score	build_measure_model
+$invo496	str	build_measure_model
+$invo497	Unknown.plot	build_measure_model
+$invo498	Unknown.legend	build_measure_model
+$invo499	Unknown.plot	build_measure_model
+$invo500	Unknown.title	build_measure_model
+$invo501	Unknown.xlabel	build_measure_model
+$invo502	Unknown.ylabel	build_measure_model
+$invo503	Unknown.show	build_measure_model
+$invo504	LogisticRegression	
+$invo505	list[Unknown].append	
+$invo506	LogisticRegression	
+$invo507	list[Unknown].append	
+$invo508	LogisticRegression	
+$invo509	list[Unknown].append	
+$invo510	LogisticRegression	
+$invo511	list[Unknown].append	
+$invo512	LogisticRegression	
+$invo513	list[Unknown].append	
+$invo514	build_measure_model	
+$invo515	DecisionTreeClassifier	
+$invo516	list[Unknown].append	
+$invo517	list[Unknown].append	
+$invo518	list[Unknown].append	
+$invo519	list[Unknown].append	
+$invo520	list[Unknown].append	
+$invo521	build_measure_model	
+$invo522	RandomForestClassifier	
+$invo523	list[Unknown].append	
+$invo524	RandomForestClassifier	
+$invo525	list[Unknown].append	
+$invo526	RandomForestClassifier	
+$invo527	list[Unknown].append	
+$invo528	RandomForestClassifier	
+$invo529	list[Unknown].append	
+$invo530	RandomForestClassifier	
+$invo531	list[Unknown].append	
+$invo532	build_measure_model	
+$invo533	GaussianNB	
+$invo534	list[Unknown].append	
+$invo535	GaussianNB	
+$invo536	list[Unknown].append	
+$invo537	GaussianNB	
+$invo538	list[Unknown].append	
+$invo539	GaussianNB	
+$invo540	list[Unknown].append	
+$invo541	GaussianNB	
+$invo542	list[Unknown].append	
+$invo543	build_measure_model	
+$invo544	print	
+$invo545	pandas.DataFrame	
+$invo546	pandas.DataFrame.sort_values	
+$invo547	YouTubeVideo	
+$invo548	LogisticRegression	
+$invo549	GridSearchCV	
+$invo550	GridSearchCV.fit	
+$invo551	print	
+$invo552	BaseSearchCV.predict	
+$invo553	.metrics.f1_score	
+$invo554	str.format	
+$invo555	print	
+$invo556	range	
+$invo557	list	
+$invo558	KNeighborsClassifier	
+$invo559	GridSearchCV	
+$invo560	GridSearchCV.fit	
+$invo561	print	
+$invo562	BaseSearchCV.predict	
+$invo563	.metrics.f1_score	
+$invo564	str.format	
+$invo565	print	
+$invo566	SVC	
+$invo567	GridSearchCV	
+$invo568	GridSearchCV.fit	
+$invo569	print	
+$invo570	BaseSearchCV.predict	
+$invo571	.metrics.f1_score	
+$invo572	str.format	
+$invo573	print	
+$invo574	range	
+$invo575	list	
+$invo576	range	
+$invo577	list	
+$invo578	DecisionTreeClassifier	
+$invo579	GridSearchCV	
+$invo580	GridSearchCV.fit	
+$invo581	print	
+$invo582	BaseSearchCV.predict	
+$invo583	.metrics.f1_score	
+$invo584	str.format	
+$invo585	print	

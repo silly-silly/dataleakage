@@ -1,0 +1,3 @@
+clf_0	X_train	$invo32	LogisticRegression.fit	[, ]	clf_0	X_test	$invo33	LogisticRegression.predict	[, ]	_var28	_var27
+clf_0	X_train	$invo32	LogisticRegression.fit	[, ]	clf_0	X_test	$invo33	LogisticRegression.predict	[, ]	age_avg	_var31
+clf_0	X_train	$invo32	LogisticRegression.fit	[, ]	clf_0	X_test	$invo33	LogisticRegression.predict	[, ]	age_std	_var33

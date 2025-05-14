@@ -1,0 +1,30 @@
+_var1	matplotlib
+_var2	inline
+data_path	../input/
+_var3	train_BM_MB_add03052240.csv
+_var5	test_BM_MB_add03052240.csv
+_var7	labels_BrandenMurray.csv
+_var70	alpha = {0}\t {1:.12}
+_var72	Blend %d estimators for %d folds
+_var100	Model %d:
+_var121	Model %d fold %d
+_var130	Score: 
+_var142	Model %d fold %d fitting finished in %0.3fs
+_var207	Score for model %d is %f
+_var214	Score for blended models is %f
+_var229	../blend/train_blend_MNB_BM_MB_add03052240_
+_var230	%Y-%m-%d-%H-%M
+_var234	.csv
+_var235	../blend/test_blend_MNB_mean_BM_MB_add03052240_
+_var236	%Y-%m-%d-%H-%M
+_var240	.csv
+_var241	../blend/test_blend_MNB_gmean_BM_MB_add03052240_
+_var242	%Y-%m-%d-%H-%M
+_var246	.csv
+_var249	,
+_var250	,
+_var251	,
+_var252	../output/sub_MNB_mean_BM_MB_add03052240_
+_var253	%Y-%m-%d-%H-%M
+_var257	.csv
+_var261	listing_id

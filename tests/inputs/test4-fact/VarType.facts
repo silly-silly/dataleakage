@@ -1,0 +1,34 @@
+phi_0	Unknown
+phi_1	Unknown
+base	Unknown
+attr	Unknown
+value	Unknown
+setattr	(__obj: object, __name: str, __value: Any) -> None
+x	Unknown
+_var0	str
+inputs	pandas.DataFrame
+_var1	str
+y	Unknown
+_var2	str
+data0	pandas.DataFrame
+data	pandas.DataFrame
+_var3	pandas.DataFrame
+_var4	pandas.DataFrame
+_var5	Unknown
+_var6	Unknown
+train_test_split	(*arrays: Unknown, test_size: Unknown = None, train_size: Unknown = None, random_state: Unknown = None, shuffle: Unknown = True, stratify: Unknown = None) -> list[Unknown | NDArray[_SCT@array] | list[Unknown]]
+X_train_0	pandas.DataFrame
+y_train	pandas.DataFrame
+X_test_0	Unknown
+y_test	Unknown
+_var7	int
+select	SelectPercentile
+SelectPercentile	Type[SelectPercentile]
+chi2	(X: Unknown, y: Unknown) -> tuple[Any, Any]
+percentile	int
+select_0	Unknown
+X_train	Unknown
+X_test	Unknown
+model	Unknown
+LinearRegression	NoReturn
+model_0	Unknown

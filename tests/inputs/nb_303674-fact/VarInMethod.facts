@@ -1,0 +1,412 @@
+phi_0	__phi__
+phi_1	__phi__
+base	set_field_wrapper
+attr	set_field_wrapper
+value	set_field_wrapper
+base	set_index_wrapper
+attr	set_index_wrapper
+value	set_index_wrapper
+x	global_wrapper
+_var0	
+_var1	
+_var2	
+_var3	
+_var4	
+_var5	
+_var6	
+_var7	
+_var8	
+_var9	
+_var10	
+_var11	
+_var12	
+_var13	
+_var14	
+_var15	
+_var16	
+_var17	
+critics	
+text	
+_var18	
+_var19	
+_var20	
+_var21	
+_var22	
+_var23	
+vectorizer	
+vectorizer_0	
+_var24	
+x	
+_var25	
+_var26	
+_var27	
+x_back	
+_var28	
+_var29	
+_var30	
+_var31	
+_var32	
+rotten_vectorizer	
+vectorizer_1	
+_var33	
+x_0	
+_var34	
+_var35	
+_var36	
+_var37	
+y	
+classifier	train_and_measure
+x_1	train_and_measure
+y_0	train_and_measure
+test_size	train_and_measure
+_var42	train_and_measure
+_var43	train_and_measure
+_var38	train_and_measure
+_var39	train_and_measure
+_var40	train_and_measure
+_var41	train_and_measure
+xtrain	train_and_measure
+xtest	train_and_measure
+ytrain	train_and_measure
+ytest	train_and_measure
+clf	train_and_measure
+classifier_0	train_and_measure
+training_accuracy	train_and_measure
+test_accuracy	train_and_measure
+_var44	train_and_measure
+_var45	train_and_measure
+_var46	train_and_measure
+_var47	train_and_measure
+_var48	
+_var49	
+_var50	
+x_ones	
+_var51	
+_var52	
+_var53	
+_var54	
+classifier_1	kfold_average_sd
+n	kfold_average_sd
+x_2	kfold_average_sd
+y_1	kfold_average_sd
+return_plot	kfold_average_sd
+_var55	kfold_average_sd
+_var56	kfold_average_sd
+_var57	kfold_average_sd
+_var58	kfold_average_sd
+kfold	kfold_average_sd
+train_acc	kfold_average_sd
+test_acc	kfold_average_sd
+_var59	kfold_average_sd
+_var62	kfold_average_sd
+train_index	kfold_average_sd
+_var63	kfold_average_sd
+test_index	kfold_average_sd
+_var64	kfold_average_sd
+_var65	kfold_average_sd
+clf_0	kfold_average_sd
+classifier_2	kfold_average_sd
+_var66	kfold_average_sd
+_var67	kfold_average_sd
+_var68	kfold_average_sd
+_var69	kfold_average_sd
+_var70	kfold_average_sd
+_var71	kfold_average_sd
+classifier_3	kfold_average_sd
+_var72	kfold_average_sd
+_var73	kfold_average_sd
+_var74	kfold_average_sd
+_var75	kfold_average_sd
+_var76	kfold_average_sd
+_var77	kfold_average_sd
+_var78	kfold_average_sd
+_var79	kfold_average_sd
+_var80	kfold_average_sd
+_var81	kfold_average_sd
+_var82	kfold_average_sd
+_var83	kfold_average_sd
+_var84	
+_var85	
+_var86	
+classifier_4	find_k
+x_3	find_k
+y_2	find_k
+max_num_k	find_k
+k_train_acc	find_k
+k_test_acc	find_k
+_var87	find_k
+_var88	find_k
+i	find_k
+_var89	find_k
+_var90	find_k
+_var91	find_k
+_var92	find_k
+_var93	find_k
+kfold_0	find_k
+_var94	find_k
+_var95	find_k
+test_acc_0	find_k
+train_acc_0	find_k
+_var96	find_k
+_var99	find_k
+train_index_0	find_k
+_var100	find_k
+test_index_0	find_k
+_var101	find_k
+_var102	find_k
+clf_1	find_k
+classifier_5	find_k
+_var103	find_k
+_var104	find_k
+_var105	find_k
+_var106	find_k
+_var107	find_k
+_var108	find_k
+classifier_6	find_k
+_var109	find_k
+_var110	find_k
+_var111	find_k
+_var112	find_k
+classifier_7	find_k
+_var113	find_k
+_var114	find_k
+_var115	find_k
+_var116	find_k
+_var117	find_k
+_var118	find_k
+_var119	
+_var120	
+clf_2	
+y_true	
+y_pred	
+conf	
+_var121	
+_var122	
+_var123	
+_var124	
+_var125	
+_var126	
+_var127	
+_var128	
+_var129	
+_var130	
+_var131	
+_var132	
+_var133	
+_var134	
+_var135	
+_var136	
+_var137	
+_var138	
+_var139	
+_var140	
+_var141	
+_var142	
+_var143	
+_var144	
+_var145	
+_var146	
+_var147	
+_var148	
+_var149	
+_var150	
+_var151	
+prob	
+_var152	
+_var153	
+_var154	
+_var155	
+_var156	
+bad_rotten	
+_var157	
+_var158	
+_var159	
+_var160	
+_var161	
+bad_fresh	
+_var162	
+_var163	
+row	
+_var164	
+_var165	
+_var166	
+_var167	
+_var168	
+_var169	
+_var170	
+row_0	
+_var171	
+_var172	
+_var173	
+_var174	
+_var175	
+_var176	
+_var177	
+_var178	
+_var179	
+_var180	
+_var181	
+_var182	
+_var183	
+_var184	
+_var185	
+_var186	
+_var187	
+_var188	
+_var189	
+_var190	
+_var191	
+_var192	
+_var193	
+_var194	
+_var195	
+_var196	
+_var197	
+_var198	
+ax1	
+_var199	
+ax2	
+_var200	
+_var201	
+_var202	
+_var203	
+_var204	
+_var205	
+_var206	
+_var207	
+_var208	
+_var209	
+i_0	
+_var210	
+_var211	
+_var212	
+_var213	
+_var214	
+_var215	
+_var216	
+_var217	
+_var218	
+_var219	
+_var220	
+_var221	
+_var222	
+_var223	
+_var224	
+_var225	
+_var226	
+mask	
+new_features	
+_var227	
+_var228	
+classifier_8	train_and_measure
+x_4	train_and_measure
+y_3	train_and_measure
+test_size_0	train_and_measure
+_var233	train_and_measure
+_var234	train_and_measure
+_var229	train_and_measure
+_var230	train_and_measure
+_var231	train_and_measure
+_var232	train_and_measure
+xtrain_0	train_and_measure
+xtest_0	train_and_measure
+ytrain_0	train_and_measure
+ytest_0	train_and_measure
+clf_3	train_and_measure
+classifier_9	train_and_measure
+training_accuracy_0	train_and_measure
+test_accuracy_0	train_and_measure
+percentile	
+feature_percentage	
+train_acc_1	
+test_acc_1	
+_var235	
+_var236	
+_var237	
+_var238	
+i_1	
+_var239	
+_var240	
+_var241	
+_var242	
+_var243	
+_var244	
+_var245	
+_var246	
+_var247	
+mask_0	
+new_features_0	
+_var248	
+_var249	
+_var250	
+_var251	
+_var252	
+_var253	
+ratio	
+_var254	
+_var255	
+_var256	
+_var257	
+scores	
+_var258	
+_var259	
+_var260	
+_var261	
+mask_1	
+new_features_1	
+_var262	
+_var263	
+_var264	
+_var265	
+_var266	
+df	
+_var267	
+_var268	
+_var269	
+_var270	
+_var271	
+_var272	
+_var273	
+_var274	
+_var275	
+_var276	
+_var277	
+_var278	
+_var279	
+ax1_0	
+_var280	
+_var281	
+_var282	
+_var283	
+_var284	
+_var285	
+text_0	ad_words
+token	ad_words
+tagger	ad_words
+bag_of_words	ad_words
+_var286	ad_words
+_var287	ad_words
+_var288	ad_words
+_var289	ad_words
+_var290	ad_words
+_var291	ad_words
+_var292	
+_var293	
+_var294	
+critics_0	
+_var295	
+_var296	
+_var297	
+_var298	
+_var299	
+_var300	
+vectorizer_2	
+_var301	
+x_5	
+_var302	
+_var303	
+_var304	
+_var305	
+_var306	
+_var307	
+_var308	

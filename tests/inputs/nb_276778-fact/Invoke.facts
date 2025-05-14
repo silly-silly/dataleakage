@@ -1,0 +1,93 @@
+$invo0	setattr	set_field_wrapper
+$invo1	setattr	set_index_wrapper
+$invo2	get_ipython	
+$invo3	Unknown.run_line_magic	
+$invo4	pandas.set_option	
+$invo5	Unknown.set	
+$invo6	Unknown.figure	plot_learning_curve
+$invo7	Unknown.title	plot_learning_curve
+$invo8	Unknown.ylim	plot_learning_curve
+$invo9	Unknown.xlabel	plot_learning_curve
+$invo10	Unknown.ylabel	plot_learning_curve
+$invo11	learning_curve	plot_learning_curve
+$invo12	numpy.mean	plot_learning_curve
+$invo13	numpy.std	plot_learning_curve
+$invo14	numpy.mean	plot_learning_curve
+$invo15	numpy.std	plot_learning_curve
+$invo16	Unknown.grid	plot_learning_curve
+$invo17	Unknown.fill_between	plot_learning_curve
+$invo18	Unknown.fill_between	plot_learning_curve
+$invo19	Unknown.plot	plot_learning_curve
+$invo20	Unknown.plot	plot_learning_curve
+$invo21	Unknown.legend	plot_learning_curve
+$invo22	itemgetter	report
+$invo23	sorted	report
+$invo24	enumerate	report
+$invo25	str.format	report
+$invo26	print	report
+$invo27	numpy.std	report
+$invo28	str.format	report
+$invo29	print	report
+$invo30	str.format	report
+$invo31	print	report
+$invo32	print	report
+$invo33	pandas.read_csv	
+$invo34	pandas.DataFrame.drop	
+$invo35	Unknown.fillna	
+$invo36	Unknown.drop	
+$invo37	Unknown.filter	
+$invo38	Unknown.drop	
+$invo39	Unknown.drop	
+$invo40	make_scorer	
+$invo41	make_scorer	
+$invo42	make_scorer	
+$invo43	pandas.concat	
+$invo44	Unknown.drop	
+$invo45	sklearn.preprocessing.LabelEncoder	
+$invo46	LabelEncoder.fit_transform	
+$invo47	pandas.concat	
+$invo48	pandas.concat	
+$invo49	ItemSelector	
+$invo50	ItemSelector	
+$invo51	sklearn.preprocessing.Imputer	
+$invo52	Pipeline	
+$invo53	sklearn.preprocessing.Imputer	
+$invo54	Pipeline	
+$invo55	FeatureUnion	
+$invo56	Pipeline	
+$invo57	ExtraTreesClassifier	
+$invo58	Pipeline.fit_transform	
+$invo59	train_test_split	
+$invo60	sp_randint	
+$invo61	sp_randint	
+$invo62	sp_randint	
+$invo63	RandomizedSearchCV	
+$invo64	time.time	
+$invo65	print	
+$invo66	RandomizedSearchCV.fit	
+$invo67	time.time	
+$invo68	print	
+$invo69	report	
+$invo70	print	
+$invo71	BaseSearchCV.predict	
+$invo72	confusion_matrix	
+$invo73	print	
+$invo74	classification_report	
+$invo75	print	
+$invo76	time.time	
+$invo77	print	
+$invo78	numpy.std	
+$invo79	numpy.argsort	
+$invo80	Unknown.figure	
+$invo81	Unknown.title	
+$invo82	range	
+$invo83	list	
+$invo84	Unknown.barh	
+$invo85	range	
+$invo86	list	
+$invo87	Unknown.yticks	
+$invo88	Unknown.ylim	
+$invo89	Unknown.ylabel	
+$invo90	Unknown.xlabel	
+$invo91	Unknown.show	
+$invo92	CalibratedClassifierCV	

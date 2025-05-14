@@ -1,0 +1,17 @@
+_var0	../input/train.csv
+_var1	../input/test.csv
+_var9	Sex
+_var14	Embarked
+_var16	S
+_var18	Embarked
+_var19	Embarked
+_var24	Fare
+_var26	Fare
+_var30	Age
+_var32	Age
+_var34	Age
+_var45	Survived
+_var46	Survived
+_var48	Survived
+_var50	l2
+_var51	sag

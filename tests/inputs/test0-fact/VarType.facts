@@ -1,0 +1,49 @@
+phi_0	Unknown
+phi_1	Unknown
+base	Unknown
+attr	Unknown
+value	Unknown
+setattr	(__obj: object, __name: str, __value: Any) -> None
+x	Unknown
+_var0	str
+df	pandas.DataFrame
+l	int
+len	(__obj: Sized) -> int
+_var1	str
+y	Unknown
+_var2	str
+_var3	int
+df_0	pandas.DataFrame
+axis	Axis
+_var4	str
+_var5	str
+_var6	Unknown
+_var7	str
+_var8	Unknown
+_var9	floating[Any]
+_var10	bool
+_var11	Unknown
+df_1	pandas.DataFrame
+set_index_wrapper	(base: Unknown, attr: Unknown, value: Unknown) -> Unknown
+_var16	float
+_var17	int
+_var12	pandas.DataFrame
+_var13	pandas.DataFrame
+_var14	Unknown
+_var15	Unknown
+train_test_split	(*arrays: Unknown, test_size: Unknown = None, train_size: Unknown = None, random_state: Unknown = None, shuffle: Unknown = True, stratify: Unknown = None) -> list[Unknown | NDArray[_SCT@array] | list[Unknown]]
+test_size	float
+random_state	int
+X_train	pandas.DataFrame
+X_test	pandas.DataFrame
+y_train	Unknown
+y_test	Unknown
+_var18	str
+_var19	str
+_var20	int
+clf	LogisticRegression
+LogisticRegression	Type[LogisticRegression]
+penalty	str
+solver	str
+clf_0	Self@LogisticRegression
+y_pred	Unknown | Any

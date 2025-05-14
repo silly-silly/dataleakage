@@ -1,0 +1,10 @@
+_var53	LabelEncoder
+_var54	OneHotEncoder
+_var222	inde_variables_1
+_var224	target
+_var227	batch_size
+_var229	batch_size
+_var231	max_epoch
+_var247	evaluate
+_var259	loss_fn
+_var304	sklearn

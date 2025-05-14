@@ -1,0 +1,127 @@
+$invo0	setattr	set_field_wrapper
+$invo1	setattr	set_index_wrapper
+$invo2	get_ipython	
+$invo3	Unknown.run_line_magic	
+$invo4	pandas.set_option	
+$invo5	Unknown.set	
+$invo6	Unknown.figure	plot_learning_curve
+$invo7	Unknown.title	plot_learning_curve
+$invo8	Unknown.ylim	plot_learning_curve
+$invo9	Unknown.xlabel	plot_learning_curve
+$invo10	Unknown.ylabel	plot_learning_curve
+$invo11	learning_curve	plot_learning_curve
+$invo12	numpy.mean	plot_learning_curve
+$invo13	numpy.std	plot_learning_curve
+$invo14	numpy.mean	plot_learning_curve
+$invo15	numpy.std	plot_learning_curve
+$invo16	Unknown.grid	plot_learning_curve
+$invo17	Unknown.fill_between	plot_learning_curve
+$invo18	Unknown.fill_between	plot_learning_curve
+$invo19	Unknown.plot	plot_learning_curve
+$invo20	Unknown.plot	plot_learning_curve
+$invo21	Unknown.legend	plot_learning_curve
+$invo22	itemgetter	report
+$invo23	sorted	report
+$invo24	enumerate	report
+$invo25	str.format	report
+$invo26	print	report
+$invo27	numpy.std	report
+$invo28	str.format	report
+$invo29	print	report
+$invo30	str.format	report
+$invo31	print	report
+$invo32	print	report
+$invo33	pandas.read_csv	
+$invo34	pandas.DataFrame.drop	
+$invo35	Unknown.fillna	
+$invo36	Unknown.drop	
+$invo37	Unknown.filter	
+$invo38	Unknown.drop	
+$invo39	Unknown.drop	
+$invo40	pandas.concat	
+$invo41	Unknown.drop	
+$invo42	sklearn.preprocessing.LabelEncoder	
+$invo43	LabelEncoder.fit_transform	
+$invo44	pandas.concat	
+$invo45	pandas.concat	
+$invo46	ItemSelector	
+$invo47	ItemSelector	
+$invo48	sklearn.preprocessing.Imputer	
+$invo49	Pipeline	
+$invo50	sklearn.preprocessing.Imputer	
+$invo51	sklearn.preprocessing.OneHotEncoder	
+$invo52	Pipeline	
+$invo53	FeatureUnion	
+$invo54	sklearn.preprocessing.MinMaxScaler	
+$invo55	Pipeline	
+$invo56	make_scorer	
+$invo57	make_scorer	
+$invo58	make_scorer	
+$invo59	time.time	
+$invo60	sklearn.preprocessing.Imputer	
+$invo61	Pipeline	
+$invo62	sklearn.preprocessing.Imputer	
+$invo63	sklearn.preprocessing.OneHotEncoder	
+$invo64	Pipeline	
+$invo65	FeatureUnion	
+$invo66	sklearn.preprocessing.MinMaxScaler	
+$invo67	GenericUnivariateSelect	
+$invo68	SGDClassifier	
+$invo69	Pipeline	
+$invo70	train_test_split	
+$invo71	sp_randint	
+$invo72	sp_randint	
+$invo73	StratifiedKFold	
+$invo74	RandomizedSearchCV	
+$invo75	print	
+$invo76	RandomizedSearchCV.fit	
+$invo77	time.time	
+$invo78	print	
+$invo79	report	
+$invo80	print	
+$invo81	print	
+$invo82	BaseSearchCV.predict	
+$invo83	confusion_matrix	
+$invo84	print	
+$invo85	classification_report	
+$invo86	print	
+$invo87	print	
+$invo88	print	
+$invo89	BaseSearchCV.predict	
+$invo90	confusion_matrix	
+$invo91	print	
+$invo92	classification_report	
+$invo93	print	
+$invo94	print	
+$invo95	train_test_split	
+$invo96	time.time	PerfGridSearchCV
+$invo97	sklearn.preprocessing.Imputer	PerfGridSearchCV
+$invo98	Pipeline	PerfGridSearchCV
+$invo99	sklearn.preprocessing.Imputer	PerfGridSearchCV
+$invo100	sklearn.preprocessing.OneHotEncoder	PerfGridSearchCV
+$invo101	Pipeline	PerfGridSearchCV
+$invo102	FeatureUnion	PerfGridSearchCV
+$invo103	sklearn.preprocessing.MinMaxScaler	PerfGridSearchCV
+$invo104	Pipeline	PerfGridSearchCV
+$invo105	StratifiedKFold	PerfGridSearchCV
+$invo106	RandomizedSearchCV	PerfGridSearchCV
+$invo107	print	PerfGridSearchCV
+$invo108	RandomizedSearchCV.fit	PerfGridSearchCV
+$invo109	time.time	PerfGridSearchCV
+$invo110	print	PerfGridSearchCV
+$invo111	report	PerfGridSearchCV
+$invo112	print	PerfGridSearchCV
+$invo113	print	PerfGridSearchCV
+$invo114	BaseSearchCV.predict	PerfGridSearchCV
+$invo115	confusion_matrix	PerfGridSearchCV
+$invo116	print	PerfGridSearchCV
+$invo117	classification_report	PerfGridSearchCV
+$invo118	print	PerfGridSearchCV
+$invo119	print	PerfGridSearchCV
+$invo120	print	PerfGridSearchCV
+$invo121	BaseSearchCV.predict	PerfGridSearchCV
+$invo122	confusion_matrix	PerfGridSearchCV
+$invo123	print	PerfGridSearchCV
+$invo124	classification_report	PerfGridSearchCV
+$invo125	print	PerfGridSearchCV
+$invo126	print	PerfGridSearchCV

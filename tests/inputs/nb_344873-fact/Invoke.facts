@@ -1,0 +1,76 @@
+$invo0	setattr	set_field_wrapper
+$invo1	setattr	set_index_wrapper
+$invo2	get_ipython	
+$invo3	Unknown.run_line_magic	
+$invo4	get_ipython	
+$invo5	Unknown.run_line_magic	
+$invo6	pandas.read_csv	
+$invo7	pandas.read_csv	
+$invo8	pandas.concat	
+$invo9	numpy.log1p	
+$invo10	pandas.DataFrame	
+$invo11	pandas.DataFrame.hist	
+$invo12	numpy.log1p	
+$invo13	Unknown.dropna	_func0
+$invo14	skew	_func0
+$invo15	Unknown.apply	
+$invo16	numpy.log1p	
+$invo17	pandas.get_dummies	
+$invo18	pandas.DataFrame.mean	
+$invo19	pandas.DataFrame.fillna	
+$invo20	cross_val_score	rmse_cv
+$invo21	numpy.sqrt	rmse_cv
+$invo22	Ridge	
+$invo23	pandas.Series	
+$invo24	pandas.Series.plot	
+$invo25	Unknown.xlabel	
+$invo26	Unknown.ylabel	
+$invo27	pandas.Series.min	
+$invo28	LassoCV	
+$invo29	LassoCV.fit	
+$invo30	rmse_cv	
+$invo31	Any.mean	
+$invo32	pandas.Series	
+$invo33	sum	
+$invo34	str	
+$invo35	sum	
+$invo36	str	
+$invo37	print	
+$invo38	pandas.Series.sort_values	
+$invo39	pandas.Series.head	
+$invo40	pandas.Series.sort_values	
+$invo41	pandas.Series.tail	
+$invo42	pandas.concat	
+$invo43	pandas.Series.plot	
+$invo44	Unknown.title	
+$invo45	LinearModelCV.predict	
+$invo46	pandas.DataFrame	
+$invo47	pandas.DataFrame.plot	
+$invo48	Unknown.DMatrix	
+$invo49	Unknown.DMatrix	
+$invo50	Unknown.cv	
+$invo51	Unknown.plot	
+$invo52	Unknown.XGBRegressor	
+$invo53	Unknown.fit	
+$invo54	Unknown.predict	
+$invo55	numpy.expm1	
+$invo56	LinearModelCV.predict	
+$invo57	numpy.expm1	
+$invo58	pandas.DataFrame	
+$invo59	pandas.DataFrame.plot	
+$invo60	pandas.DataFrame	
+$invo61	pandas.DataFrame.to_csv	
+$invo62	StandardScaler	
+$invo63	StandardScaler.fit_transform	
+$invo64	train_test_split	
+$invo65	Sequential	
+$invo66	l1	
+$invo67	Dense	
+$invo68	Unknown.add	
+$invo69	Unknown.compile	
+$invo70	Unknown.summary	
+$invo71	Unknown.fit	
+$invo72	Unknown.predict	
+$invo73	pandas.Series	
+$invo74	pandas.Series.hist	
+$invo75	Unknown.predict	

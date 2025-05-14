@@ -1,0 +1,13 @@
+_var11	data_dict	_var10
+_var43	_var42	index_placeholder
+i	_var43	_var46
+score	_var43	_var47
+_var67	_var65	_var66
+output_data	data_0	_var76
+ordinal_float_data	_var79	slice_placeholder
+_var82	data_1	ordinal_integer_cols
+nominal_string_data	_var87	slice_placeholder
+nominal_data	_var90	slice_placeholder
+i_0	_var93	index_placeholder
+_var95	nominal_string_data	i_0
+_var195	output_data	_var194

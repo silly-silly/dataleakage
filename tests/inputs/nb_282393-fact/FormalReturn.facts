@@ -1,0 +1,14 @@
+0	__phi__	phi_0
+0	__phi__	phi_1
+0	set_field_wrapper	base
+0	set_index_wrapper	base
+0	global_wrapper	x
+0	batch_generator	X_batch
+1	batch_generator	y_batch
+0	batch_generatorp	X_batch_0
+0	create_model	model
+0	nn_model	model_2
+0	nn_blend_data	train_blend_x_2
+1	nn_blend_data	test_blend_x_1
+2	nn_blend_data	scores_2
+3	nn_blend_data	best_rounds_2

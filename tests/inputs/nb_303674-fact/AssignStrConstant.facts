@@ -1,0 +1,32 @@
+_var11	matplotlib
+_var12	inline
+_var13	display.width
+_var15	display.max_columns
+_var17	../../DAT18NYC/data/rt_critics.csv
+_var19	pinfo
+_var20	CountVectorizer
+_var25	Sparse Matrix
+_var27	Matrix
+_var35	fresh
+_var44	Accuracy on training data: %0.2f
+_var46	Accuracy on test data: %0.2f
+_var162	Mis-predicted Rotten quotes
+_var163	---------------------------
+_var169	Mis-predicted Fresh quotes
+_var170	--------------------------
+_var177	pinfo
+_var178	f_classif
+_var198	b
+_var199	F-value
+_var204	g
+_var205	p-value
+_var273	Training Accuracy
+_var276	Test Accuracy
+_var278	Percentile for F-statistic
+_var279	Accuracy
+_var285	Ratio of feautures used vs all features model
+_var286	 
+_var290	
+_var292	pos
+_var295	pos
+_var307	

@@ -1,0 +1,174 @@
+phi_0	Unknown
+phi_1	Unknown
+base	Unknown
+attr	Unknown
+value	Unknown
+setattr	(__obj: object, __name: str, __value: Any) -> None
+x	Unknown
+_var0	str
+normal_data	pandas.DataFrame
+_var1	str
+data_stop_words_removed	pandas.DataFrame
+_var2	str
+data_pos_tags	pandas.DataFrame
+_var3	list[str]
+X_train_norm	Unknown
+_var4	list[str]
+X_train_sw	Unknown
+_var5	list[str]
+X_train_pos	Unknown
+_var6	Unknown
+_var7	Unknown
+_var8	bool
+_var9	Unknown
+X_train_norm_0	Unknown
+_var10	Unknown
+_var11	Unknown
+_var12	bool
+_var13	Unknown
+X_train_sw_0	Unknown
+_var14	Unknown
+_var15	Unknown
+_var16	bool
+_var17	Unknown
+X_train_pos_0	Unknown
+transformer	TfidfVectorizer
+TfidfVectorizer	Type[TfidfVectorizer]
+_var18	str
+y_norm	Unknown
+_var19	str
+_var20	Unknown
+X_train_norm_1	Unknown | Any | csr_matrix
+_var21	str
+y_sw	Unknown
+_var22	str
+_var23	Unknown
+X_train_sw_1	Unknown | Any | csr_matrix
+_var24	str
+y_pos	Unknown
+_var25	str
+_var26	Unknown
+X_train_pos_1	Unknown | Any | csr_matrix
+pred	Unknown
+labels	Unknown
+_var27	Unknown
+_var28	int
+_var29	Unknown
+_var30	floating[Any]
+_var31	Any
+RANDOM_STATE	int
+_var36	float
+_var32	Unknown | Any | csr_matrix
+_var33	Unknown | Any | csr_matrix
+_var34	Unknown
+_var35	Unknown
+train_test_split	(*arrays: Unknown, test_size: Unknown = None, train_size: Unknown = None, random_state: Unknown = None, shuffle: Unknown = True, stratify: Unknown = None) -> list[Unknown | NDArray[_SCT@array] | list[Unknown]]
+test_size	float
+random_state	int
+X_train	Unknown | Any | csr_matrix
+X_test	Unknown | Any | csr_matrix
+y_train	Unknown
+y_test	Unknown
+_var37	floating[Any]
+_var38	list[floating[Any]]
+_var39	int
+len	(__obj: Sized) -> int
+y_pred_base	list[floating[Any]]
+_var40	str
+_var41	Any
+rmse	(pred: Unknown, labels: Unknown) -> Any
+_var42	tuple[str, Any]
+print	(*values: object, sep: str | None = ..., end: str | None = ..., file: SupportsWrite[str] | None = ..., flush: bool = ...) -> None
+lr_model	LinearRegression
+LinearRegression	Type[LinearRegression]
+lr_model_0	Self@LinearRegression
+y_pred_lr	Unknown | Any | NDArray[bool_] | NDArray[floating[Any]]
+_var43	str
+_var44	Any
+_var45	tuple[str, Any]
+_var46	list[Unknown]
+ridge_model	RidgeCV
+RidgeCV	Type[RidgeCV]
+alphas	list[Unknown]
+_var47	list[Unknown]
+lasso_model	LassoCV
+LassoCV	Type[LassoCV]
+ridge_model_0	RidgeCV
+lasso_model_0	Self@LinearModelCV
+y_pred_rm	Unknown | Any | NDArray[bool_] | NDArray[floating[Any]]
+y_pred_lm	Unknown | Any | NDArray[bool_] | NDArray[floating[Any]]
+_var48	str
+_var49	Any
+_var50	tuple[str, Any]
+_var51	str
+_var52	Any
+_var53	tuple[str, Any]
+_var54	int
+knn_model5	KNeighborsRegressor
+KNeighborsRegressor	Type[KNeighborsRegressor]
+n_neighbors	int
+_var55	int
+knn_model10	KNeighborsRegressor
+_var56	int
+knn_model50	KNeighborsRegressor
+knn_model5_0	Unknown
+knn_model10_0	Unknown
+knn_model50_0	Unknown
+y_pred_knn5	Unknown
+y_pred_knn10	Unknown
+y_pred_knn50	Unknown
+_var57	str
+_var58	Any
+_var59	tuple[str, Any]
+_var60	str
+_var61	Any
+_var62	tuple[str, Any]
+_var63	str
+_var64	Any
+_var65	tuple[str, Any]
+dt_model	DecisionTreeRegressor
+DecisionTreeRegressor	Type[DecisionTreeRegressor]
+dt_model_0	DecisionTreeRegressor
+y_pred_dt	Unknown | NDArray[float64]
+_var66	str
+_var67	Any
+_var68	tuple[str, Any]
+_var69	int
+_var70	int
+_var71	str
+_var72	int
+rf_model	RandomForestRegressor
+RandomForestRegressor	Type[RandomForestRegressor]
+max_depth	int | None
+n_estimators	int
+max_features	str
+verbose	int
+rf_model_0	Self@BaseForest
+y_pred_rf	Unknown
+_var73	str
+_var74	Any
+_var75	tuple[str, Any]
+_var76	int
+_var77	float
+_var78	str
+adb_model	AdaBoostRegressor
+AdaBoostRegressor	Type[AdaBoostRegressor]
+learning_rate	float
+loss	str
+adb_model_0	AdaBoostRegressor
+y_pred_adb	ndarray[Any, dtype[Any]]
+_var79	str
+_var80	Any
+_var81	tuple[str, Any]
+_var82	int
+_var83	float
+_var84	int
+_var85	str
+gbm_model	GradientBoostingRegressor
+GradientBoostingRegressor	Type[GradientBoostingRegressor]
+gbm_model_0	Self@BaseGradientBoosting
+_var86	Unknown | Any | NDArray[_SCT@asarray] | matrix[Unknown, Unknown]
+y_pred_gbm	Unknown
+_var87	str
+_var88	Any
+_var89	tuple[str, Any]

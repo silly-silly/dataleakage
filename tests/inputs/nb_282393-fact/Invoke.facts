@@ -1,0 +1,440 @@
+$invo0	setattr	set_field_wrapper
+$invo1	setattr	set_index_wrapper
+$invo2	get_ipython	
+$invo3	Unknown.run_line_magic	
+$invo4	pandas.read_csv	
+$invo5	pandas.read_csv	
+$invo6	pandas.read_csv	
+$invo7	pandas.read_csv	
+$invo8	pandas.read_csv	
+$invo9	pandas.read_csv	
+$invo10	str.format	
+$invo11	print	
+$invo12	str.format	
+$invo13	print	
+$invo14	print	
+$invo15	print	
+$invo16	print	
+$invo17	print	
+$invo18	pandas.read_csv	
+$invo19	pandas.read_csv	
+$invo20	pandas.read_csv	
+$invo21	pandas.read_csv	
+$invo22	pandas.read_csv	
+$invo23	pandas.read_csv	
+$invo24	str.format	
+$invo25	print	
+$invo26	str.format	
+$invo27	print	
+$invo28	print	
+$invo29	print	
+$invo30	print	
+$invo31	print	
+$invo32	pandas.read_csv	
+$invo33	pandas.read_csv	
+$invo34	pandas.read_csv	
+$invo35	str.format	
+$invo36	print	
+$invo37	print	
+$invo38	print	
+$invo39	pandas.read_csv	
+$invo40	pandas.read_csv	
+$invo41	pandas.read_csv	
+$invo42	str.format	
+$invo43	print	
+$invo44	print	
+$invo45	print	
+$invo46	pandas.read_csv	
+$invo47	pandas.read_csv	
+$invo48	pandas.read_csv	
+$invo49	pandas.read_csv	
+$invo50	pandas.read_csv	
+$invo51	pandas.read_csv	
+$invo52	str.format	
+$invo53	print	
+$invo54	str.format	
+$invo55	print	
+$invo56	print	
+$invo57	print	
+$invo58	print	
+$invo59	print	
+$invo60	pandas.read_csv	
+$invo61	pandas.read_csv	
+$invo62	pandas.read_csv	
+$invo63	pandas.read_csv	
+$invo64	pandas.read_csv	
+$invo65	pandas.read_csv	
+$invo66	str.format	
+$invo67	print	
+$invo68	str.format	
+$invo69	print	
+$invo70	print	
+$invo71	print	
+$invo72	print	
+$invo73	print	
+$invo74	pandas.read_csv	
+$invo75	pandas.read_csv	
+$invo76	pandas.read_csv	
+$invo77	pandas.read_csv	
+$invo78	pandas.read_csv	
+$invo79	pandas.read_csv	
+$invo80	str.format	
+$invo81	print	
+$invo82	str.format	
+$invo83	print	
+$invo84	print	
+$invo85	print	
+$invo86	print	
+$invo87	print	
+$invo88	pandas.read_csv	
+$invo89	pandas.read_csv	
+$invo90	pandas.read_csv	
+$invo91	pandas.read_csv	
+$invo92	pandas.read_csv	
+$invo93	pandas.read_csv	
+$invo94	str.format	
+$invo95	print	
+$invo96	str.format	
+$invo97	print	
+$invo98	print	
+$invo99	print	
+$invo100	print	
+$invo101	print	
+$invo102	pandas.read_csv	
+$invo103	pandas.read_csv	
+$invo104	pandas.read_csv	
+$invo105	str.format	
+$invo106	print	
+$invo107	print	
+$invo108	print	
+$invo109	pandas.read_csv	
+$invo110	pandas.read_csv	
+$invo111	pandas.read_csv	
+$invo112	str.format	
+$invo113	print	
+$invo114	print	
+$invo115	print	
+$invo116	pandas.read_csv	
+$invo117	pandas.read_csv	
+$invo118	pandas.read_csv	
+$invo119	str.format	
+$invo120	print	
+$invo121	print	
+$invo122	print	
+$invo123	pandas.read_csv	
+$invo124	pandas.read_csv	
+$invo125	str.format	
+$invo126	print	
+$invo127	print	
+$invo128	print	
+$invo129	pandas.read_csv	
+$invo130	pandas.read_csv	
+$invo131	str.format	
+$invo132	print	
+$invo133	print	
+$invo134	print	
+$invo135	pandas.read_csv	
+$invo136	pandas.read_csv	
+$invo137	pandas.read_csv	
+$invo138	str.format	
+$invo139	print	
+$invo140	print	
+$invo141	print	
+$invo142	pandas.read_csv	
+$invo143	pandas.read_csv	
+$invo144	pandas.read_csv	
+$invo145	str.format	
+$invo146	print	
+$invo147	print	
+$invo148	print	
+$invo149	pandas.read_csv	
+$invo150	pandas.read_csv	
+$invo151	pandas.read_csv	
+$invo152	str.format	
+$invo153	print	
+$invo154	print	
+$invo155	print	
+$invo156	pandas.read_csv	
+$invo157	pandas.read_csv	
+$invo158	pandas.read_csv	
+$invo159	str.format	
+$invo160	print	
+$invo161	print	
+$invo162	print	
+$invo163	pandas.read_csv	
+$invo164	pandas.read_csv	
+$invo165	pandas.read_csv	
+$invo166	str.format	
+$invo167	print	
+$invo168	print	
+$invo169	print	
+$invo170	pandas.read_csv	
+$invo171	pandas.read_csv	
+$invo172	pandas.read_csv	
+$invo173	str.format	
+$invo174	print	
+$invo175	print	
+$invo176	print	
+$invo177	pandas.read_csv	
+$invo178	pandas.read_csv	
+$invo179	pandas.read_csv	
+$invo180	str.format	
+$invo181	print	
+$invo182	print	
+$invo183	print	
+$invo184	pandas.read_csv	
+$invo185	pandas.read_csv	
+$invo186	pandas.read_csv	
+$invo187	str.format	
+$invo188	print	
+$invo189	print	
+$invo190	print	
+$invo191	pandas.read_csv	
+$invo192	pandas.read_csv	
+$invo193	pandas.read_csv	
+$invo194	str.format	
+$invo195	print	
+$invo196	print	
+$invo197	print	
+$invo198	pandas.read_csv	
+$invo199	pandas.read_csv	
+$invo200	pandas.read_csv	
+$invo201	str.format	
+$invo202	print	
+$invo203	print	
+$invo204	print	
+$invo205	pandas.read_csv	
+$invo206	pandas.read_csv	
+$invo207	pandas.read_csv	
+$invo208	str.format	
+$invo209	print	
+$invo210	print	
+$invo211	print	
+$invo212	pandas.read_csv	
+$invo213	pandas.read_csv	
+$invo214	pandas.read_csv	
+$invo215	str.format	
+$invo216	print	
+$invo217	print	
+$invo218	print	
+$invo219	pandas.read_csv	
+$invo220	pandas.read_csv	
+$invo221	pandas.read_csv	
+$invo222	str.format	
+$invo223	print	
+$invo224	print	
+$invo225	print	
+$invo226	pandas.read_csv	
+$invo227	pandas.read_csv	
+$invo228	pandas.read_csv	
+$invo229	str.format	
+$invo230	print	
+$invo231	print	
+$invo232	print	
+$invo233	pandas.read_csv	
+$invo234	pandas.read_csv	
+$invo235	str.format	
+$invo236	print	
+$invo237	print	
+$invo238	print	
+$invo239	pandas.read_csv	
+$invo240	pandas.read_csv	
+$invo241	str.format	
+$invo242	print	
+$invo243	print	
+$invo244	print	
+$invo245	pandas.read_csv	
+$invo246	pandas.read_csv	
+$invo247	str.format	
+$invo248	print	
+$invo249	print	
+$invo250	print	
+$invo251	pandas.read_csv	
+$invo252	pandas.read_csv	
+$invo253	str.format	
+$invo254	print	
+$invo255	print	
+$invo256	print	
+$invo257	pandas.read_csv	
+$invo258	pandas.read_csv	
+$invo259	str.format	
+$invo260	print	
+$invo261	print	
+$invo262	print	
+$invo263	pandas.read_csv	
+$invo264	pandas.read_csv	
+$invo265	str.format	
+$invo266	print	
+$invo267	print	
+$invo268	print	
+$invo269	pandas.read_csv	
+$invo270	pandas.read_csv	
+$invo271	str.format	
+$invo272	print	
+$invo273	print	
+$invo274	print	
+$invo275	print	
+$invo276	pandas.concat	
+$invo277	pandas.concat	
+$invo278	pandas.concat	
+$invo279	str.format	
+$invo280	print	
+$invo281	pandas.read_csv	
+$invo282	pandas.read_csv	
+$invo283	pandas.read_csv	
+$invo284	numpy.ravel	
+$invo285	to_categorical	
+$invo286	Any.astype	
+$invo287	print	
+$invo288	Any.isnull	
+$invo289	pandas.concat	
+$invo290	pandas.concat	
+$invo291	print	
+$invo292	print	
+$invo293	pandas.concat	
+$invo294	print	
+$invo295	pandas.DataFrame.isnull	
+$invo296	ndarray[Unknown, Unknown].any	
+$invo297	sklearn.preprocessing.StandardScaler	
+$invo298	Unknown.reshape	
+$invo299	StandardScaler.fit_transform	
+$invo300	.sparse.csr_matrix	
+$invo301	.sparse.csr_matrix	
+$invo302	print	
+$invo303	print	
+$invo304	train_test_split	
+$invo305	numpy.ceil	batch_generator
+$invo306	numpy.arange	batch_generator
+$invo307	numpy.random.shuffle	batch_generator
+$invo308	Unknown.toarray	batch_generator
+$invo309	numpy.random.shuffle	batch_generator
+$invo310	numpy.ceil	batch_generatorp
+$invo311	numpy.arange	batch_generatorp
+$invo312	Unknown.toarray	batch_generatorp
+$invo313	EarlyStopping	
+$invo314	ModelCheckpoint	
+$invo315	Sequential	create_model
+$invo316	Dense	create_model
+$invo317	Unknown.add	create_model
+$invo318	Activation	create_model
+$invo319	Unknown.add	create_model
+$invo320	PReLU	create_model
+$invo321	Unknown.add	create_model
+$invo322	BatchNormalization	create_model
+$invo323	Unknown.add	create_model
+$invo324	Dropout	create_model
+$invo325	Unknown.add	create_model
+$invo326	Dense	create_model
+$invo327	Unknown.add	create_model
+$invo328	Activation	create_model
+$invo329	Unknown.add	create_model
+$invo330	PReLU	create_model
+$invo331	Unknown.add	create_model
+$invo332	BatchNormalization	create_model
+$invo333	Unknown.add	create_model
+$invo334	Dropout	create_model
+$invo335	Unknown.add	create_model
+$invo336	Dense	create_model
+$invo337	Unknown.add	create_model
+$invo338	Unknown.compile	create_model
+$invo339	create_model	
+$invo340	batch_generator	
+$invo341	csr_matrix.todense	
+$invo342	Unknown.fit_generator	
+$invo343	min	
+$invo344	print	
+$invo345	Unknown.load_weights	
+$invo346	Unknown.compile	
+$invo347	csr_matrix.toarray	
+$invo348	Unknown.predict_proba	
+$invo349	Type[datetime].now	
+$invo350	datetime.strftime	
+$invo351	str	
+$invo352	pandas.DataFrame	
+$invo353	pandas.DataFrame.to_csv	
+$invo354	Sequential	nn_model
+$invo355	Dense	nn_model
+$invo356	Unknown.add	nn_model
+$invo357	Activation	nn_model
+$invo358	Unknown.add	nn_model
+$invo359	PReLU	nn_model
+$invo360	Unknown.add	nn_model
+$invo361	BatchNormalization	nn_model
+$invo362	Unknown.add	nn_model
+$invo363	Dropout	nn_model
+$invo364	Unknown.add	nn_model
+$invo365	Dense	nn_model
+$invo366	Unknown.add	nn_model
+$invo367	Activation	nn_model
+$invo368	Unknown.add	nn_model
+$invo369	PReLU	nn_model
+$invo370	Unknown.add	nn_model
+$invo371	BatchNormalization	nn_model
+$invo372	Unknown.add	nn_model
+$invo373	Dropout	nn_model
+$invo374	Unknown.add	nn_model
+$invo375	Dense	nn_model
+$invo376	Unknown.add	nn_model
+$invo377	Unknown.compile	nn_model
+$invo378	len	nn_blend_data
+$invo379	KFold	nn_blend_data
+$invo380	numpy.zeros	nn_blend_data
+$invo381	numpy.zeros	nn_blend_data
+$invo382	numpy.zeros	nn_blend_data
+$invo383	numpy.zeros	nn_blend_data
+$invo384	time.time	nn_blend_data
+$invo385	enumerate	nn_blend_data
+$invo386	numpy.zeros	nn_blend_data
+$invo387	KFold.split	nn_blend_data
+$invo388	enumerate	nn_blend_data
+$invo389	nn_model	nn_blend_data
+$invo390	batch_generator	nn_blend_data
+$invo391	Unknown.todense	nn_blend_data
+$invo392	ModelCheckpoint	nn_blend_data
+$invo393	Unknown.fit_generator	nn_blend_data
+$invo394	len	nn_blend_data
+$invo395	Unknown.load_weights	nn_blend_data
+$invo396	Unknown.compile	nn_blend_data
+$invo397	Unknown.toarray	nn_blend_data
+$invo398	Unknown.predict_proba	nn_blend_data
+$invo399	log_loss	nn_blend_data
+$invo400	Unknown.load_weights	nn_blend_data
+$invo401	Unknown.compile	nn_blend_data
+$invo402	Unknown.toarray	nn_blend_data
+$invo403	Unknown.predict_proba	nn_blend_data
+$invo404	range	nn_blend_data
+$invo405	list	nn_blend_data
+$invo406	ndarray[Any, dtype[float64]].mean	nn_blend_data
+$invo407	range	nn_blend_data
+$invo408	list	nn_blend_data
+$invo409	ndarray[Any, dtype[float64]].mean	nn_blend_data
+$invo410	range	nn_blend_data
+$invo411	list	nn_blend_data
+$invo412	ndarray[Any, dtype[float64]].mean	nn_blend_data
+$invo413	numpy.stack	nn_blend_data
+$invo414	numpy.mean	nn_blend_data
+$invo415	time.time	nn_blend_data
+$invo416	print	nn_blend_data
+$invo417	numpy.zeros	
+$invo418	numpy.zeros	
+$invo419	print	
+$invo420	range	
+$invo421	nn_blend_data	
+$invo422	numpy.mean	
+$invo423	numpy.savetxt	
+$invo424	numpy.savetxt	
+$invo425	Type[datetime].now	
+$invo426	datetime.strftime	
+$invo427	str	
+$invo428	pandas.DataFrame	
+$invo429	pandas.DataFrame.to_csv	
+$invo430	datetime.strftime	
+$invo431	str	
+$invo432	datetime.strftime	
+$invo433	str	
+$invo434	numpy.mean	
+$invo435	print	
+$invo436	numpy.mean	
+$invo437	print	
+$invo438	numpy.savetxt	
+$invo439	numpy.savetxt	

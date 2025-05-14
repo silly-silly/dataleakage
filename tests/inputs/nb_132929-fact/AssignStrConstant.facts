@@ -1,0 +1,34 @@
+_var0	display.max_columns
+_var2	/Users/Felipe/PycharmProjects/FracasoEscolarChile/DatasetsProcesados/SIMCE/ALU/SIMCE_GEO_2013-2014.csv
+_var4	|
+_var5	.
+_var58	Imputando : 25%...
+_var60	Imputando : 50%...
+_var62	Imputando : 100%...
+_var63	Vectorizando : 0%...
+_var71	Vectorizando : 50%...
+_var79	Vectorizando : 100%
+_var82	inner
+_var83	DESERTA_ALU
+_var91	log
+_var92	l2
+_var94	auto
+_var95	hinge
+_var96	l2
+_var98	auto
+_var99	perceptron
+_var100	l2
+_var102	auto
+_var103	modified_huber
+_var104	l2
+_var106	auto
+_var107	squared_hinge
+_var108	l2
+_var110	auto
+_var111	huber
+_var112	l2
+_var114	auto
+_var116	Modelo : 
+_var120	\n
+_var121	Modelo : Naive-Bayes
+_var123	\n

@@ -1,0 +1,12 @@
+X_train_norm	normal_data	_var3
+X_train_sw	data_stop_words_removed	_var4
+X_train_pos	data_pos_tags	_var5
+X_train_norm_0	X_train_norm	_var9
+X_train_sw_0	X_train_sw	_var13
+X_train_pos_0	X_train_pos	_var17
+y_norm	X_train_norm_0	_var18
+_var20	X_train_norm_0	_var19
+y_sw	X_train_sw_0	_var21
+_var23	X_train_sw_0	_var22
+y_pos	X_train_pos_0	_var24
+_var26	X_train_pos_0	_var25

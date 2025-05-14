@@ -1,0 +1,3 @@
+clf_default_0	X_train	$invo124	KNeighborsClassifier.fit	[, ]	clf_1	features	$invo87	Unknown.predict	[, $invo126]	X_all_1	X_all_0
+clf_0	X_train_0	$invo83	Unknown.fit	[$invo101, $invo90]	clf_1	features	$invo87	Unknown.predict	[$invo101, $invo92]	X_all_1	X_all_0
+grid_obj_0	X_train	$invo115	GridSearchCV.fit	[, ]	clf_1	features	$invo87	Unknown.predict	[, $invo118]	X_all_1	X_all_0

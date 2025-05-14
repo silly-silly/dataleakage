@@ -1,0 +1,17 @@
+sparse	$invo26	_var55
+dtype	$invo31	str
+axis	$invo38	_var81
+axis	$invo76	_var156
+axis	$invo81	_var159
+axis	$invo82	_var160
+p	$invo86	drop_prob
+map_location	$invo120	_var214
+batch_size	$invo127	_var227
+shuffle	$invo127	_var228
+batch_size	$invo128	_var229
+shuffle	$invo128	_var230
+lr	$invo166	lr
+weight_decay	$invo166	weight_decay
+betas	$invo166	beta
+epoch_2	$invo168	_var276
+shuffle	$invo172	_var280

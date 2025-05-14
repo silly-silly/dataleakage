@@ -1,0 +1,12 @@
+vectorizer	[, ]	text	[, ]	$invo10	CountVectorizer.fit	rowset
+vectorizer_0	[, ]	text	[, ]	$invo10	CountVectorizer.fit	rowset
+vectorizer_0	[, ]	_var32	[, ]	$invo25	CountVectorizer.fit	rowset
+vectorizer_1	[, ]	_var33	[, ]	$invo26	CountVectorizer.fit_transform	rowset
+x_0	[, ]	_var33	[, ]	$invo26	CountVectorizer.fit_transform	rowset
+vectorizer_2	[, ]	_var301	[, ]	$invo180	CountVectorizer.fit_transform	rowset
+x_5	[, ]	_var301	[, ]	$invo180	CountVectorizer.fit_transform	rowset
+rotten_vectorizer	[, ]	_var32	[, ]	$invo25	CountVectorizer.fit	rowset
+_var213	[, ]	_var212	[, ]	$invo128	numpy.percentile	rowset
+_var217	[, ]	_var216	[, ]	$invo130	numpy.percentile	rowset
+_var226	[, ]	_var224	[, ]	$invo134	numpy.percentile	rowset
+_var247	[, ]	_var244	[, ]	$invo145	numpy.percentile	rowset

@@ -1,0 +1,11 @@
+$invo0	setattr	set_field_wrapper
+$invo1	setattr	set_index_wrapper
+$invo2	pandas.read_csv	
+$invo3	len	
+$invo4	pandas.DataFrame.drop	
+$invo5	train_test_split	
+$invo6	numpy.mean	
+$invo7	Unknown.fillna	
+$invo8	LogisticRegression	
+$invo9	LogisticRegression.fit	
+$invo10	LogisticRegression.predict	

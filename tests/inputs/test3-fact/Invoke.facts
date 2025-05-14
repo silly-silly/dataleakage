@@ -1,0 +1,10 @@
+$invo0	setattr	set_field_wrapper
+$invo1	setattr	set_index_wrapper
+$invo2	pandas.read_csv	
+$invo3	len	
+$invo4	pandas.DataFrame.drop	
+$invo5	sklearn.preprocessing.scale	
+$invo6	train_test_split	
+$invo7	LogisticRegression	
+$invo8	LogisticRegression.fit	
+$invo9	LogisticRegression.predict	

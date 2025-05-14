@@ -1,0 +1,34 @@
+$invo0	setattr	set_field_wrapper
+$invo1	setattr	set_index_wrapper
+$invo2	pandas.read_csv	
+$invo3	pandas.read_csv	
+$invo4	pandas.DataFrame.head	
+$invo5	pandas.DataFrame.head	
+$invo6	pandas.concat	
+$invo7	pandas.DataFrame.head	
+$invo8	len	
+$invo9	len	
+$invo10	len	
+$invo11	print	
+$invo12	pandas.DataFrame.isnull	
+$invo13	pandas.DataFrame.sum	
+$invo14	Unknown.replace	
+$invo15	Unknown.fillna	
+$invo16	Unknown.map	
+$invo17	Unknown.astype	
+$invo18	numpy.mean	
+$invo19	Unknown.fillna	
+$invo20	Unknown.mean	
+$invo21	Unknown.std	
+$invo22	numpy.random.randint	
+$invo23	Unknown.fillna	
+$invo24	pandas.DataFrame.drop	
+$invo25	len	
+$invo26	len	
+$invo27	Unknown.drop	
+$invo28	Unknown.drop	
+$invo29	Unknown.head	
+$invo30	Unknown.head	
+$invo31	LogisticRegression	
+$invo32	LogisticRegression.fit	
+$invo33	LogisticRegression.predict	

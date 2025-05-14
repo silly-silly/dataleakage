@@ -1,0 +1,2 @@
+ridge_2	X_train_2	$invo233	RidgeCV.fit	[, ]	ridge_2	X_train_2	$invo242	RidgeCV.score	[, ]
+asdf_1	X_train_2	$invo249	Pipeline.fit	[, ]	asdf_1	X_train_2	$invo250	Pipeline.score	[, ]

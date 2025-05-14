@@ -1,0 +1,16 @@
+1	__phi__	phi_0
+2	__phi__	phi_1
+1	set_field_wrapper	base
+2	set_field_wrapper	attr
+3	set_field_wrapper	value
+1	set_index_wrapper	base
+2	set_index_wrapper	attr
+3	set_index_wrapper	value
+1	global_wrapper	x
+1	_func0	x
+1	train_predict	learner
+2	train_predict	sample_size
+3	train_predict	X_train_0
+4	train_predict	y_train_0
+5	train_predict	X_test_0
+6	train_predict	y_test_0

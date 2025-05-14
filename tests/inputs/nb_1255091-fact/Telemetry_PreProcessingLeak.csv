@@ -1,0 +1,8 @@
+decision_tree_0	x_train	$invo167	DecisionTreeClassifier.fit	[, ]	decision_tree_0	x_test	$invo168	DecisionTreeClassifier.predict	[, ]	_var474	_var472
+decision_tree_0	x_train	$invo167	DecisionTreeClassifier.fit	[, ]	decision_tree_0	x_test	$invo168	DecisionTreeClassifier.predict	[, ]	_var535	_var533
+knn_0	x_train	$invo172	KNeighborsClassifier.fit	[, ]	knn_0	x_test	$invo173	Unknown.predict	[, ]	_var474	_var472
+knn_0	x_train	$invo172	KNeighborsClassifier.fit	[, ]	knn_0	x_test	$invo173	Unknown.predict	[, ]	_var535	_var533
+RF_fit	x_train	$invo177	RandomForestClassifier.fit	[, ]	RF_fit	x_test	$invo178	BaseForest.predict	[, ]	_var474	_var472
+RF_fit	x_train	$invo177	RandomForestClassifier.fit	[, ]	RF_fit	x_test	$invo178	BaseForest.predict	[, ]	_var535	_var533
+clf	X_train_transformed	$invo190	BaseForest.fit	[, ]	clf	X_test_transformed	$invo192	BaseForest.score	[, ]	_var474	_var472
+clf	X_train_transformed	$invo190	BaseForest.fit	[, ]	clf	X_test_transformed	$invo192	BaseForest.score	[, ]	_var535	_var533

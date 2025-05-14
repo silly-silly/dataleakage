@@ -1,0 +1,8 @@
+lr_0	X_train_std	$invo22	LogisticRegression.fit	[, ]	lr_0	X_train_std	$invo23	LogisticRegression.score	[, ]
+lr_0	X_train_std	$invo22	LogisticRegression.fit	[, ]	lr_0	X_test_std	$invo24	LogisticRegression.score	[, ]
+_var122_0	x_train_0	$invo58	Unknown.fit	[$invo78, $invo50]	_var123	x_test_0	$invo59	Unknown.predict	[$invo78, $invo50]
+_var122_0	x_train_0	$invo58	Unknown.fit	[$invo78, $invo50]	_var123	x_test_0	$invo59	Unknown.predict	[$invo78, $invo52]
+_var122_0	x_train_0	$invo58	Unknown.fit	[$invo78, $invo52]	_var123	x_test_0	$invo59	Unknown.predict	[$invo78, $invo52]
+_var154_0	x_train_1	$invo73	Unknown.fit	[$invo78, $invo65]	_var155	x_test_1	$invo74	Unknown.predict	[$invo78, $invo65]
+_var154_0	x_train_1	$invo73	Unknown.fit	[$invo78, $invo65]	_var155	x_test_1	$invo74	Unknown.predict	[$invo78, $invo67]
+_var154_0	x_train_1	$invo73	Unknown.fit	[$invo78, $invo67]	_var155	x_test_1	$invo74	Unknown.predict	[$invo78, $invo67]

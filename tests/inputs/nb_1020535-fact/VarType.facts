@@ -1,0 +1,152 @@
+phi_0	Unknown
+phi_1	Unknown
+base	Unknown
+attr	Unknown
+value	Unknown
+setattr	(__obj: object, __name: str, __value: Any) -> None
+x	Unknown
+_var0	str
+_var1	str
+_var2	None
+_var3	list[str]
+df	pandas.DataFrame
+sep	str | Literal[_NoDefault.no_default] | None
+header	int | Sequence[int] | Literal['infer'] | None
+names	Sequence[Hashable] | Literal[_NoDefault.no_default] | None
+_var4	str
+_var5	Any
+_var6	dict[str, int]
+_var7	Any
+df_0	pandas.DataFrame
+set_index_wrapper	(base: Unknown, attr: Unknown, value: Unknown) -> Unknown
+_var8	tuple[int, int]
+print	(*values: object, sep: str | None = ..., end: str | None = ..., file: SupportsWrite[str] | None = ..., flush: bool = ...) -> None
+documents	list[str]
+lower_case_documents	list[Unknown]
+i	str
+_var9	str
+sans_punctuation_documents	list[Unknown]
+i_0	Unknown
+_var10	str
+_var11	str
+_var12	str
+_var13	dict[int, int | None]
+_var14	Unknown
+preprocessed_documents	list[Unknown]
+i_1	Unknown
+_var15	str
+_var16	Unknown
+frequency_list	list[Unknown]
+i_2	Unknown
+frequency_counts	Counter[Unknown]
+Counter	Type[Counter[_T@Counter]]
+documents_0	list[str]
+count_vector	CountVectorizer
+CountVectorizer	Type[CountVectorizer]
+count_vector_0	CountVectorizer
+_var17	csr_matrix
+doc_array	Unknown | NDArray[float64]
+_var18	Unknown
+frequency_matrix	pandas.DataFrame
+columns	Axes | None
+_var23	str
+_var24	Unknown
+_var25	str
+_var26	Unknown
+_var27	int
+_var19	Unknown
+_var20	Unknown
+_var21	Unknown
+_var22	Unknown
+train_test_split	Unknown
+X_train	Unknown
+X_test	Unknown
+y_train	Unknown
+y_test	Unknown
+_var28	str
+_var29	tuple[int, int]
+_var30	int
+_var31	int
+_var32	str
+_var33	str
+_var34	Unknown
+_var35	int
+_var36	Unknown
+_var37	str
+_var38	str
+_var39	Unknown
+_var40	int
+_var41	Unknown
+_var42	str
+count_vector_1	CountVectorizer
+training_data	Unknown | csr_matrix
+testing_data	csr_matrix
+p_diabetes	float
+p_no_diabetes	float
+p_pos_diabetes	float
+p_neg_no_diabetes	float
+_var43	float
+_var44	int
+_var45	float
+_var46	float
+p_pos	float
+_var47	str
+_var48	str
+format	(__value: object, __format_spec: str = ...) -> str
+_var49	tuple[str, str]
+_var50	float
+p_diabetes_pos	float
+_var51	str
+_var52	str
+_var53	tuple[str, str]
+p_pos_no_diabetes	float
+_var54	float
+p_no_diabetes_pos	float
+_var55	str
+_var56	tuple[str, float]
+p_j	float
+p_j_f	float
+p_j_i	float
+_var57	float
+p_j_text	float
+p_g	float
+p_g_f	float
+p_g_i	float
+_var58	float
+p_g_text	float
+p_f_i	float
+_var59	str
+_var60	str
+_var61	tuple[str, str]
+p_j_fi	float
+_var62	str
+_var63	str
+_var64	tuple[str, str]
+p_g_fi	float
+_var65	str
+_var66	str
+_var67	tuple[str, str]
+naive_bayes	MultinomialNB
+MultinomialNB	Type[MultinomialNB]
+naive_bayes_0	MultinomialNB
+predictions	Unknown
+_var68	str
+_var69	floating[Any] | Any | Unknown
+accuracy_score	(y_true: Unknown, y_pred: Unknown, *, normalize: Unknown = True, sample_weight: Unknown = None) -> (floating[Any] | Any | Unknown)
+_var70	str
+_var71	tuple[str, str]
+_var72	str
+_var73	Unknown
+precision_score	(y_true: Unknown, y_pred: Unknown, *, labels: Unknown = None, pos_label: Unknown = 1, average: Unknown = "binary", sample_weight: Unknown = None, zero_division: Unknown = "warn") -> Unknown
+_var74	str
+_var75	tuple[str, str]
+_var76	str
+_var77	Unknown
+recall_score	(y_true: Unknown, y_pred: Unknown, *, labels: Unknown = None, pos_label: Unknown = 1, average: Unknown = "binary", sample_weight: Unknown = None, zero_division: Unknown = "warn") -> Unknown
+_var78	str
+_var79	tuple[str, str]
+_var80	str
+_var81	Unknown
+f1_score	(y_true: Unknown, y_pred: Unknown, *, labels: Unknown = None, pos_label: Unknown = 1, average: Unknown = "binary", sample_weight: Unknown = None, zero_division: Unknown = "warn") -> Unknown
+_var82	str
+_var83	tuple[str, str]

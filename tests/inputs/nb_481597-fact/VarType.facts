@@ -1,0 +1,403 @@
+phi_0	Unknown
+phi_1	Unknown
+base	Unknown
+attr	Unknown
+value	Unknown
+setattr	(__obj: object, __name: str, __value: Any) -> None
+x	Unknown
+_var0	Unknown
+get_ipython	Unknown
+_var1	str
+_var2	str
+url	str
+_var3	Any
+urlopen	(url: str | Request, data: bytes | None = ..., timeout: float | None = ..., *, cafile: str | None = ..., capath: str | None = ..., cadefault: bool = ..., context: SSLContext | None = ...) -> Any
+df	pandas.DataFrame
+_var4	str
+_var5	tuple[int, int]
+_var6	str
+print	(*values: object, sep: str | None = ..., end: str | None = ..., file: SupportsWrite[str] | None = ..., flush: bool = ...) -> None
+_var7	int
+_var8	int
+_var9	int
+_var10	tuple[int, int]
+fig	Unknown
+plt	Unknown
+_var11	int
+_var12	int
+_var13	int
+ax1	Unknown
+_var14	int
+_var15	int
+_var16	int
+ax2	Unknown
+_var17	str
+_var18	Unknown
+_var19	Unknown
+_var20	int
+_var21	str
+_var22	str
+_var23	list[int]
+_var24	str
+_var25	Unknown
+_var26	Unknown
+_var27	str
+_var28	str
+_var29	Unknown
+_var30	list[Unknown]
+_var31	str
+_var32	int
+_var33	int
+_var34	tuple[int, int]
+_var35	float
+_var36	int
+_var37	tuple[float, int]
+_var38	str
+_var39	Any
+_var40	Timestamp
+_var41	pandas.DataFrame
+_var42	Index
+_var43	Unknown
+df_0	pandas.DataFrame
+set_index_wrapper	(base: Unknown, attr: Unknown, value: Unknown) -> Unknown
+_var44	str
+_var45	Any
+_var46	Timestamp
+_var47	pandas.DataFrame
+_var48	Index
+_var49	Unknown
+df_1	pandas.DataFrame
+_var50	str
+_var51	str
+_var52	str
+_var53	pandas.DataFrame
+index	str
+values	str
+aggfunc	AggFuncType
+_var54	int
+Table1	pandas.DataFrame
+_var55	pandas.DataFrame
+global_wrapper	(x: Unknown) -> Unknown
+p	Unknown
+_var56	str
+_var57	str
+_var58	str
+plot_pickup	() -> None
+_var59	pandas.DataFrame
+_var60	pandas.DataFrame
+_var61	Any
+_var62	int
+_var63	Any
+_var64	Unknown
+_var65	Unknown
+_var66	int
+jfk	Unknown
+_var67	pandas.DataFrame
+_var68	pandas.DataFrame
+_var69	Any
+_var70	int
+_var71	Any
+_var72	Unknown
+_var73	Unknown
+_var74	int
+newark	Unknown
+_var75	pandas.DataFrame
+_var76	Any
+_var77	pandas.DataFrame
+_var78	Any
+_var79	list[Any]
+_var80	Any
+avgf	Any
+_var81	pandas.DataFrame
+_var82	Any
+_var83	pandas.DataFrame
+_var84	Any
+_var85	list[Any]
+_var86	Any
+avgt	Any
+_var87	tuple[Unknown, Unknown]
+_var88	int
+_var89	Any
+_var90	int
+_var91	Any
+_var92	tuple[Any, Any]
+_var93	int
+_var94	NDArray[float16]
+_var95	int
+_var96	Any
+_var97	int
+_var98	Any
+_var99	tuple[Any, Any]
+_var100	int
+_var101	NDArray[float16]
+_var102	int
+_var103	int
+_var104	tuple[int, int]
+_var105	dict[str, Unknown]
+_var106	list[str]
+airports	pandas.DataFrame
+_var107	list[str]
+_var108	Unknown
+_var109	Unknown
+twoAirports	() -> None
+data	Unknown
+_var110	Unknown
+_var111	int
+_var112	Unknown
+data_0	Unknown
+_var113	list[str]
+_var114	int
+data_1	Unknown
+_var115	str
+_var116	bool
+_var117	Unknown
+_var118	str
+_var119	Unknown
+_var120	Unknown
+int	Type[int]
+data_2	Unknown
+set_field_wrapper	(base: Unknown, attr: Unknown, value: Unknown) -> Unknown
+_var121	str
+_var122	str
+_var123	Unknown
+_var124	str
+_var125	Unknown
+data_3	Unknown
+fields	list[str]
+field	str
+_var126	Unknown
+_var127	Unknown
+data_4	Unknown
+data_5	Unknown
+__phi__	(phi_0: Unknown, phi_1: Unknown) -> Unknown
+_var128	str
+_var129	Unknown
+_var130	Unknown
+_var131	Unknown
+data_6	Unknown
+_var132	Unknown
+_var133	Unknown
+_var134	Unknown
+_var135	Unknown
+data_7	Unknown
+_var136	str
+_var137	int
+_var138	bool
+data_8	Unknown
+preproc	(data: Unknown) -> Unknown
+_var139	int
+_var140	int
+_var141	tuple[int, int]
+_var142	Unknown
+_var143	float
+dsmall	Unknown
+corr	Unknown
+_var144	float
+_var145	Unknown
+_var146	float
+_var147	Unknown
+_var148	Unknown
+df_2	Unknown
+_var149	str
+sns	Unknown
+_var150	Unknown
+_var151	Unknown
+dtype	None
+_var152	bool
+_var153	int
+_var154	int
+_var155	bool
+_var156	Unknown
+pairs	set[Unknown]
+tmp	Unknown
+find_corr_features	() -> Unknown
+corr_0	Unknown
+data_9	Unknown
+d	Unknown
+redundant_columns	list[Unknown]
+pairs_0	list[Unknown]
+k1	Unknown
+_var157	Unknown
+k2	Unknown
+_var158	Unknown
+_var159	Unknown
+_var160	bool
+isnan	(__x: _SupportsFloatOrIndex) -> bool
+_var161	bool
+_var162	tuple[Unknown, Unknown]
+_var163	bool
+_var164	tuple[Unknown, Unknown]
+_var165	bool
+_var166	bool
+_var167	tuple[Unknown, Unknown]
+_var168	str
+_var169	str
+_var170	str
+_var171	Unknown
+_var172	Unknown
+_var173	Unknown
+_var174	tuple[Unknown, str, Unknown, str, Unknown]
+_var175	int
+_var176	bool
+data_10	Unknown
+redundant_features	(corr_0: Unknown, data_9: Unknown) -> Unknown
+data_11	Unknown
+target	str
+features	list[Unknown]
+i	Unknown
+_var181	Unknown
+_var182	Unknown
+_var183	float
+_var184	int
+_var177	Unknown
+_var178	Unknown
+_var179	Unknown
+_var180	Unknown
+train_test_split	(*arrays: Unknown, test_size: Unknown = None, train_size: Unknown = None, random_state: Unknown = None, shuffle: Unknown = True, stratify: Unknown = None) -> list[Unknown | NDArray[_SCT@array] | list[Unknown]]
+test_size	float
+random_state	int
+X_train	Unknown
+X_test	Unknown
+y_train	Unknown
+y_test	Unknown
+_var185	int
+_var186	int
+rf	RandomForestRegressor
+RandomForestRegressor	Type[RandomForestRegressor]
+n_estimators	int
+n_jobs	int | None
+rf_0	Self@BaseForest
+y_pred	Unknown
+_var187	Unknown
+mae	Any | floating[Any]
+mean_absolute_error	(y_true: Unknown, y_pred: Unknown, *, sample_weight: Unknown = None, multioutput: Unknown = "uniform_average") -> (Any | floating[Any])
+_var188	float | Any | Unknown | NDArray[float64] | floating[Any]
+r2_score	(y_true: Unknown, y_pred: Unknown, *, sample_weight: Unknown = None, multioutput: Unknown = "uniform_average", force_finite: Unknown = True) -> (float | Any | Unknown | NDArray[float64] | floating[Any])
+_var189	str
+rsqr	str
+format	(__value: object, __format_spec: str = ...) -> str
+_var190	str
+_var191	str
+_var192	tuple[str, Any | floating[Any], str, str]
+_var193	Unknown
+_var194	Unknown
+_var195	Unknown
+_var196	Self@BaseForest
+rfm	(data_11: Unknown) -> tuple[Unknown, Unknown, Unknown, Self@BaseForest]
+y_pred_0	Unknown
+y_test_0	Unknown
+X_test_0	Unknown
+rf_1	Self@BaseForest
+_var197	int
+_var198	int
+_var199	tuple[int, int]
+fig_0	Unknown
+_var200	int
+_var201	int
+_var202	int
+ax1_0	Unknown
+_var203	int
+_var204	int
+_var205	int
+ax2_0	Unknown
+_var206	Unknown
+_var207	Unknown
+_var208	str
+_var209	str
+_var210	Unknown
+_var211	Unknown
+_var212	Self@BaseForest
+_var213	NDArray[_SCT@zeros] | Any
+_var214	zip[tuple[Unknown, Any]]
+zip	Type[zip[_T_co@zip]]
+_var215	int
+_var216	Unknown
+_var217	bool
+importance_data	list[tuple[Unknown, Any]]
+sorted	Overload[(__iterable: Iterable[SupportsLessThanT@sorted], *, key: None = ..., reverse: bool = ...) -> list[SupportsLessThanT@sorted], (__iterable: Iterable[_T@sorted], *, key: (_T@sorted) -> SupportsLessThan, reverse: bool = ...) -> list[_T@sorted]]
+key	(tuple[Unknown, Any]) -> SupportsLessThan
+_func0	(x: Unknown) -> Unknown
+reverse	bool
+_var220	zip[tuple[Unknown | Any]]
+_var218	tuple[Unknown | Any]
+_var219	tuple[Unknown | Any]
+xlab	tuple[Unknown | Any]
+ylab	tuple[Unknown | Any]
+_var221	Unknown
+_var222	Unknown
+_var223	int
+len	(__obj: Sized) -> int
+_var224	range
+range	Type[range]
+xloc	list[int]
+_var225	str
+plot_rf	() -> None
+dat	Unknown
+_var226	Unknown
+end	Timestamp
+_var227	Unknown
+begin	Timestamp
+_var228	Timedelta
+_var229	str
+duration	Unknown
+_var230	Unknown
+_var231	Unknown
+_var232	int
+speed	Unknown
+_var233	Unknown
+_var234	Timestamp
+_var235	Unknown
+_var236	Unknown
+week	Unknown
+_var237	Unknown
+_var238	Unknown
+get_speed_week	(dat: Unknown) -> tuple[Unknown, Unknown]
+_var239	str
+data_12	Unknown
+_var240	str
+data_13	Unknown
+_var241	list[str]
+_var242	Unknown
+_var243	float
+_var244	float
+_var245	float
+_var246	list[float]
+_var247	float
+df1	Unknown
+_var248	bool
+_var249	Unknown
+_var250	int
+_var251	Unknown
+_var252	Unknown
+_var253	str
+_var254	str
+_var255	Unknown
+_var256	str
+_var257	Unknown
+df1_0	Unknown
+_var258	str
+_var259	Unknown
+ols	Unknown
+mod	Unknown
+_var259_0	Unknown
+_var260	Unknown
+sm	Unknown
+_var261	int
+aov_table	Unknown
+_var262	str
+_var263	str
+_var264	Unknown
+_var265	str
+_var266	str
+_var267	str
+_var268	Unknown
+_var269	str
+_var270	Unknown
+df1_1	Unknown
+_var271	str
+_var272	Unknown
+mod_0	Unknown
+_var272_0	Unknown
+_var273	Unknown
+_var274	int
+aov_table_0	Unknown

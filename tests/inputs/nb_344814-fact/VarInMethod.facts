@@ -1,0 +1,404 @@
+phi_0	__phi__
+phi_1	__phi__
+base	set_field_wrapper
+attr	set_field_wrapper
+value	set_field_wrapper
+base	set_index_wrapper
+attr	set_index_wrapper
+value	set_index_wrapper
+x	global_wrapper
+_var0	
+_var1	
+_var2	
+_var3	
+San_Fran	
+_var4	
+Atlanta	
+_var5	
+Austin	
+_var6	
+Boston	
+_var7	
+Chicago	
+_var8	
+New_York	
+_var9	
+Seattle	
+_var10	
+Denver	
+_var11	
+Houston	
+_var12	
+Los_Angeles	
+_var13	
+Portland	
+_var14	
+Raleigh	
+_var15	
+Salt_Lake_City	
+_var16	
+Washington_DC	
+_var17	
+city_data	
+_var18	
+df	
+_var19	
+df_0	
+_var20	
+_var21	
+df_1	
+_var22	
+_var23	
+df_2	
+_var24	
+_var25	
+df_3	
+_var26	
+_var27	
+df_4	
+_var28	
+_var29	
+df_5	
+_var30	
+_var31	
+df_6	
+_var32	
+_var33	
+df_7	
+_var34	
+_var35	
+_var36	
+_var37	
+df_8	
+_var38	
+_var39	
+_var40	
+_var41	
+_var42	
+_var43	
+_var44	
+_var45	
+df_9	
+dict_unit	
+_var46	
+_var47	
+_var48	
+x	_func0
+_var49	_func0
+_var50	_func0
+_var51	
+df_10	
+_var52	
+_var53	
+_var54	
+_var55	
+_var56	
+_var57	
+df_11	
+_var58	
+_var59	
+df_12	
+_var60	
+_var61	
+df_13	
+_var62	
+_var63	
+df_14	
+words	title_category
+_var64	title_category
+_var65	title_category
+_var66	title_category
+_var67	title_category
+_var68	title_category
+_var69	title_category
+_var70	title_category
+_var71	title_category
+_var72	title_category
+_var73	title_category
+_var74	title_category
+_var75	title_category
+_var76	title_category
+_var77	title_category
+_var78	title_category
+_var79	title_category
+_var80	title_category
+_var81	title_category
+_var82	title_category
+_var83	title_category
+_var84	title_category
+_var85	title_category
+_var86	title_category
+_var87	title_category
+_var88	title_category
+_var89	title_category
+_var90	title_category
+_var91	title_category
+_var92	title_category
+_var93	title_category
+_var94	title_category
+_var95	title_category
+_var96	title_category
+_var97	title_category
+_var98	title_category
+_var99	title_category
+_var100	title_category
+_var101	title_category
+_var102	title_category
+_var103	title_category
+_var104	title_category
+_var105	title_category
+_var106	title_category
+_var107	title_category
+_var108	title_category
+_var109	title_category
+_var110	title_category
+_var111	title_category
+_var112	title_category
+_var113	title_category
+_var114	title_category
+_var115	title_category
+_var116	title_category
+_var117	title_category
+_var118	title_category
+_var119	title_category
+_var120	title_category
+_var121	title_category
+_var122	title_category
+_var123	title_category
+_var124	title_category
+_var125	title_category
+_var126	title_category
+_var127	title_category
+_var128	title_category
+_var129	title_category
+_var130	title_category
+_var131	title_category
+_var132	title_category
+_var133	title_category
+_var134	title_category
+_var135	title_category
+_var136	title_category
+_var137	title_category
+_var138	title_category
+_var139	title_category
+_var140	title_category
+_var141	title_category
+_var142	title_category
+_var143	title_category
+_var144	title_category
+_var145	title_category
+_var146	title_category
+_var147	title_category
+_var148	title_category
+_var149	title_category
+_var150	title_category
+_var151	title_category
+_var152	title_category
+_var153	title_category
+_var154	title_category
+_var155	title_category
+_var156	title_category
+_var157	title_category
+_var158	title_category
+_var159	title_category
+_var160	title_category
+_var161	title_category
+_var162	title_category
+_var163	title_category
+_var164	title_category
+_var165	title_category
+_var166	title_category
+_var167	title_category
+_var168	title_category
+_var169	title_category
+_var170	title_category
+_var171	title_category
+_var172	title_category
+_var173	title_category
+_var174	title_category
+_var175	title_category
+_var176	title_category
+_var177	title_category
+_var178	title_category
+_var179	title_category
+_var180	title_category
+_var181	title_category
+_var182	title_category
+_var183	title_category
+_var184	title_category
+_var185	title_category
+_var186	title_category
+_var187	title_category
+_var188	title_category
+_var189	title_category
+_var190	title_category
+_var191	title_category
+_var192	title_category
+_var193	title_category
+_var194	title_category
+_var195	title_category
+_var196	title_category
+_var197	title_category
+_var198	title_category
+_var199	title_category
+_var200	title_category
+_var201	title_category
+_var202	title_category
+_var203	title_category
+_var204	title_category
+_var205	title_category
+_var206	title_category
+_var207	title_category
+_var208	title_category
+_var209	title_category
+_var210	title_category
+_var211	title_category
+_var212	title_category
+_var213	title_category
+_var214	title_category
+_var215	title_category
+_var216	title_category
+_var217	title_category
+_var218	title_category
+_var219	title_category
+_var220	title_category
+_var221	title_category
+_var222	title_category
+_var223	title_category
+_var224	title_category
+_var225	title_category
+_var226	title_category
+_var227	title_category
+_var228	title_category
+_var229	title_category
+_var230	title_category
+_var231	title_category
+_var232	title_category
+_var233	title_category
+_var234	title_category
+_var235	title_category
+_var236	title_category
+_var237	title_category
+_var238	title_category
+_var239	title_category
+_var240	title_category
+_var241	title_category
+_var242	title_category
+_var243	
+_var244	
+_var245	
+_var246	
+df_15	
+_var247	
+_var248	
+wdf	
+_var249	
+_var250	
+_var251	
+_var252	
+_var253	
+x_0	_func1
+_var254	_func1
+_var255	_func1
+_var256	_func1
+_var257	_func1
+_var258	_func1
+_var259	_func1
+_var260	_func1
+_var261	_func1
+_var262	
+wdf_0	
+_var263	
+X	
+_var264	
+_var265	
+y	
+_var266	
+_var271	
+_var272	
+_var267	
+_var268	
+_var269	
+_var270	
+X_train	
+X_test	
+Y_train	
+Y_test	
+_var273	
+lr	
+lr_model	
+lr_0	
+y_pred	
+y_score	
+_var274	
+_var275	
+conmat	
+_var276	
+_var277	
+confusion	
+_var278	
+FPR	
+TPR	
+ROC_AUC	
+_var279	
+_var280	
+_var281	
+_var282	
+FPR_0	
+_var283	
+TPR_0	
+_	
+_var284	
+_var285	
+_var286	
+_var287	
+_var288	
+_var289	
+ROC_AUC_0	
+_var290	
+_var291	
+_var292	
+_var293	
+_var294	
+_var295	
+_var296	
+_var297	
+_var298	
+_var299	
+_var300	
+_var301	
+_var302	
+_var303	
+_var304	
+_var305	
+_var306	
+_var307	
+_var308	
+_var309	
+_var310	
+_var311	
+_var312	
+C_vals	
+penalties	
+_var313	
+_var314	
+_var315	
+gs	
+gs_0	
+_var316	
+_var317	
+_var318	
+_var319	
+_var320	
+_var321	
+logreg	
+cv_model	
+logreg_0	
+cv_pred	
+_var322	
+cm	
+_var323	
+_var324	
+cm_0	
+_var325	
+_var326	

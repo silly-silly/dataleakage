@@ -1,0 +1,78 @@
+$invo0	setattr	set_field_wrapper
+$invo1	setattr	set_index_wrapper
+$invo2	Unknown.words	
+$invo3	TextBlob	splitIntoTokens
+$invo4	Unknown.lower	splitIntoLemmas
+$invo5	TextBlob	splitIntoLemmas
+$invo6	re.compile	hasUrl
+$invo7	Pattern[str].search	hasUrl
+$invo8	BeautifulSoup	splitIntoWords
+$invo9	BeautifulSoup.get_text	splitIntoWords
+$invo10	re.sub	splitIntoWords
+$invo11	str.lower	splitIntoWords
+$invo12	str.split	splitIntoWords
+$invo13	set	splitIntoWords
+$invo14	str.join	splitIntoWords
+$invo15	splitIntoLemmas	splitIntoWords
+$invo16	str.join	splitIntoWords
+$invo17	dict	searchBestModelParameters
+$invo18	MultinomialNB	searchBestModelParameters
+$invo19	range	searchBestModelParameters
+$invo20	RandomizedSearchCV	searchBestModelParameters
+$invo21	RandomizedSearchCV.fit	searchBestModelParameters
+$invo22	round	searchBestModelParameters
+$invo23	list[Unknown].append	searchBestModelParameters
+$invo24	max	searchBestModelParameters
+$invo25	print	searchBestModelParameters
+$invo26	max	searchBestModelParameters
+$invo27	MultinomialNB	predictAndReport
+$invo28	MultinomialNB.fit	predictAndReport
+$invo29	MultinomialNB.predict	predictAndReport
+$invo30	pandas.DataFrame	predictAndReport
+$invo31	pandas.concat	predictAndReport
+$invo32	pandas.crosstab	predictAndReport
+$invo33	print	predictAndReport
+$invo34	numpy.sum	predictAndReport
+$invo35	numpy.sum	predictAndReport
+$invo36	print	predictAndReport
+$invo37	numpy.sum	predictAndReport
+$invo38	len	predictAndReport
+$invo39	float	predictAndReport
+$invo40	float	predictAndReport
+$invo41	print	predictAndReport
+$invo42	numpy.sum	predictAndReport
+$invo43	numpy.sum	predictAndReport
+$invo44	float	predictAndReport
+$invo45	print	predictAndReport
+$invo46	read_mongo	
+$invo47	list	
+$invo48	pandas.DataFrame	
+$invo49	Unknown.astype	
+$invo50	pandas.DataFrame.drop	
+$invo51	read_mongo	
+$invo52	list	
+$invo53	pandas.DataFrame	
+$invo54	Any.fillna	
+$invo55	pandas.DataFrame.rename	
+$invo56	pandas.read_csv	
+$invo57	pandas.DataFrame.rename	
+$invo58	pandas.DataFrame.merge	
+$invo59	pandas.DataFrame.merge	
+$invo60	Unknown.isin	
+$invo61	numpy.where	
+$invo62	pandas.DataFrame.drop	
+$invo63	Unknown.fillna	
+$invo64	Unknown.apply	
+$invo65	len	_func2
+$invo66	Unknown.map	
+$invo67	CountVectorizer	
+$invo68	CountVectorizer.fit	
+$invo69	CountVectorizer.transform	
+$invo70	TfidfTransformer	
+$invo71	TfidfTransformer.fit	
+$invo72	TfidfTransformer.transform	
+$invo73	tuple[Unknown, Unbound | Any | float | generic | bool | int | complex | str | bytes | memoryview | ndarray[Unknown, Unknown] | None] | Unknown | Any | _NotImplementedType | NDArray[floating[Any]] | NDArray[bool_] | csr_matrix | str | tuple[Unknown | str, str] | NDArray[_ScalarType@astype] | NDArray[_SCT@array] | tuple[Unknown, Unknown | NDArray[_ScalarType@astype] | Any | NDArray[_SCT@array]].toarray	
+$invo74	pandas.DataFrame	
+$invo75	Unknown.astype	
+$invo76	train_test_split	
+$invo77	predictAndReport	

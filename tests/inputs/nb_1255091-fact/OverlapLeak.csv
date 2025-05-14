@@ -1,0 +1,3 @@
+decision_tree_0	[, ]	decision_tree_0	[, ]	$invo167	DecisionTreeClassifier.fit
+knn_0	[, ]	knn_0	[, ]	$invo172	KNeighborsClassifier.fit
+random_forest_0	[, ]	RF_fit	[, ]	$invo177	RandomForestClassifier.fit

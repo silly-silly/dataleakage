@@ -1,0 +1,79 @@
+_var1	matplotlib
+_var2	inline
+_var3	display.max_columns
+_var6	figure.figsize
+_var14	Training examples
+_var15	Score
+_var26	r
+_var30	g
+_var31	o-
+_var32	r
+_var33	Training score
+_var34	o-
+_var35	g
+_var36	Cross-validation score
+_var37	best
+_var48	Model with rank: {0}
+_var52	Mean validation score: {0:.3f} (std: {1:.3f})
+_var57	Parameters: {0}
+_var60	
+_var61	/Users/felipelolas/PycharmProjects/FracasoEscolarChile/DatasetsProcesados/SIMCE/ALU/SIMCE_GEO_2013-2014.csv
+_var63	|
+_var64	.
+_var72	IMPARTE
+_var105	union
+_var106	ordinal
+_var107	selector
+_var109	Imputer
+_var111	mean
+_var117	nominal
+_var118	selector
+_var120	Imputer
+_var122	most_frequent
+_var125	OneHot
+_var135	MinMaxScaler
+_var142	binary
+_var144	binary
+_var146	union
+_var147	ordinal
+_var148	selector
+_var150	Imputer
+_var152	mean
+_var158	nominal
+_var159	selector
+_var161	Imputer
+_var163	most_frequent
+_var166	OneHot
+_var176	MinMaxScaler
+_var181	GUS
+_var184	SGD
+_var185	balanced
+_var194	DESERTA_ALU
+_var209	roc_auc
+_var210	Entrenando Modelo...
+_var211	RandomizedSearchCV took %.2f seconds for %d candidates parameter settings.
+_var217	-------------------------------------------------
+_var218	Revisando Learning Error...
+_var221	-------------------------------------------------
+_var222	Realizando Prediccion...
+_var225	-------------------------------------------------
+_var234	union
+_var235	ordinal
+_var236	selector
+_var239	Imputer
+_var241	mean
+_var247	nominal
+_var248	selector
+_var251	Imputer
+_var253	most_frequent
+_var256	OneHot
+_var258	ignore
+_var267	MinMaxScaler
+_var272	estimator
+_var279	Training Model...
+_var280	RandomizedSearchCV took %.2f seconds for %d candidates parameter settings.
+_var287	-------------------------------------------------
+_var288	Report for Misclassification Training Error...
+_var291	-------------------------------------------------
+_var292	Report for Misclassification Testing Error...
+_var295	-------------------------------------------------

@@ -1,0 +1,4 @@
+decision_tree_0	x_test	$invo168	DecisionTreeClassifier.predict	[, ]
+knn_0	x_test	$invo173	Unknown.predict	[, ]
+RF_fit	x_test	$invo178	BaseForest.predict	[, ]
+clf	X_test_transformed	$invo192	BaseForest.score	[, ]

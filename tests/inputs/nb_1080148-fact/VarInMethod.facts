@@ -1,0 +1,367 @@
+phi_0	__phi__
+phi_1	__phi__
+base	set_field_wrapper
+attr	set_field_wrapper
+value	set_field_wrapper
+base	set_index_wrapper
+attr	set_index_wrapper
+value	set_index_wrapper
+x	global_wrapper
+_var0	
+_var1	
+_var2	
+_var3	
+_var4	
+_var5	
+_var6	
+_var7	
+_var8	
+_var9	
+_var10	
+_var11	
+_var12	
+c0	
+_var13	
+_var14	
+c1	
+_var15	
+_var16	
+c2	
+_var17	
+cmap_light	
+_var18	
+cmap_bold	
+_var19	
+cm	
+_var20	
+cm_bright	
+ax	points_plot
+Xtr	points_plot
+Xte	points_plot
+ytr	points_plot
+yte	points_plot
+clf	points_plot
+mesh	points_plot
+colorscale	points_plot
+cdiscrete	points_plot
+alpha	points_plot
+psize	points_plot
+zfunc	points_plot
+predicted	points_plot
+h	points_plot
+_var21	points_plot
+X	points_plot
+_var22	points_plot
+_var23	points_plot
+_var24	points_plot
+_var25	points_plot
+_var26	points_plot
+_var27	points_plot
+_var28	points_plot
+_var29	points_plot
+_var30	points_plot
+_var31	points_plot
+x_min	points_plot
+x_max	points_plot
+_var32	points_plot
+_var33	points_plot
+_var34	points_plot
+_var35	points_plot
+_var36	points_plot
+_var37	points_plot
+_var38	points_plot
+_var39	points_plot
+_var40	points_plot
+_var41	points_plot
+y_min	points_plot
+y_max	points_plot
+_var44	points_plot
+_var45	points_plot
+_var46	points_plot
+_var47	points_plot
+_var42	points_plot
+_var43	points_plot
+xx	points_plot
+yy	points_plot
+_var48	points_plot
+_var49	points_plot
+_var50	points_plot
+_var51	points_plot
+_var52	points_plot
+_var53	points_plot
+_var54	points_plot
+p0	points_plot
+_var55	points_plot
+_var56	points_plot
+_var57	points_plot
+_var58	points_plot
+_var59	points_plot
+_var60	points_plot
+_var61	points_plot
+p1	points_plot
+Z	points_plot
+_var62	points_plot
+_var63	points_plot
+_var64	points_plot
+_var65	points_plot
+_var66	points_plot
+Z_0	points_plot
+Z_1	points_plot
+_var67	points_plot
+ZZ	points_plot
+_var68	points_plot
+showtr	points_plot
+showte	points_plot
+showtr_0	points_plot
+showte_0	points_plot
+showtr_1	points_plot
+showte_1	points_plot
+_var69	points_plot
+_var70	points_plot
+_var71	points_plot
+_var72	points_plot
+_var73	points_plot
+_var74	points_plot
+_var75	points_plot
+_var76	points_plot
+_var77	points_plot
+_var78	points_plot
+_var79	points_plot
+_var80	points_plot
+_var81	points_plot
+_var82	points_plot
+_var83	points_plot
+_var84	points_plot
+_var85	points_plot
+_var86	points_plot
+_var87	points_plot
+_var88	points_plot
+_var89	points_plot
+_var90	points_plot
+ax_0	points_plot_prob
+Xtr_0	points_plot_prob
+Xte_0	points_plot_prob
+ytr_0	points_plot_prob
+yte_0	points_plot_prob
+clf_0	points_plot_prob
+colorscale_0	points_plot_prob
+cdiscrete_0	points_plot_prob
+ccolor	points_plot_prob
+psize_0	points_plot_prob
+alpha_0	points_plot_prob
+_var94	points_plot_prob
+_var95	points_plot_prob
+_var91	points_plot_prob
+_var92	points_plot_prob
+_var93	points_plot_prob
+ax_1	points_plot_prob
+xx_0	points_plot_prob
+yy_0	points_plot_prob
+_var96	points_plot_prob
+_var97	points_plot_prob
+_var98	points_plot_prob
+_var99	points_plot_prob
+_var100	points_plot_prob
+_var101	points_plot_prob
+_var102	points_plot_prob
+Z_2	points_plot_prob
+_var103	points_plot_prob
+Z_3	points_plot_prob
+_var104	points_plot_prob
+_var105	points_plot_prob
+cs2	points_plot_prob
+_var106	points_plot_prob
+_var107	points_plot_prob
+_var108	points_plot_prob
+_var109	
+dflog	
+_var110	
+_var111	
+_var112	
+male	
+_var113	
+_var114	
+_var115	
+female	
+fig	
+_var116	
+ax1	
+_var117	
+_var118	
+_var119	
+_var120	
+_var121	
+_var122	
+_var123	
+_var124	
+_var125	
+_var126	
+_var127	
+_var128	
+clf_1	cv_score
+x	cv_score
+y	cv_score
+score_func	cv_score
+result	cv_score
+nfold	cv_score
+_var129	cv_score
+_var130	cv_score
+_var131	cv_score
+_var134	cv_score
+train	cv_score
+_var135	cv_score
+test	cv_score
+_var136	cv_score
+_var137	cv_score
+clf_2	cv_score
+_var138	cv_score
+_var139	cv_score
+_var140	cv_score
+_var141	cv_score
+result_0	cv_score
+result_1	cv_score
+clf_3	cv_score
+_var142	cv_score
+_var147	
+_var148	
+_var149	
+_var150	
+_var151	
+_var152	
+_var153	
+_var154	
+_var143	
+_var144	
+_var145	
+_var146	
+Xlr	
+Xtestlr	
+ylr	
+ytestlr	
+_var155	
+_var156	
+_var157	
+_var158	
+_var159	
+_var160	
+_var161	
+_var162	
+_var163	
+_var164	
+_var165	
+clf_4	
+clf_5	
+_var166	
+_var167	
+clf_6	
+score	
+Cs	
+scores_per_C	
+c	
+clf_7	
+_var168	
+_var169	
+clf_8	
+_var170	
+v	
+_var171	
+k	
+_var172	
+_var173	
+C	
+clf_9	
+clf_10	
+_var174	
+_var175	
+tuned_parameters	
+_var176	
+_var177	
+_var178	
+clf_11	
+clf_12	
+_var179	
+_var180	
+clf_13	cv_optimize
+parameters	cv_optimize
+Xtrain	cv_optimize
+ytrain	cv_optimize
+n_folds	cv_optimize
+gs	cv_optimize
+gs_0	cv_optimize
+_var181	cv_optimize
+_var182	cv_optimize
+_var183	cv_optimize
+best	cv_optimize
+clf_14	do_classify
+parameters_0	do_classify
+indf	do_classify
+featurenames	do_classify
+targetname	do_classify
+target1val	do_classify
+standardize	do_classify
+train_size	do_classify
+subdf	do_classify
+_var184	do_classify
+_var185	do_classify
+_var186	do_classify
+subdfstd	do_classify
+subdfstd_0	do_classify
+subdfstd_1	do_classify
+X_0	do_classify
+_var187	do_classify
+_var188	do_classify
+_var189	do_classify
+_var190	do_classify
+y_0	do_classify
+_var191	do_classify
+_var192	do_classify
+_var193	do_classify
+_var194	do_classify
+Xtrain_0	do_classify
+Xtest	do_classify
+ytrain_0	do_classify
+ytest	do_classify
+clf_15	do_classify
+clf_16	do_classify
+clf_17	do_classify
+training_accuracy	do_classify
+test_accuracy	do_classify
+_var195	do_classify
+_var196	do_classify
+_var197	do_classify
+_var198	do_classify
+z	_func0
+_var199	_func0
+_var200	_func0
+_var201	_func0
+_var202	_func0
+_var203	_func0
+_var204	_func0
+h_0	
+_var205	
+_var206	
+_var207	
+zs	
+_var208	
+_var209	
+_var215	
+_var216	
+_var217	
+_var218	
+_var219	
+_var220	
+_var210	
+_var211	
+_var212	
+_var213	
+_var214	
+clf_l	
+Xtrain_l	
+ytrain_l	
+Xtest_l	
+ytest_l	
+ax_2	
+_var221	
+ax_3	
+_var222	
+_var223	

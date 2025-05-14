@@ -1,0 +1,7 @@
+clf_1	features	$invo87	Unknown.predict	[, $invo117]
+clf_1	features	$invo87	Unknown.predict	[, $invo118]
+clf_1	features	$invo87	Unknown.predict	[, $invo125]
+clf_1	features	$invo87	Unknown.predict	[, $invo126]
+clf_1	features	$invo87	Unknown.predict	[$invo101, $invo91]
+clf_1	features	$invo87	Unknown.predict	[$invo101, $invo92]
+grid_obj	X_train	$invo115	GridSearchCV.fit	[, ]

@@ -1,0 +1,126 @@
+$invo0	setattr	set_field_wrapper
+$invo1	setattr	set_index_wrapper
+$invo2	get_ipython	
+$invo3	Unknown.run_line_magic	
+$invo4	pandas.set_option	
+$invo5	pandas.set_option	
+$invo6	pandas.set_option	
+$invo7	Unknown.set_style	
+$invo8	Unknown.set_context	
+$invo9	Unknown.color_palette	
+$invo10	Unknown.color_palette	
+$invo11	Unknown.color_palette	
+$invo12	ListedColormap	
+$invo13	ListedColormap	
+$invo14	ListedColormap	
+$invo15	numpy.concatenate	points_plot
+$invo16	ndarray[Any, dtype[Unknown]].min	points_plot
+$invo17	ndarray[Any, dtype[Unknown]].max	points_plot
+$invo18	ndarray[Any, dtype[Unknown]].min	points_plot
+$invo19	ndarray[Any, dtype[Unknown]].max	points_plot
+$invo20	numpy.linspace	points_plot
+$invo21	numpy.linspace	points_plot
+$invo22	numpy.meshgrid	points_plot
+$invo23	NDArray[Any].ravel	points_plot
+$invo24	NDArray[Any].ravel	points_plot
+$invo25	Unknown.predict_proba	points_plot
+$invo26	NDArray[Any].ravel	points_plot
+$invo27	NDArray[Any].ravel	points_plot
+$invo28	Unknown.predict_proba	points_plot
+$invo29	zfunc	points_plot
+$invo30	NDArray[Any].ravel	points_plot
+$invo31	NDArray[Any].ravel	points_plot
+$invo32	Unknown.predict	points_plot
+$invo33	Unknown.reshape	points_plot
+$invo34	Unknown.pcolormesh	points_plot
+$invo35	Unknown.predict	points_plot
+$invo36	Unknown.predict	points_plot
+$invo37	Unknown.scatter	points_plot
+$invo38	Unknown.scatter	points_plot
+$invo39	NDArray[Any].min	points_plot
+$invo40	NDArray[Any].max	points_plot
+$invo41	Unknown.set_xlim	points_plot
+$invo42	NDArray[Any].min	points_plot
+$invo43	NDArray[Any].max	points_plot
+$invo44	Unknown.set_ylim	points_plot
+$invo45	points_plot	points_plot_prob
+$invo46	NDArray[Any].ravel	points_plot_prob
+$invo47	NDArray[Any].ravel	points_plot_prob
+$invo48	Unknown.predict_proba	points_plot_prob
+$invo49	Unknown.reshape	points_plot_prob
+$invo50	Unknown.contourf	points_plot_prob
+$invo51	Unknown.contour	points_plot_prob
+$invo52	Unknown.clabel	points_plot_prob
+$invo53	pandas.read_csv	
+$invo54	pandas.DataFrame.head	
+$invo55	Unknown.figure	
+$invo56	Unknown.add_subplot	
+$invo57	Unknown.scatter	
+$invo58	Unknown.scatter	
+$invo59	Unknown.legend	
+$invo60	Unknown.title	
+$invo61	Unknown.xlabel	
+$invo62	Unknown.ylabel	
+$invo63	Unknown.show	
+$invo64	KFold	cv_score
+$invo65	Unknown.fit	cv_score
+$invo66	Unknown.predict	cv_score
+$invo67	score_func	cv_score
+$invo68	train_test_split	
+$invo69	len	
+$invo70	len	
+$invo71	len	
+$invo72	len	
+$invo73	LogisticRegression	
+$invo74	LogisticRegression.fit	
+$invo75	LogisticRegression.predict	
+$invo76	accuracy_score	
+$invo77	print	
+$invo78	LogisticRegression	
+$invo79	cv_score	
+$invo80	print	
+$invo81	LogisticRegression	
+$invo82	cv_score	
+$invo83	dict[Unknown, Unknown].update	
+$invo84	dict[Unknown, Unknown].values	
+$invo85	list	
+$invo86	dict[Unknown, Unknown].keys	
+$invo87	list	
+$invo88	max	
+$invo89	list[Unknown].index	
+$invo90	LogisticRegression	
+$invo91	LogisticRegression.fit	
+$invo92	LogisticRegression.predict	
+$invo93	accuracy_score	
+$invo94	print	
+$invo95	SVC	
+$invo96	GridSearchCV	
+$invo97	Unknown.fit	
+$invo98	print	
+$invo99	print	
+$invo100	GridSearchCV	cv_optimize
+$invo101	Unknown.fit	cv_optimize
+$invo102	print	cv_optimize
+$invo103	Unknown.mean	do_classify
+$invo104	Unknown.std	do_classify
+$invo105	train_test_split	do_classify
+$invo106	cv_optimize	do_classify
+$invo107	Unknown.fit	do_classify
+$invo108	Unknown.score	do_classify
+$invo109	Unknown.score	do_classify
+$invo110	print	do_classify
+$invo111	print	do_classify
+$invo112	numpy.exp	_func0
+$invo113	numpy.arange	
+$invo114	h_0	
+$invo115	Unknown.plot	
+$invo116	pandas.DataFrame.head	
+$invo117	LogisticRegression	
+$invo118	do_classify	
+$invo119	Unknown.figure	
+$invo120	Unknown.gca	
+$invo121	points_plot	
+$invo122	Unknown.predict_proba	
+$invo123	Unknown.figure	
+$invo124	Unknown.gca	
+$invo125	points_plot_prob	

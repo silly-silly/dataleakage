@@ -1,0 +1,16 @@
+_var0	plt	style
+y	_var47	values
+_var55	lr_model	coef_
+_var57	X	design_info
+featurenames	_var57	column_names
+_var58	lr_model	coef_
+_var67	lr_model	classes_
+_var69	lr_model	classes_
+_var70	lr_model	classes_
+_var71	lr_model	classes_
+_var119	gs_0	best_params_
+_var122	gs_0	best_params_
+_var125	logreg_0	classes_
+_var126	logreg_0	classes_
+_var127	logreg_0	classes_
+_var177	gscv_model	best_estimator_

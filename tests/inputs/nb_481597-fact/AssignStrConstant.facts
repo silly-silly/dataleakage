@@ -1,0 +1,51 @@
+_var1	matplotlib
+_var2	inline
+url	https://s3.amazonaws.com/nyc-tlc/trip+data/green_tripdata_2015-09.csv
+_var4	n_rows = %d, n_columns = %d
+_var17	Trip_distance
+_var21	Number of Trips
+_var22	Miles
+_var24	Trip_distance
+_var27	log
+_var28	Miles
+_var31	2 Miles
+_var38	Pickup_hour
+_var44	Dropoff_hour
+_var50	Pickup_hour
+_var51	Trip_distance
+_var52	mean
+_var56	Miles
+_var57	Hours after midnight
+_var58	Trip distance by Pickup_hour
+_var115	ffill
+_var118	Y
+_var121	Trip_type 
+_var122	Trip_type 
+_var124	int
+_var128	Tip_percent
+_var136	Tip_amount
+_var149	white
+_var168	\t
+_var169	\t
+_var170	%.2f
+target	Tip_percent
+_var189	0.4f
+_var190	Mean absolute error:
+_var191	\tR2:
+_var208	y_test
+_var209	y_predicted
+_var225	Random Forest Feature Importance
+_var229	timedelta64[s]
+_var239	Speed
+_var240	Week
+_var253	Speed
+_var254	Week
+_var256	category
+_var258	Speed ~ Week
+_var262	Speed
+_var263	Pickup_hour
+_var265	Average speed by time of day
+_var266	Hours after midnight
+_var267	mils per hour
+_var269	category
+_var271	Speed ~ Pickup_hour

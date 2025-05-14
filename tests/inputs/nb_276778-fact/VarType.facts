@@ -1,0 +1,337 @@
+phi_0	Unknown
+phi_1	Unknown
+base	Unknown
+attr	Unknown
+value	Unknown
+setattr	(__obj: object, __name: str, __value: Any) -> None
+x	Unknown
+_var0	Unknown
+get_ipython	Unknown
+_var1	str
+_var2	str
+_var3	str
+_var4	None
+sns	Unknown
+_var5	Unknown
+matplotlib	Unknown
+_var6	str
+_var7	float
+_var8	float
+_var9	tuple[float, float]
+_var5_0	Unknown
+set_index_wrapper	(base: Unknown, attr: Unknown, value: Unknown) -> Unknown
+self	Self@ItemSelector
+key	Unknown
+self_0	Self@ItemSelector
+set_field_wrapper	(base: Unknown, attr: Unknown, value: Unknown) -> Unknown
+self_1	Self@ItemSelector
+y	Unknown
+self_2	Self@ItemSelector
+data_dict	Unknown
+_var10	Unknown
+_var11	Unknown
+self_3	Self@ItemSelector
+X	Unknown
+BaseEstimator	Type[BaseEstimator]
+TransformerMixin	Type[TransformerMixin]
+estimator	Unknown
+title	Unknown
+X_0	Unknown
+y_0	Unknown
+ylim	Unknown
+cv	Unknown
+n_jobs	Unknown
+train_sizes	Unknown
+plt	Unknown
+_var12	None
+_var13	bool
+_var14	str
+_var15	str
+_var16	Unknown
+_var17	Unknown
+_var18	Unknown
+learning_curve	Unknown
+train_sizes_0	Unknown
+train_scores	Unknown
+test_scores	Unknown
+_var19	int
+train_scores_mean	Any
+axis	_ShapeLike | None
+_var20	int
+train_scores_std	Any
+_var21	int
+test_scores_mean	Any
+_var22	int
+test_scores_std	Any
+_var23	Any
+_var24	Any
+_var25	float
+_var26	str
+_var27	Any
+_var28	Any
+_var29	float
+_var30	str
+_var31	str
+_var32	str
+_var33	str
+_var34	str
+_var35	str
+_var36	str
+_var37	str
+grid_scores	Unknown
+n_top	Unknown
+_var38	int
+_var39	itemgetter[Any]
+itemgetter	Type[itemgetter[_T_co@itemgetter]]
+_var40	bool
+_var41	list[Unknown]
+sorted	Overload[(__iterable: Iterable[SupportsLessThanT@sorted], *, key: None = ..., reverse: bool = ...) -> list[SupportsLessThanT@sorted], (__iterable: Iterable[_T@sorted], *, key: (_T@sorted) -> SupportsLessThan, reverse: bool = ...) -> list[_T@sorted]]
+reverse	bool
+top_scores	list[Unknown]
+_var42	enumerate[Unknown]
+enumerate	Type[enumerate[_T@enumerate]]
+_var43	tuple[int, Unknown]
+_var46	int
+i	int
+_var47	int
+score	Unknown
+_var48	str
+_var49	int
+_var50	int
+_var51	str
+print	(*values: object, sep: str | None = ..., end: str | None = ..., file: SupportsWrite[str] | None = ..., flush: bool = ...) -> None
+_var52	str
+_var53	Unknown
+_var54	Unknown
+_var55	floating[Any]
+_var56	str
+_var57	str
+_var58	Unknown
+_var59	str
+_var60	str
+_var61	str
+_var62	int
+_var63	str
+_var64	str
+r	pandas.DataFrame
+header	int | Sequence[int] | Literal['infer'] | None
+sep	str | Literal[_NoDefault.no_default] | None
+decimal	str
+_var65	Index
+_var66	list[int]
+_var67	Any | ndarray[Any, Unknown] | Index
+_var68	int
+r_0	Unknown
+_var69	int
+_var70	int
+r_1	Unknown
+cols	list[str]
+_var71	int
+data	Unknown
+_var72	str
+_var73	Unknown
+_var74	Unknown
+_var75	int
+data_0	Unknown
+_var76	list[str]
+output_data	Unknown
+_var77	list[str]
+_var78	int
+data_1	Unknown
+_var79	int
+_var80	str
+recall_1_scorer	_ProbaScorer | _ThresholdScorer | _PredictScorer
+make_scorer	(score_func: Unknown, *, greater_is_better: Unknown = True, needs_proba: Unknown = False, needs_threshold: Unknown = False, **kwargs: Unknown) -> (_ProbaScorer | _ThresholdScorer | _PredictScorer)
+recall_score	(y_true: Unknown, y_pred: Unknown, *, labels: Unknown = None, pos_label: Unknown = 1, average: Unknown = "binary", sample_weight: Unknown = None, zero_division: Unknown = "warn") -> Unknown
+pos_label	int
+average	str
+_var81	int
+_var82	str
+recall_0_scorer	_ProbaScorer | _ThresholdScorer | _PredictScorer
+_var83	int
+roc_curve_scorer	_ProbaScorer | _ThresholdScorer | _PredictScorer
+roc_curve	(y_true: Unknown, y_score: Unknown, *, pos_label: Unknown = None, sample_weight: Unknown = None, drop_intermediate: Unknown = True) -> tuple[NDArray[Any] | Any, NDArray[Any] | Any, Any]
+classes_names	list[str]
+ordinal_integer_cols	list[str]
+_var84	Unknown
+_var85	Unknown
+_var86	Unknown
+float	Type[float]
+ordinal_float_data	Unknown
+_var87	Unknown
+_var88	list[Unknown]
+_var89	int
+ordinal_data	pandas.DataFrame
+_var90	Index
+_var91	int
+data_2	Unknown
+_var92	Unknown
+_var93	Unknown
+_var94	Unknown
+object	Type[object]
+nominal_string_data	Unknown
+_var95	Unknown
+_var96	Unknown
+_var97	Unknown
+int	Type[int]
+nominal_data	Unknown
+data_3	None
+_var98	Unknown
+i_0	Unknown
+_var99	LabelEncoder
+_var100	Unknown
+_var101	Unknown
+nominal_string_data_0	Unknown
+nominal_string_data_1	Unknown
+__phi__	(phi_0: Unknown, phi_1: Unknown) -> Unknown
+_var102	list[Unknown]
+_var103	int
+nominal_data_0	pandas.DataFrame
+_var104	list[DataFrame]
+_var105	int
+data_4	pandas.DataFrame
+_var106	Index
+_var107	ArrayLike
+ordinalSelector	ItemSelector
+ItemSelector	Type[ItemSelector]
+_var108	Index
+_var109	ArrayLike
+nominalSelector	ItemSelector
+_var110	str
+_var111	str
+_var112	str
+_var113	tuple[str, ItemSelector]
+_var114	str
+_var115	int
+_var116	str
+_var117	Unknown
+_var118	tuple[str, Unknown]
+_var119	list[Unknown]
+_var120	Pipeline
+Pipeline	Type[Pipeline]
+_var121	tuple[str, Pipeline]
+_var122	str
+_var123	str
+_var124	tuple[str, ItemSelector]
+_var125	str
+_var126	int
+_var127	str
+_var128	Unknown
+_var129	tuple[str, Unknown]
+_var130	list[Unknown]
+_var131	Pipeline
+_var132	tuple[str, Pipeline]
+_var133	list[Unknown]
+_var134	FeatureUnion
+FeatureUnion	Type[FeatureUnion]
+transformer_list	list[Unknown]
+_var135	tuple[str, FeatureUnion]
+_var136	list[tuple[str, FeatureUnion]]
+pipeline_preprocessing	Pipeline
+_var137	str
+_var138	int
+_var139	int
+clf	ExtraTreesClassifier
+ExtraTreesClassifier	Type[ExtraTreesClassifier]
+class_weight	str | None
+n_estimators	int
+data_pre	Any | Unknown
+X_1	Any | Unknown
+_var140	str
+y_1	Unknown
+_var145	float
+_var141	Unknown
+_var142	Unknown
+_var143	Unknown
+_var144	Unknown
+train_test_split	Unknown
+X_train	Unknown
+X_test	Unknown
+y_train	Unknown
+y_test	Unknown
+_var146	int
+_var147	int
+_var148	Unknown
+sp_randint	Unknown
+_var149	int
+_var150	int
+_var151	Unknown
+_var152	int
+_var153	int
+_var154	Unknown
+_var155	list[bool]
+_var156	list[str]
+param_dist	dict[str, Unknown]
+n_iter_search	int
+_var157	int
+_var158	int
+random_search	RandomizedSearchCV
+RandomizedSearchCV	Type[RandomizedSearchCV]
+param_distributions	dict[str, Unknown]
+n_iter	int
+scoring	_ProbaScorer | _ThresholdScorer | _PredictScorer | None
+start	float
+_var159	str
+random_search_0	Self@BaseSearchCV
+_var160	str
+_var161	float
+_var162	float
+_var163	tuple[float, int]
+_var164	str
+_var165	Unknown
+report	(grid_scores: Unknown, n_top: Unknown = 3) -> None
+_var166	str
+y_pred	Any | Unknown
+_var167	NDArray[Any] | NDArray[_SCT@nan_to_num]
+confusion_matrix	(y_true: Unknown, y_pred: Unknown, *, labels: Unknown = None, sample_weight: Unknown = None, normalize: Unknown = None) -> Unknown
+_var168	dict[Unknown, Unknown] | str
+classification_report	(y_true: Unknown, y_pred: Unknown, *, labels: Unknown = None, target_names: Unknown = None, sample_weight: Unknown = None, digits: Unknown = 2, output_dict: Unknown = False, zero_division: Unknown = "warn") -> Unknown
+target_names	list[str]
+_var169	str
+_var170	float
+_var171	float
+_var172	str
+cantidad	int
+_var173	Unknown | Any
+importances	Unknown | Any
+_var174	list[Unknown | Any]
+tree	Unknown | Any
+_var175	int
+std	Any
+_var176	NDArray[intp]
+_var177	int
+indices	ndarray[Any, dtype[intp]]
+_var178	int
+indices_0	ndarray[Any, dtype[intp]]
+_var179	str
+_var180	Unknown | Any
+_var181	Unknown | Any
+_var182	int
+_var183	Unknown | Any
+_var184	range
+range	Type[range]
+_var185	list[int]
+_var186	Unknown | Any
+_var187	str
+_var188	str
+_var189	Unknown | Any
+_var190	Unknown | Any
+_var191	int
+_var192	Unknown | Any
+_var193	range
+_var194	list[int]
+_var195	Index
+_var196	ArrayLike
+_var197	str
+_var198	int
+_var199	Unknown | Any
+_var200	Unknown | Any
+_var201	int
+_var202	Unknown | Any
+_var203	list[Unknown]
+_var204	str
+_var205	str
+_var206	Unknown | Any
+_var207	str
+c	CalibratedClassifierCV
+CalibratedClassifierCV	Type[CalibratedClassifierCV]

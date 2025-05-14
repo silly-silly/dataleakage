@@ -1,0 +1,309 @@
+phi_0	Unknown
+phi_1	Unknown
+base	Unknown
+attr	Unknown
+value	Unknown
+setattr	(__obj: object, __name: str, __value: Any) -> None
+x	Unknown
+_var0	Unknown
+get_ipython	Unknown
+_var1	str
+_var2	str
+_var3	str
+student_data	pandas.DataFrame
+_var4	str
+print	(*values: object, sep: str | None = ..., end: str | None = ..., file: SupportsWrite[str] | None = ..., flush: bool = ...) -> None
+_var5	tuple[int, int]
+_var6	int
+n_students	int
+_var7	Index
+_var8	ArrayLike
+_var9	int
+len	(__obj: Sized) -> int
+_var10	int
+n_features	int
+_var11	Any
+_var12	Any
+_var13	str
+n_passed	Any
+_var14	Any
+_var15	str
+_var16	Any
+n_failed	Any | int
+sum	Overload[(__iterable: Iterable[_T@sum]) -> (_T@sum | int), (__iterable: Iterable[_T@sum], start: _S@sum) -> (_T@sum | _S@sum)]
+_var17	float
+float	Type[float]
+_var18	float
+_var19	float
+_var20	int
+grad_rate	float
+_var21	str
+_var22	str
+_var23	str
+_var24	str
+_var25	str
+_var26	str
+_var27	str
+_var28	str
+_var29	str
+_var30	str
+_var31	Index
+_var32	int
+_var33	Any | ndarray[Any, Unknown] | Index
+feature_cols	list[Any]
+_var34	Index
+_var35	int
+target_col	Any | ndarray[Any, Unknown] | Index
+_var36	str
+_var37	str
+_var38	str
+_var39	str
+X_all	Unknown
+y_all	Unknown
+_var40	str
+_var41	int
+_var42	Unknown
+X	Unknown
+_var43	Unknown
+output	pandas.DataFrame
+index	Axes | None
+_var44	Unknown
+_var45	list[Unknown]
+_var46	Unknown
+_var49	int
+col	Unknown
+_var50	int
+col_data	Unknown
+_var51	Unknown
+_var52	Unknown
+object	Type[object]
+_var53	list[str]
+_var54	list[int]
+col_data_0	Unknown
+col_data_1	Unknown
+__phi__	(phi_0: Unknown, phi_1: Unknown) -> Unknown
+_var55	Unknown
+_var56	Unknown
+col_data_2	pandas.DataFrame
+prefix	Unknown
+col_data_3	DataFrame | Unknown
+output_0	pandas.DataFrame
+output_1	pandas.DataFrame
+X_all_0	pandas.DataFrame
+preprocess_features	(X: Unknown) -> DataFrame
+_var57	str
+_var58	Index
+_var59	int
+_var60	Index
+_var61	list[Unknown]
+_var62	str
+_var63	Index
+nomesVar	list[Unknown]
+_var64	int
+medias0	Series | float
+axis	Axis | None
+_var65	int
+desvios0	Series | float
+_var66	int
+_var67	range
+range	Type[range]
+_var68	list[int]
+_var69	NDArray[Any]
+_var70	int
+eixo	NDArray[bool_]
+_var71	str
+plt	Unknown
+_var72	str
+_var73	str
+_var74	str
+_var75	str
+_var76	str
+X_all_1	Unknown | NDArray[_SCT@asarray]
+_var77	int
+medias0_0	Unknown | Any
+_var78	int
+desvios0_0	Unknown | Any
+_var79	int
+_var80	range
+_var81	list[int]
+_var82	NDArray[Any]
+_var83	int
+eixo_0	NDArray[bool_]
+_var84	str
+_var85	str
+_var86	str
+_var87	str
+_var88	str
+_var89	str
+_var94	float
+_var95	int
+_var90	Unknown | NDArray[_SCT@asarray]
+_var91	Unknown | NDArray[_SCT@asarray]
+_var92	Unknown
+_var93	Unknown
+train_test_split	(*arrays: Unknown, test_size: Unknown = None, train_size: Unknown = None, random_state: Unknown = None, shuffle: Unknown = True, stratify: Unknown = None) -> list[Unknown | NDArray[_SCT@array] | list[Unknown]]
+test_size	float
+random_state	int
+stratify	Unknown
+X_train	Unknown | NDArray[_SCT@asarray]
+X_test	Unknown | NDArray[_SCT@asarray]
+y_train	Unknown
+y_test	Unknown
+_var96	str
+_var97	Unknown | _Shape
+_var98	int
+_var99	Unknown | int
+_var100	str
+_var101	str
+_var102	Unknown | _Shape
+_var103	int
+_var104	Unknown | int
+_var105	str
+_var106	str
+_var107	int
+_var108	str
+_var109	Unknown
+_var110	Unknown
+_var111	Unknown
+_var112	str
+_var113	str
+_var114	int
+_var115	str
+_var116	Unknown
+_var117	Unknown
+_var118	Unknown
+_var119	str
+clf	Unknown
+X_train_0	Unknown
+y_train_0	Unknown
+start	float
+time	() -> float
+clf_0	Unknown
+end	float
+_var120	float
+_var121	int
+_var122	float
+round	Overload[(number: SupportsRound[Any]) -> int, (number: SupportsRound[Any], ndigits: None) -> int, (number: SupportsRound[_T@round], ndigits: SupportsIndex) -> _T@round]
+clf_1	Unknown
+features	Unknown
+target	Unknown
+start_0	float
+y_pred	Unknown
+end_0	float
+_var123	float
+_var124	Unknown
+_var125	str
+_var126	Unknown
+f1_score	(y_true: Unknown, y_pred: Unknown, *, labels: Unknown = None, pos_label: Unknown = 1, average: Unknown = "binary", sample_weight: Unknown = None, zero_division: Unknown = "warn") -> Unknown
+pos_label	str
+_var127	list[Unknown]
+clf_2	Unknown
+X_train_1	Unknown
+y_train_1	Unknown
+X_test_0	Unknown
+y_test_0	Unknown
+tempoTreinamento	float
+train_classifier	(clf: Unknown, X_train_0: Unknown, y_train_0: Unknown) -> float
+_var128	Unknown
+_var129	Unknown
+predict_labels	(clf_1: Unknown, features: Unknown, target: Unknown) -> list[Unknown]
+tempoPrevTreino	Unknown
+prevTreino	Unknown
+_var130	Unknown
+_var131	Unknown
+tempoPrevTeste	Unknown
+prevTeste	Unknown
+_var132	Unknown
+_var133	Unknown
+_var134	int
+_var135	int
+_var136	float
+_var137	int
+_var138	Unknown
+_var139	int
+_var140	Unknown
+_var141	int
+_var142	Unknown
+_var143	list[Unknown]
+clf_A	GaussianNB
+GaussianNB	Type[GaussianNB]
+_var144	int
+clf_B	LogisticRegression
+LogisticRegression	Type[LogisticRegression]
+clf_C	KNeighborsClassifier
+KNeighborsClassifier	Type[KNeighborsClassifier]
+resultado	list[Unknown]
+scoreTrain	list[Unknown]
+scoreTeste	list[Unknown]
+nObs	list[Unknown]
+nomeModelo	list[Unknown]
+_var145	list[Unknown]
+modelo	Unknown
+_var146	list[int]
+n	int
+y	Unknown
+temp	list[Unknown]
+train_predict	(clf_2: Unknown, X_train_1: Unknown, y_train_1: Unknown, X_test_0: Unknown, y_test_0: Unknown) -> list[Unknown]
+_var147	int
+_var148	Unknown
+_var149	int
+_var150	Unknown
+_var151	int
+_var152	Unknown
+_var153	dict[str, list[Unknown]]
+df	pandas.DataFrame
+_var154	str
+_var155	str
+_var156	str
+sns	Unknown
+_var157	list[int]
+parameters	dict[str, list[int]]
+_var158	Unknown | _Shape
+_var159	int
+_var160	Unknown | int
+_var161	int
+_var162	float
+_var163	int
+cv_sets	ShuffleSplit
+ShuffleSplit	Type[ShuffleSplit]
+clf_3	KNeighborsClassifier
+_var164	str
+f1_scorer	_ProbaScorer | _ThresholdScorer | _PredictScorer
+make_scorer	(score_func: Unknown, *, greater_is_better: Unknown = True, needs_proba: Unknown = False, needs_threshold: Unknown = False, **kwargs: Unknown) -> (_ProbaScorer | _ThresholdScorer | _PredictScorer)
+grid_obj	GridSearchCV
+GridSearchCV	Type[GridSearchCV]
+estimator	KNeighborsClassifier
+param_grid	dict[str, list[int]]
+scoring	_ProbaScorer | _ThresholdScorer | _PredictScorer | None
+cv	ShuffleSplit | None
+grid_obj_0	Self@BaseSearchCV
+grid_obj_1	Self@BaseSearchCV
+clf_4	Unknown | Any
+_var165	Unknown
+_var166	Unknown
+tempo	Unknown
+prevTreino_0	Unknown
+_var167	Unknown
+_var168	Unknown
+tempo_0	Unknown
+prevTeste_0	Unknown
+_var169	str
+_var170	str
+_var171	str
+_var172	str
+clf_default	KNeighborsClassifier
+clf_default_0	Unknown
+_var173	Unknown
+_var174	Unknown
+tempo_1	Unknown
+prevTreino2	Unknown
+_var175	Unknown
+_var176	Unknown
+tempo_2	Unknown
+prevTeste2	Unknown
+_var177	str
+_var178	str
+_var179	str
+_var180	str
+_var181	Unknown | Any
+_var182	Unknown

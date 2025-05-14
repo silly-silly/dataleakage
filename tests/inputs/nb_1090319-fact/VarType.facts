@@ -1,0 +1,275 @@
+phi_0	Unknown
+phi_1	Unknown
+base	Unknown
+attr	Unknown
+value	Unknown
+setattr	(__obj: object, __name: str, __value: Any) -> None
+x	Unknown
+_var0	Unknown
+plt	Unknown
+_var1	str
+_var2	Unknown
+get_ipython	Unknown
+_var3	str
+_var4	str
+_var5	Unknown
+_var6	str
+_var7	str
+_var8	str
+engine	Unknown
+create_engine	Unknown
+_var9	str
+df	pandas.DataFrame
+_var10	pandas.DataFrame
+_var11	bool
+sns	Unknown
+_var12	int
+_var13	pandas.DataFrame
+_var14	bool
+_var15	float
+_var16	list[str]
+_var17	list[str]
+_var18	int
+_var19	pandas.DataFrame
+_var20	str
+_var21	list[int]
+round	Overload[(number: SupportsRound[Any]) -> int, (number: SupportsRound[Any], ndigits: None) -> int, (number: SupportsRound[_T@round], ndigits: SupportsIndex) -> _T@round]
+df_0	pandas.DataFrame
+set_index_wrapper	(base: Unknown, attr: Unknown, value: Unknown) -> Unknown
+_var22	str
+_var23	Unknown
+_var24	list[str]
+_var25	Unknown
+_var26	list[str]
+_var27	bool
+_var28	Unknown
+survived_age	Unknown
+_var29	float
+_var30	int
+_var31	int
+_var32	tuple[int, int]
+_var33	str
+_var34	str
+_var35	str
+_var36	list[int]
+df_1	pandas.DataFrame
+_var37	list[str]
+df_2	pandas.DataFrame
+subset	IndexLabel
+bins	list[int]
+group_names	list[str]
+_var38	str
+_var39	str
+_var40	Unknown
+_var41	Series | Categorical | Unknown | NDArray[_ScalarType@astype] | NDArray[signedinteger[Any]] | tuple[Series | Categorical | Unknown | NDArray[_ScalarType@astype] | NDArray[signedinteger[Any]], Timestamp | Index | Unknown]
+labels	list[str]
+df_3	pandas.DataFrame
+_var42	list[str]
+features	Unknown
+_var43	str
+_var44	Unknown
+farelist	Unknown
+sorted	Overload[(__iterable: Iterable[SupportsLessThanT@sorted], *, key: None = ..., reverse: bool = ...) -> list[SupportsLessThanT@sorted], (__iterable: Iterable[_T@sorted], *, key: (_T@sorted) -> SupportsLessThan, reverse: bool = ...) -> list[_T@sorted]]
+_var45	str
+X	Unknown
+patsy	Unknown
+_var46	str
+_var47	Unknown
+y	Unknown
+_var52	float
+_var53	int
+_var48	Unknown
+_var49	Unknown
+_var50	Unknown
+_var51	Unknown
+train_test_split	Unknown
+X_train	Unknown
+X_test	Unknown
+Y_train	Unknown
+Y_test	Unknown
+_var54	str
+lr	LogisticRegression
+LogisticRegression	Type[LogisticRegression]
+solver	str
+lr_model	Self@LogisticRegression
+lr_0	Self@LogisticRegression
+_var55	Unknown | NDArray[Any]
+_var56	int
+_var57	Unknown
+featurenames	Unknown
+_var58	Unknown | NDArray[Any]
+_var59	int
+_var60	Unknown | Any
+_var61	zip[tuple[Unknown, Unknown | Any]]
+zip	Type[zip[_T_co@zip]]
+_var62	list[tuple[Unknown, Unknown | Any]]
+coeff_logreg	pandas.DataFrame
+_var63	list[str]
+coeff_logreg_0	pandas.DataFrame
+set_field_wrapper	(base: Unknown, attr: Unknown, value: Unknown) -> Unknown
+y_pred	Unknown | Any
+_var64	int
+_var65	str
+_var66	Unknown
+cross_val_score	Unknown
+_var67	NDArray[Any]
+_var68	dict[Unknown, Unknown] | str
+classification_report	(y_true: Unknown, y_pred: Unknown, *, labels: Unknown = None, target_names: Unknown = None, sample_weight: Unknown = None, digits: Unknown = 2, output_dict: Unknown = False, zero_division: Unknown = "warn") -> Unknown
+print	(*values: object, sep: str | None = ..., end: str | None = ..., file: SupportsWrite[str] | None = ..., flush: bool = ...) -> None
+_var69	NDArray[Any]
+cm	NDArray[Any] | NDArray[_SCT@nan_to_num]
+confusion_matrix	(y_true: Unknown, y_pred: Unknown, *, labels: Unknown = None, sample_weight: Unknown = None, normalize: Unknown = None) -> Unknown
+_var70	NDArray[Any]
+_var71	NDArray[Any]
+cm_0	pandas.DataFrame
+columns	Axes | None
+index	Axes | None
+y_score	NDArray[_SCT@reshape] | Any | Unknown
+FPR	dict[Unknown, Unknown]
+TPR	dict[Unknown, Unknown]
+ROC_AUC	dict[Unknown, Unknown]
+_var72	NDArray[Any] | Any
+_var73	NDArray[Any] | Any
+_var74	Any
+roc_curve	(y_true: Unknown, y_score: Unknown, *, pos_label: Unknown = None, sample_weight: Unknown = None, drop_intermediate: Unknown = True) -> tuple[NDArray[Any] | Any, NDArray[Any] | Any, Any]
+_var75	int
+FPR_0	dict[Unknown, Unknown]
+_var76	int
+TPR_0	dict[Unknown, Unknown]
+_	Any
+_var77	int
+_var78	int
+_var79	Unknown
+_var80	int
+_var81	Unknown
+_var82	Unknown | Any
+auc	(x: Unknown, y: Unknown) -> (Unknown | Any)
+ROC_AUC_0	dict[Unknown, Unknown]
+_var83	list[int]
+_var84	int
+_var85	Unknown
+_var86	int
+_var87	Unknown
+_var88	str
+_var89	int
+_var90	Unknown
+_var91	Unknown
+_var92	int
+_var93	list[int]
+_var94	list[int]
+_var95	str
+_var96	int
+_var97	list[float]
+_var98	list[float]
+_var99	str
+_var100	int
+_var101	str
+_var102	int
+_var103	str
+_var104	int
+_var105	str
+_var106	list[str]
+_var107	int
+_var108	int
+_var109	int
+_var110	NDArray[floating[Any]]
+_var111	list[str]
+logreg_parameters	dict[str, Unknown]
+_var112	str
+_var113	Unknown
+_var114	str
+_var115	Unknown
+_var116	dict[str, Unknown]
+_var117	bool
+_var118	int
+gs	Unknown
+GridSearchCV	Unknown
+gs_0	Unknown
+_var119	Unknown
+_var120	str
+_var121	Unknown
+_var122	Unknown
+_var123	str
+_var124	Unknown
+logreg	LogisticRegression
+C	Unknown
+penalty	Unknown
+gs_model	Self@LogisticRegression
+logreg_0	Self@LogisticRegression
+gs_pred	Unknown | Any
+_var125	NDArray[Any]
+cm1	NDArray[Any] | NDArray[_SCT@nan_to_num]
+_var126	NDArray[Any]
+_var127	NDArray[Any]
+cm1_0	pandas.DataFrame
+y_score2	NDArray[_SCT@reshape] | Any | Unknown
+FPR_GS	dict[Unknown, Unknown]
+TPR_GS	dict[Unknown, Unknown]
+ROC_AUC_GS	dict[Unknown, Unknown]
+_var128	NDArray[Any] | Any
+_var129	NDArray[Any] | Any
+_var130	Any
+_var131	int
+FPR_GS_0	dict[Unknown, Unknown]
+_var132	int
+TPR_GS_0	dict[Unknown, Unknown]
+__0	Any
+_var133	int
+_var134	int
+_var135	Unknown
+_var136	int
+_var137	Unknown
+_var138	Unknown | Any
+ROC_AUC_GS_0	dict[Unknown, Unknown]
+_var139	list[int]
+_var140	int
+_var141	Unknown
+_var142	int
+_var143	Unknown
+_var144	str
+_var145	int
+_var146	Unknown
+_var147	Unknown
+_var148	int
+_var149	int
+_var150	Unknown
+_var151	int
+_var152	Unknown
+_var153	str
+_var154	int
+_var155	Unknown
+_var156	Unknown
+_var157	int
+_var158	list[int]
+_var159	list[int]
+_var160	str
+_var161	int
+_var162	list[float]
+_var163	list[float]
+_var164	str
+_var165	int
+_var166	str
+_var167	int
+_var168	str
+_var169	int
+_var170	str
+knn	KNeighborsClassifier
+KNeighborsClassifier	Type[KNeighborsClassifier]
+_var171	int
+_var172	int
+_var173	range
+range	Type[range]
+_var174	list[int]
+_var175	list[str]
+param_dict	dict[str, list[int] | list[str]]
+n_neighbors	Any
+weights	Any
+_var176	str
+gscv	Unknown
+gscv_model	Unknown
+gscv_0	Unknown
+_var177	Unknown
+gscv_ypred	Unknown
+_var178	dict[Unknown, Unknown] | str
+cm2	NDArray[Any] | NDArray[_SCT@nan_to_num]
+cm2_0	pandas.DataFrame

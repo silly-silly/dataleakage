@@ -1,0 +1,6 @@
+survived_age	[, ]	_var28	[, ]	$invo23	Unknown.mean	rowset
+_var10	[, ]	df	[, ]	$invo12	pandas.DataFrame.corr	rowset
+_var13	[, ]	df	[, ]	$invo15	pandas.DataFrame.corr	rowset
+_var28	[, ]	_var25	[, ]	$invo22	Unknown.groupby	rowset
+farelist	[, ]	_var44	[, ]	$invo32	Unknown.unique	rowset
+_var41	[, ]	_var40	[, ]	$invo30	pandas.cut	rowset

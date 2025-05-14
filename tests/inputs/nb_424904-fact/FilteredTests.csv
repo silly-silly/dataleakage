@@ -1,0 +1,3 @@
+lr_0	X_train_std	$invo23	LogisticRegression.score	[, ]
+_var155	x_test_1	$invo74	Unknown.predict	[$invo78, $invo65]
+_var155	x_test_1	$invo74	Unknown.predict	[$invo78, $invo67]

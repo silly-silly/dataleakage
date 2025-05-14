@@ -1,0 +1,37 @@
+_var0	Libraries imported.
+_var1	/content/gdrive
+_var2	/content/gdrive/My Drive/listingss.csv
+_var4	str_placeholder
+_var5	\\W+
+_var6	
+_var7	
+_var22	\\W+
+_var23	
+_var24	
+_var28	,
+_var29	\\W+
+_var30	
+_var46	,
+_var47	\\W+
+_var48	
+_var49	
+_var59	
+_var63	host_verifications
+_var64	host_verifications
+_var67	amenities
+_var68	amenities
+_var89	%
+_var102	%
+_var116	$
+_var118	,
+_var119	
+_var137	host_response_rate
+_var214	cuda:0
+_var215	state_dict
+_var218	optimizer
+_var220	epoch
+_var221	val_loss
+_var242	Train loss: 
+_var261	Val loss: 
+_var294	cuda:0
+_var295	cpu

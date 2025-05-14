@@ -1,0 +1,94 @@
+_var1	matplotlib
+_var2	inline
+_var3	full_data.pkl
+_var4	r
+_var5	bikeids.csv
+_var6	starttime_time
+_var7	starttime
+_var9	%Y-%m-%d %H:%M:%S
+_var14	%Y-%m-%d %H:%M:%S
+_var19	over_45
+_var27	day_start
+_var28	starttime
+_var31	%Y-%m-%d %H:%M:%S
+_var36	starttime
+_var37	starttime
+_var39	%Y-%m-%d %H:%M:%S
+_var42	stoptime
+_var43	stoptime
+_var45	%Y-%m-%d %H:%M:%S
+_var53	bikeid_
+_var55	bikeid
+_var58	time_lapsed
+_var59	starttime
+_var61	stoptime_
+_var66	same_station
+_var67	end_station_id_
+_var69	start_station_id
+_var77	time_lapsed
+_var83	bikeid
+_var87	bikeid_data_good.pkl
+_var88	wb
+_var89	model_results_1.pkl
+_var90	r
+_var91	bikeid_data_good.pkl
+_var92	r
+_var93	birth_year
+_var97	usertype
+_var99	Subscriber
+_var102	gender
+_var107	tripduration
+_var114	cum_amt
+_var115	cum_amt
+_var121	n2
+_var124	n2
+_var125	bikes
+_var127	same_station
+_var128	n2
+_var159	hey
+_var160	_
+_var163	Training: 
+_var167	train time: %0.3fs
+_var171	test time:  %0.3fs
+_var176	_
+_var179	Training: 
+_var183	train time: %0.3fs
+_var187	test time:  %0.3fs
+_var190	accuracy:   %0.3f
+_var197	weighted
+_var200	Feature ranking:
+_var203	%d. feature %d (%f)
+_var212	(
+_var216	auto
+_var220	Extra Trees
+_var221	=
+_var227	auto
+_var229	Random Forest
+_var232	auto
+_var236	Extra Trees
+_var244	=
+_var256	auto
+_var258	Decision Tree
+_var262	auto
+_var264	Perceptron
+_var266	auto
+_var268	Logistic
+_var270	auto
+_var274	Stochastic Gradient Descent
+_var282	=
+_var286	=
+_var289	LinearSVC with L1-based feature selection
+_var290	feature_selection
+_var291	l1
+_var294	auto
+_var297	classification
+_var304	auto
+_var314	nearest
+_var326	True label
+_var327	Predicted label
+_var329	Actual versus Predicted Destination Neighborhoods (without normalization)
+_var333	float
+_var339	Normalized confusion matrix
+_var343	Normalized confusion matrix
+_var344	n2_
+_var375	bikeid

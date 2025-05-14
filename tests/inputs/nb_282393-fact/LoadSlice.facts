@@ -1,0 +1,4 @@
+train_df_nn	full_data	none	ntrain	none
+test_df_nn	full_data	ntrain	none	none
+batch_index	sample_index	_var1100	_var1103	none
+batch_index_0	sample_index_0	_var1120	_var1123	none
