@@ -8,7 +8,6 @@ parser.add_argument('dir', help='the directory of python files to be analyzed')
 parser.add_argument('-s', '--sort', help='sort python files by number', action="store_true")
 parser.add_argument('-r', '--recursive', help='search for python files recursively', action="store_true")
 parser.add_argument('-f', '--file', help='analyze file dir', action="store")
-parser.add_argument('-o', '--output-flag', help='output html file', action="store_true")
 args = parser.parse_args()
 
 def print_red(msg):
@@ -49,7 +48,10 @@ if __name__ == "__main__":
         sorted_files = sorted(files, key=lambda x: int(x.split('_')[1].split('.')[0]))
     else:
         sorted_files = files
+    l = 0
     for file in sorted_files:
+        l+=1
+        print(f"-------------------------------- {l}/{len(sorted_files)}----------------------------------------")
         file_path  = os.path.join("..", "GitHubAPI-Crawler", file) if args.file else os.path.join(dir_path, file) 
         analyze(file, file_path)
     log.close()

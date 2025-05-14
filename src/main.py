@@ -9,19 +9,14 @@ import traceback
 from .global_collector import GlobalCollector
 from . import factgen
 from .irgen import CodeTransformer
-from .render import to_html
 from .config import configs
+from .utils import remove_files
+from .build_subgraphs import build_subgraphs
+from tokenizers import Tokenizer
+import sent2vec
+from .singleton_loader import ModelLoader
 
-def remove_files(folder):
-    for filename in os.listdir(folder):
-        file_path = os.path.join(folder, filename)
-        try:
-            if os.path.isfile(file_path) or os.path.islink(file_path):
-                os.unlink(file_path)
-            elif os.path.isdir(file_path):
-                shutil.rmtree(file_path)
-        except Exception as e:
-            print('Failed to delete %s. Reason: %s' % (file_path, e))
+
 
 
 def time_decorator(func):
@@ -51,7 +46,6 @@ def ir_transform(tree, ir_path):
     v = CodeTransformer(ignored_vars)
     new_tree = v.visit(tree)
     new_code = astunparse.unparse(new_tree)
-    # print(new_code)
     with open(ir_path, "w") as f:
         f.write(new_code)
     return new_tree
@@ -96,12 +90,17 @@ def datalog_analysis(fact_path):
     ret = os.system(f"timeout 5m souffle ./src/main.dl -F {fact_path} -D {fact_path}")
     if ret != 0:
         raise TimeoutError
+    
+def build_graphs(fact_path,input_path):
+    ret = os.system(f"python3 ./src/build_subgraphs.py {fact_path} {input_path}")
+    if ret != 0:
+        raise TimeoutError
+
 
 def main(input_path):
     ir_path = input_path +".ir.py"
     json_path = input_path + ".json"
     fact_path = input_path[:-3] + "-fact"
-    html_path = input_path[:-3] + ".html"
     t = [None]*6
 
     tree, t[0] = load_input(input_path)
@@ -146,13 +145,12 @@ def main(input_path):
     if t[5] == -1:
         print("Failed to analyze: " + input_path)
         return "Failed to analyze" 
-
-    if configs.output_flag:
-        print("Converting notebooks to html...")
-        try:
-            to_html(input_path, fact_path, html_path, lineno_map)
-        except:
-            print("Conversion failed!")
+        
+    loader = ModelLoader()
+    tokenizer = loader.tokenizer
+    model = loader.sent2vec_model
+        
+    build_subgraphs(fact_path=fact_path,file_path=ir_path,tokenizer=tokenizer,sent2vec_model=model)
     
     print("Success!\t{:.2f}\t{:.2f}\t{:.2f}\t{:.2f}\t".format(t[0]+t[1]+t[3]+t[4], t[2], t[5], sum(t)))
     return t
@@ -160,7 +158,5 @@ def main(input_path):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Run analysis for a single file')
     parser.add_argument('file', help='the python file to be analyzed')
-    parser.add_argument('-o', '--output-flag', help='output html file', action="store_true")
     args = parser.parse_args()
-    configs.output_flag = args.output_flag
     main(os.path.abspath(sys.argv[1]))

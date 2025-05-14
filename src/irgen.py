@@ -380,6 +380,7 @@ class CodeTransformer(ast.NodeTransformer):
 
     def visit_Slice(self, node):
         nodes = []
+        #print(ast.dump(node, indent=4))
 
         def visitMaybe(self, node):
             return self.visitNameOnly(node) if node else ([], node)
