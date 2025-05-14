@@ -3,4 +3,6 @@ Pygments==2.10.0
 pandas
 numpy
 scikit-learn
+networkx
+torch
 imblearn
